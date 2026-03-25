@@ -1,0 +1,602 @@
+[
+{
+"q": "The process of conversion of water into its vapour is called:",
+"o": ["Condensation", "Freezing", "Evaporation", "Precipitation"],
+"a": 2,
+"sol": "Evaporation is the process where liquid water turns into water vapour due to heat."
+},
+{
+"q": "Which of these is the solid state of water?",
+"o": ["Steam", "Cloud", "Ice", "Dew"],
+"a": 2,
+"sol": "Ice is the solid form of water found at temperatures below 0°C."
+},
+{
+"q": "Water vapour gets added to the air by which of the following processes?",
+"o": ["Only Evaporation", "Only Transpiration", "Both Evaporation and Transpiration", "Only Condensation"],
+"a": 2,
+"sol": "Water evaporates from water bodies and is also released by plants through transpiration."
+},
+{
+"q": "The process by which plants release water vapour into the air is:",
+"o": ["Respiration", "Photosynthesis", "Transpiration", "Absorption"],
+"a": 2,
+"sol": "Transpiration is the loss of water from the leaves of plants in the form of vapour."
+},
+{
+"q": "Clouds are formed due to the process of:",
+"o": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+"a": 1,
+"sol": "When water vapour rises and cools down, it turns back into tiny water droplets, forming clouds."
+},
+{
+"q": "Which factor increases the rate of evaporation?",
+"o": ["High humidity", "Low temperature", "Strong wind and more surface area", "Small surface area"],
+"a": 2,
+"sol": "Wind carries away vapour faster, and more surface area allows more molecules to escape."
+},
+{
+"q": "The continuous movement of water from the earth to the atmosphere and back is:",
+"o": ["Nitrogen cycle", "Carbon cycle", "Water cycle", "Oxygen cycle"],
+"a": 2,
+"sol": "The water cycle maintains the supply of fresh water on land."
+},
+{
+"q": "During winter mornings, we see tiny droplets of water on grass. This is called:",
+"o": ["Rain", "Snow", "Dew", "Steam"],
+"a": 2,
+"sol": "Dew forms when water vapour in the air condenses on cool surfaces at night."
+},
+{
+"q": "What happens when you breathe out on a cold glass surface?",
+"o": ["It becomes dry", "It becomes foggy due to condensation", "It melts", "Nothing happens"],
+"a": 1,
+"sol": "Your breath contains warm water vapour which condenses upon hitting the cold glass."
+},
+{
+"q": "Which of the following is NOT a form of precipitation?",
+"o": ["Rain", "Snow", "Hail", "Evaporation"],
+"a": 3,
+"sol": "Precipitation is water falling back to Earth; evaporation is water rising up."
+},
+{
+"q": "Water disappears from wet clothes kept in the sun due to:",
+"o": ["Boiling", "Evaporation", "Condensation", "Freezing"],
+"a": 1,
+"sol": "Sun's heat converts the water in the clothes into vapour."
+},
+{
+"q": "Which of these is essential for evaporation to take place?",
+"o": ["Cold", "Heat", "Darkness", "Glass"],
+"a": 1,
+"sol": "Heat energy is required to change the state of water from liquid to gas."
+},
+{
+"q": "The cooling of water vapour to form liquid water is called:",
+"o": ["Melting", "Freezing", "Condensation", "Vaporization"],
+"a": 2,
+"sol": "Condensation is the reverse of evaporation."
+},
+{
+"q": "Snow consists of water in which state?",
+"o": ["Liquid", "Solid", "Gaseous", "Plasma"],
+"a": 1,
+"sol": "Snow is frozen water crystals (solid state)."
+},
+{
+"q": "Evaporation of water takes place ________.",
+"o": ["Only in sunlight", "Only at night", "All the time (faster in heat)", "Only when boiling"],
+"a": 2,
+"sol": "Evaporation happens at all temperatures, but heat makes it much faster."
+},
+{
+"q": "Why do we see water droplets on the outer surface of a glass containing ice-cold water?",
+"o": ["Water leaks from the glass", "Air around the glass condenses", "Glass is sweating", "Ice melts through the glass"],
+"a": 1,
+"sol": "The cold surface of the glass cools the surrounding air, causing its vapour to condense."
+},
+{
+"q": "The process of changing ice into water is called:",
+"o": ["Freezing", "Boiling", "Melting", "Condensation"],
+"a": 2,
+"sol": "Melting is the change from solid to liquid."
+},
+{
+"q": "Where is the maximum amount of water on Earth found?",
+"o": ["Rivers", "Glaciers", "Oceans", "Groundwater"],
+"a": 2,
+"sol": "About 97% of Earth's water is in the oceans."
+},
+{
+"q": "Water in the gaseous state is known as:",
+"o": ["Ice", "Water vapour", "Rain", "Mist"],
+"a": 1,
+"sol": "Water vapour is the invisible gas form of water."
+},
+{
+"q": "What happens to the level of water in a pond during summer?",
+"o": ["It rises", "It stays same", "It decreases due to evaporation", "It freezes"],
+"a": 2,
+"sol": "Heat causes faster evaporation, reducing the water level."
+},
+{
+"q": "Groundwater is recharged by:",
+"o": ["Evaporation", "Rainwater seepage", "Transpiration", "Snowfall only"],
+"a": 1,
+"sol": "Rainwater soaks into the soil and reaches the water table."
+},
+{
+"q": "When water vapour cools down at very high altitudes, it may turn directly into:",
+"o": ["Liquid only", "Ice crystals", "Oxygen", "Salt"],
+"a": 1,
+"sol": "In very cold air, vapour can turn into ice (snow/hail)."
+},
+{
+"q": "Saline water is found in:",
+"o": ["Rivers", "Lakes", "Oceans and Seas", "Rain"],
+"a": 2,
+"sol": "Seawater contains a lot of dissolved salts."
+},
+{
+"q": "The 'pitter-patter' sound is usually associated with:",
+"o": ["Wind", "Thunder", "Raindrops", "Sunlight"],
+"a": 2,
+"sol": "It is the sound of rain falling on surfaces."
+},
+{
+"q": "Which of the following is a source of fresh water?",
+"o": ["Ocean", "Rain", "Sea", "Puddle of saltwater"],
+"a": 1,
+"sol": "Rain is a primary source of naturally distilled fresh water."
+},
+{
+"q": "Drought occurs when:",
+"o": ["It rains too much", "There is no rain for a long period", "Ice melts", "Plants transpire"],
+"a": 1,
+"sol": "Lack of rain leads to drying up of water sources."
+},
+{
+"q": "Which process is responsible for the formation of fog near the ground?",
+"o": ["Evaporation", "Condensation", "Melting", "Transpiration"],
+"a": 1,
+"sol": "Fog is essentially a cloud that forms at ground level when air cools."
+},
+{
+"q": "Water that is fit for drinking is called:",
+"o": ["Saline water", "Potable water", "Distilled water", "Hard water"],
+"a": 1,
+"sol": "Potable water is safe and clean for human consumption."
+},
+{
+"q": "Hail and snow are ________ forms of water.",
+"o": ["Liquid", "Gaseous", "Solid", "Vapour"],
+"a": 2,
+"sol": "They are frozen precipitation."
+},
+{
+"q": "The temperature at which water changes into ice is:",
+"o": ["100°C", "37°C", "0°C", "50°C"],
+"a": 2,
+"sol": "Freezing point of water is 0°C."
+},
+{
+"q": "A bathroom mirror becomes blurry after a hot shower because of:",
+"o": ["Smoke", "Dust", "Condensation of steam", "Soap"],
+"a": 2,
+"sol": "Hot water vapour hits the cool mirror and turns into liquid droplets."
+},
+{
+"q": "Is water vapour visible?",
+"o": ["Yes, always", "No, it is invisible", "Only when it is hot", "Only in winter"],
+"a": 1,
+"sol": "Pure water vapour is an invisible gas; what we see as 'steam' is often tiny liquid droplets."
+},
+{
+"q": "The main source of energy for the water cycle is:",
+"o": ["The Moon", "The Wind", "The Sun", "Electricity"],
+"a": 2,
+"sol": "Sunlight provides the heat for evaporation."
+},
+{
+"q": "What happens to the rate of transpiration on a hot day?",
+"o": ["It decreases", "It stops", "It increases", "No change"],
+"a": 2,
+"sol": "Heat increases the evaporation from leaf pores."
+},
+{
+"q": "Which of these will evaporate the slowest?",
+"o": ["Water in a wide plate", "Water in a cup", "Water in a bottle with a narrow neck", "Water on the floor"],
+"a": 2,
+"sol": "Narrow neck reduces the surface area exposed to air."
+},
+{
+"q": "Floods are caused by:",
+"o": ["Excessive rainfall", "Drought", "Transpiration", "Evaporation"],
+"a": 0,
+"sol": "Too much rain in a short time leads to overflowing water bodies."
+},
+{
+"q": "Water cycle is a ________ process.",
+"o": ["Discontinuous", "One-time", "Continuous", "Artificial"],
+"a": 2,
+"sol": "It goes on forever, recycling Earth's water."
+},
+{
+"q": "Which of the following helps in the conservation of water?",
+"o": ["Leaving taps open", "Rainwater harvesting", "Deforestation", "Overusing groundwater"],
+"a": 1,
+"sol": "Rainwater harvesting saves water for future use."
+},
+{
+"q": "When we heat water in a kettle, the 'smoke' coming out of the spout is actually:",
+"o": ["Pure gas", "Tiny droplets of water", "Oxygen", "Air"],
+"a": 1,
+"sol": "It is water vapour that has condensed back into tiny liquid droplets in the cooler air."
+},
+{
+"q": "The 'Roof-top rainwater harvesting' method stores water in:",
+"o": ["Rivers", "Oceans", "Storage tanks or ground", "Forests"],
+"a": 2,
+"sol": "It collects rain from the roof to be used later or to recharge groundwater."
+},
+{
+"q": "Which process is the opposite of evaporation?",
+"o": ["Melting", "Freezing", "Condensation", "Sublimation"],
+"a": 2,
+"sol": "Evaporation is liquid to gas; condensation is gas to liquid."
+},
+{
+"q": "Why does a wet floor dry up faster under a fan?",
+"o": ["Fan produces heat", "Fan increases wind speed aiding evaporation", "Fan produces oxygen", "Fan absorbs water"],
+"a": 1,
+"sol": "Wind speed is a key factor in speeding up evaporation."
+},
+{
+"q": "Water is known as a 'Universal Solvent' because:",
+"o": ["It is found everywhere", "It can dissolve many substances", "It is very cheap", "It is blue"],
+"a": 1,
+"sol": "It can dissolve more substances than any other liquid."
+},
+{
+"q": "What is the state of water in clouds?",
+"o": ["Only gas", "Only solid", "Tiny liquid droplets or ice crystals", "Pure energy"],
+"a": 2,
+"sol": "Clouds are made of liquid water or solid ice suspended in air."
+},
+{
+"q": "Water boils at ________.",
+"o": ["0°C", "50°C", "100°C", "200°C"],
+"a": 2,
+"sol": "Standard boiling point of water."
+},
+{
+"q": "What happens when water freezes?",
+"o": ["It contracts", "It expands", "It stays same size", "It disappears"],
+"a": 1,
+"sol": "Water is unique because it expands when it turns into ice."
+},
+{
+"q": "The humidity of air refers to:",
+"o": ["Amount of oxygen", "Amount of water vapour in air", "Temperature of air", "Speed of air"],
+"a": 1,
+"sol": "High humidity means there is a lot of moisture in the air."
+},
+{
+"q": "Which of these is a liquid form of water?",
+"o": ["Hail", "Rain", "Snow", "Frost"],
+"a": 1,
+"sol": "Rain is liquid precipitation."
+},
+{
+"q": "Most of the water that falls as rain eventually goes to:",
+"o": ["Space", "Underground only", "Oceans", "Plants only"],
+"a": 2,
+"sol": "Rivers carry most rainwater back to the sea."
+},
+{
+"q": "During evaporation, water particles leave the ________ of the liquid.",
+"o": ["Bottom", "Middle", "Surface", "Container"],
+"a": 2,
+"sol": "Evaporation is a surface phenomenon."
+},
+{
+"q": "If air is very humid, clothes will dry ________.",
+"o": ["Faster", "Slower", "At the same rate", "Instantly"],
+"a": 1,
+"sol": "When air already has a lot of moisture, it cannot easily take in more from the clothes."
+},
+{
+"q": "The process of a solid changing directly into gas is called:",
+"o": ["Evaporation", "Condensation", "Sublimation", "Boiling"],
+"a": 2,
+"sol": "Dry ice or camphor show sublimation."
+},
+{
+"q": "What would happen if the water cycle stopped?",
+"o": ["Plants would grow more", "Fresh water would eventually run out", "Oceans would overflow", "It would rain forever"],
+"a": 1,
+"sol": "The water cycle is necessary to replenish fresh water on land."
+},
+{
+"q": "Which part of the Earth contains the 'Ice Caps'?",
+"o": ["Equator", "Deserts", "Poles (Arctic/Antarctic)", "Rainforests"],
+"a": 2,
+"sol": "Vast amounts of fresh water are stored as ice at the poles."
+},
+{
+"q": "Which is the purest form of natural water?",
+"o": ["River water", "Sea water", "Rain water", "Well water"],
+"a": 2,
+"sol": "Rain is formed by natural distillation (evaporation and condensation)."
+},
+{
+"q": "When steam touches a cold plate, it turns into water. This is ________.",
+"o": ["Melting", "Condensation", "Evaporation", "Freezing"],
+"a": 1,
+"sol": "Cooling a gas turns it into a liquid."
+},
+{
+"q": "Water is found on Earth in ________ states.",
+"o": ["One", "Two", "Three", "Four"],
+"a": 2,
+"sol": "Solid (ice), Liquid (water), Gas (vapour)."
+},
+{
+"q": "What does 'distillation' involve?",
+"o": ["Only evaporation", "Only condensation", "Evaporation followed by condensation", "Freezing only"],
+"a": 2,
+"sol": "This process purifies water by turning it to vapour and back to liquid."
+},
+{
+"q": "Transpiration is highest in ________ plants.",
+"o": ["Cactus", "Broad-leaved trees", "Dead plants", "Underwater plants"],
+"a": 1,
+"sol": "More leaf area means more pores (stomata) for water to escape."
+},
+{
+"q": "Which of these takes place on a cool autumn night?",
+"o": ["Formation of hail", "Formation of dew", "Boiling of rivers", "Snowing in deserts"],
+"a": 1,
+"sol": "Dew forms when moist air hits cold ground/plants."
+},
+{
+"q": "The salt in the sea comes from:",
+"o": ["The sky", "Rocks and soil washed by rivers", "Fish", "The Sun"],
+"a": 1,
+"sol": "Rivers dissolve minerals from rocks over millions of years and carry them to the sea."
+},
+{
+"q": "Why is sea water not used for drinking?",
+"o": ["It is too cold", "It is too hot", "It contains high amounts of salt", "It has no oxygen"],
+"a": 2,
+"sol": "High salinity makes it dangerous for human consumption."
+},
+{
+"q": "Evaporation ________ the surface it occurs from.",
+"o": ["Heats", "Cools", "Stains", "Dries but doesn't affect temp"],
+"a": 1,
+"sol": "Evaporation takes away heat energy, causing a cooling effect (like sweating)."
+},
+{
+"q": "The 'water table' refers to:",
+"o": ["A table made of ice", "The upper level of underground water", "The surface of the ocean", "Rainfall amount"],
+"a": 1,
+"sol": "It is the level below which the ground is saturated with water."
+},
+{
+"q": "Which of these causes water to evaporate faster?",
+"o": ["Increasing humidity", "Spreading the water over a large area", "Keeping it in a closed cupboard", "Decreasing the temperature"],
+"a": 1,
+"sol": "Increasing surface area increases the rate of evaporation."
+},
+{
+"q": "Water drops falling from clouds are called ________.",
+"o": ["Dew", "Frost", "Rain", "Mist"],
+"a": 2,
+"sol": "Liquid precipitation is rain."
+},
+{
+"q": "What is the primary cause of cloud formation?",
+"o": ["Plants growing", "Cooling of rising water vapour", "Heating of the sky", "Birds flying"],
+"a": 1,
+"sol": "Adiabatic cooling of moist air as it rises."
+},
+{
+"q": "Can evaporation happen in the shade?",
+"o": ["No, never", "Yes, but slower than in the sun", "Yes, faster than in the sun", "Only if it is raining"],
+"a": 1,
+"sol": "Heat from the surrounding air is still present even without direct sunlight."
+},
+{
+"q": "Water changes its state due to changes in:",
+"o": ["Colour", "Weight", "Temperature and Pressure", "Container"],
+"a": 2,
+"sol": "Heating or cooling causes state changes."
+},
+{
+"q": "Rainwater that does not seep into the ground flows into ________.",
+"o": ["The moon", "Forests only", "Rivers and lakes", "The sky"],
+"a": 2,
+"sol": "Surface runoff feeds into larger water bodies."
+},
+{
+"q": "In the water cycle, condensation leads to the formation of ________.",
+"o": ["Groundwater", "Clouds", "Ocean salt", "Oxygen"],
+"a": 1,
+"sol": "Vapour turns to droplets, which group together as clouds."
+},
+{
+"q": "Which of the following describes 'freezing'?",
+"o": ["Liquid to solid", "Liquid to gas", "Solid to liquid", "Gas to liquid"],
+"a": 0,
+"sol": "Freezing is the removal of heat until a liquid turns solid."
+},
+{
+"q": "What happens when we boil water for a long time in a pot?",
+"o": ["The amount of water increases", "The water level stays the same", "The water level decreases", "The water turns into ice"],
+"a": 2,
+"sol": "Water is lost to the atmosphere as steam."
+},
+{
+"q": "Mist and fog are examples of ________.",
+"o": ["Sublimation", "Condensation", "Transpiration", "Freezing"],
+"a": 1,
+"sol": "They are formed by vapour condensing into tiny droplets near the surface."
+},
+{
+"q": "In which season does water evaporate fastest from a pond?",
+"o": ["Winter", "Monsoon", "Summer", "Spring"],
+"a": 2,
+"sol": "Higher temperatures in summer provide more energy for evaporation."
+},
+{
+"q": "Where does most of the evaporation on Earth happen?",
+"o": ["From swimming pools", "From forests", "From oceans", "From kettles"],
+"a": 2,
+"sol": "Oceans cover 70% of Earth and provide most of the vapour for rain."
+},
+{
+"q": "Water cycle helps in maintaining ________ on Earth.",
+"o": ["Temperature balance", "The amount of salt", "The number of trees", "All of these"],
+"a": 0,
+"sol": "It redistributes heat and water across the globe."
+},
+{
+"q": "What is 'transpiration pull'?",
+"o": ["Pushing water out of plants", "The force that draws water up from roots", "Gravity", "Evaporation from soil"],
+"a": 1,
+"sol": "As water evaporates from leaves, it pulls more water up from the roots."
+},
+{
+"q": "Why do wet hair dry up even if we don't use a hairdryer?",
+"o": ["Because of condensation", "Because of evaporation to the air", "Because hair absorbs the water", "Because of gravity"],
+"a": 1,
+"sol": "Natural evaporation into the surrounding air."
+},
+{
+"q": "Water vapour is ________ than air.",
+"o": ["Heavier", "Lighter", "Same weight", "Solid"],
+"a": 1,
+"sol": "Moist air is actually less dense than dry air."
+},
+{
+"q": "What is 'precipitation'?",
+"o": ["Water turning into vapour", "Water falling from clouds", "Water freezing in a fridge", "Water dissolving salt"],
+"a": 1,
+"sol": "General term for rain, snow, hail, etc."
+},
+{
+"q": "Which of these uses the least water?",
+"o": ["Taking a shower", "Brushing teeth with tap running", "Drinking", "Washing a car with a hose"],
+"a": 2,
+"sol": "Drinking is a vital but small use of water compared to washing."
+},
+{
+"q": "What causes the 'steam' over a hot cup of coffee?",
+"o": ["Coffee burning", "Vapour condensing in cooler air", "Air becoming hot", "Carbon dioxide"],
+"a": 1,
+"sol": "Hot vapour from the coffee cools and condenses as it meets room air."
+},
+{
+"q": "Can plants survive without transpiration?",
+"o": ["Yes, they don't need it", "No, it's a vital process", "Only in water", "Only in winter"],
+"a": 1,
+"sol": "Transpiration is necessary for nutrient transport and cooling."
+},
+{
+"q": "The amount of water on Earth ________.",
+"o": ["Is increasing", "Is decreasing", "Remains constant (cycled)", "Depends on the moon"],
+"a": 2,
+"sol": "The total amount of water doesn't change; it just changes form and location."
+},
+{
+"q": "In the water cycle, step 1 is generally considered ________.",
+"o": ["Precipitation", "Evaporation", "Condensation", "Runoff"],
+"a": 1,
+"sol": "Water must rise (evaporate) before it can cycle."
+},
+{
+"q": "What does 'Infiltration' mean?",
+"o": ["Water turning to gas", "Water entering the soil", "Water freezing", "Water boiling"],
+"a": 1,
+"sol": "The process by which water on the ground surface enters the soil."
+},
+{
+"q": "Clouds that are very low and touch the ground are called:",
+"o": ["Nimbus", "Cirrus", "Fog", "Cumulus"],
+"a": 2,
+"sol": "Fog is ground-level cloudiness."
+},
+{
+"q": "What is 'surface runoff'?",
+"o": ["Water seeping into ground", "Water flowing over the land into streams", "Water evaporating", "Water in a tap"],
+"a": 1,
+"sol": "Water that doesn't soak in but flows over the surface."
+},
+{
+"q": "Rainwater harvesting ________ the water table.",
+"o": ["Lowers", "Does not affect", "Increases/Recharges", "Pollutes"],
+"a": 2,
+"sol": "It helps in replenishing the underground water levels."
+},
+{
+"q": "Which state of water has the most energy?",
+"o": ["Ice", "Liquid water", "Water vapour (Gas)", "All are same"],
+"a": 2,
+"sol": "Gas particles move fastest and have the most kinetic energy."
+},
+{
+"q": "What is 'desalination'?",
+"o": ["Adding salt to water", "Removing salt from sea water", "Freezing water", "Boiling water"],
+"a": 1,
+"sol": "A process to make sea water drinkable."
+},
+{
+"q": "When water vapour turns into liquid, heat is ________.",
+"o": ["Absorbed", "Released", "Destroyed", "Created"],
+"a": 1,
+"sol": "Condensation releases the energy that was absorbed during evaporation."
+},
+{
+"q": "Snow melts into ________ when the temperature rises.",
+"o": ["Gas", "Solid", "Liquid water", "Steam"],
+"a": 2,
+"sol": "Solid to liquid transition."
+},
+{
+"q": "The invisible gas that makes air 'damp' is:",
+"o": ["Oxygen", "Nitrogen", "Water vapour", "Carbon dioxide"],
+"a": 2,
+"sol": "Humidity is the measure of this gas."
+},
+{
+"q": "Which of these is most likely to cause a flood?",
+"o": ["Light drizzle", "Heavy rain for many days", "A sunny day", "A cold night"],
+"a": 1,
+"sol": "Prolonged heavy rain overwhelms drainage and rivers."
+},
+{
+"q": "If we cover a bowl of hot water with a lid, we see drops under the lid. Why?",
+"o": ["Water splashed up", "Vapour condensed on the cooler lid", "Lid is leaking", "The lid melted"],
+"a": 1,
+"sol": "Classic example of evaporation followed by condensation."
+},
+{
+"q": "Ice floats on water because it is ________ than water.",
+"o": ["Heavier", "Denser", "Lighter/Less dense", "Softer"],
+"a": 2,
+"sol": "Ice has more volume for the same mass, making it less dense."
+},
+{
+"q": "What percentage of Earth is covered by water?",
+"o": ["50%", "71%", "90%", "30%"],
+"a": 1,
+"sol": "Roughly 3/4th of the Earth's surface is water."
+},
+{
+"q": "Which of these is a way to save water?",
+"o": ["Using a hose to wash car", "Fixing leaking taps", "Keeping the tap running while bathing", "Washing clothes in the river with soap"],
+"a": 1,
+"sol": "Stopping leaks is a simple and effective way to conserve."
+}
+]
