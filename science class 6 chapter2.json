@@ -1,1102 +1,602 @@
 [
   {
-    "q": "According to the text, what is the most important thing to have to understand the world of science?",
-    "o": [
-      "A laboratory",
-      "Curiosity",
-      "Memory",
-      "High marks"
-    ],
+    "q": "What was the main objective of the nature walk led by Dr. Raghu?",
+    "o": ["To collect medicinal plants for the laboratory", "To experience the beauty and variety of plants and animals", "To catch butterflies for a science project", "To count the number of trees in the park"],
     "a": 1,
-    "sol": "Curiosity"
+    "sol": "The main goal was to observe and appreciate the diverse nature."
   },
   {
-    "q": "Science is described as a way of thinking, observing, and:",
-    "o": [
-      "Memorizing facts",
-      "Doing things to understand the world",
-      "Writing long essays",
-      "Following fixed rules"
-    ],
-    "a": 1,
-    "sol": "Doing things to understand the world"
-  },
-  {
-    "q": "The textbook compares science to what kind of activity?",
-    "o": [
-      "A race",
-      "A big adventure",
-      "A difficult chore",
-      "A silent meditation"
-    ],
-    "a": 1,
-    "sol": "A big adventure"
-  },
-  {
-    "q": "In the analogy of the jigsaw puzzle, what represents a \"new piece\"?",
-    "o": [
-      "A new textbook",
-      "A new discovery",
-      "A wrong answer",
-      "A finished chapter"
-    ],
-    "a": 1,
-    "sol": "A new discovery"
-  },
-  {
-    "q": "What happens when a piece of the science \"puzzle\" is found to be in the wrong place?",
-    "o": [
-      "The puzzle is thrown away",
-      "It needs to be moved or corrected",
-      "Scientists ignore the error",
-      "The discovery is hidden"
-    ],
-    "a": 1,
-    "sol": "It needs to be moved or corrected"
-  },
-  {
-    "q": "Which stage of school follows the \"Preparatory Stage\" mentioned in the text?",
-    "o": [
-      "Primary Stage",
-      "Middle Stage",
-      "Secondary Stage",
-      "University Stage"
-    ],
-    "a": 1,
-    "sol": "Middle Stage"
-  },
-  {
-    "q": "According to the book, what is the only planet known to support life?",
-    "o": [
-      "Mars",
-      "Venus",
-      "Earth",
-      "Jupiter"
-    ],
+    "q": "Which items did the teacher advise students to carry for the nature walk?",
+    "o": ["Camera, binoculars, and a map", "Magnifying glass, gloves, and a plastic bag", "Notebook, pen, and a water bottle", "Umbrella, food, and a compass"],
     "a": 2,
-    "sol": "Earth"
+    "sol": "Basic recording tools like a notebook and pen were advised."
   },
   {
-    "q": "The transformation of a caterpillar into a butterfly is an example of:",
-    "o": [
-      "A scientific experiment",
-      "An observation of growth",
-      "A chemical reaction",
-      "A mechanical process"
-    ],
-    "a": 1,
-    "sol": "An observation of growth"
-  },
-  {
-    "q": "Why does the text mention \"tiny grains of sand\" and \"massive mountains\"?",
-    "o": [
-      "To teach geography",
-      "To show that science covers everything from the smallest to the largest things",
-      "To explain how rocks are formed",
-      "To describe a desert"
-    ],
-    "a": 1,
-    "sol": "To show that science covers everything from the smallest to the largest things"
-  },
-  {
-    "q": "What specific example is used to explain the scientific method in a person's daily life?",
-    "o": [
-      "Cooking rice",
-      "A pen that stops writing",
-      "Riding a bicycle",
-      "Watering plants"
-    ],
-    "a": 1,
-    "sol": "A pen that stops writing"
-  },
-  {
-    "q": "If your pen stops writing, what is the very first thing you do according to the scientific process?",
-    "o": [
-      "Buy a new pen",
-      "Ask a question: \"Why did my pen stop writing?\"",
-      "Throw the refill away",
-      "Open the pen immediately"
-    ],
-    "a": 1,
-    "sol": "Ask a question: \"Why did my pen stop writing?\""
-  },
-  {
-    "q": "In the pen example, checking the refill after guessing it is empty is called:",
-    "o": [
-      "Making a guess",
-      "Testing the guess",
-      "Analyzing the ink",
-      "Final discovery"
-    ],
-    "a": 1,
-    "sol": "Testing the guess"
-  },
-  {
-    "q": "What should you do if your first guess (ink finished) is proven wrong?",
-    "o": [
-      "Give up on writing",
-      "Make another guess (e.g., ink has dried up)",
-      "Cry about the pen",
-      "Assume the pen is magical"
-    ],
-    "a": 1,
-    "sol": "Make another guess (e.g., ink has dried up)"
-  },
-  {
-    "q": "What is the technical term for \"making a guess\" in the scientific method?",
-    "o": [
-      "Conclusion",
-      "Observation",
-      "Hypothesis/Possible answer",
-      "Data analysis"
-    ],
-    "a": 2,
-    "sol": "Hypothesis/Possible answer"
-  },
-  {
-    "q": "Scientists often work:",
-    "o": [
-      "Only in the morning",
-      "In large teams across the world",
-      "Completely alone in dark rooms",
-      "Only when they are children"
-    ],
-    "a": 1,
-    "sol": "In large teams across the world"
-  },
-  {
-    "q": "Which of these is NOT one of the steps of the scientific method mentioned?",
-    "o": [
-      "Observe something interesting",
-      "Guess a possible answer",
-      "Memorize the results of others",
-      "Analyze the results"
-    ],
-    "a": 2,
-    "sol": "Memorize the results of others"
-  },
-  {
-    "q": "Someone wondering why \"dal\" spilled out of a pressure cooker is:",
-    "o": [
-      "Just a cook",
-      "Working like a scientist",
-      "Making a mistake",
-      "Wasting time"
-    ],
-    "a": 1,
-    "sol": "Working like a scientist"
-  },
-  {
-    "q": "A bicycle repair person looking for an air leak is using:",
-    "o": [
-      "Magic",
-      "The scientific method",
-      "Only physical strength",
-      "Guesses without testing"
-    ],
-    "a": 1,
-    "sol": "The scientific method"
-  },
-  {
-    "q": "Why does the text mention \"what is cooking in the kitchen\" or \"what is happening on the playground\"?",
-    "o": [
-      "To show science is everywhere",
-      "To give homework ideas",
-      "To explain why we eat",
-      "To describe school life"
-    ],
-    "a": 0,
-    "sol": "To show science is everywhere"
-  },
-  {
-    "q": "The spirit of inquiry is what the textbook hopes to ignite in students.",
-    "o": [
-      "Competition",
-      "Inquiry",
-      "Silence",
-      "Fear"
-    ],
-    "a": 1,
-    "sol": "Inquiry"
-  },
-  {
-    "q": "What happens when we discover more and more scientific ideas?",
-    "o": [
-      "We get confused",
-      "We realize the ideas are all connected",
-      "We forget the old ideas",
-      "We stop asking questions"
-    ],
-    "a": 1,
-    "sol": "We realize the ideas are all connected"
-  },
-  {
-    "q": "The title of the textbook \"Curiosity\" is derived from:",
-    "o": [
-      "The name of a scientist",
-      "The most important requirement for science",
-      "A famous mountain",
-      "A space rover"
-    ],
-    "a": 1,
-    "sol": "The most important requirement for science"
-  },
-  {
-    "q": "\"A grain of sand\" and \"a leaf of grass\" are examples of:",
-    "o": [
-      "Small things to ignore",
-      "Small things that hold exciting discoveries",
-      "Things that aren't related to science",
-      "Parts of a desert"
-    ],
-    "a": 1,
-    "sol": "Small things that hold exciting discoveries"
-  },
-  {
-    "q": "Watching a flower bloom and wondering \"how it knows when to open\" is an act of:",
-    "o": [
-      "Boredom",
-      "Scientific curiosity",
-      "Agriculture",
-      "Poetry"
-    ],
-    "a": 1,
-    "sol": "Scientific curiosity"
-  },
-  {
-    "q": "The text says science helps us \"uncover the secrets of the universe\":",
-    "o": [
-      "Ocean",
-      "Universe",
-      "Kitchen",
-      "School"
-    ],
-    "a": 1,
-    "sol": "Universe"
-  },
-  {
-    "q": "Which of the following is an \"unexpected place\" for discoveries mentioned in the text?",
-    "o": [
-      "A laboratory",
-      "A playground",
-      "A library",
-      "A museum"
-    ],
-    "a": 1,
-    "sol": "A playground"
-  },
-  {
-    "q": "Diversity in India is explained through which scientific example?",
-    "o": [
-      "Different types of metals",
-      "Different cuisines and tasty dishes",
-      "Different types of pens",
-      "Different types of erasers"
-    ],
-    "a": 1,
-    "sol": "Different cuisines and tasty dishes"
-  },
-  {
-    "q": "Which material is mentioned as keeping a box closed?",
-    "o": [
-      "Plastic",
-      "Magnet",
-      "Rubber",
-      "Metal"
-    ],
-    "a": 1,
-    "sol": "Magnet"
-  },
-  {
-    "q": "\"Delightful substance\" is the term used for:",
-    "o": [
-      "Chocolate",
-      "Water",
-      "Ink",
-      "Air"
-    ],
-    "a": 1,
-    "sol": "Water"
-  },
-  {
-    "q": "Water boiling and becoming steam is a result of:",
-    "o": [
-      "Cooling",
-      "Heating",
-      "Freezing",
-      "Mixing"
-    ],
-    "a": 1,
-    "sol": "Heating"
-  },
-  {
-    "q": "Understanding \"hot and cold\" is important for:",
-    "o": [
-      "Drinking water",
-      "Checking a body with fever",
-      "Both A and B",
-      "Only for cooking"
-    ],
-    "a": 2,
-    "sol": "Both A and B"
-  },
-  {
-    "q": "The scientific journey in school is planned for the next:",
-    "o": [
-      "One year",
-      "Five years or beyond",
-      "Three months",
-      "Decade only"
-    ],
-    "a": 1,
-    "sol": "Five years or beyond"
-  },
-  {
-    "q": "Being a \"wise person\" is linked to being a:",
-    "o": [
-      "\"Whys\" person",
-      "\"Rich\" person",
-      "\"Quiet\" person",
-      "\"Fast\" person"
-    ],
-    "a": 0,
-    "sol": "\"Whys\" person"
-  },
-  {
-    "q": "What is the final step in the sequence of the scientific method provided?",
-    "o": [
-      "Ask a question",
-      "Test the guess",
-      "Analyze results to see if they answer the question",
-      "Observe something interesting"
-    ],
-    "a": 2,
-    "sol": "Analyze results to see if they answer the question"
-  },
-  {
-    "q": "\"Groundbreaking discoveries\" often come from:",
-    "o": [
-      "Only experts",
-      "Unexpected places",
-      "Old books",
-      "Fixed patterns"
-    ],
-    "a": 1,
-    "sol": "Unexpected places"
-  },
-  {
-    "q": "An electrician checking a bulb is trying to find out:",
-    "o": [
-      "The cost of the bulb",
-      "Why the light is not working",
-      "The color of the wire",
-      "How to make a new bulb"
-    ],
-    "a": 1,
-    "sol": "Why the light is not working"
-  },
-  {
-    "q": "Which of these is a \"thought-provoking\" activity mentioned?",
-    "o": [
-      "Sleeping",
-      "Experiments",
-      "Running",
-      "Eating"
-    ],
-    "a": 1,
-    "sol": "Experiments"
-  },
-  {
-    "q": "The phrase \"the world is full of things we do not know\" encourages:",
-    "o": [
-      "Fear",
-      "Exploration",
-      "Giving up",
-      "Memory"
-    ],
-    "a": 1,
-    "sol": "Exploration"
-  },
-  {
-    "q": "What does the text say about finding all answers in Grade 6?",
-    "o": [
-      "You will find every answer",
-      "You will not find answers to all your questions",
-      "Answers are not important",
-      "Only teachers know all answers"
-    ],
-    "a": 1,
-    "sol": "You will not find answers to all your questions"
-  },
-  {
-    "q": "Science is NOT just about:",
-    "o": [
-      "Asking questions",
-      "Memorizing facts and figures",
-      "Observing surroundings",
-      "Doing experiments"
-    ],
-    "a": 1,
-    "sol": "Memorizing facts and figures"
-  },
-  {
-    "q": "What triggers the \"wonder\" in the scientific method?",
-    "o": [
-      "A textbook",
-      "Observation of something interesting",
-      "An exam",
-      "A teacher's command"
-    ],
-    "a": 1,
-    "sol": "Observation of something interesting"
-  },
-  {
-    "q": "Testing a guess is done through:",
-    "o": [
-      "Thinking only",
-      "Experiments or more observations",
-      "Asking a friend for their opinion",
-      "Looking at the answer key"
-    ],
-    "a": 1,
-    "sol": "Experiments or more observations"
-  },
-  {
-    "q": "Growth of plants and animals is a mystery involving:",
-    "o": [
-      "Physics only",
-      "Exploration and Science",
-      "History",
-      "Drawing"
-    ],
-    "a": 1,
-    "sol": "Exploration and Science"
-  },
-  {
-    "q": "Which object is NOT listed among the \"different things around us\" in chapter 5?",
-    "o": [
-      "Plastic ruler",
-      "Metal key",
-      "Wooden table",
-      "Rubber eraser"
-    ],
-    "a": 2,
-    "sol": "Wooden table"
-  },
-  {
-    "q": "The \"spirit of inquiry\" is ignited by:",
-    "o": [
-      "Reading silently",
-      "Each chapter of the book",
-      "Playing games",
-      "Leaving school"
-    ],
-    "a": 1,
-    "sol": "Each chapter of the book"
-  },
-  {
-    "q": "What do we do after analyzing results?",
-    "o": [
-      "Start the observation again",
-      "See if it actually answers our question",
-      "Forget the experiment",
-      "Tell everyone we are famous"
-    ],
-    "a": 1,
-    "sol": "See if it actually answers our question"
-  },
-  {
-    "q": "Children enjoying the rain is compared to:",
-    "o": [
-      "Hard work",
-      "Joyful exploration in science",
-      "A wet playground",
-      "Growing plants"
-    ],
-    "a": 1,
-    "sol": "Joyful exploration in science"
-  },
-  {
-    "q": "A \"guess\" in science must be:",
-    "o": [
-      "Impossible to test",
-      "Tested through experiments",
-      "Accepted as truth immediately",
-      "Written in a storybook"
-    ],
-    "a": 1,
-    "sol": "Tested through experiments"
-  },
-  {
-    "q": "Which of these is a question about things \"beyond the Earth\"?",
-    "o": [
-      "Why it rains?",
-      "How a seed grows?",
-      "Why the stars shine?",
-      "How to cook dal?"
-    ],
-    "a": 2,
-    "sol": "Why the stars shine?"
-  },
-  {
-    "q": "What makes Earth special compared to other planets?",
-    "o": [
-      "It has the Sun",
-      "It supports life and has an environment to protect",
-      "It is the smallest",
-      "It has no stars"
-    ],
-    "a": 1,
-    "sol": "It supports life and has an environment to protect"
-  },
-  {
-    "q": "When you separate the \"skin of a peanut seed,\" you are:",
-    "o": [
-      "Cooking",
-      "Engaging in scientific inquiry",
-      "Wasting food",
-      "Playing"
-    ],
-    "a": 1,
-    "sol": "Engaging in scientific inquiry"
-  },
-  {
-    "q": "\"Cuisines\" refers to:",
-    "o": [
-      "Scientific tools",
-      "Styles of cooking/food",
-      "Types of planets",
-      "Measuring scales"
-    ],
-    "a": 1,
-    "sol": "Styles of cooking/food"
-  },
-  {
-    "q": "If a tyre is flat, the \"bicycle repair person\" is looking for:",
-    "o": [
-      "A new bicycle",
-      "Where the air leaked out",
-      "The price of the tyre",
-      "A way to paint the tyre"
-    ],
-    "a": 1,
-    "sol": "Where the air leaked out"
-  },
-  {
-    "q": "Science is a \"step-by-step process\":",
-    "o": [
-      "Game",
-      "Process",
-      "Song",
-      "Obstacle"
-    ],
-    "a": 1,
-    "sol": "Process"
-  },
-  {
-    "q": "The vastness of outer space is one of the places science explores.",
-    "o": [
-      "A bedroom",
-      "Outer space",
-      "A notebook",
-      "A pencil box"
-    ],
-    "a": 1,
-    "sol": "Outer space"
-  },
-  {
-    "q": "The word \"Curiosity\" means:",
-    "o": [
-      "Being bored",
-      "A strong desire to know or learn something",
-      "Being very fast",
-      "Sleeping deeply"
-    ],
-    "a": 1,
-    "sol": "A strong desire to know or learn something"
-  },
-  {
-    "q": "Metals, plastics, and rubbers are types of:",
-    "o": [
-      "Animals",
-      "Materials",
-      "Food items",
-      "Scientific methods"
-    ],
-    "a": 1,
-    "sol": "Materials"
-  },
-  {
-    "q": "\"Fascinating journey\" in the text refers to:",
-    "o": [
-      "A bus trip",
-      "The study of Science",
-      "Walking to school",
-      "Reading a novel"
-    ],
-    "a": 1,
-    "sol": "The study of Science"
-  },
-  {
-    "q": "The \"secrets of the universe\" are uncovered by:",
-    "o": [
-      "Watching TV",
-      "Science",
-      "Sleeping",
-      "Luck"
-    ],
-    "a": 1,
-    "sol": "Science"
-  },
-  {
-    "q": "Science is everywhere, even in the:",
-    "o": [
-      "Depths of the ocean",
-      "Kitchen",
-      "Playground",
-      "All of the above"
-    ],
+    "q": "Who among the following is an expert in mimicking bird calls and identifying plants?",
+    "o": ["Dr. Raghu", "Alex’s grandmother", "Janaki Ammal", "Maniram chacha"],
     "a": 3,
-    "sol": "All of the above"
+    "sol": "Maniram chacha is the local expert mentioned for his skills."
   },
   {
-    "q": "New discoveries change our:",
-    "o": [
-      "Name",
-      "Understanding of the world",
-      "School uniform",
-      "Height"
-    ],
+    "q": "The unique chirp of each bird is an example of what?",
+    "o": ["Adaptation to sound", "Diversity in nature", "Habitat destruction", "Mimicry"],
     "a": 1,
-    "sol": "Understanding of the world"
+    "sol": "Variety in sounds is a part of natural biodiversity."
   },
   {
-    "q": "\"Dal spilled out of the cooker\" - this observation leads to:",
-    "o": [
-      "Anger",
-      "A scientific question (Was there too much water?)",
-      "Buying a new cooker",
-      "Stopping cooking"
-    ],
+    "q": "According to Table 2.1, what is a feature of the common grass stem?",
+    "o": ["Hard and thick", "Soft and thin", "Hard and thin", "Fleshy and green"],
     "a": 1,
-    "sol": "A scientific question (Was there too much water?)"
+    "sol": "Grass typically has a soft and thin stem structure."
   },
   {
-    "q": "The textbook encourages students to \"never stop wondering\":",
-    "o": [
-      "Running",
-      "Wondering",
-      "Talking",
-      "Eating"
-    ],
-    "a": 1,
-    "sol": "Wondering"
+    "q": "In a Tulsi plant, how are the leaves arranged on the stem?",
+    "o": ["In a single line from one point", "Alternatively from different points", "In a pair in opposite directions", "Only at the top of the branch"],
+    "a": 2,
+    "sol": "Tulsi leaves are arranged in opposite pairs."
   },
   {
-    "q": "\"Joyful exploration\" means the journey of science should be:",
-    "o": [
-      "Stressful",
-      "Fun and exciting",
-      "Very quiet",
-      "Only for exams"
-    ],
-    "a": 1,
-    "sol": "Fun and exciting"
-  },
-  {
-    "q": "Which of these is a \"delightful\" activity mentioned with water?",
-    "o": [
-      "Washing clothes",
-      "Jumping in a puddle",
-      "Mopping the floor",
-      "Boiling eggs"
-    ],
-    "a": 1,
-    "sol": "Jumping in a puddle"
-  },
-  {
-    "q": "Science helps us understand how things:",
-    "o": [
-      "Cost",
-      "Work",
-      "Look in a mirror",
-      "Taste only"
-    ],
-    "a": 1,
-    "sol": "Work"
-  },
-  {
-    "q": "What is compared to adding a piece to a puzzle?",
-    "o": [
-      "Every new discovery",
-      "Every new student",
-      "Every new page",
-      "Every new day"
-    ],
+    "q": "Which of these plants is specifically mentioned as having a hard and thick stem?",
+    "o": ["Neem", "Common grass", "Hibiscus", "Tomato"],
     "a": 0,
-    "sol": "Every new discovery"
+    "sol": "Neem is a tree with a characteristically thick, woody stem."
   },
   {
-    "q": "To learn science well, you must observe your surroundings:",
-    "o": [
-      "Blindly",
-      "Keenly",
-      "Rarely",
-      "Only in books"
-    ],
+    "q": "According to the text, what do ants eat?",
+    "o": ["Only grass", "Leaves, seeds, and insects", "Small birds", "Only sugar"],
     "a": 1,
-    "sol": "Keenly"
+    "sol": "Ants have a diverse diet including organic matter."
   },
   {
-    "q": "If you cannot find an answer yourself, the book suggests:",
-    "o": [
-      "Give up",
-      "Ask your friends to help out",
-      "Wait for Grade 12",
-      "Guess and never test it"
-    ],
+    "q": "Which animal is described as having six legs and living in nests in soil or burrows?",
+    "o": ["Crow", "Cow", "Ant", "Frog"],
+    "a": 2,
+    "sol": "Ants are insects with six legs living in soil colonies."
+  },
+  {
+    "q": "How is biodiversity defined in the textbook?",
+    "o": ["The study of ancient plants", "The variety of plants and animals found in a particular region", "The process of animals moving from land to water", "The way humans use plants for medicine"],
     "a": 1,
-    "sol": "Ask your friends to help out"
+    "sol": "Biodiversity refers to the variety of life in a specific area."
   },
   {
-    "q": "\"Science is rarely done alone\" means it involves:",
-    "o": [
-      "Competition",
-      "Collaboration/Working together",
-      "Secretive work",
-      "Watching others work"
-    ],
+    "q": "What is the role of animals in helping plants in the biodiversity of a region?",
+    "o": ["They provide oxygen to the plants", "They help in spreading seeds after eating fruits", "They provide shelter to the trees", "They stop the growth of weeds"],
     "a": 1,
-    "sol": "Collaboration/Working together"
+    "sol": "Animals aid in plant reproduction via seed dispersal."
   },
   {
-    "q": "\"Tiny grains of sand\" can be:",
-    "o": [
-      "Ignored",
-      "Studied by science",
-      "Used for cooking",
-      "Only for building houses"
-    ],
+    "q": "What is the primary benefit of 'grouping' plants and animals?",
+    "o": ["It makes the forest look more organized", "It makes it easier to understand and study them based on similarities", "It helps in plucking flowers more quickly", "It increases the number of species in a region"],
     "a": 1,
-    "sol": "Studied by science"
+    "sol": "Grouping or classification simplifies scientific study."
   },
   {
-    "q": "\"Massive mountains\" are mentioned to show:",
-    "o": [
-      "How to climb",
-      "The scale of scientific study",
-      "Where water comes from",
-      "Why Earth is round"
-    ],
+    "q": "Based on height and type of stem, plants are generally grouped into:",
+    "o": ["Terrestrial, Aquatic, and Amphibians", "Monocots and Dicots", "Herbs, shrubs, and trees", "Taproots and Fibrous roots"],
+    "a": 2,
+    "sol": "The standard physical classification is herbs, shrubs, and trees."
+  },
+  {
+    "q": "A Mango tree is classified as a tree because:",
+    "o": ["It has a green tender stem", "It has a thin brown stem branching close to the ground", "It has a hard, thick, brown, and woody stem with branches higher up", "It creeps along the ground"],
+    "a": 2,
+    "sol": "Trees have tall, woody stems called trunks."
+  },
+  {
+    "q": "Which of the following is an example of a shrub according to Table 2.3?",
+    "o": ["Mango", "Rose", "Tomato", "Grass"],
     "a": 1,
-    "sol": "The scale of scientific study"
+    "sol": "Rose plants have woody stems branching near the ground, making them shrubs."
   },
   {
-    "q": "The \"Middle Stage\" is the time when science becomes:",
-    "o": [
-      "A forgotten subject",
-      "A new fascinating subject",
-      "An optional hobby",
-      "A history lesson"
-    ],
-    "a": 1,
-    "sol": "A new fascinating subject"
+    "q": "What is the characteristic of a 'Herb' like the tomato plant?",
+    "o": ["Tall with woody branches", "Medium height with thin woody stems", "Small with soft and green stems", "Weak stems that need support to climb"],
+    "a": 2,
+    "sol": "Herbs are identified by their short height and soft stems."
   },
   {
-    "q": "\"Questions on things beyond Earth\" include:",
-    "o": [
-      "The Sun",
-      "The Moon",
-      "Millions of stars",
-      "All of the above"
-    ],
+    "q": "Plants with weak stems that need support to climb and grow are called:",
+    "o": ["Creepers", "Shrubs", "Herbs", "Climbers"],
     "a": 3,
-    "sol": "All of the above"
+    "sol": "Climbers use external support to grow upwards."
   },
   {
-    "q": "Analysis helps us see if results:",
-    "o": [
-      "Are beautiful",
-      "Answer our question",
-      "Match our friend's answer",
-      "Are long enough"
-    ],
+    "q": "What are the thin lines seen on the leaves of plants called?",
+    "o": ["Stems", "Veins", "Branches", "Roots"],
     "a": 1,
-    "sol": "Answer our question"
+    "sol": "These lines are veins that transport water and minerals."
   },
   {
-    "q": "The \"Scientific Method\" is basically:",
-    "o": [
-      "A list of definitions",
-      "A way of finding answers to questions",
-      "A way to get an A+",
-      "A set of chemicals"
-    ],
+    "q": "The pattern of veins on a leaf is known as:",
+    "o": ["Photosynthesis", "Venation", "Transpiration", "Adaptation"],
     "a": 1,
-    "sol": "A way of finding answers to questions"
+    "sol": "Venation is the term for the arrangement of veins."
   },
   {
-    "q": "An \"electrician\" acts like a scientist when they:",
-    "o": [
-      "Charge a lot of money",
-      "Find out why a bulb is not working",
-      "Wear a uniform",
-      "Use a ladder"
-    ],
+    "q": "Hibiscus leaves exhibit which type of venation?",
+    "o": ["Parallel venation", "Net-like middle venation", "Reticulate venation", "Fibrous venation"],
+    "a": 2,
+    "sol": "Reticulate venation forms a net-like pattern."
+  },
+  {
+    "q": "Parallel venation is a characteristic feature of which plant's leaves?",
+    "o": ["Hibiscus", "Mustard", "Banana", "Peepal"],
+    "a": 2,
+    "sol": "Banana leaves have veins running parallel to each other."
+  },
+  {
+    "q": "In a mustard plant, the root consists of one main root and small side roots. This is called:",
+    "o": ["Fibrous root", "Lateral root", "Taproot", "Primary root"],
+    "a": 2,
+    "sol": "A central main root system is known as a taproot."
+  },
+  {
+    "q": "Grass roots appear as a bunch of similar-sized thin roots. These are called:",
+    "o": ["Taproots", "Fibrous roots", "Main roots", "Aquatic roots"],
     "a": 1,
-    "sol": "Find out why a bulb is not working"
+    "sol": "Fibrous roots lack a main central root."
   },
   {
-    "q": "\"Caterpillar transforming into a butterfly\" is:",
-    "o": [
-      "A mechanical change",
-      "An observation",
-      "A puzzle piece",
-      "Both B and C"
-    ],
+    "q": "Generally, plants with reticulate venation have which type of root system?",
+    "o": ["Fibrous roots", "No roots", "Taproot", "Aerial roots"],
+    "a": 2,
+    "sol": "Reticulate venation is usually paired with taproots."
+  },
+  {
+    "q": "Which of these plants has parallel venation and fibrous roots?",
+    "o": ["Sadabahar", "Mustard", "Lemongrass", "Chickpea"],
+    "a": 2,
+    "sol": "Lemongrass (like grass) has parallel venation and fibrous roots."
+  },
+  {
+    "q": "Wheat is an example of a plant having:",
+    "o": ["Taproots and parallel venation", "Fibrous roots and reticulate venation", "Taproots and reticulate venation", "Fibrous roots and parallel venation"],
     "a": 3,
-    "sol": "Both B and C"
+    "sol": "Wheat is a monocot with fibrous roots and parallel venation."
   },
   {
-    "q": "The text calls water a \"delightful substance\":",
-    "o": [
-      "Liquid",
-      "Substance",
-      "Drink",
-      "Element"
-    ],
+    "q": "When a chickpea seed is soaked and the coat is removed, it splits into two parts. These parts are called:",
+    "o": ["Roots", "Cotyledons", "Veins", "Embryos"],
     "a": 1,
-    "sol": "Substance"
+    "sol": "The seed leaves are called cotyledons."
   },
   {
-    "q": "Science is not just about memorizing, but about:",
-    "o": [
-      "Following a process",
-      "Shouting \"Eureka\"",
-      "Drawing diagrams",
-      "Being in a team"
-    ],
+    "q": "Plants whose seeds have two cotyledons are called:",
+    "o": ["Monocotyledons", "Dicotyledons", "Tricotyledons", "Non-cotyledons"],
+    "a": 1,
+    "sol": "Di- means two; hence Dicotyledons."
+  },
+  {
+    "q": "Maize is an example of a:",
+    "o": ["Dicot plant", "Shrub", "Monocot plant", "Tree"],
+    "a": 2,
+    "sol": "Maize seeds do not split into two, making them monocots."
+  },
+  {
+    "q": "Which combination is correct for a Dicot plant?",
+    "o": ["Parallel venation, Taproot", "Reticulate venation, Taproot", "Parallel venation, Fibrous root", "Reticulate venation, Fibrous root"],
+    "a": 1,
+    "sol": "Dicots typically show reticulate venation and taproots."
+  },
+  {
+    "q": "Which body parts does a pigeon use for movement?",
+    "o": ["Only wings", "Legs and wings", "Only legs", "Fins and tail"],
+    "a": 1,
+    "sol": "Pigeons walk on legs and fly using wings."
+  },
+  {
+    "q": "According to Table 2.5, how does a fish move?",
+    "o": ["Using legs", "Using wings", "Using fins", "Using scales"],
+    "a": 2,
+    "sol": "Fins help fish propel and balance in water."
+  },
+  {
+    "q": "Janaki Ammal (1897–1984) was a famous Indian:",
+    "o": ["Zoologist", "Physicist", "Botanist", "Geologist"],
+    "a": 2,
+    "sol": "She was a pioneering female scientist in botany."
+  },
+  {
+    "q": "Janaki Ammal played a key role in which environmental movement?",
+    "o": ["Chipko Movement", "Save Silent Valley Movement", "Narmada Bachao Andolan", "Appiko Movement"],
+    "a": 1,
+    "sol": "She advocated for the protection of Silent Valley."
+  },
+  {
+    "q": "Where is the Silent Valley forest located?",
+    "o": ["Rajasthan", "Himachal Pradesh", "Kerala", "Karnataka"],
+    "a": 2,
+    "sol": "Silent Valley is a famous tropical forest in Kerala."
+  },
+  {
+    "q": "The Silent Valley movement fought against the proposal of a hydroelectric dam across which river?",
+    "o": ["Ganga", "Kunthipuzha", "Kaveri", "Yamuna"],
+    "a": 1,
+    "sol": "The dam was planned over the Kunthipuzha river."
+  },
+  {
+    "q": "What feature helps a fish move easily in water?",
+    "o": ["Long legs", "Streamlined body", "Fleshy stem", "Two humps"],
+    "a": 1,
+    "sol": "A streamlined shape reduces resistance in water."
+  },
+  {
+    "q": "Why do cactus plants have thick and fleshy stems in the desert?",
+    "o": ["To attract insects", "To store water", "To protect from snowfall", "To help them climb trees"],
+    "a": 1,
+    "sol": "Fleshy stems act as water reservoirs in arid climates."
+  },
+  {
+    "q": "Deodar trees found in the Himalayas have what type of shape?",
+    "o": ["Circular", "Conical", "Rectangular", "Flat"],
+    "a": 1,
+    "sol": "The conical shape is an adaptation for snow."
+  },
+  {
+    "q": "How do the sloping branches of deodar trees help them?",
+    "o": ["To store food", "To let the snow slide off easily", "To catch more sunlight", "To hide from animals"],
+    "a": 1,
+    "sol": "Sloping branches prevent snow accumulation."
+  },
+  {
+    "q": "Camels in the hot desert of Rajasthan have long legs and wide hooves to:",
+    "o": ["Run faster than horses", "Walk on sandy desert without sinking", "Climb mountains", "Swim in desert oases"],
+    "a": 1,
+    "sol": "Wide hooves distribute weight on loose sand."
+  },
+  {
+    "q": "How do camels of the cold desert (Ladakh) differ from those of hot deserts?",
+    "o": ["They have no humps", "They have shorter legs and two humps", "They have longer legs and one hump", "They have fins instead of hooves"],
+    "a": 1,
+    "sol": "Bactrian camels have two humps and shorter legs."
+  },
+  {
+    "q": "Why do cold-desert camels grow long hair from head to neck?",
+    "o": ["To look beautiful", "To protect them from the sun", "To help them survive cold winters", "To store extra food"],
+    "a": 2,
+    "sol": "Long hair provides insulation against extreme cold."
+  },
+  {
+    "q": "Where do camels store their food to survive scarcity?",
+    "o": ["In their stomach", "In their humps", "In their hooves", "In their long necks"],
+    "a": 1,
+    "sol": "Humps store fat, which provides energy when food is low."
+  },
+  {
+    "q": "Which of the following is NOT a way camels save water?",
+    "o": ["Excreting small amounts of urine", "Having dry dung", "Sweating profusely", "Not losing much water from the body"],
+    "a": 2,
+    "sol": "Camels do not sweat much to conserve body water."
+  },
+  {
+    "q": "Rhododendrons in the Shola forests of Nilgiris have shorter height and smaller leaves to:",
+    "o": ["Store water for the summer", "Survive heavy winds on mountain tops", "Attract more bees", "Slide off the snow"],
+    "a": 1,
+    "sol": "Stunted growth protects them from strong winds."
+  },
+  {
+    "q": "The special features that enable plants and animals to survive in a particular region are called:",
+    "o": ["Habitats", "Biodiversity", "Adaptations", "Grouping"],
+    "a": 2,
+    "sol": "Adaptation is the process of adjusting to an environment."
+  },
+  {
+    "q": "The place where plants and animals live is called their:",
+    "o": ["Adaptation", "Habitat", "Surroundings", "Region"],
+    "a": 1,
+    "sol": "A habitat is the natural home of an organism."
+  },
+  {
+    "q": "Which of the following is an example of an aquatic habitat?",
+    "o": ["Forest", "Grassland", "Ocean", "Desert"],
+    "a": 2,
+    "sol": "Oceans are the largest aquatic habitats."
+  },
+  {
+    "q": "Forests, deserts, and mountains are examples of:",
+    "o": ["Aquatic habitats", "Terrestrial habitats", "Amphibian habitats", "Artificial habitats"],
+    "a": 1,
+    "sol": "Land-based habitats are called terrestrial."
+  },
+  {
+    "q": "Animals like frogs that can live both in water and on land are called:",
+    "o": ["Mammals", "Reptiles", "Amphibians", "Fish"],
+    "a": 2,
+    "sol": "Amphi- means dual; amphibians live in both environments."
+  },
+  {
+    "q": "Who is known as the ‘Birdman of India’?",
+    "o": ["Dr. Raghu", "Salim Ali", "Janaki Ammal", "Maniram chacha"],
+    "a": 1,
+    "sol": "Salim Ali was a world-renowned ornithologist."
+  },
+  {
+    "q": "Salim Ali was awarded which prestigious award in 1976?",
+    "o": ["Bharat Ratna", "Padma Bhushan", "Padma Vibhushan", "Nobel Prize"],
+    "a": 2,
+    "sol": "He received the Padma Vibhushan for his work in conservation."
+  },
+  {
+    "q": "Which National Park in Rajasthan was preserved by Salim Ali?",
+    "o": ["Keoladeo National Park", "Jim Corbett National Park", "Kaziranga National Park", "Gir National Park"],
     "a": 0,
-    "sol": "Following a process"
+    "sol": "He was instrumental in protecting the Keoladeo (Bharatpur) wetland."
   },
   {
-    "q": "\"Hot and cold\" are understood through:",
-    "o": [
-      "Hearing",
-      "Science/Measurement",
-      "History",
-      "Dreams"
-    ],
+    "q": "What happens when the habitat of a plant or animal is damaged?",
+    "o": ["Biodiversity increases", "It leads to the loss of biodiversity", "Animals find better homes instantly", "Plants grow faster"],
     "a": 1,
-    "sol": "Science/Measurement"
+    "sol": "Habitat destruction is the main cause of species extinction."
   },
   {
-    "q": "Why is there \"no limit\" to what we can discover?",
-    "o": [
-      "Because the book is very thick",
-      "Every new piece of knowledge leads to more questions",
-      "Because the Earth is very old",
-      "Because scientists never sleep"
-    ],
+    "q": "When was ‘Project Tiger’ initiated in India to protect the Bengal Tiger?",
+    "o": ["1983", "1973", "1993", "2003"],
     "a": 1,
-    "sol": "Every new piece of knowledge leads to more questions"
+    "sol": "Project Tiger was launched in 1973 to save tigers."
   },
   {
-    "q": "\"Groundbreaking discoveries\" are:",
-    "o": [
-      "Discoveries that break the ground",
-      "Very important and new discoveries",
-      "Boring discoveries",
-      "Discoveries made by accident only"
-    ],
-    "a": 1,
-    "sol": "Very important and new discoveries"
+    "q": "Which project was initiated in 2022 to restore a specific animal population in India?",
+    "o": ["Project Lion", "Project Elephant", "Cheetah Reintroduction Project", "Great Indian Bustard Project"],
+    "a": 2,
+    "sol": "Cheetahs were brought back to India in 2022."
   },
   {
-    "q": "Science is \"all about joyful exploration\":",
-    "o": [
-      "Facts and figures",
-      "Joyful exploration",
-      "Classroom rules",
-      "Quiet reading"
-    ],
+    "q": "In which states have habitats of the Great Indian Bustard been declared as protected areas?",
+    "o": ["Kerala and Karnataka", "Gujarat, Rajasthan, and Maharashtra", "Sikkim and Himachal Pradesh", "Tamil Nadu and Andhra Pradesh"],
     "a": 1,
-    "sol": "Joyful exploration"
+    "sol": "These western states are the main habitats for the Bustard."
   },
   {
-    "q": "\"Spirit of inquiry\" means:",
-    "o": [
-      "Being scared",
-      "Wanting to ask and find out",
-      "Being a ghost",
-      "Studying history"
-    ],
+    "q": "Undisturbed patches of forests protected by local communities are called:",
+    "o": ["National Parks", "Sacred Groves", "Botanical Gardens", "Wildlife Sanctuaries"],
     "a": 1,
-    "sol": "Wanting to ask and find out"
+    "sol": "Sacred groves are community-protected forest patches."
   },
   {
-    "q": "\"Tiny grains of sand\" and \"massive mountains\" both offer:",
-    "o": [
-      "Problems",
-      "Something new and exciting to discover",
-      "Only dust",
-      "Only rocks"
-    ],
-    "a": 1,
-    "sol": "Something new and exciting to discover"
+    "q": "Which region's sacred groves are mentioned in the image in the textbook?",
+    "o": ["Himalayas", "Eastern Ghats", "Western Ghats", "Thar Desert"],
+    "a": 2,
+    "sol": "Western Ghats are famous for their ancient sacred groves."
   },
   {
-    "q": "Which of these is an example of \"doing things\" in science?",
-    "o": [
-      "Sleeping",
-      "Thought-provoking experiments",
-      "Watching TV",
-      "Thinking about lunch"
-    ],
+    "q": "What is NOT allowed in sacred groves according to traditional rules?",
+    "o": ["Walking through the area", "Cutting trees or harming animals", "Taking photographs", "Observing the plants"],
     "a": 1,
-    "sol": "Thought-provoking experiments"
+    "sol": "Strict religious rules prevent any harm to the ecosystem."
   },
   {
-    "q": "\"Observations\" are made using our:",
-    "o": [
-      "Pockets",
-      "Senses/Keen eyes",
-      "Hands only",
-      "Backpacks"
-    ],
+    "q": "Based on the summary, what are monocots?",
+    "o": ["Plants with taproots", "Plants with seeds having one cotyledon", "Plants with reticulate venation", "Plants that grow as large trees"],
     "a": 1,
-    "sol": "Senses/Keen eyes"
+    "sol": "Monocots have a single seed leaf (cotyledon)."
   },
   {
-    "q": "A \"puzzle piece\" in the wrong place means:",
-    "o": [
-      "Science is wrong",
-      "Understanding needs to be changed",
-      "The book has a typo",
-      "We should stop doing science"
-    ],
+    "q": "Which feature is used to group animals in Table 2.5?",
+    "o": ["Color of skin", "Type of movement and body parts used", "Type of food they eat", "Number of offspring"],
     "a": 1,
-    "sol": "Understanding needs to be changed"
+    "sol": "The table focuses on how different animals move."
   },
   {
-    "q": "Science is described as an \"unending jigsaw puzzle\":",
-    "o": [
-      "Story",
-      "Jigsaw puzzle",
-      "Road",
-      "Exam"
-    ],
-    "a": 1,
-    "sol": "Jigsaw puzzle"
+    "q": "What is the habitat of sea turtles?",
+    "o": ["Rivers", "Mountains", "Sea or Ocean", "Deserts"],
+    "a": 2,
+    "sol": "Sea turtles live in marine environments."
   },
   {
-    "q": "The \"environment\" is something we must:",
-    "o": [
-      "Destroy",
-      "Protect",
-      "Ignore",
-      "Sell"
-    ],
-    "a": 1,
-    "sol": "Protect"
+    "q": "Which scientist wrote a landmark series of 10 books on birds of the Indian Subcontinent?",
+    "o": ["Janaki Ammal", "Dr. Raghu", "Salim Ali", "C.V. Raman"],
+    "a": 2,
+    "sol": "Salim Ali authored the comprehensive Handbook of Birds."
   },
   {
-    "q": "\"Life on Earth\" survives and thrives in:",
-    "o": [
-      "Only one region",
-      "Different regions",
-      "Only cities",
-      "Only forests"
-    ],
-    "a": 1,
-    "sol": "Different regions"
+    "q": "The 'Save Silent Valley' movement lasted for how many years?",
+    "o": ["2 years", "5 years", "10 years", "20 years"],
+    "a": 2,
+    "sol": "The public movement spanned a decade (approx 1973-1983)."
   },
   {
-    "q": "Cuisines are fascinating because they are:",
-    "o": [
-      "Scientific tools",
-      "Diverse and tasty",
-      "Only found in laboratories",
-      "Made of metal"
-    ],
-    "a": 1,
-    "sol": "Diverse and tasty"
+    "q": "Which plant is a 'creeper' according to the classification in the text?",
+    "o": ["Rose", "Mango", "Plants that grow along the ground", "Tomato"],
+    "a": 2,
+    "sol": "Creepers cannot stand upright and spread on the ground."
   },
   {
-    "q": "\"Separating different materials\" is a:",
-    "o": [
-      "Waste of time",
-      "Scientific exploration",
-      "Game for children",
-      "Way to clean the house"
-    ],
-    "a": 1,
-    "sol": "Scientific exploration"
+    "q": "Taproot system is found in which of the following?",
+    "o": ["Maize", "Grass", "Mustard", "Wheat"],
+    "a": 2,
+    "sol": "Mustard is a dicot and hence has a taproot system."
   },
   {
-    "q": "Understanding \"how it rains\" is:",
-    "o": [
-      "History",
-      "Science",
-      "English",
-      "Art"
-    ],
+    "q": "In Activity 2.8, why were the seeds soaked in water?",
+    "o": ["To make them grow into plants", "To easily remove the seed coat and observe structure", "To cook them", "To change their color"],
     "a": 1,
-    "sol": "Science"
+    "sol": "Soaking softens the seed coat for easy dissection."
   },
   {
-    "q": "A \"body with fever\" is an example of needing to understand:",
-    "o": [
-      "How to sleep",
-      "How hot something is",
-      "How to talk",
-      "How to run"
-    ],
-    "a": 1,
-    "sol": "How hot something is"
+    "q": "Which of these animals moves by hopping or jumping?",
+    "o": ["Fish", "Snake", "Frog", "Earthworm"],
+    "a": 2,
+    "sol": "Frogs use strong hind legs to hop."
   },
   {
-    "q": "The journey of science lasts for:",
-    "o": [
-      "Grade 6 only",
-      "Next five years and beyond",
-      "Only holidays",
-      "Graduation day only"
-    ],
+    "q": "What does the 'Save Silent Valley' story teach us about biodiversity conservation?",
+    "o": ["Only scientists can save forests", "Common people can lead successful movements to save nature", "Dams are more important than forests", "Forests cannot be saved if the government wants a dam"],
     "a": 1,
-    "sol": "Next five years and beyond"
+    "sol": "Community action is powerful in environmental protection."
   },
   {
-    "q": "A \"Wise person\" asks:",
-    "o": [
-      "\"Who?\"",
-      "\"Why?\"",
-      "\"Where?\"",
-      "\"When?\""
-    ],
+    "q": "Which of the following is a 'Keyword' mentioned at the end of the chapter?",
+    "o": ["Photosynthesis", "Reticulate venation", "Evaporation", "Magnetism"],
     "a": 1,
-    "sol": "\"Why?\""
+    "sol": "Reticulate venation is a key biological term from this chapter."
   },
   {
-    "q": "The phrase \"after all, to be a wise person, you must be a 'whys' person\" is a:",
-    "o": [
-      "Warning",
-      "Pun/Play on words to encourage questioning",
-      "Scientific law",
-      "Math equation"
-    ],
+    "q": "What is the function of the 'hump' in a camel?",
+    "o": ["To store water directly as liquid", "To store fat/food for survival during scarcity", "To protect from predators", "To help the camel balance while running"],
     "a": 1,
-    "sol": "Pun/Play on words to encourage questioning"
+    "sol": "The hump stores fat, not water, which is metabolized into energy."
   },
   {
-    "q": "Are you ready to embark on this journey?",
-    "o": [
-      "No",
-      "Yes! (According to the textbook spirit)",
-      "Maybe",
-      "I am tired"
-    ],
+    "q": "Which body part does a housefly use to move?",
+    "o": ["Only legs", "Only wings", "Legs and wings", "Fins"],
+    "a": 2,
+    "sol": "Insects use both legs for walking and wings for flying."
+  },
+  {
+    "q": "The 'Sacred Groves' are primarily protected by:",
+    "o": ["The Central Government", "International organizations", "Local communities", "School students"],
+    "a": 2,
+    "sol": "Groves are protected through local tradition and faith."
+  },
+  {
+    "q": "Which plant group has a 'tender' stem?",
+    "o": ["Tree", "Shrub", "Herb", "Climber"],
+    "a": 2,
+    "sol": "Herbs are characterized by green and tender stems."
+  },
+  {
+    "q": "Hibiscus is categorized as a:",
+    "o": ["Tree", "Shrub", "Herb", "Creeper"],
     "a": 1,
-    "sol": "Yes! (According to the textbook spirit)"
+    "sol": "It is a medium-sized plant with woody stems, classified as a shrub."
+  },
+  {
+    "q": "Parallel venation looks like:",
+    "o": ["A net-like pattern", "Lines running parallel to each other", "Circles inside the leaf", "No lines at all"],
+    "a": 1,
+    "sol": "Veins run straight alongside each other in parallel venation."
+  },
+  {
+    "q": "Which animal is found in the 'Forest' region according to Table 2.6?",
+    "o": ["Fish", "Camel", "Lion", "Yak"],
+    "a": 2,
+    "sol": "Lions are terrestrial animals living in forests/grasslands."
+  },
+  {
+    "q": "Who traveled across India to document bird travel routes?",
+    "o": ["Janaki Ammal", "Maniram chacha", "Salim Ali", "Dr. Raghu"],
+    "a": 2,
+    "sol": "Salim Ali pioneered bird migration studies in India."
+  },
+  {
+    "q": "Reticulate venation is found in:",
+    "o": ["Grass", "Maize", "Hibiscus", "Banana"],
+    "a": 2,
+    "sol": "Hibiscus leaves show a branching network of veins."
+  },
+  {
+    "q": "The main root in a taproot system is:",
+    "o": ["Thinner than side roots", "The thick central root", "Absent", "Replaced by a bunch of roots"],
+    "a": 1,
+    "sol": "The primary root is the central vertical root."
+  },
+  {
+    "q": "A cow moves by:",
+    "o": ["Flying", "Swimming", "Walking", "Crawling"],
+    "a": 2,
+    "sol": "Cows use their four legs to walk on land."
+  },
+  {
+    "q": "Monocot seeds like maize:",
+    "o": ["Can be split into two equal halves", "Have only one cotyledon", "Have no cotyledons", "Are always very large"],
+    "a": 1,
+    "sol": "Monocots cannot be easily split into two cotyledons."
+  },
+  {
+    "q": "Which of the following is a terrestrial habitat?",
+    "o": ["Lake", "River", "Grassland", "Pond"],
+    "a": 2,
+    "sol": "Grasslands are a major type of land habitat."
+  },
+  {
+    "q": "Why are sacred groves important?",
+    "o": ["They are used for industrial purposes", "They act as a treasure of biodiversity and medicinal plants", "They are great places for building dams", "They are used for farming"],
+    "a": 1,
+    "sol": "They preserve rare species and natural ecological balance."
+  },
+  {
+    "q": "In a Rose plant, branches arise:",
+    "o": ["High up on the stem", "Close to the ground", "Only from the roots", "There are no branches"],
+    "a": 1,
+    "sol": "Shrubs like roses branch out from the base."
+  },
+  {
+    "q": "Which animal has fins?",
+    "o": ["Goat", "Pigeon", "Fish", "Ant"],
+    "a": 2,
+    "sol": "Fins are aquatic appendages for swimming."
+  },
+  {
+    "q": "The Great Indian Bustard population declined due to:",
+    "o": ["Lack of water in the desert", "Loss of natural habitats caused by human activities", "Increase in predator numbers", "Too much rainfall"],
+    "a": 1,
+    "sol": "Habit loss is the critical factor for their endangerment."
+  },
+  {
+    "q": "Biodiversity varies from region to region because of:",
+    "o": ["Diverse conditions/environments", "People's preferences", "Number of schools in the area", "Type of notebook used by students"],
+    "a": 0,
+    "sol": "Climate and geography dictate the type of life that thrives."
+  },
+  {
+    "q": "What should we NOT do during a nature walk?",
+    "o": ["Observe plants", "Record sounds", "Pluck leaves and flowers", "Carry a water bottle"],
+    "a": 2,
+    "sol": "Plucking harms the biodiversity we are observing."
+  },
+  {
+    "q": "The stem of a Mango tree is:",
+    "o": ["Green and soft", "Brown, hard, and thick", "Brown, hard, and thin", "Non-existent"],
+    "a": 1,
+    "sol": "Mango trees have massive, woody trunks."
+  },
+  {
+    "q": "A 'Khupri' is used in Activity 2.6 to:",
+    "o": ["Cut the leaves", "Dig out herbs without damaging roots", "Measure the height of a tree", "Kill insects"],
+    "a": 1,
+    "sol": "It's a small tool for careful digging."
+  },
+  {
+    "q": "Sadabahar (Periwinkle) leaves have:",
+    "o": ["Parallel venation", "Reticulate venation", "No venation", "Circular venation"],
+    "a": 1,
+    "sol": "It is a dicot plant with net-like venation."
+  },
+  {
+    "q": "The Cheetah Reintroduction Project started in:",
+    "o": ["1973", "2002", "2022", "1947"],
+    "a": 2,
+    "sol": "Cheetahs were re-introduced to Kuno National Park in 2022."
+  },
+  {
+    "q": "Janaki Ammal was the head of which organization?",
+    "o": ["Zoological Survey of India", "Botanical Survey of India", "ISRO", "Wildlife Institute of India"],
+    "a": 1,
+    "sol": "She served as the Director-General of BSI."
+  },
+  {
+    "q": "Which of these is a monocot?",
+    "o": ["Chickpea", "Maize", "Pea", "Mango"],
+    "a": 1,
+    "sol": "Maize is a cereal grain and a monocot."
+  },
+  {
+    "q": "To respect living creatures during a nature walk, Dr. Raghu says we should:",
+    "o": ["Feed them bread", "Observe them without disturbing", "Catch them to see them closely", "Name them after ourselves"],
+    "a": 1,
+    "sol": "Non-interference is the rule of observing wildlife."
+  },
+  {
+    "q": "Adaptations like conical shape in trees are found in:",
+    "o": ["Deserts", "Oceans", "Mountains", "Grasslands"],
+    "a": 2,
+    "sol": "Conical trees are adapted to survive heavy snow in high altitudes."
+  },
+  {
+    "q": "We must protect biodiversity to ensure:",
+    "o": ["Our planet is full of life and species thrive", "We have more wood for furniture", "Animals stay in cages", "We can build more roads in forests"],
+    "a": 0,
+    "sol": "Conservation is essential for the survival of the Earth's ecosystem."
   }
 ]
