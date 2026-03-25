@@ -1,0 +1,602 @@
+[
+{
+"q": "Which of the following is considered a 'Nature's Treasure'?",
+"o": ["Plastic bottles", "Sunlight", "Mobile phones", "Concrete buildings"],
+"a": 1,
+"sol": "Natural resources like sunlight are treasures provided by nature for all living beings."
+},
+{
+"q": "The layer of air surrounding the Earth is called:",
+"o": ["Hydrosphere", "Lithosphere", "Atmosphere", "Biosphere"],
+"a": 2,
+"sol": "Atmosphere is the thick blanket of gases that protects and sustains life."
+},
+{
+"q": "Which gas is most abundant in the Earth's atmosphere?",
+"o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+"a": 1,
+"sol": "Nitrogen makes up about 78% of the air."
+},
+{
+"q": "Moving air is known as:",
+"o": ["Wind", "Storm", "Cyclone", "Breeze"],
+"a": 0,
+"sol": "Air in motion is called wind."
+},
+{
+"q": "Which of these is a renewable source of energy?",
+"o": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+"a": 2,
+"sol": "Solar energy is renewable as it is inexhaustible."
+},
+{
+"q": "The process by which plants release water vapor into the air is:",
+"o": ["Evaporation", "Condensation", "Transpiration", "Precipitation"],
+"a": 2,
+"sol": "Transpiration is the loss of water from plant leaves in the form of vapor."
+},
+{
+"q": "Which of the following is essential for burning (combustion)?",
+"o": ["Nitrogen", "Carbon dioxide", "Oxygen", "Hydrogen"],
+"a": 2,
+"sol": "Oxygen is a supporter of combustion."
+},
+{
+"q": "Water that is fit for drinking is called:",
+"o": ["Saline water", "Potable water", "Distilled water", "Groundwater"],
+"a": 1,
+"sol": "Potable water is safe to drink and free from harmful germs."
+},
+{
+"q": "The main source of groundwater is:",
+"o": ["Rivers", "Lakes", "Rain", "Oceans"],
+"a": 2,
+"sol": "Rainwater seeps into the ground to recharge groundwater levels."
+},
+{
+"q": "Which of these is NOT a fossil fuel?",
+"o": ["Coal", "Wood", "Petroleum", "Natural gas"],
+"a": 1,
+"sol": "Wood is a biomass fuel, not a fossil fuel formed over millions of years."
+},
+{
+"q": "The top layer of the Earth's surface where plants grow is:",
+"o": ["Sand", "Rock", "Soil", "Clay"],
+"a": 2,
+"sol": "Soil provides nutrients and support for plant growth."
+},
+{
+"q": "Which method is used to conserve soil from being washed away by rain?",
+"o": ["Deforestation", "Overgrazing", "Afforestation (planting trees)", "Mining"],
+"a": 2,
+"sol": "Roots of trees bind the soil particles together."
+},
+{
+"q": "Solar panels convert sunlight into:",
+"o": ["Heat only", "Chemical energy", "Electricity", "Sound"],
+"a": 2,
+"sol": "Photovoltaic cells in panels turn solar radiation into electrical energy."
+},
+{
+"q": "LPG stands for:",
+"o": ["Liquid Petrol Gas", "Liquefied Petroleum Gas", "Low Pressure Gas", "Long Petrol Gas"],
+"a": 1,
+"sol": "LPG is a common fuel used for cooking in households."
+},
+{
+"q": "Which of these gases is used by plants for photosynthesis?",
+"o": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+"a": 1,
+"sol": "Plants take in CO2 to prepare their food."
+},
+{
+"q": "Humus is formed by the decomposition of:",
+"o": ["Rocks", "Dead plants and animals", "Plastic", "Metals"],
+"a": 1,
+"sol": "Organic matter breakdown results in fertile humus."
+},
+{
+"q": "The percentage of water on Earth's surface is approximately:",
+"o": ["50%", "71%", "90%", "30%"],
+"a": 1,
+"sol": "About 71% of Earth is covered by water."
+},
+{
+"q": "Rainwater harvesting is a method to:",
+"o": ["Make it rain", "Pollute water", "Conserve and store rainwater", "Stop the wind"],
+"a": 2,
+"sol": "It helps in recharging the water table and saving water for future use."
+},
+{
+"q": "Which of the following is a non-renewable resource?",
+"o": ["Wind energy", "Coal", "Water", "Forests"],
+"a": 1,
+"sol": "Coal takes millions of years to form and cannot be replaced quickly."
+},
+{
+"q": "Windmills are used to generate:",
+"o": ["Tidal energy", "Hydroelectricity", "Wind energy (Electricity)", "Solar power"],
+"a": 2,
+"sol": "Windmills harness the kinetic energy of wind."
+},
+{
+"q": "Which of these causes air pollution?",
+"o": ["Planting trees", "Smoke from factories", "Using bicycles", "Solar heaters"],
+"a": 1,
+"sol": "Toxic gases and smoke contaminate the atmosphere."
+},
+{
+"q": "The process of turning waste materials into new products is:",
+"o": ["Reducing", "Reusing", "Recycling", "Refusing"],
+"a": 2,
+"sol": "Recycling saves resources and reduces waste."
+},
+{
+"q": "Which of the following is an exhaustible natural resource?",
+"o": ["Air", "Sunlight", "Minerals", "Water"],
+"a": 2,
+"sol": "Minerals like iron and gold are limited in quantity."
+},
+{
+"q": "Which type of soil is best for growing most crops?",
+"o": ["Sandy soil", "Clayey soil", "Loamy soil", "Rocky soil"],
+"a": 2,
+"sol": "Loamy soil has the right balance of sand, silt, and clay."
+},
+{
+"q": "Global warming is primarily caused by an increase in:",
+"o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+"a": 2,
+"sol": "CO2 is a greenhouse gas that traps heat in the atmosphere."
+},
+{
+"q": "Hydroelectricity is produced from:",
+"o": ["Wind", "Falling water", "Coal", "Sunlight"],
+"a": 1,
+"sol": "The energy of moving water is used to turn turbines."
+},
+{
+"q": "Which of these helps in maintaining the balance of Oxygen and CO2 in nature?",
+"o": ["Cars", "Factories", "Green Plants", "Aeroplanes"],
+"a": 2,
+"sol": "Plants give out oxygen and take in CO2."
+},
+{
+"q": "The wearing away of soil by wind and water is called:",
+"o": ["Soil fertility", "Soil erosion", "Soil conservation", "Soil pollution"],
+"a": 1,
+"sol": "Erosion removes the fertile topsoil."
+},
+{
+"q": "CNG is a 'clean fuel' because it:",
+"o": ["Is very cheap", "Produces less pollution than petrol", "Is red in colour", "Is found in water"],
+"a": 1,
+"sol": "Compressed Natural Gas burns more efficiently with fewer emissions."
+},
+{
+"q": "An example of an underground water source is:",
+"o": ["Sea", "Well", "River", "Waterfall"],
+"a": 1,
+"sol": "Wells and tube wells tap into groundwater."
+},
+{
+"q": "Which of these should be 'reduced' to protect the environment?",
+"o": ["Tree planting", "Use of single-use plastic", "Recycling", "Solar power"],
+"a": 1,
+"sol": "Plastic takes hundreds of years to decompose and harms wildlife."
+},
+{
+"q": "Geothermal energy is obtained from:",
+"o": ["The Sun", "Internal heat of the Earth", "Tides", "Winds"],
+"a": 1,
+"sol": "Geo (Earth) + Thermal (Heat) refers to heat from within the Earth."
+},
+{
+"q": "Biogas is produced from:",
+"o": ["Rocks", "Animal dung and organic waste", "Coal", "Petrol"],
+"a": 1,
+"sol": "It is a renewable energy source made from biological waste."
+},
+{
+"q": "Which layer of the atmosphere contains the ozone layer?",
+"o": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+"a": 1,
+"sol": "The stratosphere protects us from harmful UV rays via the ozone layer."
+},
+{
+"q": "Most of the fresh water on Earth is locked up in:",
+"o": ["Rivers", "Lakes", "Ice caps and glaciers", "Clouds"],
+"a": 2,
+"sol": "Only a tiny fraction of Earth's water is liquid fresh water available for use."
+},
+{
+"q": "Burning of dry leaves causes:",
+"o": ["Soil fertility", "Water pollution", "Air pollution", "Noise pollution"],
+"a": 2,
+"sol": "It releases smoke and harmful gases; composting is a better alternative."
+},
+{
+"q": "Which of these is a biotic resource?",
+"o": ["Rocks", "Metals", "Forests", "Air"],
+"a": 2,
+"sol": "Biotic resources come from living things."
+},
+{
+"q": "Petroleum is often called ________ because of its value.",
+"o": ["Liquid Silver", "Black Gold", "Green Fuel", "White Pearl"],
+"a": 1,
+"sol": "It is highly valuable and used in many industries."
+},
+{
+"q": "The primary cause of acid rain is:",
+"o": ["Oxygen", "Dust particles", "Sulfur dioxide and Nitrogen oxides", "Water vapor"],
+"a": 2,
+"sol": "These gases from factories mix with rain to form acid."
+},
+{
+"q": "Which of these is a way to conserve water?",
+"o": ["Keeping the tap running while brushing", "Using a hose to wash cars", "Fixing leaking taps", "Taking long showers"],
+"a": 2,
+"sol": "Every drop saved counts towards conservation."
+},
+{
+"q": "Which animal is used to plough fields in traditional farming?",
+"o": ["Lion", "Bullock", "Tiger", "Cat"],
+"a": 1,
+"sol": "Bullocks have been a traditional resource for agriculture."
+},
+{
+"q": "Deforestation leads to:",
+"o": ["More rainfall", "Increased soil erosion", "Cleaner air", "Lower temperatures"],
+"a": 1,
+"sol": "Without trees, soil is easily washed or blown away."
+},
+{
+"q": "Which of these is NOT a natural resource?",
+"o": ["Wind", "Iron ore", "Electricity", "Sunlight"],
+"a": 2,
+"sol": "Electricity is a form of energy we generate using natural resources."
+},
+{
+"q": "Conservation means:",
+"o": ["Wasting resources", "Wise and careful use of resources", "Destroying nature", "Using resources only at night"],
+"a": 1,
+"sol": "Conservation ensures resources last for future generations."
+},
+{
+"q": "The '3Rs' of environment protection are:",
+"o": ["Read, Write, Run", "Reduce, Reuse, Recycle", "Rise, Roar, Run", "Repair, Remove, Replace"],
+"a": 1,
+"sol": "These are the core principles of sustainable waste management."
+},
+{
+"q": "Overgrazing by animals can lead to:",
+"o": ["Soil formation", "Soil erosion", "More grass", "Afforestation"],
+"a": 1,
+"sol": "Removing all vegetation leaves the soil unprotected."
+},
+{
+"q": "Which of these minerals is used to make salt?",
+"o": ["Iron", "Copper", "Halite (Rock salt)", "Coal"],
+"a": 2,
+"sol": "Common salt is a mineral treasure from the Earth/Sea."
+},
+{
+"q": "Which gas do we need for respiration?",
+"o": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+"a": 1,
+"sol": "Oxygen is vital for our survival."
+},
+{
+"q": "Polluted water can cause diseases like:",
+"o": ["Common cold", "Cholera", "Malaria", "Asthma"],
+"a": 1,
+"sol": "Cholera is a water-borne disease caused by contaminated water."
+},
+{
+"q": "Fossil fuels were formed from:",
+"o": ["Magic", "Rocks and minerals", "Remains of dead plants and animals", "Water and air"],
+"a": 2,
+"sol": "Organic matter buried millions of years ago turned into coal and oil."
+},
+{
+"q": "Which of these is an example of 'Reusing'?",
+"o": ["Melting glass to make new bottles", "Using an old jam jar to store spices", "Buying a new bag", "Throwing away paper"],
+"a": 1,
+"sol": "Reuse means using an item again for the same or a different purpose."
+},
+{
+"q": "Which place in India is famous for harnessing wind energy?",
+"o": ["Delhi", "Kanyakumari/Tamil Nadu coast", "Mumbai", "Patna"],
+"a": 1,
+"sol": "Coastal areas have strong, consistent winds for wind farms."
+},
+{
+"q": "What is the 'Water Table'?",
+"o": ["A table made of water", "The level of groundwater", "The surface of a lake", "A list of rivers"],
+"a": 1,
+"sol": "It is the upper level of the underground zone saturated with water."
+},
+{
+"q": "Which component of soil is largest in size?",
+"o": ["Clay", "Silt", "Sand", "Humus"],
+"a": 2,
+"sol": "Sand particles are the coarsest in soil."
+},
+{
+"q": "Which of these should be composted?",
+"o": ["Plastic bags", "Metal cans", "Vegetable peels", "Glass pieces"],
+"a": 2,
+"sol": "Organic kitchen waste can be turned into manure."
+},
+{
+"q": "The main cause of water scarcity is:",
+"o": ["Too much rain", "Overuse and pollution", "Planting more trees", "Recycling"],
+"a": 1,
+"sol": "Population growth and mismanagement lead to water shortages."
+},
+{
+"q": "Which of these is a major source of energy in rural India?",
+"o": ["Nuclear energy", "Firewood and Cattle dung", "Natural gas", "Solar panels only"],
+"a": 1,
+"sol": "Traditional biomass is still widely used in villages."
+},
+{
+"q": "Ozone layer depletion is caused by:",
+"o": ["Oxygen", "CFCs (Chlorofluorocarbons)", "Nitrogen", "Water vapor"],
+"a": 1,
+"sol": "CFCs from ACs and refrigerators damage the ozone shield."
+},
+{
+"q": "What is 'Afforestation'?",
+"o": ["Cutting trees", "Planting trees on a large scale", "Hunting animals", "Building dams"],
+"a": 1,
+"sol": "It is the opposite of deforestation."
+},
+{
+"q": "Which of these is used in a thermometer?",
+"o": ["Water", "Mercury", "Alcohol (dyed red)", "Both Mercury and Alcohol"],
+"a": 3,
+"sol": "Both are used to measure temperature based on expansion."
+},
+{
+"q": "Tidal energy is generated from:",
+"o": ["River currents", "Ocean waves and tides", "Wind", "Sun"],
+"a": 1,
+"sol": "The rise and fall of sea levels provides energy."
+},
+{
+"q": "Which of these is a way to 'Reduce' waste?",
+"o": ["Using cloth bags instead of plastic ones", "Burning trash", "Throwing food", "Leaving lights on"],
+"a": 0,
+"sol": "Using cloth bags reduces the overall demand for plastic."
+},
+{
+"q": "Soil becomes fertile due to the presence of:",
+"o": ["Sand", "Air", "Humus", "Pebbles"],
+"a": 2,
+"sol": "Humus provides essential nutrients for plants."
+},
+{
+"q": "Earth Day is celebrated on:",
+"o": ["January 1", "April 22", "June 5", "August 15"],
+"a": 1,
+"sol": "April 22 is dedicated to environmental protection awareness."
+},
+{
+"q": "Which of these is NOT a component of air?",
+"o": ["Dust", "Water vapor", "Rocks", "Gases"],
+"a": 2,
+"sol": "Air is a mixture of gases, dust, and moisture."
+},
+{
+"q": "Which country is often called the 'Land of Windmills'?",
+"o": ["India", "USA", "Netherlands", "China"],
+"a": 2,
+"sol": "Netherlands is historically famous for windmills."
+},
+{
+"q": "Which of these is a disadvantage of fossil fuels?",
+"o": ["They are easy to use", "They are renewable", "They cause pollution", "They are cheap"],
+"a": 2,
+"sol": "Burning fossil fuels releases harmful greenhouse gases."
+},
+{
+"q": "What makes the soil dark in colour?",
+"o": ["Water", "Clay", "Organic matter (Humus)", "Sand"],
+"a": 2,
+"sol": "Rich organic content usually gives soil a darker shade."
+},
+{
+"q": "Which of these is a natural way to clean water?",
+"o": ["Using chemicals", "Filtration through soil layers", "Adding plastic", "Boiling"],
+"a": 1,
+"sol": "As water seeps through ground layers, impurities are filtered out."
+},
+{
+"q": "Which of these is a metallic mineral?",
+"o": ["Coal", "Petroleum", "Iron ore", "Limestone"],
+"a": 2,
+"sol": "Iron ore is used to extract iron metal."
+},
+{
+"q": "CNG stands for:",
+"o": ["Carbonated Natural Gas", "Common Natural Gas", "Compressed Natural Gas", "Cool Natural Gas"],
+"a": 2,
+"sol": "Natural gas is compressed to be stored and used as fuel."
+},
+{
+"q": "Wildlife is a ________ resource.",
+"o": ["Non-living", "Man-made", "Biological/Natural", "Exhausted"],
+"a": 2,
+"sol": "Animals and birds are part of our natural biotic treasures."
+},
+{
+"q": "Which of these can be recycled?",
+"o": ["Apple peel", "Paper", "Cooked rice", "Dry leaves"],
+"a": 1,
+"sol": "Paper can be processed to make new paper products."
+},
+{
+"q": "A place where trees are grown for conservation and study is an:",
+"o": ["Orchard", "Arboretum", "Aquarium", "Terrarium"],
+"a": 1,
+"sol": "An arboretum is like a botanical garden specifically for trees."
+},
+{
+"q": "Which of these is the cleanest source of energy?",
+"o": ["Coal", "Solar energy", "Diesel", "Firewood"],
+"a": 1,
+"sol": "Solar energy produces no emissions during use."
+},
+{
+"q": "Dams are built across rivers to:",
+"o": ["Stop the water forever", "Generate electricity and provide irrigation", "Make the river dry", "Kill fish"],
+"a": 1,
+"sol": "Multi-purpose dams help in managing water resources."
+},
+{
+"q": "Which of these materials takes the longest to decompose?",
+"o": ["Paper", "Cotton cloth", "Plastic", "Banana skin"],
+"a": 2,
+"sol": "Plastic can take hundreds of years to break down."
+},
+{
+"q": "The process of nitrogen being taken from the air and converted into a form plants can use is:",
+"o": ["Nitrogen fixation", "Respiration", "Evaporation", "Photosynthesis"],
+"a": 0,
+"sol": "Bacteria in soil help plants get nitrogen."
+},
+{
+"q": "Which of these is a major threat to nature's treasures?",
+"o": ["Sustainable living", "Overpopulation and greed", "Conservation", "Recycling"],
+"a": 1,
+"sol": "High demand and wastage deplete resources."
+},
+{
+"q": "Using a bucket instead of a shower saves ________.",
+"o": ["Time", "Soap", "Water", "Energy"],
+"a": 2,
+"sol": "It is a more controlled and efficient way to use water."
+},
+{
+"q": "Which part of the Earth contains most of the minerals?",
+"o": ["Crust", "Mantle", "Outer Core", "Inner Core"],
+"a": 0,
+"sol": "The Earth's crust is where we mine for minerals."
+},
+{
+"q": "World Environment Day is on:",
+"o": ["August 15", "October 2", "June 5", "December 25"],
+"a": 2,
+"sol": "June 5 is celebrated globally to promote environmental awareness."
+},
+{
+"q": "Which of these is a non-metallic mineral?",
+"o": ["Gold", "Silver", "Mica", "Copper"],
+"a": 2,
+"sol": "Mica is a non-metal used in electrical industries."
+},
+{
+"q": "What is 'Smog'?",
+"o": ["Pure oxygen", "A mixture of smoke and fog", "Cloud water", "Dust from stars"],
+"a": 1,
+"sol": "Smog is a harmful type of air pollution."
+},
+{
+"q": "Sustainable development means:",
+"o": ["Using all resources today", "Development that meets current needs without compromising future generations", "No development at all", "Only building factories"],
+"a": 1,
+"sol": "It focuses on balancing growth with conservation."
+},
+{
+"q": "Which of these is used to purify water at home?",
+"o": ["Sugar", "UV filters/Water Purifiers", "Soap", "Salt"],
+"a": 1,
+"sol": "Modern purifiers use filters and UV light to kill germs."
+},
+{
+"q": "An increase in ________ in the air leads to the greenhouse effect.",
+"o": ["Argon", "Helium", "Methane and CO2", "Nitrogen"],
+"a": 2,
+"sol": "These gases trap heat."
+},
+{
+"q": "Which of these is a natural fertilizer?",
+"o": ["Urea", "Compost/Manure", "Potash", "Superphosphate"],
+"a": 1,
+"sol": "Compost is made from organic waste and is eco-friendly."
+},
+{
+"q": "Which of these is a biodiversity 'treasure'?",
+"o": ["A car park", "A coral reef", "A concrete dam", "A desert with no life"],
+"a": 1,
+"sol": "Coral reefs are teeming with diverse marine life."
+},
+{
+"q": "Leaving a room and turning off the light is an example of:",
+"o": ["Wasting energy", "Saving energy", "Reusing energy", "Generating energy"],
+"a": 1,
+"sol": "Simple habits help in conserving precious energy resources."
+},
+{
+"q": "Which of these is a way to stop soil erosion in hilly areas?",
+"o": ["Cutting all trees", "Terrace farming", "Vertical farming", "Running downhill"],
+"a": 1,
+"sol": "Stepped levels slow down water flow and prevent soil loss."
+},
+{
+"q": "Which gas is used in fire extinguishers?",
+"o": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+"a": 1,
+"sol": "CO2 cuts off the oxygen supply and puts out the fire."
+},
+{
+"q": "A non-renewable resource once used ________.",
+"o": ["Comes back instantly", "Can never be replaced within a human lifespan", "Turns into a plant", "Becomes water"],
+"a": 1,
+"sol": "They are finite and take millions of years to form."
+},
+{
+"q": "Which of these is a liquid treasure from the Earth?",
+"o": ["Coal", "Petroleum", "Natural gas", "Iron"],
+"a": 1,
+"sol": "Petroleum (Crude oil) is a liquid fossil fuel."
+},
+{
+"q": "The air we breathe is a:",
+"o": ["Pure substance", "Mixture of gases", "Solid", "Chemical element"],
+"a": 1,
+"sol": "It contains Nitrogen, Oxygen, CO2, and other gases."
+},
+{
+"q": "Which of these is a way to conserve forests?",
+"o": ["Paper recycling", "Using wood for everything", "Forest fires", "Building roads through forests"],
+"a": 0,
+"sol": "Recycling paper reduces the number of trees cut down."
+},
+{
+"q": "Solar energy is ________ during the night.",
+"o": ["Very strong", "Not directly available", "Always available", "Visible"],
+"a": 1,
+"sol": "We need batteries to store solar energy for night use."
+},
+{
+"q": "What is the primary role of the Ozone layer?",
+"o": ["Giving us oxygen", "Blocking harmful UV rays from the Sun", "Making the sky blue", "Providing rain"],
+"a": 1,
+"sol": "It acts as a protective shield for the Earth."
+},
+{
+"q": "Which of these is an example of 'Renewable' energy?",
+"o": ["Diesel", "Wind power", "Coal", "Kerosene"],
+"a": 1,
+"sol": "Wind will always blow, making it a renewable source."
+},
+{
+"q": "We should treat nature as a ________, not just a resource.",
+"o": ["Factory", "Living treasure", "Trash can", "Machine"],
+"a": 1,
+"sol": "Protecting nature is vital for our own survival and well-being."
+}
+]
