@@ -1,0 +1,602 @@
+[
+{
+"q": "The method of separating slightly larger sized impurities like stones or husks from wheat by hand is called:",
+"o": ["Winnowing", "Handpicking", "Threshing", "Sieving"],
+"a": 1,
+"sol": "Handpicking is used when the quantity of impurities is not very large and they look different from the useful component."
+},
+{
+"q": "Which method is used to separate grains from stalks after harvesting?",
+"o": ["Threshing", "Sieving", "Filtration", "Decantation"],
+"a": 0,
+"sol": "Threshing is the process of beating stalks to free the grain seeds."
+},
+{
+"q": "Separating heavier and lighter components of a mixture by wind or by blowing air is called:",
+"o": ["Handpicking", "Sedimentation", "Winnowing", "Evaporation"],
+"a": 2,
+"sol": "Farmers use winnowing to separate lighter husk particles from heavier seeds of grain."
+},
+{
+"q": "A sieve is used to separate components of a mixture when they have different:",
+"o": ["Colours", "Weights", "Sizes", "Shapes"],
+"a": 2,
+"sol": "Sieving allows fine particles to pass through the holes while bigger impurities remain on the sieve."
+},
+{
+"q": "When the heavier component in a mixture settles after water is added to it, the process is called:",
+"o": ["Decantation", "Sedimentation", "Filtration", "Threshing"],
+"a": 1,
+"sol": "Sedimentation is the settling down of heavy insoluble particles in a liquid."
+},
+{
+"q": "The process of removing the water (along with the dust) after sedimentation is called:",
+"o": ["Decantation", "Winnowing", "Sieving", "Handpicking"],
+"a": 0,
+"sol": "Decantation is tilting the container to pour out the liquid without disturbing the sediment."
+},
+{
+"q": "To separate tea leaves from prepared tea, which method is most effective?",
+"o": ["Decantation", "Handpicking", "Filtration", "Winnowing"],
+"a": 2,
+"sol": "Filtration using a strainer is better than decantation for removing all tea leaves."
+},
+{
+"q": "Which of the following mixtures can be separated by filtration?",
+"o": ["Salt and water", "Sugar and milk", "Chalk powder and water", "Oil and water"],
+"a": 2,
+"sol": "Filtration works for insoluble solids in a liquid; chalk powder does not dissolve."
+},
+{
+"q": "The process of conversion of water into its vapour is called:",
+"o": ["Condensation", "Evaporation", "Sublimation", "Decantation"],
+"a": 1,
+"sol": "Evaporation can be used to recover a dissolved solid from a liquid."
+},
+{
+"q": "Common salt is obtained from sea water by the process of:",
+"o": ["Sieving", "Filtration", "Evaporation", "Winnowing"],
+"a": 2,
+"sol": "Sea water is kept in shallow pits where sunlight evaporates the water, leaving solid salt behind."
+},
+{
+"q": "The process of conversion of water vapour into its liquid form is called:",
+"o": ["Evaporation", "Condensation", "Sedimentation", "Threshing"],
+"a": 1,
+"sol": "Condensation is the reverse of evaporation."
+},
+{
+"q": "A solution is said to be ________ if no more substance can be dissolved in it at a given temperature.",
+"o": ["Dilute", "Saturated", "Unsaturated", "Concentrated"],
+"a": 1,
+"sol": "A saturated solution has reached its maximum capacity to dissolve a solute at that temperature."
+},
+{
+"q": "How can you dissolve more salt in a saturated solution of water?",
+"o": ["By cooling the water", "By heating the water", "By adding more salt", "By stirring slowly"],
+"a": 1,
+"sol": "Heating generally increases the solubility of solids in liquids."
+},
+{
+"q": "Which method is commonly used at construction sites to separate pebbles and stones from sand?",
+"o": ["Handpicking", "Winnowing", "Sieving", "Filtration"],
+"a": 2,
+"sol": "Large sieves (mesh) are used to clear sand for construction work."
+},
+{
+"q": "Which property is used to separate a mixture of oil and water?",
+"o": ["Boiling point", "They do not mix (immiscible)", "Colour", "Magnetic property"],
+"a": 1,
+"sol": "Oil forms a separate layer on top of water and can be removed by decantation."
+},
+{
+"q": "To separate very fine dirt particles from water, we use a:",
+"o": ["Sieve", "Cotton cloth or Filter paper", "Hand", "Spoon"],
+"a": 1,
+"sol": "Filter paper has very small pores that trap even tiny solid particles."
+},
+{
+"q": "Butter is separated from milk or curd by:",
+"o": ["Threshing", "Churning", "Winnowing", "Filtration"],
+"a": 1,
+"sol": "Churning (centrifugation) separates the lighter butter from the heavier liquid."
+},
+{
+"q": "A mixture of iron filings and sand can be separated by:",
+"o": ["Handpicking", "Magnets", "Winnowing", "Sieving"],
+"a": 1,
+"sol": "Iron is a magnetic material and is attracted to magnets, while sand is not."
+},
+{
+"q": "The method used to separate husk from grain is winnowing because:",
+"o": ["Husk is heavier", "Husk is lighter", "Husk is magnetic", "Husk is same weight"],
+"a": 1,
+"sol": "The wind carries away the lighter husk while the heavier grain falls straight down."
+},
+{
+"q": "If you want to separate salt from a salt-water solution and also keep the water, which processes will you use?",
+"o": ["Evaporation only", "Filtration", "Evaporation followed by Condensation", "Handpicking"],
+"a": 2,
+"sol": "Evaporation turns water to vapour (leaving salt), and condensation turns vapour back to liquid water."
+},
+{
+"q": "Which of these is NOT a method of separation?",
+"o": ["Decantation", "Filtration", "Solution", "Winnowing"],
+"a": 2,
+"sol": "Making a solution is mixing, not separating."
+},
+{
+"q": "Pulses are usually washed before cooking. The dust particles are removed by:",
+"o": ["Winnowing", "Sieving", "Sedimentation and Decantation", "Threshing"],
+"a": 2,
+"sol": "Dust settles or floats and is poured out with the water."
+},
+{
+"q": "A mixture of iodine and sand can be separated by heating because iodine:",
+"o": ["Melts", "Evaporates", "Sublimes (turns to gas directly)", "Dissolves"],
+"a": 2,
+"sol": "Sublimation is a special property of iodine."
+},
+{
+"q": "Cashew nuts are separated from shells by:",
+"o": ["Handpicking", "Winnowing", "Sieving", "Decantation"],
+"a": 0,
+"sol": "Handpicking is the most practical way for large items like nuts."
+},
+{
+"q": "Fine mud in water can be settled faster by adding:",
+"o": ["Salt", "Sugar", "Alum (Phitkari)", "Oil"],
+"a": 2,
+"sol": "Alum helps the small dirt particles to stick together and settle down (loading)."
+},
+{
+"q": "The small pores in a filter paper act like a:",
+"o": ["Door", "Net or Sieve", "Mirror", "Sponge"],
+"a": 1,
+"sol": "They allow liquid to pass but block solid particles."
+},
+{
+"q": "Which method is best for separating salt from sand?",
+"o": ["Handpicking", "Sieving", "Dissolving in water, filtering, then evaporating", "Winnowing"],
+"a": 2,
+"sol": "Salt dissolves in water while sand doesn't. After filtering sand, salt can be recovered by evaporation."
+},
+{
+"q": "Water is called a universal solvent because it dissolves ________.",
+"o": ["Only solids", "Only gases", "A wide variety of substances", "Everything in the world"],
+"a": 2,
+"sol": "Water can dissolve more substances than any other liquid."
+},
+{
+"q": "What happens if you add sugar to a saturated sugar solution?",
+"o": ["It dissolves faster", "It doesn't dissolve and settles at the bottom", "The solution disappears", "The sugar turns to salt"],
+"a": 1,
+"sol": "A saturated solution cannot hold any more solute."
+},
+{
+"q": "Threshing is usually done with the help of:",
+"o": ["Wind", "Water", "Bullocks or Machines", "Sieves"],
+"a": 2,
+"sol": "Stalks are beaten manually or by machines/animals to separate grain."
+},
+{
+"q": "The process of winnowing is effective only when there is:",
+"o": ["Sunlight", "Water", "Moving air (wind)", "A sieve"],
+"a": 2,
+"sol": "Without wind, the lighter husk cannot be blown away."
+},
+{
+"q": "Impure water can be made clear by:",
+"o": ["Heating only", "Filtration", "Adding more water", "Mixing"],
+"a": 1,
+"sol": "Filtration removes suspended impurities."
+},
+{
+"q": "Which method is used to separate two immiscible liquids (like kerosene and water)?",
+"o": ["Filtration", "Evaporation", "Decantation (using a separating funnel)", "Sieving"],
+"a": 2,
+"sol": "Decantation allows the top layer to be poured off."
+},
+{
+"q": "Condensation is the process used to get:",
+"o": ["Solid from liquid", "Gas from solid", "Liquid from gas", "Solid from gas"],
+"a": 2,
+"sol": "Cooling vapour turns it back to liquid."
+},
+{
+"q": "If you are given a mixture of mustard seeds and common salt, which method will you use first?",
+"o": ["Handpicking", "Winnowing", "Sieving", "Threshing"],
+"a": 2,
+"sol": "Mustard seeds are much larger than salt grains, so sieving works well."
+},
+{
+"q": "Which method is used by a fruit juice seller to remove seeds and pulp?",
+"o": ["Evaporation", "Decantation", "Filtration", "Winnowing"],
+"a": 2,
+"sol": "Strainers are used to filter out solid parts."
+},
+{
+"q": "The solubility of most solids ________ with an increase in temperature.",
+"o": ["Decreases", "Remains same", "Increases", "Becomes zero"],
+"a": 2,
+"sol": "Hot water can dissolve more sugar/salt than cold water."
+},
+{
+"q": "Mist and fog are related to which process?",
+"o": ["Evaporation", "Condensation", "Handpicking", "Sieving"],
+"a": 1,
+"sol": "Water vapour in the air condenses to form tiny liquid droplets."
+},
+{
+"q": "To separate stones from rice, the most suitable method is:",
+"o": ["Winnowing", "Sieving", "Handpicking", "Filtration"],
+"a": 2,
+"sol": "Stones are few and easily visible, making handpicking best."
+},
+{
+"q": "The 'Cream' is separated from 'Milk' by:",
+"o": ["Filtration", "Decantation", "Churning", "Sieving"],
+"a": 2,
+"sol": "Spinning milk at high speeds (churning) separates the lighter cream."
+},
+{
+"q": "A mixture contains two solids of the same size but different weights. Use:",
+"o": ["Handpicking", "Sieving", "Winnowing", "Filtration"],
+"a": 2,
+"sol": "Winnowing is ideal for weight-based separation."
+},
+{
+"q": "Which of these is used as a filter in a water purifier?",
+"o": ["Activated charcoal", "Iron rods", "Wooden planks", "Paper"],
+"a": 0,
+"sol": "Charcoal is a great filtering agent for removing impurities and smell."
+},
+{
+"q": "In a laboratory, a glass rod is often used during decantation to:",
+"o": ["Stir the liquid", "Guide the flow of liquid", "Break the beaker", "Measure temperature"],
+"a": 1,
+"sol": "It helps the liquid flow smoothly into the new container."
+},
+{
+"q": "When a mixture of salt and water is boiled, what remains in the beaker?",
+"o": ["Water", "Salt", "Nothing", "Steam"],
+"a": 1,
+"sol": "Water evaporates, leaving the non-volatile salt behind."
+},
+{
+"q": "Which of these substances is insoluble in water?",
+"o": ["Salt", "Sugar", "Sawdust", "Milk"],
+"a": 2,
+"sol": "Sawdust does not dissolve in water."
+},
+{
+"q": "The process of 'loading' is used to:",
+"o": ["Separate grain from husk", "Help suspended impurities settle faster", "Boil water", "Sieve flour"],
+"a": 1,
+"sol": "Particles like alum make mud heavy so it sinks quickly."
+},
+{
+"q": "Salt is separated from sand by 'Decantation' after:",
+"o": ["Heating", "Winnowing", "Adding water and letting sand settle", "Sieving"],
+"a": 2,
+"sol": "Adding water dissolves salt; sand settles (sedimentation), then water is poured off (decantation)."
+},
+{
+"q": "Why is it necessary to separate components of a mixture?",
+"o": ["To remove harmful substances", "To obtain a useful component", "To remove non-useful substances", "All of these"],
+"a": 3,
+"sol": "Separation has many practical and safety reasons."
+},
+{
+"q": "A mixture of sawdust and water can be separated by:",
+"o": ["Handpicking", "Sieving", "Filtration", "Threshing"],
+"a": 2,
+"sol": "Filtration traps the floating sawdust."
+},
+{
+"q": "Which of these is NOT a pure substance?",
+"o": ["Iron", "Distilled Water", "Air", "Gold"],
+"a": 2,
+"sol": "Air is a mixture of various gases like Nitrogen, Oxygen, etc."
+},
+{
+"q": "What remains on the filter paper during filtration?",
+"o": ["Filtrate", "Residue", "Solution", "Solvent"],
+"a": 1,
+"sol": "The solid left behind is the residue; the liquid that passes through is the filtrate."
+},
+{
+"q": "During distillation, water is first ________ and then ________.",
+"o": ["Filtered, Boiled", "Condensed, Evaporated", "Evaporated, Condensed", "Frozen, Melted"],
+"a": 2,
+"sol": "This sequence allows for purification of water."
+},
+{
+"q": "Which method is used to separate husk from flour at home?",
+"o": ["Winnowing", "Sieving", "Handpicking", "Threshing"],
+"a": 1,
+"sol": "A flour sieve (chalni) is used."
+},
+{
+"q": "Camphor (Kapoor) mixed with salt can be separated by:",
+"o": ["Evaporation", "Sublimation", "Filtration", "Handpicking"],
+"a": 1,
+"sol": "Camphor turns directly to vapour on heating."
+},
+{
+"q": "Oil and water form ________ layers.",
+"o": ["Miscible", "Distinguished", "Immiscible", "Solid"],
+"a": 2,
+"sol": "They do not mix."
+},
+{
+"q": "Water obtained after filtration is always safe to drink.",
+"o": ["True", "False", "Only if it is cold", "Only in winter"],
+"a": 1,
+"sol": "Filtration removes solids but not germs or dissolved chemicals; boiling or UV is needed."
+},
+{
+"q": "The process used to separate grain from its outer covering is:",
+"o": ["Threshing", "Winnowing", "Handpicking", "None"],
+"a": 0,
+"sol": "Threshing beats the grains out of the stalks/husk."
+},
+{
+"q": "Solubility ________ if we decrease the temperature.",
+"o": ["Increases", "Decreases", "Stays same", "Becomes double"],
+"a": 1,
+"sol": "Cold liquids dissolve less solid material."
+},
+{
+"q": "To separate chalk powder from water, we use a filter paper because:",
+"o": ["It is cheap", "Chalk is soluble", "Chalk particles are larger than the pores", "Chalk is magnetic"],
+"a": 2,
+"sol": "Filter paper acts as a barrier for the solid chalk."
+},
+{
+"q": "We use more than one method of separation when:",
+"o": ["The mixture is simple", "The mixture is complex with many components", "We have lots of time", "We have no tools"],
+"a": 1,
+"sol": "Sometimes one method is not enough (e.g., salt, sand, and iron mixture)."
+},
+{
+"q": "The substance that dissolves in a liquid is called:",
+"o": ["Solvent", "Solute", "Solution", "Suspension"],
+"a": 1,
+"sol": "Example: Sugar is the solute, water is the solvent."
+},
+{
+"q": "Which of these is a homogeneous mixture?",
+"o": ["Sand in water", "Salt in water", "Oil in water", "Stones in rice"],
+"a": 1,
+"sol": "A mixture where components are uniformly mixed and cannot be seen separately."
+},
+{
+"q": "Water drops on the outside of a cold soda can are due to:",
+"o": ["Leaking", "Evaporation", "Condensation", "Sublimation"],
+"a": 2,
+"sol": "Water vapour in air hits the cold can and turns to liquid."
+},
+{
+"q": "The process of sedimentation is also known as ________.",
+"o": ["Floating", "Settling", "Boiling", "Mixing"],
+"a": 1,
+"sol": "It simply means letting the solids sink."
+},
+{
+"q": "Which of the following can be used as a filter?",
+"o": ["A piece of wood", "A fine muslin cloth", "A iron plate", "A plastic sheet"],
+"a": 1,
+"sol": "Cloth has tiny gaps between threads that act as a filter."
+},
+{
+"q": "Grapes are separated from a bunch by:",
+"o": ["Threshing", "Handpicking", "Winnowing", "Sieving"],
+"a": 1,
+"sol": "It's a delicate task done by hand."
+},
+{
+"q": "To get more sugar to dissolve in a saturated solution, you should:",
+"o": ["Add more water", "Heat the solution", "Both A and B", "None"],
+"a": 2,
+"sol": "Adding solvent or increasing temperature both help dissolve more solute."
+},
+{
+"q": "Winnowing is usually done from a ________.",
+"o": ["Pit", "Height", "Distance", "Closed room"],
+"a": 1,
+"sol": "Standing at a height allows the wind more time to blow the husk away."
+},
+{
+"q": "In a saturated solution, the solute and solvent are in ________.",
+"o": ["Conflict", "Equilibrium", "Gas state", "Solid state"],
+"a": 1,
+"sol": "A balance is reached where no more solute can enter the liquid phase."
+},
+{
+"q": "Which method is best for separating salt from sea water?",
+"o": ["Filtration", "Decantation", "Evaporation", "Sieving"],
+"a": 2,
+"sol": "Evaporation is the commercial method for salt production."
+},
+{
+"q": "Stones are separated from pulses before cooking because stones are:",
+"o": ["Useful", "Harmful/Inedible", "Soft", "Tasty"],
+"a": 1,
+"sol": "They are impurities that must be removed."
+},
+{
+"q": "Water vapour changes into water on ________.",
+"o": ["Heating", "Cooling", "Stirring", "Filtering"],
+"a": 1,
+"sol": "Cooling is the condition for condensation."
+},
+{
+"q": "The 'Filtrate' is the:",
+"o": ["Solid on the paper", "Liquid that passes through", "Unused filter paper", "The beaker"],
+"a": 1,
+"sol": "The clear liquid collected after filtration."
+},
+{
+"q": "Separation of wheat from its husk using wind is:",
+"o": ["Threshing", "Winnowing", "Sieving", "Handpicking"],
+"a": 1,
+"sol": "Winnowing uses the difference in weight."
+},
+{
+"q": "Is common salt soluble in water?",
+"o": ["No", "Yes", "Only if boiled", "Only in sea water"],
+"a": 1,
+"sol": "Salt dissolves easily in water."
+},
+{
+"q": "Method of separation depends on the ________ of the components.",
+"o": ["Price", "Properties", "Age", "Source"],
+"a": 1,
+"sol": "We use differences in size, weight, magnetic properties, etc."
+},
+{
+"q": "A mixture of mustard oil and water can be separated by:",
+"o": ["Filtration", "Decantation", "Winnowing", "Sieving"],
+"a": 1,
+"sol": "Since oil floats on water, it can be poured off."
+},
+{
+"q": "The process of changing a liquid into gas by heating is:",
+"o": ["Evaporation", "Condensation", "Sublimation", "Solidification"],
+"a": 0,
+"sol": "Evaporation is the transition from liquid to gas."
+},
+{
+"q": "Churning curd is done to get:",
+"o": ["Salt", "Sugar", "Butter", "Water"],
+"a": 2,
+"sol": "Butter is obtained by churning curd/cream."
+},
+{
+"q": "Which is a combination of evaporation and condensation?",
+"o": ["Filtration", "Sieving", "Distillation", "Threshing"],
+"a": 2,
+"sol": "Distillation uses both to purify liquids."
+},
+{
+"q": "When we make lemonade, we dissolve sugar in water. This is a ________.",
+"o": ["Pure substance", "Solution", "Suspension", "Sediment"],
+"a": 1,
+"sol": "Sugar dissolves completely in water to form a solution."
+},
+{
+"q": "Handpicking is used when impurities are ________.",
+"o": ["Same as the grain", "Very small", "Different in colour or shape", "Invisible"],
+"a": 2,
+"sol": "Visual difference is key for handpicking."
+},
+{
+"q": "Which of these is used to separate grain and husk?",
+"o": ["A magnet", "A soup (Winnowing basket)", "A filter paper", "A spoon"],
+"a": 1,
+"sol": "A winnowing basket is used to toss and catch grain while wind blows the husk."
+},
+{
+"q": "Sieving is not used when components are of the ________ size.",
+"o": ["Different", "Large", "Same", "Small"],
+"a": 2,
+"sol": "Sieving requires a size difference to work."
+},
+{
+"q": "What happens to the level of water in a saturated solution if you boil it?",
+"o": ["It stays same", "It decreases", "It increases", "It turns to ice"],
+"a": 1,
+"sol": "Boiling causes evaporation, reducing the liquid volume."
+},
+{
+"q": "Which method is used to separate 'Pebbles' from 'Pulses'?",
+"o": ["Sieving", "Winnowing", "Handpicking", "Threshing"],
+"a": 2,
+"sol": "Most commonly done by hand in kitchens."
+},
+{
+"q": "The process of 'Threshing' can be done by ________.",
+"o": ["Hand", "Machines", "Bullocks", "All of these"],
+"a": 3,
+"sol": "Different methods are used depending on the quantity."
+},
+{
+"q": "Which of these is a heterogeneous mixture?",
+"o": ["Salt water", "Sugar water", "Oil and water", "Air (filtered)"],
+"a": 2,
+"sol": "You can clearly see the separate layers of oil and water."
+},
+{
+"q": "The substances present in a mixture are called its ________.",
+"o": ["Elements", "Components", "Products", "Factors"],
+"a": 1,
+"sol": "Components are the individual parts of a mixture."
+},
+{
+"q": "We can separate sand and grain by sieving if the sieve holes are ________.",
+"o": ["Larger than grain", "Smaller than grain but larger than sand", "Smaller than both", "Larger than both"],
+"a": 1,
+"sol": "This allows sand to fall through while grain stays on top."
+},
+{
+"q": "Can we separate sugar and salt by handpicking?",
+"o": ["Yes", "No, they are too small", "Only if they are different colours", "Only in winter"],
+"a": 1,
+"sol": "They are too fine to be picked by hand efficiently."
+},
+{
+"q": "Sedimentation and Decantation are used for ________ mixtures.",
+"o": ["Soluble solid-liquid", "Insoluble solid-liquid", "Gas-liquid", "Solid-solid"],
+"a": 1,
+"sol": "They rely on the solid being insoluble and heavier than the liquid."
+},
+{
+"q": "Drinking water in cities is often treated by:",
+"o": ["Only handpicking", "Sieving", "Sedimentation, Filtration, and Chlorination", "Threshing"],
+"a": 2,
+"sol": "A multi-step process is needed for safe municipal water."
+},
+{
+"q": "The method used to separate cream from milk is ________.",
+"o": ["Winnowing", "Centrifugation (Churning)", "Sieving", "Evaporation"],
+"a": 1,
+"sol": "Centrifugation uses high-speed rotation to separate components by density."
+},
+{
+"q": "Which of these is an example of condensation in nature?",
+"o": ["Drying of a pond", "Formation of clouds", "Melting of glaciers", "Flowing of rivers"],
+"a": 1,
+"sol": "Clouds form when vapour turns into tiny water droplets."
+},
+{
+"q": "Pure water for experiments is called:",
+"o": ["Tap water", "River water", "Distilled water", "Salt water"],
+"a": 2,
+"sol": "Distilled water has no dissolved impurities."
+},
+{
+"q": "Handpicking is a ________ method.",
+"o": ["Fast", "Slow and tedious", "Modern", "Automatic"],
+"a": 1,
+"sol": "It takes time and effort but is accurate for small amounts."
+},
+{
+"q": "To remove large stones from a load of sand, we use:",
+"o": ["Handpicking", "Sieving", "Magnetic separation", "Winnowing"],
+"a": 1,
+"sol": "A large mesh sieve is the standard tool."
+},
+{
+"q": "Which of these would you find at the bottom after sedimentation of mud and water?",
+"o": ["Clear water", "Mud/Clay", "Air bubbles", "Oil"],
+"a": 1,
+"sol": "Mud is the heavier component that sinks."
+},
+{
+"q": "Separation of components of a mixture is a ________ change.",
+"o": ["Chemical", "Physical", "Permanent", "Biological"],
+"a": 1,
+"sol": "No new substances are formed; we just move things apart."
+}
+]
