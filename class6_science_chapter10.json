@@ -1,0 +1,602 @@
+[
+{
+"q": "Which of the following is a characteristic of all living organisms?",
+"o": ["Ability to speak", "Respiration", "Ability to fly", "Making their own food"],
+"a": 1,
+"sol": "Respiration is essential for all living beings to obtain energy from food."
+},
+{
+"q": "The process by which living organisms produce new individuals of their own kind is:",
+"o": ["Respiration", "Excretion", "Reproduction", "Digestion"],
+"a": 2,
+"sol": "Reproduction ensures the continuity of a species."
+},
+{
+"q": "Which of these is a non-living thing that can move?",
+"o": ["A dog", "A car", "A mushroom", "A rose plant"],
+"a": 1,
+"sol": "A car moves but does not grow, breathe, or reproduce, so it is non-living."
+},
+{
+"q": "Plants breathe through tiny pores on their leaves called:",
+"o": ["Gills", "Lungs", "Stomata", "Spiracles"],
+"a": 2,
+"sol": "Stomata allow the exchange of gases (Oxygen and Carbon dioxide) in plants."
+},
+{
+"q": "The changes in our surroundings that make us respond to them are called:",
+"o": ["Stimuli", "Reflex", "Growth", "Adaptation"],
+"a": 0,
+"sol": "Living things respond to stimuli like light, heat, and touch."
+},
+{
+"q": "Which animal breathes through its skin as well as lungs?",
+"o": ["Fish", "Frog", "Bird", "Cockroach"],
+"a": 1,
+"sol": "Frogs have moist skin that can absorb oxygen when they are in water."
+},
+{
+"q": "The specific features that help a plant or an animal to live in a particular habitat are called:",
+"o": ["Habit", "Adaptation", "Evolution", "Migration"],
+"a": 1,
+"sol": "Adaptation is the adjustment of organisms to their environment."
+},
+{
+"q": "Which of the following is an abiotic component of a habitat?",
+"o": ["Plants", "Animals", "Soil", "Micro-organisms"],
+"a": 2,
+"sol": "Abiotic components are non-living parts like soil, water, air, and sunlight."
+},
+{
+"q": "A camel has long legs to:",
+"o": ["Run faster", "Keep its body away from the hot sand", "Look tall", "Walk in water"],
+"a": 1,
+"sol": "Long legs provide distance between the camel's body and the intense heat of the desert sand."
+},
+{
+"q": "Plants make their own food through the process of:",
+"o": ["Transpiration", "Photosynthesis", "Respiration", "Germination"],
+"a": 1,
+"sol": "Photosynthesis uses sunlight, water, and CO2 to create glucose."
+},
+{
+"q": "Which of these animals does NOT have gills?",
+"o": ["Shark", "Whale", "Goldfish", "Tuna"],
+"a": 1,
+"sol": "Whales are mammals and breathe through blowholes and lungs."
+},
+{
+"q": "The removal of waste products from the body is called:",
+"o": ["Reproduction", "Excretion", "Nutrition", "Stimulus"],
+"a": 1,
+"sol": "Living organisms must remove toxic wastes produced during life processes."
+},
+{
+"q": "Earthworms breathe through their ________.",
+"o": ["Lungs", "Nose", "Skin", "Gills"],
+"a": 2,
+"sol": "Earthworms have a thin, moist skin for gas exchange."
+},
+{
+"q": "Which plant shows a response to touch (Mimosa pudica)?",
+"o": ["Sun-flower", "Touch-me-not", "Rose", "Cactus"],
+"a": 1,
+"sol": "Its leaves fold up immediately when touched."
+},
+{
+"q": "In desert plants like cactus, photosynthesis is usually carried out by the:",
+"o": ["Leaves", "Roots", "Green Stem", "Flowers"],
+"a": 2,
+"sol": "Leaves are reduced to spines to save water, so the fleshy green stem does the job."
+},
+{
+"q": "What is the lifespan of an organism?",
+"o": ["The time it spends sleeping", "The period from birth to natural death", "The time it takes to grow", "The number of hours in a day"],
+"a": 1,
+"sol": "Every living thing has a definite period of existence."
+},
+{
+"q": "Aquatic animals have ________ bodies to move easily in water.",
+"o": ["Square", "Heavy", "Streamlined", "Rough"],
+"a": 2,
+"sol": "A streamlined shape reduces friction and resistance in water."
+},
+{
+"q": "Which of these is a biotic component?",
+"o": ["Sunlight", "Water", "Bacteria", "Air"],
+"a": 2,
+"sol": "Biotic components are the living parts of an ecosystem."
+},
+{
+"q": "A seed grows into a plant. This is an example of:",
+"o": ["Movement", "Growth", "Excretion", "Reproduction"],
+"a": 1,
+"sol": "Growth is the permanent increase in size and complexity."
+},
+{
+"q": "Fish use their fins and tails to ________.",
+"o": ["Breathe", "Change direction and maintain balance", "Eat food", "Produce light"],
+"a": 1,
+"sol": "Fins and tails are essential for movement and stability in water."
+},
+{
+"q": "The habitat of a plant that grows in water is called:",
+"o": ["Terrestrial", "Aquatic", "Aerial", "Desert"],
+"a": 1,
+"sol": "Aquatic habitats include ponds, lakes, rivers, and oceans."
+},
+{
+"q": "Why do mountains animals like yak have thick fur?",
+"o": ["To look beautiful", "To protect them from cold", "To help them run", "To store food"],
+"a": 1,
+"sol": "Thick fur provides insulation against freezing temperatures."
+},
+{
+"q": "Which of these do plants need for photosynthesis?",
+"o": ["Oxygen and Sugar", "Carbon dioxide, water, and sunlight", "Milk and soil", "Insects and wind"],
+"a": 1,
+"sol": "These are the raw materials for making plant food."
+},
+{
+"q": "A butterfly starts its life as a/an:",
+"o": ["Pupa", "Larva", "Egg", "Adult"],
+"a": 2,
+"sol": "The life cycle of a butterfly begins with an egg."
+},
+{
+"q": "Blowholes are found in:",
+"o": ["Dolphins", "Crabs", "Frogs", "Snakes"],
+"a": 0,
+"sol": "Dolphins and whales use blowholes at the top of their heads to breathe air."
+},
+{
+"q": "Saline water is found in which habitat?",
+"o": ["Pond", "River", "Sea/Ocean", "Lake"],
+"a": 2,
+"sol": "Seas and oceans contain high amounts of dissolved salts."
+},
+{
+"q": "Trees on mountains are usually ________ shaped.",
+"o": ["Round", "Cone", "Flat", "Square"],
+"a": 1,
+"sol": "The conical shape helps snow to slide off easily."
+},
+{
+"q": "Which of these is an example of reproduction through seeds?",
+"o": ["Rose (by stem cutting)", "Wheat", "Potato (by eyes)", "Ginger"],
+"a": 1,
+"sol": "Wheat and most cereals reproduce via seeds."
+},
+{
+"q": "Living beings use oxygen to get energy from food. This is called:",
+"o": ["Photosynthesis", "Digestion", "Respiration", "Circulation"],
+"a": 2,
+"sol": "Respiration is the chemical process of breaking down food using oxygen."
+},
+{
+"q": "Lions have eyes in front of their faces. This helps them to:",
+"o": ["See all around", "Locate their prey accurately", "Sleep better", "Scare others"],
+"a": 1,
+"sol": "Front-facing eyes provide depth perception needed for hunting."
+},
+{
+"q": "Deer have long ears to:",
+"o": ["Fly", "Hear movements of predators", "Keep cool", "Store water"],
+"a": 1,
+"sol": "Sensitive hearing helps them detect danger from a distance."
+},
+{
+"q": "The 'bent' growth of a plant towards a window is a response to:",
+"o": ["Gravity", "Water", "Light", "Touch"],
+"a": 2,
+"sol": "Phototropism is the growth of plants toward a light source."
+},
+{
+"q": "What happens to our pupils in bright light?",
+"o": ["They become larger", "They stay the same", "They become smaller", "They change colour"],
+"a": 2,
+"sol": "The pupil constricts to protect the eye from too much light (response to stimulus)."
+},
+{
+"q": "Snakes move by:",
+"o": ["Walking on legs", "Slithering/Crawling", "Flying", "Hopping"],
+"a": 1,
+"sol": "Snakes use their scales and muscles to slither across the ground."
+},
+{
+"q": "Which of these is NOT a characteristic of non-living things?",
+"o": ["They do not grow", "They do not breathe", "They respond to stimuli", "They do not reproduce"],
+"a": 2,
+"sol": "Responding to stimuli is a feature of living things, not non-living ones."
+},
+{
+"q": "Cactus plants have spines instead of leaves to ________.",
+"o": ["Attract insects", "Reduce water loss by transpiration", "Absorb sunlight", "Look scary"],
+"a": 1,
+"sol": "Spines have very small surface area, minimizing evaporation."
+},
+{
+"q": "A habit of an organism to stay in its environment is called:",
+"o": ["Adaptation", "Migration", "Hibernation", "Habitat"],
+"a": 3,
+"sol": "Habitat is the natural home or environment of an organism."
+},
+{
+"q": "Which of the following organisms reproduces by giving birth to young ones?",
+"o": ["Hen", "Frog", "Cow", "Snake"],
+"a": 2,
+"sol": "Cows are mammals and give birth to live young (viviparous)."
+},
+{
+"q": "Ponds and lakes are examples of ________ habitats.",
+"o": ["Terrestrial", "Freshwater", "Marine", "Desert"],
+"a": 1,
+"sol": "They contain non-salty (fresh) water."
+},
+{
+"q": "The roots of aquatic plants are:",
+"o": ["Very long and deep", "Absent", "Small and hold the plant in place", "Very thick"],
+"a": 2,
+"sol": "In water, roots aren't needed for water absorption, just for anchorage."
+},
+{
+"q": "Which bird cannot fly?",
+"o": ["Sparrow", "Ostrich", "Eagle", "Parrot"],
+"a": 1,
+"sol": "Ostriches are flightless birds adapted for running."
+},
+{
+"q": "Microscopic organisms can be seen with the help of a:",
+"o": ["Telescope", "Periscope", "Microscope", "Stethoscope"],
+"a": 2,
+"sol": "A microscope magnifies tiny organisms that are invisible to the naked eye."
+},
+{
+"q": "What is 'Germination'?",
+"o": ["Cutting a plant", "Cooking a seed", "The beginning of growth of a seed into a seedling", "Death of a plant"],
+"a": 2,
+"sol": "Germination is the first stage in the life of a plant."
+},
+{
+"q": "The leaves of submerged plants are often:",
+"o": ["Broad and flat", "Highly divided/ribbon-like", "Covered in hair", "Round like a ball"],
+"a": 1,
+"sol": "Thin, ribbon-like leaves allow water to flow through without tearing them."
+},
+{
+"q": "All animals depend on ________ for their food.",
+"o": ["Other animals only", "Plants", "Sunlight directly", "Water only"],
+"a": 1,
+"sol": "Plants are the primary producers; animals are consumers."
+},
+{
+"q": "Which animal has a 'hump' to store fat?",
+"o": ["Elephant", "Camel", "Horse", "Goat"],
+"a": 1,
+"sol": "The hump stores fat which can be converted to energy and water when needed."
+},
+{
+"q": "Frogs have ________ feet to swim in water.",
+"o": ["Sharp", "Webbed", "Long", "Sticky"],
+"a": 1,
+"sol": "Webbed feet act like paddles in water."
+},
+{
+"q": "Respiration in plants occurs:",
+"o": ["Only during the day", "Only at night", "Both day and night", "Only when it rains"],
+"a": 2,
+"sol": "Living cells need energy (respiration) 24/7."
+},
+{
+"q": "Which of these is an example of an aerial habitat?",
+"o": ["Forest", "Sky (Air)", "Ocean", "Burrow"],
+"a": 1,
+"sol": "Aerial means related to the air or flying."
+},
+{
+"q": "Snow leopards have thick fur on their ________ too.",
+"o": ["Tail", "Ears", "Feet and toes", "Eyes"],
+"a": 2,
+"sol": "This protects their feet from the cold snow while walking."
+},
+{
+"q": "Which of the following do NOT move from place to place?",
+"o": ["Insects", "Plants", "Humans", "Birds"],
+"a": 1,
+"sol": "Plants are generally fixed in the soil."
+},
+{
+"q": "Excretion in plants is done by:",
+"o": ["Going to the toilet", "Shedding leaves or storing in vacuoles", "Producing flowers", "Running"],
+"a": 1,
+"sol": "Plants get rid of wastes by storing them in leaves that fall off or as resins/gums."
+},
+{
+"q": "A group of the same kind of organisms living in an area is a:",
+"o": ["Community", "Population", "Habitat", "Ecosystem"],
+"a": 1,
+"sol": "Population refers to individuals of one species in a specific place."
+},
+{
+"q": "Which of these gases is released by plants during photosynthesis?",
+"o": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+"a": 2,
+"sol": "Oxygen is a byproduct of photosynthesis."
+},
+{
+"q": "The process of a caterpillar turning into a butterfly is called:",
+"o": ["Growth", "Metamorphosis", "Excretion", "Stimulus"],
+"a": 1,
+"sol": "Metamorphosis is a drastic change in body form."
+},
+{
+"q": "Which organ helps us to sense light?",
+"o": ["Ear", "Nose", "Eye", "Tongue"],
+"a": 2,
+"sol": "Eyes are light-sensitive sense organs."
+},
+{
+"q": "Rats and snakes in the desert stay in ________ during the day.",
+"o": ["Trees", "Deep burrows", "Open sand", "Clouds"],
+"a": 1,
+"sol": "Burrows are much cooler than the surface sand."
+},
+{
+"q": "Plants that grow on land are called ________ plants.",
+"o": ["Aquatic", "Terrestrial", "Marine", "Amphibian"],
+"a": 1,
+"sol": "Terra means land."
+},
+{
+"q": "Which of these is a response to the stimulus of 'heat'?",
+"o": ["Closing eyes", "Sweating", "Running", "Eating"],
+"a": 1,
+"sol": "Sweating is the body's way of cooling down when it's hot."
+},
+{
+"q": "A stem of a money plant climbing a support is a type of:",
+"o": ["Excretion", "Movement", "Digestion", "Reproduction"],
+"a": 1,
+"sol": "While plants don't walk, parts of them move in response to the environment."
+},
+{
+"q": "Adaptations take ________ to develop.",
+"o": ["A few minutes", "A few days", "Thousands of years", "Exactly one year"],
+"a": 2,
+"sol": "They are long-term changes across many generations."
+},
+{
+"q": "Which part of our body helps us feel a 'prick'?",
+"o": ["Skin", "Heart", "Lungs", "Stomach"],
+"a": 0,
+"sol": "Skin contains touch receptors."
+},
+{
+"q": "Fish die when taken out of water because they cannot:",
+"o": ["See", "Breathe in air", "Eat", "Swim"],
+"a": 1,
+"sol": "Gills can only extract dissolved oxygen from water, not from air."
+},
+{
+"q": "The green pigment in leaves is called:",
+"o": ["Hemoglobin", "Chlorophyll", "Melanin", "Bile"],
+"a": 1,
+"sol": "Chlorophyll traps sunlight for photosynthesis."
+},
+{
+"q": "Most plants reproduce through:",
+"o": ["Eggs", "Seeds", "Gills", "Fur"],
+"a": 1,
+"sol": "Seeds contain the embryo of the new plant."
+},
+{
+"q": "Which animal is known as the 'Ship of the Desert'?",
+"o": ["Donkey", "Camel", "Lion", "Snake"],
+"a": 1,
+"sol": "Camels are perfectly adapted for desert travel."
+},
+{
+"q": "In a forest habitat, 'speed' is important for a deer to:",
+"o": ["Catch its prey", "Escape from predators like lions", "Find water", "Look cool"],
+"a": 1,
+"sol": "Speed is a survival adaptation for prey animals."
+},
+{
+"q": "A habitat with very little water is a:",
+"o": ["Rainforest", "Ocean", "Desert", "Swamp"],
+"a": 2,
+"sol": "Deserts are defined by their lack of rainfall."
+},
+{
+"q": "Which of these do ALL animals need to survive?",
+"o": ["Clothing", "Food, Water, and Air", "Money", "Mobile phones"],
+"a": 1,
+"sol": "These are the basic biological requirements for life."
+},
+{
+"q": "Mushroom is a living thing because it:",
+"o": ["Grows and reproduces", "Can talk", "Moves like a dog", "Is green"],
+"a": 0,
+"sol": "Mushrooms are fungi; they grow and produce spores."
+},
+{
+"q": "Which of these is an example of a mountain plant?",
+"o": ["Lotus", "Pine", "Coconut", "Cactus"],
+"a": 1,
+"sol": "Pine trees are adapted for cold, hilly regions."
+},
+{
+"q": "Animals that eat only plants are called:",
+"o": ["Carnivores", "Omnivores", "Herbivores", "Parasites"],
+"a": 2,
+"sol": "Herb means plant."
+},
+{
+"q": "The movement of an animal from one place to another in search of food or shelter is:",
+"o": ["Hibernation", "Locomotion", "Reproduction", "Excretion"],
+"a": 1,
+"sol": "Locomotion is the ability to move the whole body."
+},
+{
+"q": "The 'eyes' of a potato can grow into a new plant. This is:",
+"o": ["Sexual reproduction", "Vegetative propagation", "Excretion", "Pollution"],
+"a": 1,
+"sol": "Growing new plants from body parts other than seeds."
+},
+{
+"q": "Which gas do we breathe out?",
+"o": ["Oxygen", "Carbon dioxide", "Helium", "Ozone"],
+"a": 1,
+"sol": "Carbon dioxide is the waste product of animal respiration."
+},
+{
+"q": "Dolphins come to the surface of the water to ________.",
+"o": ["Play", "Breathe air", "Eat birds", "Sunbathe"],
+"a": 1,
+"sol": "They are air-breathing mammals."
+},
+{
+"q": "Sunlight and heat are ________ components of a habitat.",
+"o": ["Biotic", "Lively", "Abiotic", "Harmful"],
+"a": 2,
+"sol": "They are non-living physical factors."
+},
+{
+"q": "Which of these plants float on water?",
+"o": ["Mango tree", "Water Hyacinth", "Rose", "Banyan"],
+"a": 1,
+"sol": "Water Hyacinth has air-filled stems to stay afloat."
+},
+{
+"q": "The length of time for which an organism lives is its:",
+"o": ["Stopwatch", "Lifespan", "Timetable", "Growth rate"],
+"a": 1,
+"sol": "Different organisms have different lifespans (e.g., Mayfly 1 day, Tortoise 150 years)."
+},
+{
+"q": "Which animal lives in a burrow?",
+"o": ["Tiger", "Rabbit", "Elephant", "Monkey"],
+"a": 1,
+"sol": "Rabbits dig burrows in the ground for safety."
+},
+{
+"q": "Which part of the plant grows underground?",
+"o": ["Stem", "Leaf", "Root", "Flower"],
+"a": 2,
+"sol": "Roots anchor the plant and absorb water."
+},
+{
+"q": "A baby grows into an adult. This proves that living things ________.",
+"o": ["Move", "Grow", "Die", "Breathe"],
+"a": 1,
+"sol": "Increase in size and development is a key trait."
+},
+{
+"q": "Plants lose water through their leaves. This is called:",
+"o": ["Evaporation", "Transpiration", "Respiration", "Inspiration"],
+"a": 1,
+"sol": "Transpiration helps in cooling the plant."
+},
+{
+"q": "The process of getting rid of undigested food is:",
+"o": ["Excretion", "Egestion", "Respiration", "Reproduction"],
+"a": 1,
+"sol": "Egestion specifically refers to removing solid food waste."
+},
+{
+"q": "Insects like cockroaches breathe through:",
+"o": ["Nose", "Spiracles (small holes on the body)", "Gills", "Mouth"],
+"a": 1,
+"sol": "Spiracles connect to a network of air tubes."
+},
+{
+"q": "The natural home of an organism is its:",
+"o": ["School", "Habitat", "Zoo", "Museum"],
+"a": 1,
+"sol": "Habitat provides food, water, and shelter."
+},
+{
+"q": "Is a 'Bicycle' a living thing?",
+"o": ["Yes, it moves", "No, it doesn't breathe or grow", "Yes, it has wheels", "Only when ridden"],
+"a": 1,
+"sol": "Movement alone doesn't define life; a bicycle lacks other traits like metabolism."
+},
+{
+"q": "Which habitat has the most variety of plants and animals?",
+"o": ["Desert", "Tropical Rainforest", "Arctic", "Moon"],
+"a": 1,
+"sol": "Rainforests are rich in biodiversity due to warmth and rain."
+},
+{
+"q": "What happens if a plant doesn't get sunlight?",
+"o": ["It grows faster", "It becomes very strong", "It turns yellow and may die", "It starts walking"],
+"a": 2,
+"sol": "Without light, it cannot make food (photosynthesis)."
+},
+{
+"q": "A squirrel hiding nuts is preparing for:",
+"o": ["A party", "Winter/Food scarcity", "Rain", "A race"],
+"a": 1,
+"sol": "Storing food is a survival behavior."
+},
+{
+"q": "Which of these is NOT needed by plants to make food?",
+"o": ["Soil", "Sunlight", "Water", "Oxygen"],
+"a": 3,
+"sol": "Plants take in Carbon dioxide to make food and release Oxygen."
+},
+{
+"q": "Which of these is a response to the stimulus of 'smell'?",
+"o": ["Closing ears", "Watering of mouth when seeing/smelling tasty food", "Blinking eyes", "Sneezing"],
+"a": 1,
+"sol": "Our body reacts to the chemical signals in the air."
+},
+{
+"q": "The skin of a desert snake is usually ________.",
+"o": ["Wet", "Dry and scaly", "Hairy", "Thin"],
+"a": 1,
+"sol": "Scales prevent water loss in the dry desert heat."
+},
+{
+"q": "Do all living things need a source of energy?",
+"o": ["No, only humans", "Yes, from food", "Only plants", "Only animals"],
+"a": 1,
+"sol": "Energy is required to perform all life activities."
+},
+{
+"q": "Birds have ________ bones to fly.",
+"o": ["Heavy and solid", "Hollow and light", "No", "Rubber"],
+"a": 1,
+"sol": "Hollow bones reduce body weight for flight."
+},
+{
+"q": "Which sense organ helps a bat find its way in the dark?",
+"o": ["Eyes", "Ears (Hearing/Echolocation)", "Tongue", "Skin"],
+"a": 1,
+"sol": "Bats use sound echoes to navigate."
+},
+{
+"q": "The green plants are also called ________.",
+"o": ["Consumers", "Producers", "Decomposers", "Predators"],
+"a": 1,
+"sol": "They 'produce' food for the entire ecosystem."
+},
+{
+"q": "Lions are 'brown' in colour to:",
+"o": ["Look pretty", "Hide in dry grasslands while hunting", "Absorb heat", "Scare monkeys"],
+"a": 1,
+"sol": "Camouflage helps predators sneak up on prey."
+},
+{
+"q": "Which of these is a life process?",
+"o": ["Playing video games", "Respiration", "Watching TV", "Driving a car"],
+"a": 1,
+"sol": "Life processes are essential biological functions."
+},
+{
+"q": "All living things eventually ________.",
+"o": ["Become smaller", "Die", "Turn into plants", "Fly"],
+"a": 1,
+"sol": "Death is the final stage of the life cycle."
+}
+]
