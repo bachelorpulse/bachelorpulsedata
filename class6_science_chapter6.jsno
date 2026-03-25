@@ -1,0 +1,602 @@
+[
+{
+"q": "Which of the following is a naturally occurring material?",
+"o": ["Plastic", "Steel", "Cotton", "Nylon"],
+"a": 2,
+"sol": "Cotton is obtained directly from plants, making it a natural material."
+},
+{
+"q": "The property due to which a material can be easily scratched is called:",
+"o": ["Hardness", "Softness", "Lustre", "Roughness"],
+"a": 1,
+"sol": "Soft materials can be compressed or scratched easily."
+},
+{
+"q": "Which of these materials is transparent?",
+"o": ["Wood", "Iron", "Glass", "Stone"],
+"a": 2,
+"sol": "Glass allows light to pass through it completely, making it transparent."
+},
+{
+"q": "Materials that do not allow any light to pass through them are:",
+"o": ["Opaque", "Translucent", "Transparent", "Lustrous"],
+"a": 0,
+"sol": "Opaque objects like wood or metal block light entirely."
+},
+{
+"q": "Sugar dissolves in water, so it is said to be ________.",
+"o": ["Insoluble", "Soluble", "Miscible", "Opaque"],
+"a": 1,
+"sol": "Substances that disappear completely in water are soluble."
+},
+{
+"q": "Which of the following floats on water?",
+"o": ["Iron nail", "Stone", "Dry leaf", "Glass marble"],
+"a": 2,
+"sol": "Materials lighter than water, like dry leaves or oil, float on the surface."
+},
+{
+"q": "The shine on a freshly cut metal surface is called:",
+"o": ["Hardness", "Malleability", "Lustre", "Transparency"],
+"a": 2,
+"sol": "Lustre refers to the natural shine found on metals."
+},
+{
+"q": "Which of these is an example of a translucent material?",
+"o": ["Clear water", "Oiled paper", "Cardboard", "Aluminium sheet"],
+"a": 1,
+"sol": "Translucent materials allow light to pass through only partially."
+},
+{
+"q": "Liquids that mix with each other completely are called:",
+"o": ["Immiscible", "Miscible", "Insoluble", "Soluble"],
+"a": 1,
+"sol": "Miscible liquids like milk and water blend into one layer."
+},
+{
+"q": "Why is a tumbler usually not made with a piece of cloth?",
+"o": ["Cloth is expensive", "Cloth cannot hold water", "Cloth is too heavy", "Cloth is not beautiful"],
+"a": 1,
+"sol": "A tumbler's purpose is to hold liquid, which would leak through cloth."
+},
+{
+"q": "Which gas is soluble in water and important for aquatic life?",
+"o": ["Nitrogen", "Oxygen", "Hydrogen", "Methane"],
+"a": 1,
+"sol": "Dissolved oxygen allows fish and other water animals to breathe."
+},
+{
+"q": "Iron, Copper, and Aluminium are examples of:",
+"o": ["Non-metals", "Metals", "Gases", "Liquids"],
+"a": 1,
+"sol": "These are metals known for being hard and lustrous."
+},
+{
+"q": "An object that is difficult to compress is called ________.",
+"o": ["Soft", "Hard", "Rough", "Light"],
+"a": 1,
+"sol": "Hardness is the resistance to compression or scratching."
+},
+{
+"q": "Which of these is insoluble in water?",
+"o": ["Common salt", "Sugar", "Chalk powder", "Glucose"],
+"a": 2,
+"sol": "Chalk powder settles at the bottom and does not dissolve."
+},
+{
+"q": "Sorting of objects into groups with similar properties is called:",
+"o": ["Mixing", "Classification", "Collection", "Separation"],
+"a": 1,
+"sol": "Classification helps in systematic study and locating things easily."
+},
+{
+"q": "Mustard oil ________ in water.",
+"o": ["Dissolves", "Sinks", "Floats", "Disappears"],
+"a": 2,
+"sol": "Oil is immiscible and lighter than water, so it forms a top layer."
+},
+{
+"q": "Which of the following is NOT a property of materials?",
+"o": ["Transparency", "Hardness", "Price", "Solubility"],
+"a": 2,
+"sol": "Price is an economic factor, not a physical property of the material."
+},
+{
+"q": "Materials that appear dull usually ________.",
+"o": ["Are metals", "Are non-lustrous", "Have high shine", "Are transparent"],
+"a": 1,
+"sol": "Materials without shine, like wood or paper, are non-lustrous."
+},
+{
+"q": "Kerosene and water are ________ liquids.",
+"o": ["Miscible", "Soluble", "Immiscible", "Insoluble"],
+"a": 2,
+"sol": "They do not mix and form separate layers."
+},
+{
+"q": "A shopkeeper keeps sweets in transparent jars so that:",
+"o": ["They look colorful", "Buyers can see them easily", "They stay hot", "They don't break"],
+"a": 1,
+"sol": "Transparency allows the contents to be visible from outside."
+},
+{
+"q": "Vinegar dissolves in water.",
+"o": ["True", "False", "Only if heated", "Only if stirred for hours"],
+"a": 0,
+"sol": "Vinegar is miscible with water."
+},
+{
+"q": "Which of these would sink in water?",
+"o": ["Plastic ball", "Sponge", "Coin", "Ice cube"],
+"a": 2,
+"sol": "Metal coins are denser than water and sink to the bottom."
+},
+{
+"q": "Sand ________ at the bottom of a water container.",
+"o": ["Floats", "Settles", "Dissolves", "Evaporates"],
+"a": 1,
+"sol": "Sand is insoluble and heavier than water."
+},
+{
+"q": "What happens to the lustre of some metals over time?",
+"o": ["It increases", "It stays same", "They lose it due to air and moisture", "They turn transparent"],
+"a": 2,
+"sol": "Corrosion or reaction with gases in air makes metals look dull."
+},
+{
+"q": "A frosted glass window is an example of:",
+"o": ["Transparent", "Translucent", "Opaque", "Lustrous"],
+"a": 1,
+"sol": "It allows some light but you cannot see clearly through it."
+},
+{
+"q": "Which of these is a man-made material?",
+"o": ["Wood", "Plastic", "Coal", "Gold"],
+"a": 1,
+"sol": "Plastic is synthesized in factories, unlike natural materials."
+},
+{
+"q": "Metals are generally ________ conductors of heat.",
+"o": ["Bad", "Good", "Poor", "Neutral"],
+"a": 1,
+"sol": "Most metals allow heat to pass through them easily."
+},
+{
+"q": "Which material is used to make the handles of cooking pans?",
+"o": ["Steel", "Copper", "Bakelite/Plastic", "Aluminium"],
+"a": 2,
+"sol": "Handles are made of insulators so they don't get hot to touch."
+},
+{
+"q": "Sawdust is ________ in water.",
+"o": ["Soluble", "Insoluble", "Miscible", "Transparent"],
+"a": 1,
+"sol": "Sawdust does not dissolve and usually floats or settles."
+},
+{
+"q": "Glycerine mixes well with water.",
+"o": ["True", "False", "Partially", "Never"],
+"a": 0,
+"sol": "Glycerine is miscible with water."
+},
+{
+"q": "The group of materials that can be compressed easily is:",
+"o": ["Metals", "Hard materials", "Soft materials", "Stone"],
+"a": 2,
+"sol": "Cotton, sponge, and rubber are soft materials."
+},
+{
+"q": "Which of these is a non-lustrous material?",
+"o": ["Gold", "Silver", "Wood", "Copper"],
+"a": 2,
+"sol": "Wood does not have a metallic shine."
+},
+{
+"q": "Why is grouping objects useful?",
+"o": ["It looks messy", "It makes studying properties convenient", "It wastes time", "It is not needed"],
+"a": 1,
+"sol": "Grouping helps us observe patterns in properties."
+},
+{
+"q": "A substance through which we can see but not clearly is:",
+"o": ["Opaque", "Transparent", "Translucent", "Lustrous"],
+"a": 2,
+"sol": "Definition of translucent material."
+},
+{
+"q": "Which liquid is immiscible in water?",
+"o": ["Lemon juice", "Milk", "Coconut oil", "Vinegar"],
+"a": 2,
+"sol": "Oils do not mix with water."
+},
+{
+"q": "Paper itself is opaque, but if we put oil on it, it becomes:",
+"o": ["Transparent", "Translucent", "More opaque", "Metallic"],
+"a": 1,
+"sol": "Oil fills the gaps in paper fibers, allowing some light through."
+},
+{
+"q": "Diamond is the ________ natural substance known.",
+"o": ["Softest", "Lightest", "Hardest", "Most soluble"],
+"a": 2,
+"sol": "Diamond's structure makes it extremely hard."
+},
+{
+"q": "Which material would you choose to make a mirror?",
+"o": ["Transparent glass only", "Opaque wood", "Glass with a silver coating", "Cloth"],
+"a": 2,
+"sol": "A mirror needs a reflective surface to form an image."
+},
+{
+"q": "Metals are ________.",
+"o": ["Soft", "Hard", "Liquid", "Gaseous"],
+"a": 1,
+"sol": "Most metals (except mercury) are hard solids at room temperature."
+},
+{
+"q": "If an object sinks in water, it means it is ________ than water.",
+"o": ["Lighter", "Denser/Heavier", "Softer", "Cleaner"],
+"a": 1,
+"sol": "Density determines whether an object sinks or floats."
+},
+{
+"q": "Which gas does not dissolve in water easily?",
+"o": ["Oxygen", "Carbon dioxide", "Nitrogen", "All gases dissolve equally"],
+"a": 2,
+"sol": "Nitrogen has very low solubility compared to oxygen in water."
+},
+{
+"q": "Which of these is a property of gold?",
+"o": ["Insoluble and Lustrous", "Soluble and Dull", "Transparent", "Gas"],
+"a": 0,
+"sol": "Gold is a metal (lustrous) and does not dissolve in water."
+},
+{
+"q": "Salt is obtained from sea water by the process of ________.",
+"o": ["Filtration", "Decantation", "Evaporation", "Magnetic separation"],
+"a": 2,
+"sol": "Water evaporates, leaving the solid salt behind."
+},
+{
+"q": "Which material is used to make electrical wires?",
+"o": ["Wood", "Copper", "Plastic", "Rubber"],
+"a": 1,
+"sol": "Copper is a good conductor of electricity."
+},
+{
+"q": "Materials are grouped together on the basis of ________.",
+"o": ["Differences only", "Similarities only", "Both similarities and differences", "Their weight only"],
+"a": 2,
+"sol": "Grouping considers what is common and what is different."
+},
+{
+"q": "An iron nail is ________.",
+"o": ["Transparent", "Opaque", "Translucent", "Soft"],
+"a": 1,
+"sol": "Metal is opaque."
+},
+{
+"q": "Which liquid sinks below water?",
+"o": ["Honey", "Oil", "Petrol", "Kerosene"],
+"a": 0,
+"sol": "Honey is denser than water and will sink to the bottom."
+},
+{
+"q": "Which of these materials is rough to touch?",
+"o": ["Silk cloth", "Glass sheet", "Sandpaper", "Polished marble"],
+"a": 2,
+"sol": "Sandpaper has a gritty, uneven surface."
+},
+{
+"q": "The state of a material (solid, liquid, gas) is also a property.",
+"o": ["False", "True", "Only for water", "Only for metals"],
+"a": 1,
+"sol": "Physical state is a fundamental property of matter."
+},
+{
+"q": "Transparency is useful in making ________.",
+"o": ["Spectacles", "Umbrellas", "Chairs", "Shoes"],
+"a": 0,
+"sol": "Lenses must be transparent to see through."
+},
+{
+"q": "A material used to make a raincoat should be ________.",
+"o": ["Absorbent", "Waterproof", "Transparent", "Heavy"],
+"a": 1,
+"sol": "Waterproof materials prevent water from reaching the body."
+},
+{
+"q": "Honey dissolves in water.",
+"o": ["True", "False", "Only if it is cold", "Never"],
+"a": 0,
+"sol": "Honey is soluble in water."
+},
+{
+"q": "Which of these is a bad conductor of electricity?",
+"o": ["Copper", "Iron", "Aluminium", "Plastic"],
+"a": 3,
+"sol": "Plastic does not allow current to pass."
+},
+{
+"q": "Cotton is ________ than iron.",
+"o": ["Harder", "Softer", "Lustrous", "Denser"],
+"a": 1,
+"sol": "Cotton is easily compressed, unlike iron."
+},
+{
+"q": "Steel is a/an ________.",
+"o": ["Natural material", "Element", "Alloy (Man-made)", "Gas"],
+"a": 2,
+"sol": "Steel is made by mixing iron with carbon and other elements."
+},
+{
+"q": "What is common between sugar and salt?",
+"o": ["Both are black", "Both are insoluble", "Both are soluble in water", "Both are liquids"],
+"a": 2,
+"sol": "Both disappear when stirred in water."
+},
+{
+"q": "Which material is used for making window panes in hot countries to reduce light?",
+"o": ["Clear glass", "Tinted/Translucent glass", "Wood", "Mirror"],
+"a": 1,
+"sol": "Tinted glass reduces glare and heat."
+},
+{
+"q": "The feeling of a material when touched is its ________.",
+"o": ["Transparency", "Hardness", "Texture", "Solubility"],
+"a": 2,
+"sol": "Texture refers to how rough or smooth a surface is."
+},
+{
+"q": "Which object is made from a single material?",
+"o": ["A pencil", "A steel spoon", "A mobile phone", "A bicycle"],
+"a": 1,
+"sol": "A steel spoon is usually just metal, while others are mixtures of parts."
+},
+{
+"q": "Which of these floats on oil but sinks in water?",
+"o": ["Ice", "Wood", "Plastic", "None of these (depends on density)"],
+"a": 3,
+"sol": "Density determines the behavior; usually things that float on water also float on oil if oil is denser, but oil is lighter."
+},
+{
+"q": "Materials that sink in water have density ________ than 1 g/cm³.",
+"o": ["Less", "Equal", "More", "Zero"],
+"a": 2,
+"sol": "Water density is 1. Objects with higher density sink."
+},
+{
+"q": "Wood is used for making furniture because it is ________.",
+"o": ["Soft", "Hard and strong", "Transparent", "Soluble"],
+"a": 1,
+"sol": "Wood provides the necessary strength to support weight."
+},
+{
+"q": "Which of these is a property of non-metals?",
+"o": ["Dull appearance", "Brittle (break easily)", "Poor conductors", "All of these"],
+"a": 3,
+"sol": "These are standard characteristics of non-metals like coal or sulphur."
+},
+{
+"q": "Lemon juice is miscible with water.",
+"o": ["True", "False", "Only if boiled", "Never"],
+"a": 0,
+"sol": "Lemon juice and water mix completely."
+},
+{
+"q": "Which of these is used to make a cricket bat?",
+"o": ["Metal", "Plastic", "Wood", "Glass"],
+"a": 2,
+"sol": "Wood (willow) is traditional and effective for bats."
+},
+{
+"q": "A metal key is ________.",
+"o": ["Lustrous and Hard", "Dull and Soft", "Transparent", "Soluble"],
+"a": 0,
+"sol": "Keys are made of durable, shiny metals."
+},
+{
+"q": "Which of these is found in all three states (solid, liquid, gas) on Earth?",
+"o": ["Iron", "Plastic", "Water", "Oxygen"],
+"a": 2,
+"sol": "Water exists as ice, water, and steam naturally."
+},
+{
+"q": "Grouping things helps in ________ things easily.",
+"o": ["Losing", "Finding", "Breaking", "Hiding"],
+"a": 1,
+"sol": "Organized things are easy to locate."
+},
+{
+"q": "Which material is used in a light bulb's filament?",
+"o": ["Copper", "Tungsten", "Plastic", "Glass"],
+"a": 1,
+"sol": "Tungsten is used because it can withstand high temperatures."
+},
+{
+"q": "Is air a material?",
+"o": ["No, it's nothing", "Yes, it occupies space and has mass", "Only when it's cold", "Only in balloons"],
+"a": 1,
+"sol": "Air is matter, and thus a material/mixture of gases."
+},
+{
+"q": "Which of these is a soft material?",
+"o": ["Rubber ball", "Iron rod", "Stone", "Key"],
+"a": 0,
+"sol": "Rubber can be compressed."
+},
+{
+"q": "Soft drinks contain ________ gas dissolved in them.",
+"o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+"a": 2,
+"sol": "CO2 gives the fizz to sodas."
+},
+{
+"q": "Which material is used to make the body of a car?",
+"o": ["Wood", "Metal (Steel)", "Rubber", "Glass"],
+"a": 1,
+"sol": "Steel provides the required safety and structure."
+},
+{
+"q": "Objects made of ________ catch fire easily.",
+"o": ["Iron", "Paper", "Stone", "Glass"],
+"a": 1,
+"sol": "Paper is a combustible material."
+},
+{
+"q": "Which of these is a lustrous non-metal?",
+"o": ["Iodine", "Graphite", "Both A and B", "Neither"],
+"a": 2,
+"sol": "Iodine crystals and Graphite have a natural shine."
+},
+{
+"q": "A material through which we cannot see is:",
+"o": ["Glass", "Water", "Wood", "Air"],
+"a": 2,
+"sol": "Wood is opaque."
+},
+{
+"q": "Sorting materials into groups is also called:",
+"o": ["Categorization", "Messing up", "Liquidation", "Sublimation"],
+"a": 0,
+"sol": "Putting items into categories based on properties."
+},
+{
+"q": "Which of these is used to make a chalkboard?",
+"o": ["Metal", "Plastic", "Slate/Wood", "Paper"],
+"a": 2,
+"sol": "Slate was traditionally used, now painted wood/plastic."
+},
+{
+"q": "Lustre is a property of ________.",
+"o": ["All materials", "Mostly metals", "Mostly gases", "Only transparent things"],
+"a": 1,
+"sol": "Metallic shine is a characteristic of metals."
+},
+{
+"q": "Materials that can be drawn into wires are called:",
+"o": ["Ductile", "Malleable", "Brittle", "Soft"],
+"a": 0,
+"sol": "Ductility is the property of being drawn into wires."
+},
+{
+"q": "Chalk powder in water is an example of a:",
+"o": ["Solution", "Suspension", "Miscible liquid", "Gas"],
+"a": 1,
+"sol": "The particles remain visible and don't dissolve."
+},
+{
+"q": "Which of these is used to make jewelry?",
+"o": ["Iron", "Coal", "Gold", "Lead"],
+"a": 2,
+"sol": "Gold is preferred for its lustre and non-reactive nature."
+},
+{
+"q": "Oil is ________ in water.",
+"o": ["Miscible", "Immiscible", "Soluble", "Transparent"],
+"a": 1,
+"sol": "Oil and water do not mix."
+},
+{
+"q": "Which material is used to make shoes?",
+"o": ["Leather", "Rubber", "Canvas", "All of these"],
+"a": 3,
+"sol": "Various materials are chosen based on the shoe's purpose."
+},
+{
+"q": "A magnet attracts ________.",
+"o": ["Wood", "Iron", "Plastic", "Gold"],
+"a": 1,
+"sol": "Iron is a magnetic material."
+},
+{
+"q": "Which of these is a liquid at room temperature?",
+"o": ["Ice", "Water", "Steam", "Salt"],
+"a": 1,
+"sol": "Water is the liquid state of H2O."
+},
+{
+"q": "Materials that break easily when hit are:",
+"o": ["Ductile", "Brittle", "Malleable", "Hard"],
+"a": 1,
+"sol": "Brittle materials like glass or coal shatter into pieces."
+},
+{
+"q": "Which material is used to make the pages of a book?",
+"o": ["Cloth", "Paper", "Plastic", "Wood"],
+"a": 1,
+"sol": "Paper is the primary material for printing books."
+},
+{
+"q": "Materials are chosen for an object based on ________.",
+"o": ["Their color only", "Their properties and purpose", "The manufacturer's mood", "Weight only"],
+"a": 1,
+"sol": "We use materials that fit the job (e.g., metal for tools)."
+},
+{
+"q": "Which of these is a transparent liquid?",
+"o": ["Milk", "Muddy water", "Pure water", "Orange juice"],
+"a": 2,
+"sol": "You can see clearly through pure water."
+},
+{
+"q": "Objects that sink in water have a ________ density than water.",
+"o": ["Lower", "Higher", "Equal", "Same"],
+"a": 1,
+"sol": "Higher density causes sinking."
+},
+{
+"q": "Which of these is used to make tires?",
+"o": ["Steel", "Rubber", "Wood", "Glass"],
+"a": 1,
+"sol": "Rubber provides grip and cushioning."
+},
+{
+"q": "Can a material be both hard and lustrous?",
+"o": ["No", "Yes (like Iron)", "Only if it is liquid", "Never"],
+"a": 1,
+"sol": "Many metals possess both properties."
+},
+{
+"q": "Materials that allow heat to pass through them are:",
+"o": ["Insulators", "Conductors", "Opaque", "Transparent"],
+"a": 1,
+"sol": "Conductors like metals transfer heat efficiently."
+},
+{
+"q": "The sorting of materials makes our life ________.",
+"o": ["Difficult", "Organized and Easy", "Confusing", "Expensive"],
+"a": 1,
+"sol": "Organization saves time and effort."
+},
+{
+"q": "Is mercury a metal?",
+"o": ["No, it's a liquid", "Yes, it is a liquid metal", "It is a gas", "It is a non-metal"],
+"a": 1,
+"sol": "Mercury is a unique metal that is liquid at room temperature."
+},
+{
+"q": "Which of these is a natural gas?",
+"o": ["Plastic", "CNG", "Glass", "Steel"],
+"a": 1,
+"sol": "Compressed Natural Gas is a fossil fuel."
+},
+{
+"q": "Copper is ________.",
+"o": ["A good conductor", "Insoluble in water", "A lustrous metal", "All of these"],
+"a": 3,
+"sol": "Copper has all these physical properties."
+},
+{
+"q": "Plastic is used for making containers because it ________.",
+"o": ["Is very heavy", "Is non-reactive and light", "Is transparent", "Dissolves in water"],
+"a": 1,
+"sol": "Plastic doesn't rust or react with most food items."
+},
+{
+"q": "All solids sink in water.",
+"o": ["True", "False (like wood)", "Only if they are metal", "Only in the sea"],
+"a": 1,
+"sol": "Many solids like wood, cork, and certain plastics float."
+}
+]
