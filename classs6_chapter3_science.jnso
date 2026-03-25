@@ -1,0 +1,602 @@
+[
+{
+"q": "Which of these nutrients is the body's primary and quickest source of energy?",
+"o": ["Proteins", "Carbohydrates", "Vitamins", "Minerals"],
+"a": 1,
+"sol": "Carbohydrates are broken down into glucose, which is the preferred energy source for cells."
+},
+{
+"q": "A person suffering from bleeding gums and slow wound healing is likely deficient in:",
+"o": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin K"],
+"a": 2,
+"sol": "Vitamin C (Ascorbic acid) deficiency leads to Scurvy, characterized by gum bleeding."
+},
+{
+"q": "Which mineral is essential for the formation of strong bones and teeth?",
+"o": ["Iron", "Iodine", "Calcium", "Sodium"],
+"a": 2,
+"sol": "Calcium is the primary mineral component of bone tissue and dental enamel."
+},
+{
+"q": "Dietary fibers, also known as roughage, are important because they:",
+"o": ["Provide extra calories", "Help in body building", "Help the body get rid of undigested food", "Prevent night blindness"],
+"a": 2,
+"sol": "Roughage adds bulk to the diet and aids in regular bowel movements."
+},
+{
+"q": "Which of the following is considered a 'Protective Food'?",
+"o": ["Sugar and Rice", "Ghee and Butter", "Fruits and Vegetables", "Maize and Wheat"],
+"a": 2,
+"sol": "Fruits and vegetables are rich in vitamins and minerals that protect the body against diseases."
+},
+{
+"q": "The 'Iodine Test' is used to detect the presence of which component in food?",
+"o": ["Proteins", "Fats", "Starch", "Vitamin D"],
+"a": 2,
+"sol": "Starch turns blue-black when it reacts with iodine solution."
+},
+{
+"q": "Which of these is a rich source of plant-based protein?",
+"o": ["Potatoes", "Pulses", "Spinach", "Apples"],
+"a": 1,
+"sol": "Pulses, beans, and lentils are primary sources of protein for vegetarians."
+},
+{
+"q": "Obesity is caused primarily by the overconsumption of:",
+"o": ["Vitamins", "Proteins", "Fat-rich foods", "Water"],
+"a": 2,
+"sol": "Excessive intake of fats leads to accumulation of adipose tissue and weight gain."
+},
+{
+"q": "What is the result of Iron deficiency in the human diet?",
+"o": ["Goitre", "Anaemia", "Rickets", "Beriberi"],
+"a": 1,
+"sol": "Iron is needed for hemoglobin; its deficiency reduces oxygen-carrying capacity (Anaemia)."
+},
+{
+"q": "Which vitamin is produced by the human body when exposed to sunlight?",
+"o": ["Vitamin B", "Vitamin K", "Vitamin D", "Vitamin A"],
+"a": 2,
+"sol": "The skin synthesizes Vitamin D through a chemical reaction triggered by UV rays."
+},
+{
+"q": "The process of heating milk to kill germs and then cooling it quickly is:",
+"o": ["Fermentation", "Pasteurization", "Dehydration", "Canning"],
+"a": 1,
+"sol": "Pasteurization is a standard preservation technique for dairy products."
+},
+{
+"q": "A balanced diet should contain:",
+"o": ["Only carbohydrates", "Only proteins", "All nutrients in the right proportions", "Mostly fats"],
+"a": 2,
+"sol": "Balance implies getting the correct ratio of all essential nutrients and roughage."
+},
+{
+"q": "Which of these is a symptom of Marasmus in children?",
+"o": ["Swollen stomach", "Severe wasting of muscles", "Bending of bones", "Loss of vision"],
+"a": 1,
+"sol": "Marasmus is caused by deficiency of both proteins and carbohydrates."
+},
+{
+"q": "Night blindness is caused by the lack of:",
+"o": ["Vitamin B12", "Vitamin C", "Vitamin A", "Vitamin E"],
+"a": 2,
+"sol": "Vitamin A is crucial for maintaining healthy vision, especially in low light."
+},
+{
+"q": "Which of the following is an example of an animal-based fat?",
+"o": ["Mustard oil", "Butter", "Coconut oil", "Groundnut oil"],
+"a": 1,
+"sol": "Butter is derived from milk, making it an animal-based lipid."
+},
+{
+"q": "To test the presence of proteins in a food item, we use:",
+"o": ["Iodine", "Copper sulphate and Caustic soda", "Nitric acid", "Benedict's solution"],
+"a": 1,
+"sol": "This is known as the Biuret test; a violet color indicates protein."
+},
+{
+"q": "Jaggery (Gur) is a healthy alternative to white sugar because it provides:",
+"o": ["Protein", "Fats", "Iron and minerals", "Vitamin C"],
+"a": 2,
+"sol": "Unlike refined sugar, jaggery contains molasses which is rich in iron."
+},
+{
+"q": "Kwashiorkor is a disease caused specifically by a lack of:",
+"o": ["Carbohydrates", "Proteins", "Fats", "Iodine"],
+"a": 1,
+"sol": "Kwashiorkor is characterized by a swollen belly due to severe protein deficiency."
+},
+{
+"q": "Which nutrient provides twice as much energy as carbohydrates?",
+"o": ["Vitamins", "Minerals", "Fats", "Water"],
+"a": 2,
+"sol": "Fats are the most energy-dense nutrient, providing 9 calories per gram."
+},
+{
+"q": "Sprouting of seeds increases the content of which vitamin?",
+"o": ["Vitamin C", "Vitamin K", "Vitamin D", "Vitamin A"],
+"a": 0,
+"sol": "The germination process significantly boosts the vitamin C levels in seeds."
+},
+{
+"q": "The main function of Vitamin K is:",
+"o": ["Vision", "Blood clotting", "Energy", "Calcium absorption"],
+"a": 1,
+"sol": "Vitamin K is essential for synthesizing proteins required for blood coagulation."
+},
+{
+"q": "Which of these is a rich source of Omega-3 fatty acids?",
+"o": ["White bread", "Fish", "Sugar", "Rice"],
+"a": 1,
+"sol": "Fatty fish are excellent sources of healthy Omega-3 polyunsaturated fats."
+},
+{
+"q": "Goitre is caused by the deficiency of which mineral?",
+"o": ["Calcium", "Iodine", "Iron", "Magnesium"],
+"a": 1,
+"sol": "Iodine is required for the thyroid gland to produce hormones."
+},
+{
+"q": "Why is water important for our body?",
+"o": ["It builds muscles", "It provides energy", "It helps absorb nutrients", "It gives vitamins"],
+"a": 2,
+"sol": "Water acts as a solvent and transport medium in the biological system."
+},
+{
+"q": "Which food group is known as 'Body Building' food?",
+"o": ["Carbohydrates", "Fats", "Proteins", "Sugar"],
+"a": 2,
+"sol": "Proteins are responsible for growth and repairing damaged cells."
+},
+{
+"q": "Calcium absorption is aided by which vitamin?",
+"o": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+"a": 3,
+"sol": "Vitamin D is necessary for the intestines to absorb calcium from food."
+},
+{
+"q": "The disease Beriberi is caused by the deficiency of:",
+"o": ["Vitamin B1", "Vitamin B12", "Vitamin C", "Vitamin A"],
+"a": 0,
+"sol": "Vitamin B1 (Thiamine) deficiency affects the nervous and circulatory systems."
+},
+{
+"q": "Which food component gives a translucent spot on paper?",
+"o": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+"a": 2,
+"sol": "The paper test is a simple way to detect the presence of lipids/fats."
+},
+{
+"q": "Rice is primarily rich in:",
+"o": ["Proteins", "Vitamins", "Starch", "Minerals"],
+"a": 2,
+"sol": "Rice is primarily composed of complex carbohydrates (starch)."
+},
+{
+"q": "Over-washing of rice and pulses leads to the loss of:",
+"o": ["Starch", "Water-soluble vitamins", "Fats", "Fiber"],
+"a": 1,
+"sol": "Vitamins like B-complex are water-soluble and can be washed away."
+},
+{
+"q": "Which is a lifestyle disease related to mindful eating?",
+"o": ["Malaria", "Typhoid", "Type 2 Diabetes", "Cholera"],
+"a": 2,
+"sol": "Diet and activity levels are primary factors in Managing Type 2 Diabetes."
+},
+{
+"q": "The primary role of 'Energy-giving' foods is:",
+"o": ["Immunity", "Muscle mass", "Fuel for activities", "Better vision"],
+"a": 2,
+"sol": "Carbohydrates and fats are the fuel sources for the body."
+},
+{
+"q": "Which vitamin prevents the disease 'Rickets'?",
+"o": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+"a": 3,
+"sol": "Rickets causes soft and weak bones due to poor calcium utilization."
+},
+{
+"q": "Deficiency of Vitamin B12 leads to:",
+"o": ["Skin disease", "Pernicious Anaemia", "Blindness", "Weak bones"],
+"a": 1,
+"sol": "B12 is essential for red blood cell formation."
+},
+{
+"q": "Which of these is NOT a source of Carbohydrates?",
+"o": ["Honey", "Sweet potato", "Chicken", "Banana"],
+"a": 2,
+"sol": "Meat like chicken is primarily a source of protein and fat."
+},
+{
+"q": "The mineral needed for the thyroid gland is:",
+"o": ["Iron", "Phosphorus", "Iodine", "Potassium"],
+"a": 2,
+"sol": "Iodine is a key constituent of thyroid hormones."
+},
+{
+"q": "What happens to Vitamin C when food is cooked too long?",
+"o": ["It increases", "It is easily destroyed", "It turns into protein", "It evaporates"],
+"a": 1,
+"sol": "Vitamin C is heat-labile and is destroyed by excessive cooking."
+},
+{
+"q": "The major function of Sodium in our body is to:",
+"o": ["Carry oxygen", "Maintain water balance", "Make bones hard", "Clot blood"],
+"a": 1,
+"sol": "Sodium is a key electrolyte in extracellular fluid."
+},
+{
+"q": "Which is a symptom of Vitamin A deficiency?",
+"o": ["Night blindness", "Bowed legs", "Swollen joints", "Weak muscles"],
+"a": 0,
+"sol": "This condition is known as Nyctalopia."
+},
+{
+"q": "Phosphorus is required by our body for:",
+"o": ["Blood production", "Strong bones and teeth", "Digesting fats", "Muscle contraction"],
+"a": 1,
+"sol": "Phosphorus works with calcium to build bone mineral density."
+},
+{
+"q": "Which of these is a rich source of Vitamin C?",
+"o": ["Milk", "Amla", "Egg", "Fish"],
+"a": 1,
+"sol": "Amla is among the highest natural sources of Vitamin C."
+},
+{
+"q": "A person having a large swelling in the neck likely has:",
+"o": ["Rickets", "Anaemia", "Goitre", "Scurvy"],
+"a": 2,
+"sol": "Goitre is the physical enlargement of the thyroid gland."
+},
+{
+"q": "Which nutrient is stored as long-term energy reserve?",
+"o": ["Vitamins", "Water", "Fats", "Proteins"],
+"a": 2,
+"sol": "Adipose tissue stores fats as a long-term energy reserve."
+},
+{
+"q": "The 'Citrus' family of fruits provides:",
+"o": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin K"],
+"a": 2,
+"sol": "Lemons and oranges are classic sources of Ascorbic acid."
+},
+{
+"q": "Milk is a nearly 'Complete Food' because it contains:",
+"o": ["Water", "Proteins", "Proteins, fats, vitamins, minerals", "Carbs"],
+"a": 2,
+"sol": "Milk provides a broad spectrum of nutrients required for growth."
+},
+{
+"q": "Vitamin D deficiency in adults leads to:",
+"o": ["Rickets", "Osteomalacia", "Pellagra", "Scurvy"],
+"a": 1,
+"sol": "Osteomalacia refers to the softening of bones in adults."
+},
+{
+"q": "Which of these provides 'Instant Energy' to athletes?",
+"o": ["Glucose", "Steak", "Cheese", "Butter"],
+"a": 0,
+"sol": "Glucose enters the bloodstream directly for immediate use."
+},
+{
+"q": "Whole grains are better than refined grains because they have:",
+"o": ["More sugar", "More fiber", "Less protein", "More fat"],
+"a": 1,
+"sol": "Refining removes the bran and germ, which hold the fiber."
+},
+{
+"q": "Which of these is an example of a deficiency disease?",
+"o": ["Malaria", "Scurvy", "Tuberculosis", "Dengue"],
+"a": 1,
+"sol": "Scurvy is caused by lack of Vitamin C."
+},
+{
+"q": "What is the main role of roughage?",
+"o": ["Energy", "Repair", "Help digestion", "Build bones"],
+"a": 2,
+"sol": "Fiber ensures the smooth passage of food through the digestive tract."
+},
+{
+"q": "Which vitamin helps use calcium for bones?",
+"o": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+"a": 2,
+"sol": "Vitamin D is the catalyst for calcium mineralization."
+},
+{
+"q": "Which of the following contains the most protein?",
+"o": ["Potato", "Soybean", "Rice", "Apple"],
+"a": 1,
+"sol": "Soybeans are one of the richest sources of plant protein."
+},
+{
+"q": "What is the cause of 'Marasmus'?",
+"o": ["Lack of Vitamin C", "Lack of protein and calories", "Too much fat", "Lack of sunlight"],
+"a": 1,
+"sol": "Marasmus is a form of severe starvation/malnutrition."
+},
+{
+"q": "Which food item likely contains Vitamin B12?",
+"o": ["Leafy greens", "Citrus", "Meat and dairy", "Bread"],
+"a": 2,
+"sol": "B12 is found almost exclusively in animal-origin foods."
+},
+{
+"q": "Which chemical is used for the paper test?",
+"o": ["Iodine", "Copper Sulphate", "None", "Caustic Soda"],
+"a": 2,
+"sol": "The paper test is a physical test requiring no chemicals."
+},
+{
+"q": "Roughage is also known as:",
+"o": ["Proteins", "Dietary Fiber", "Minerals", "Vitamins"],
+"a": 1,
+"sol": "It refers to the indigestible part of plant foods."
+},
+{
+"q": "The deficiency of which vitamin causes 'Pellagra'?",
+"o": ["Vitamin B1", "Vitamin B3", "Vitamin B12", "Vitamin C"],
+"a": 1,
+"sol": "Pellagra is caused by Niacin (B3) deficiency."
+},
+{
+"q": "Which of these is a major source of Iodine?",
+"o": ["Sea food", "Pulses", "Sugar", "Meat"],
+"a": 0,
+"sol": "Marine life naturally contains high levels of iodine."
+},
+{
+"q": "A diet high in saturated fats can lead to:",
+"o": ["Blindness", "Heart diseases", "Scurvy", "Rickets"],
+"a": 1,
+"sol": "Excessive saturated fats can lead to cholesterol buildup."
+},
+{
+"q": "Which mineral is found in Hemoglobin?",
+"o": ["Copper", "Magnesium", "Iron", "Calcium"],
+"a": 2,
+"sol": "Iron atoms at the center of heme groups bind oxygen."
+},
+{
+"q": "Why eat raw fruits?",
+"o": ["More protein", "Heat-sensitive vitamins", "Avoid fats", "More energy"],
+"a": 1,
+"sol": "Cooking destroys vitamins like Vitamin C."
+},
+{
+"q": "Which of the following is NOT a mineral?",
+"o": ["Calcium", "Vitamin A", "Iron", "Iodine"],
+"a": 1,
+"sol": "Vitamin A is an organic compound, not an element."
+},
+{
+"q": "Junk food is bad because it is:",
+"o": ["Nutritious", "Low calorie", "High fat/sugar, low nutrient", "Hard to chew"],
+"a": 2,
+"sol": "Junk foods provide 'empty calories'."
+},
+{
+"q": "A symptom of Iodine deficiency is:",
+"o": ["Bleeding gums", "Mental disability in children", "Weak bones", "Pale skin"],
+"a": 1,
+"sol": "Iodine is critical for congenital brain development."
+},
+{
+"q": "The primary function of fats is to:",
+"o": ["Repair cells", "Store energy", "Fight germs", "Carry minerals"],
+"a": 1,
+"sol": "Fats act as a long-term energy storage."
+},
+{
+"q": "Which of these is NOT water-soluble?",
+"o": ["Vitamin B", "Vitamin C", "Vitamin K", "B complex"],
+"a": 2,
+"sol": "Vitamins A, D, E, and K are fat-soluble."
+},
+{
+"q": "Common name for Vitamin C deficiency disease?",
+"o": ["Rickets", "Scurvy", "Anaemia", "Goitre"],
+"a": 1,
+"sol": "Scurvy leads to gum disease and hemorrhages."
+},
+{
+"q": "Which nutrient helps build immunity?",
+"o": ["Carbs", "Proteins and Vitamins", "Fats", "Water"],
+"a": 1,
+"sol": "Vitamins protect; proteins build antibodies."
+},
+{
+"q": "Maize is rich in:",
+"o": ["Proteins", "Fats", "Carbohydrates", "Vitamin B12"],
+"a": 2,
+"sol": "Maize is a cereal composed mostly of starch."
+},
+{
+"q": "Rich source of Calcium:",
+"o": ["Milk and leafy greens", "Sugar", "Rice", "Apple"],
+"a": 0,
+"sol": "Dairy and greens are the best calcium sources."
+},
+{
+"q": "Pot belly and thin limbs are signs of:",
+"o": ["Fat lack", "Protein lack", "Carb lack", "Vitamin D lack"],
+"a": 1,
+"sol": "These are signs of Kwashiorkor."
+},
+{
+"q": "What is the role of Iron in blood?",
+"o": ["Infection", "Clotting", "Transport oxygen", "Energy"],
+"a": 2,
+"sol": "Iron binds oxygen in hemoglobin."
+},
+{
+"q": "Which vitamin is the 'Sunshine Vitamin'?",
+"o": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+"a": 2,
+"sol": "Synthesized by the body in sunlight."
+},
+{
+"q": "Lack of water leads to:",
+"o": ["Deficiency", "Dehydration", "Starvation", "Anaemia"],
+"a": 1,
+"sol": "Dehydration happens when fluid intake is too low."
+},
+{
+"q": "Which of these is fat-soluble?",
+"o": ["Vitamin B1", "Vitamin C", "Vitamin A", "Vitamin B12"],
+"a": 2,
+"sol": "Vitamin A is fat-soluble."
+},
+{
+"q": "Plant cell wall component acting as roughage:",
+"o": ["Glucose", "Cellulose", "Starch", "Protein"],
+"a": 1,
+"sol": "Cellulose provides necessary bulk for digestion."
+},
+{
+"q": "Which item is tested with Caustic Soda?",
+"o": ["Rice", "Pulse powder", "Butter", "Sugar"],
+"a": 1,
+"sol": "Biuret test for proteins in pulses."
+},
+{
+"q": "White structure growing from seeds:",
+"o": ["Stem", "Sprout", "Leaf", "Flower"],
+"a": 1,
+"sol": "Sprouts indicate seed germination."
+},
+{
+"q": "Rich source of Vitamin E:",
+"o": ["Sugar", "Salt", "Vegetable oils/nuts", "Water"],
+"a": 2,
+"sol": "Vitamin E is found in lipid-rich plant parts."
+},
+{
+"q": "A balanced diet varies by:",
+"o": ["Age/Work", "Food color", "Utensils", "Time"],
+"a": 0,
+"sol": "Needs depend on growth and energy use."
+},
+{
+"q": "Disease that makes bones soft?",
+"o": ["Anaemia", "Goitre", "Rickets", "Scurvy"],
+"a": 2,
+"sol": "Rickets causes skeletal deformities."
+},
+{
+"q": "Function of Vitamin B complex?",
+"o": ["Clotting", "Healthy skin/nerves", "Strong bones", "Better vision"],
+"a": 1,
+"sol": "B vitamins support metabolic and nervous health."
+},
+{
+"q": "Seaweed is a rich source of:",
+"o": ["Vitamin A", "Iron", "Iodine", "Carbs"],
+"a": 2,
+"sol": "Marine life concentrates iodine from water."
+},
+{
+"q": "Which is a macro-nutrient?",
+"o": ["Iron", "Vitamin C", "Protein", "Iodine"],
+"a": 2,
+"sol": "Proteins are needed in gram quantities."
+},
+{
+"q": "Which helps maintain body temperature?",
+"o": ["Vitamin A", "Water", "Starch", "Minerals"],
+"a": 1,
+"sol": "Water dissipates heat via sweat."
+},
+{
+"q": "Deficiency of Vitamin K leads to:",
+"o": ["Poor vision", "Excessive bleeding", "Weak muscles", "Loose teeth"],
+"a": 1,
+"sol": "Vitamin K is essential for coagulation."
+},
+{
+"q": "Mineral for red blood cells?",
+"o": ["Sodium", "Calcium", "Iron", "Iodine"],
+"a": 2,
+"sol": "Iron is the core of heme."
+},
+{
+"q": "No nutritional value but essential:",
+"o": ["Proteins", "Fats", "Roughage", "Vitamins"],
+"a": 2,
+"sol": "Roughage is physically necessary for digestion."
+},
+{
+"q": "Night blindness cured by eating:",
+"o": ["Sugar", "Carrots/papaya", "Bread", "Rice"],
+"a": 1,
+"sol": "Carrots are high in Vitamin A precursors."
+},
+{
+"q": "Rich source of Vitamin B1:",
+"o": ["Oranges", "Unpolished grains", "Egg shells", "Butter"],
+"a": 1,
+"sol": "Bran contains most of the Thiamine."
+},
+{
+"q": "Polishing pulses leads to loss of:",
+"o": ["Water", "Vitamin B1", "Starch", "Fats"],
+"a": 1,
+"sol": "The nutrient-rich outer layer is removed."
+},
+{
+"q": "Obese people risk having:",
+"o": ["Scurvy", "High blood pressure", "Rickets", "Goitre"],
+"a": 1,
+"sol": "Obesity correlates with hypertension."
+},
+{
+"q": "Test giving blue-black color for starch?",
+"o": ["Biuret", "Iodine", "Paper", "Litmus"],
+"a": 1,
+"sol": "Starch-iodine complex is dark blue."
+},
+{
+"q": "Objective of Mindful Eating:",
+"o": ["Eat fast", "Attention to hunger cues", "One food type", "Skip meals"],
+"a": 1,
+"sol": "Mindfulness involves conscious consumption."
+},
+{
+"q": "Potatoes are a source of:",
+"o": ["Protein", "Fat", "Starch", "B12"],
+"a": 2,
+"sol": "Potatoes store energy as starch."
+},
+{
+"q": "Vitamin destroyed by cooking?",
+"o": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin K"],
+"a": 2,
+"sol": "Vitamin C is extremely heat-sensitive."
+},
+{
+"q": "Meat is a source of:",
+"o": ["Carbs", "Proteins and Fats", "Vitamin C", "Fiber"],
+"a": 1,
+"sol": "Muscle tissue is protein and lipid based."
+},
+{
+"q": "Rich source of fiber:",
+"o": ["Juice", "Whole fruits", "Refined flour", "Sugar"],
+"a": 1,
+"sol": "Whole fruits retain their structural fiber."
+},
+{
+"q": "Swelling in neck deficiency?",
+"o": ["Iron", "Calcium", "Iodine", "Phosphorus"],
+"a": 2,
+"sol": "Classic sign of Goitre."
+},
+{
+"q": "Balanced diet contains:",
+"o": ["All nutrients/water", "Only energy food", "Only protein", "Only protective"],
+"a": 0,
+"sol": "Completeness requires all groups."
+}
+]
