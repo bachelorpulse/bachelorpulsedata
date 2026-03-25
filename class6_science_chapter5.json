@@ -1,0 +1,602 @@
+[
+{
+"q": "Which of these is the SI unit of length?",
+"o": ["Centimetre", "Foot", "Metre", "Kilometre"],
+"a": 2,
+"sol": "Metre (m) is the standard international unit for measuring length."
+},
+{
+"q": "The movement of a drawer being pulled out is an example of:",
+"o": ["Rectilinear motion", "Circular motion", "Periodic motion", "Rotational motion"],
+"a": 0,
+"sol": "Since the drawer moves in a straight line, it is rectilinear motion."
+},
+{
+"q": "How many centimetres make one metre?",
+"o": ["10", "1000", "100", "50"],
+"a": 2,
+"sol": "1 metre = 100 centimetres."
+},
+{
+"q": "The motion of a pendulum is:",
+"o": ["Rectilinear", "Periodic", "Circular", "Random"],
+"a": 1,
+"sol": "A pendulum repeats its motion after a fixed interval of time, making it periodic."
+},
+{
+"q": "Which of these is NOT a standard unit of measurement?",
+"o": ["Metre", "Handspan", "Kilogram", "Second"],
+"a": 1,
+"sol": "Handspan varies from person to person, so it is not a standard unit."
+},
+{
+"q": "To measure the girth of a tree, which tool is best?",
+"o": ["15 cm ruler", "Measuring tape", "Wooden stick", "Handspan"],
+"a": 1,
+"sol": "A flexible measuring tape can easily wrap around the curved surface of a tree."
+},
+{
+"q": "The motion of the Earth around the Sun is:",
+"o": ["Circular", "Periodic", "Both A and B", "Rectilinear"],
+"a": 2,
+"sol": "It is circular because of the path and periodic because it takes exactly one year."
+},
+{
+"q": "1 kilometre is equal to how many metres?",
+"o": ["100 m", "1000 m", "10,000 m", "500 m"],
+"a": 1,
+"sol": "1 km = 1000 m."
+},
+{
+"q": "A flying bird exhibits which type of motion?",
+"o": ["Only rectilinear", "Only circular", "Random/Complex motion", "Periodic"],
+"a": 2,
+"sol": "Birds move in unpredictable directions, often combining different types of motion."
+},
+{
+"q": "When measuring length with a ruler, where should the eye be placed?",
+"o": ["Left of the mark", "Right of the mark", "Vertically above the mark", "Anywhere"],
+"a": 2,
+"sol": "To avoid parallax error, the eye must be exactly above the point being measured."
+},
+{
+"q": "The blades of an electric fan show ________ motion.",
+"o": ["Rectilinear", "Circular", "Periodic", "Vibratory"],
+"a": 1,
+"sol": "The blades move around a fixed central point in a circle."
+},
+{
+"q": "If the zero mark of a ruler is broken, we should start measuring from:",
+"o": ["The broken edge", "The 1 cm mark", "The 5 cm mark", "Any full mark and subtract its value"],
+"a": 3,
+"sol": "Subtracting the starting value from the final reading gives the correct length."
+},
+{
+"q": "Motion of a child on a swing is:",
+"o": ["Periodic", "Rectilinear", "Rotational", "Non-periodic"],
+"a": 0,
+"sol": "A swing moves to and fro at regular intervals."
+},
+{
+"q": "Which is the smallest unit among these?",
+"o": ["Millimetre", "Centimetre", "Metre", "Kilometre"],
+"a": 0,
+"sol": "10 millimetres make up 1 centimetre."
+},
+{
+"q": "A car moving on a straight road is in:",
+"o": ["Circular motion", "Periodic motion", "Rectilinear motion", "Curved motion"],
+"a": 2,
+"sol": "Movement along a straight line is rectilinear."
+},
+{
+"q": "The invention of ________ changed the history of transport.",
+"o": ["Steam engine", "Wheel", "Compass", "Map"],
+"a": 1,
+"sol": "The wheel allowed for much faster and easier movement of goods and people."
+},
+{
+"q": "Which unit would you use to measure the distance between Delhi and Mumbai?",
+"o": ["Metre", "Centimetre", "Kilometre", "Millimetre"],
+"a": 2,
+"sol": "Kilometre is used for long distances."
+},
+{
+"q": "The tip of a clock's second hand shows ________ motion.",
+"o": ["Rectilinear", "Circular", "Oscillatory", "Random"],
+"a": 1,
+"sol": "It moves in a circular path around the center of the clock."
+},
+{
+"q": "The change in position of an object with time is called:",
+"o": ["Rest", "Motion", "Speed", "Distance"],
+"a": 1,
+"sol": "Motion is defined by the shift in location over a period of time."
+},
+{
+"q": "An object that does not change its position with time is at:",
+"o": ["Motion", "Rest", "Sleep", "Speed"],
+"a": 1,
+"sol": "Stationary objects are said to be at rest."
+},
+{
+"q": "Motion of a falling stone is:",
+"o": ["Circular", "Periodic", "Rectilinear", "Rotational"],
+"a": 2,
+"sol": "Gravity pulls it down in a straight line path."
+},
+{
+"q": "Which of these is a non-standard measurement of length?",
+"o": ["Metre scale", "Measuring tape", "Cubit", "Vernier calipers"],
+"a": 2,
+"sol": "Cubit (length from elbow to fingertips) varies between people."
+},
+{
+"q": "What is the full form of SI units?",
+"o": ["Simple International", "Systeme International", "Science International", "Standard Indian"],
+"a": 1,
+"sol": "It is the French name for the International System of Units."
+},
+{
+"q": "The string of a guitar when plucked shows:",
+"o": ["Rectilinear motion", "Circular motion", "Periodic/Vibratory motion", "Random motion"],
+"a": 2,
+"sol": "The string vibrates back and forth rapidly in a periodic manner."
+},
+{
+"q": "To measure the length of a curved line, we can use:",
+"o": ["A ruler directly", "A thread and a ruler", "A compass", "A heavy stone"],
+"a": 1,
+"sol": "We use a thread to trace the curve, then measure the thread on a ruler."
+},
+{
+"q": "The distance between two cities is 5.4 km. How many metres is this?",
+"o": ["540 m", "5400 m", "54 m", "5.4 m"],
+"a": 1,
+"sol": "5.4 * 1000 = 5400 metres."
+},
+{
+"q": "A heartbeat can be considered a type of ________ motion.",
+"o": ["Non-periodic", "Periodic", "Rectilinear", "Circular"],
+"a": 1,
+"sol": "It repeats regularly, making it periodic."
+},
+{
+"q": "The height of a person is 1.65 m. In cm, it is:",
+"o": ["16.5 cm", "165 cm", "1650 cm", "0.165 cm"],
+"a": 1,
+"sol": "1.65 * 100 = 165 cm."
+},
+{
+"q": "Motion of a ball rolling on the ground is:",
+"o": ["Only rectilinear", "Only rotational", "Both rectilinear and rotational", "Only periodic"],
+"a": 2,
+"sol": "The ball moves forward (rectilinear) while turning (rotational)."
+},
+{
+"q": "Which transport was used before engines were invented?",
+"o": ["Aeroplanes", "Steamships", "Animal-driven carts", "Trains"],
+"a": 2,
+"sol": "Horses, bullocks, and camels were the primary mode of transport."
+},
+{
+"q": "Standard units are needed for:",
+"o": ["Accuracy", "Uniformity", "Easy comparison", "All of these"],
+"a": 3,
+"sol": "Standard units ensure everyone gets the same measurement regardless of who measures."
+},
+{
+"q": "A sewing machine needle moves ________ when in use.",
+"o": ["In a circle", "Up and down (Periodic)", "Forward in a line", "Nowhere"],
+"a": 1,
+"sol": "The needle moves up and down repeatedly."
+},
+{
+"q": "Why should we avoid using a 'handspan' as a standard unit?",
+"o": ["It is too small", "It is not accurate", "It varies from person to person", "It is hard to use"],
+"a": 2,
+"sol": "Because different people have different hand sizes."
+},
+{
+"q": "The rotation of the wheel of a bicycle is:",
+"o": ["Rectilinear", "Circular", "Rotational", "Both B and C"],
+"a": 3,
+"sol": "The wheel moves in a circular path around its axis (rotational)."
+},
+{
+"q": "How many millimetres are in 1 centimetre?",
+"o": ["100", "1", "10", "1000"],
+"a": 2,
+"sol": "1 cm = 10 mm."
+},
+{
+"q": "The movement of a soldier in a march-past is:",
+"o": ["Periodic", "Rectilinear", "Circular", "Random"],
+"a": 1,
+"sol": "Soldiers march in a straight line."
+},
+{
+"q": "150 cm is how many metres?",
+"o": ["15 m", "1.5 m", "0.15 m", "1500 m"],
+"a": 1,
+"sol": "150 / 100 = 1.5 m."
+},
+{
+"q": "Which of these is a modern mode of transport?",
+"o": ["Bullock cart", "Supersonic jet", "Hand-pulled rickshaw", "Boat with oars"],
+"a": 1,
+"sol": "Supersonic jets are advanced technology."
+},
+{
+"q": "A snail crawling on the floor shows:",
+"o": ["Periodic motion", "Rectilinear/Slow motion", "Circular motion", "Fast motion"],
+"a": 1,
+"sol": "It moves slowly in a path, often straight or slightly curved."
+},
+{
+"q": "The distance between a source and a screen is measured in:",
+"o": ["Kilograms", "Seconds", "Metres", "Litres"],
+"a": 2,
+"sol": "Distance is a measure of length."
+},
+{
+"q": "Parallax error occurs when:",
+"o": ["The ruler is broken", "The eye is at a wrong angle", "The object is too small", "The room is dark"],
+"a": 1,
+"sol": "Parallax is the shift in apparent position due to viewing angle."
+},
+{
+"q": "Motion of the moon around the earth is ________.",
+"o": ["Rectilinear", "Periodic", "Non-periodic", "Random"],
+"a": 1,
+"sol": "It repeats its orbit regularly."
+},
+{
+"q": "A length of 2 metres is same as:",
+"o": ["20 cm", "2000 mm", "0.2 km", "200 cm"],
+"a": 3,
+"sol": "2 m = 200 cm."
+},
+{
+"q": "Which ancient measurement was based on the length of a foot?",
+"o": ["Metre", "Foot", "Cubit", "Yard"],
+"a": 1,
+"sol": "The 'foot' unit actually comes from the size of a human foot."
+},
+{
+"q": "Motion of a striker on a carrom board is:",
+"o": ["Circular", "Rectilinear", "Periodic", "Vibratory"],
+"a": 1,
+"sol": "It moves in straight lines between hits."
+},
+{
+"q": "When light travels, it shows:",
+"o": ["Circular motion", "Rectilinear motion", "Periodic motion", "Random motion"],
+"a": 1,
+"sol": "Light travels in straight lines."
+},
+{
+"q": "To measure a very small thickness of a wire, we use:",
+"o": ["Metre scale", "Measuring tape", "Screw gauge", "Wooden ruler"],
+"a": 2,
+"sol": "Screw gauges are for high precision micro-measurements."
+},
+{
+"q": "The movement of the hands of a clock is:",
+"o": ["Rotational", "Periodic", "Both A and B", "Rectilinear"],
+"a": 2,
+"sol": "They rotate and repeat their path regularly."
+},
+{
+"q": "Standardisation of units is managed by:",
+"o": ["Local shops", "International bodies", "Textbook authors", "School teachers"],
+"a": 1,
+"sol": "Global organizations ensure everyone uses the same standards."
+},
+{
+"q": "1 centimetre has ________ equal divisions called millimetres.",
+"o": ["5", "10", "100", "50"],
+"a": 1,
+"sol": "The small markings between cm are mm."
+},
+{
+"q": "Distance is the ________ of the path between two points.",
+"o": ["Weight", "Time", "Length", "Speed"],
+"a": 2,
+"sol": "It is a quantitative measure of space."
+},
+{
+"q": "The motion of a spinning top is:",
+"o": ["Rotational", "Rectilinear", "Periodic", "Oscillatory"],
+"a": 0,
+"sol": "A top spins around its own axis."
+},
+{
+"q": "Which of these is used to measure the length of a classroom?",
+"o": ["A small 15 cm ruler", "A measuring tape", "A thermometer", "A weighing scale"],
+"a": 1,
+"sol": "Measuring tapes are long enough for rooms."
+},
+{
+"q": "Is the motion of a butterfly periodic?",
+"o": ["Yes", "No", "Only when it flies high", "Only in the morning"],
+"a": 1,
+"sol": "Butterfly flight is random and non-periodic."
+},
+{
+"q": "The yard was originally the distance between:",
+"o": ["The chin and fingertips", "Two shoulders", "Foot and knee", "Step and step"],
+"a": 0,
+"sol": "Historical units were often based on body parts."
+},
+{
+"q": "4.5 kilometres is how many centimetres?",
+"o": ["4500 cm", "45,000 cm", "4,50,000 cm", "450 cm"],
+"a": 2,
+"sol": "4.5 km * 1000 = 4500 m; 4500 m * 100 = 450,000 cm."
+},
+{
+"q": "Which of these is at rest?",
+"o": ["A flying plane", "A running boy", "A tree in a field", "A rolling ball"],
+"a": 2,
+"sol": "Trees do not change their location relative to the ground."
+},
+{
+"q": "Motion that repeats itself is called:",
+"o": ["Repeating motion", "Periodic motion", "Circular motion", "Rotational motion"],
+"a": 1,
+"sol": "The term for regular repetition is periodic."
+},
+{
+"q": "The unit 'Angul' in ancient India meant:",
+"o": ["Hand", "Finger", "Foot", "Arm"],
+"a": 1,
+"sol": "It was used for small measurements using finger width."
+},
+{
+"q": "Metre is to Length as ________ is to Time.",
+"o": ["Clock", "Watch", "Second", "Calendar"],
+"a": 2,
+"sol": "Second is the SI unit for time."
+},
+{
+"q": "A girl is sitting on a moving merry-go-round. Her motion is:",
+"o": ["Rectilinear", "Circular", "Periodic", "Both B and C"],
+"a": 3,
+"sol": "She moves in a circle and the ride repeats regularly."
+},
+{
+"q": "Which of these is the largest length?",
+"o": ["1000 cm", "0.01 km", "10 m", "All are equal"],
+"a": 3,
+"sol": "1000 cm = 10 m; 0.01 km = 10 m. So they are all the same."
+},
+{
+"q": "When using a ruler, the zero mark should ________ the start of the object.",
+"o": ["Be far from", "Coincide with", "Be after", "Be hidden"],
+"a": 1,
+"sol": "Coinciding means lining up exactly."
+},
+{
+"q": "The pull of a spring back and forth is:",
+"o": ["Circular", "Rectilinear", "Periodic/Oscillatory", "Random"],
+"a": 2,
+"sol": "It moves to and fro periodically."
+},
+{
+"q": "Which mode of transport is fastest?",
+"o": ["Train", "Aeroplane", "Bicycle", "Ship"],
+"a": 1,
+"sol": "Air travel is the fastest mode among these."
+},
+{
+"q": "10 millimetres = 1 ________.",
+"o": ["Metre", "Centimetre", "Kilometre", "Decametre"],
+"a": 1,
+"sol": "Definition of cm in terms of mm."
+},
+{
+"q": "The blinking of eyes is:",
+"o": ["Periodic", "Non-periodic", "Circular", "Rectilinear"],
+"a": 1,
+"sol": "Blinking doesn't happen at exactly fixed intervals always."
+},
+{
+"q": "If we measure distance using a thread, we must ________ the thread to read it on a scale.",
+"o": ["Tie", "Stretch straight", "Cut", "Wet"],
+"a": 1,
+"sol": "Only a straight thread gives accurate reading on a straight ruler."
+},
+{
+"q": "A ceiling fan that is switched off is in a state of:",
+"o": ["Motion", "Circular motion", "Rest", "Periodic motion"],
+"a": 2,
+"sol": "If it isn't moving, it is at rest."
+},
+{
+"q": "Before standardisation, the 'Yard' was used by the King of:",
+"o": ["India", "Egypt", "England", "France"],
+"a": 2,
+"sol": "Henry I of England defined the yard."
+},
+{
+"q": "The movement of a mosquito is:",
+"o": ["Periodic", "Random", "Circular", "Rectilinear"],
+"a": 1,
+"sol": "Mosquitoes change direction rapidly and unpredictably."
+},
+{
+"q": "0.5 metres is equal to:",
+"o": ["50 cm", "5 cm", "500 cm", "0.05 cm"],
+"a": 0,
+"sol": "0.5 * 100 = 50 cm."
+},
+{
+"q": "Which of these is a unit of length in the FPS system?",
+"o": ["Metre", "Foot", "Kilogram", "Litre"],
+"a": 1,
+"sol": "FPS stands for Foot-Pound-Second."
+},
+{
+"q": "A stone thrown into a pond creates waves. The motion of water particles is:",
+"o": ["Rectilinear", "Vibratory/Periodic", "Circular", "Random"],
+"a": 1,
+"sol": "Waves cause repetitive up and down motion."
+},
+{
+"q": "SI unit of distance is same as SI unit of length.",
+"o": ["True", "False", "Only in India", "Only for small values"],
+"a": 0,
+"sol": "Both use the Metre."
+},
+{
+"q": "The distance from the tip of the middle finger to the elbow is:",
+"o": ["Handspan", "Pace", "Cubit", "Yard"],
+"a": 2,
+"sol": "This is the ancient definition of a cubit."
+},
+{
+"q": "When you walk, the motion of your feet is:",
+"o": ["Rectilinear", "Periodic", "Complex (combination)", "Circular"],
+"a": 2,
+"sol": "Feet move forward while also moving up and down periodically."
+},
+{
+"q": "Which is more accurate for measuring a cloth length?",
+"o": ["Body parts", "Iron rod", "Standard measuring tape", "String"],
+"a": 2,
+"sol": "Standard tapes are calibrated for accuracy."
+},
+{
+"q": "Millimetre is used for measuring:",
+"o": ["Distance between cities", "Height of a mountain", "Thickness of a notebook", "Length of a river"],
+"a": 2,
+"sol": "Small units are for thin/small objects."
+},
+{
+"q": "A car odometer measures:",
+"o": ["Speed", "Time", "Distance", "Fuel"],
+"a": 2,
+"sol": "Odometer counts the kilometres travelled."
+},
+{
+"q": "Motion along a curved line is:",
+"o": ["Rectilinear", "Curvilinear", "Periodic", "Rotational"],
+"a": 1,
+"sol": "Curvilinear means along a curve."
+},
+{
+"q": "If a ruler starts from 2.0 cm and ends at 7.5 cm for an object, the length is:",
+"o": ["7.5 cm", "2.0 cm", "5.5 cm", "9.5 cm"],
+"a": 2,
+"sol": "7.5 - 2.0 = 5.5 cm."
+},
+{
+"q": "The invention of ________ enabled travel through space.",
+"o": ["Bicycle", "Steam engine", "Rocket", "Sailboat"],
+"a": 2,
+"sol": "Rockets use propulsion to leave Earth's atmosphere."
+},
+{
+"q": "Periodic motion is also known as:",
+"o": ["Non-repeating motion", "Oscillatory motion (often)", "Straight motion", "Fast motion"],
+"a": 1,
+"sol": "To-and-fro motion like a pendulum is oscillatory and periodic."
+},
+{
+"q": "Which of these is a multiple of metre?",
+"o": ["Centimetre", "Millimetre", "Kilometre", "None"],
+"a": 2,
+"sol": "Kilo means 1000 times; it is a larger multiple."
+},
+{
+"q": "An ant moving on a flat table is an example of:",
+"o": ["3D motion", "2D motion", "1D motion", "Periodic motion"],
+"a": 1,
+"sol": "Motion on a surface is 2-dimensional."
+},
+{
+"q": "Which is the standard unit of mass?",
+"o": ["Metre", "Second", "Kilogram", "Litre"],
+"a": 2,
+"sol": "Kilogram (kg) is for mass."
+},
+{
+"q": "In ancient Egypt, the unit 'cubit' was standard.",
+"o": ["True", "False", "Only for kings", "Only for farmers"],
+"a": 0,
+"sol": "Egyptians were among the first to use the cubit."
+},
+{
+"q": "Which tool is used to measure the diameter of a ball?",
+"o": ["Ruler directly", "Thread", "Calipers", "Both B and C"],
+"a": 3,
+"sol": "Threads or calipers are used for round objects."
+},
+{
+"q": "Motion is a ________ concept.",
+"o": ["Absolute", "Relative", "Fixed", "Unreal"],
+"a": 1,
+"sol": "Motion is measured relative to a reference point."
+},
+{
+"q": "One pace is the distance covered in one ________.",
+"o": ["Jump", "Handspan", "Step", "Arm length"],
+"a": 2,
+"sol": "Pace is a walking step."
+},
+{
+"q": "Length of a pencil is 15 cm. In mm it is:",
+"o": ["1.5 mm", "150 mm", "1500 mm", "0.15 mm"],
+"a": 1,
+"sol": "15 * 10 = 150 mm."
+},
+{
+"q": "What happens if you use a elastic tape for measurement?",
+"o": ["Better accuracy", "Wrong results", "Easier to use", "Saves time"],
+"a": 1,
+"sol": "Elastic tapes stretch, leading to inconsistent and wrong values."
+},
+{
+"q": "Metre scale has markings in:",
+"o": ["Only cm", "Only m", "cm and mm", "m and km"],
+"a": 2,
+"sol": "Most rulers show both for precision."
+},
+{
+"q": "The movement of a piston in an engine is:",
+"o": ["Circular", "Periodic/Rectilinear", "Rotational", "Random"],
+"a": 1,
+"sol": "It moves up and down in a straight line periodically."
+},
+{
+"q": "1 m = ________ mm.",
+"o": ["10", "100", "1000", "10000"],
+"a": 2,
+"sol": "1 m = 100 cm = 1000 mm."
+},
+{
+"q": "To measure accurately, the object must be ________ to the scale.",
+"o": ["At an angle", "Parallel and close", "Far away", "Perpendicular"],
+"a": 1,
+"sol": "Parallel alignment prevents measurement errors."
+},
+{
+"q": "The flight of a housefly is an example of ________.",
+"o": ["Circular motion", "Rectilinear motion", "Random motion", "Periodic motion"],
+"a": 2,
+"sol": "Insects fly in zig-zag random paths."
+},
+{
+"q": "Distance from Earth to the Moon is about 384,400 ________.",
+"o": ["Metres", "Kilometres", "Centimetres", "Miles"],
+"a": 1,
+"sol": "Kilometres is the correct unit for space distances."
+},
+{
+"q": "Motion is defined relative to ________.",
+"o": ["The object itself", "A reference point/Stationary observer", "The sky", "Nothing"],
+"a": 1,
+"sol": "We need a starting point to tell if something moved."
+}
+]
