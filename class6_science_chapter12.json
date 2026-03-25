@@ -1,0 +1,602 @@
+[
+{
+"q": "Which is the largest planet in our solar system?",
+"o": ["Earth", "Jupiter", "Saturn", "Neptune"],
+"a": 1,
+"sol": "Jupiter is the biggest planet, often called a gas giant."
+},
+{
+"q": "The Sun is actually a:",
+"o": ["Planet", "Moon", "Star", "Comet"],
+"a": 2,
+"sol": "The Sun is a medium-sized star at the center of our solar system."
+},
+{
+"q": "Which planet is known as the 'Red Planet'?",
+"o": ["Venus", "Mars", "Mercury", "Jupiter"],
+"a": 1,
+"sol": "Mars appears red due to iron oxide (rust) on its surface."
+},
+{
+"q": "The Earth completes one rotation on its axis in:",
+"o": ["365 days", "24 hours", "1 month", "12 hours"],
+"a": 1,
+"sol": "One full rotation takes approximately 24 hours, causing day and night."
+},
+{
+"q": "Which is the closest planet to the Sun?",
+"o": ["Venus", "Mars", "Earth", "Mercury"],
+"a": 3,
+"sol": "Mercury is the first planet from the Sun."
+},
+{
+"q": "Groups of stars that form recognizable patterns are called:",
+"o": ["Galaxies", "Solar Systems", "Constellations", "Orbits"],
+"a": 2,
+"sol": "Constellations like Ursa Major help us map the night sky."
+},
+{
+"q": "Which planet has a prominent system of rings made of ice and dust?",
+"o": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+"a": 2,
+"sol": "Saturn is famous for its beautiful and extensive ring system."
+},
+{
+"q": "The path followed by a planet around the Sun is called its:",
+"o": ["Axis", "Orbit", "Rotation", "Spin"],
+"a": 1,
+"sol": "An orbit is a curved path kept stable by gravity."
+},
+{
+"q": "The Moon is a ________ of the Earth.",
+"o": ["Natural Satellite", "Planet", "Artificial Satellite", "Star"],
+"a": 0,
+"sol": "The Moon revolves around the Earth, making it a natural satellite."
+},
+{
+"q": "Which planet is often called 'Earth's Twin' due to its similar size?",
+"o": ["Mars", "Venus", "Neptune", "Mercury"],
+"a": 1,
+"sol": "Venus is almost the same size and mass as Earth."
+},
+{
+"q": "What is the name of our galaxy?",
+"o": ["Andromeda", "Milky Way", "Orion", "Black Eye"],
+"a": 1,
+"sol": "Our solar system is located in a spiral arm of the Milky Way galaxy."
+},
+{
+"q": "A person who travels into space is called an:",
+"o": ["Astronomer", "Astrologer", "Astronaut", "Aviator"],
+"a": 2,
+"sol": "Astronauts undergo special training to work in space environments."
+},
+{
+"q": "Which planet is the coldest in our solar system?",
+"o": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+"a": 1,
+"sol": "Uranus holds the record for the lowest temperature recorded in a planet."
+},
+{
+"q": "The force that keeps planets in orbit around the Sun is:",
+"o": ["Magnetic force", "Friction", "Gravity", "Elastic force"],
+"a": 2,
+"sol": "Gravity is the invisible pull between any two objects with mass."
+},
+{
+"q": "How many planets are there in our solar system?",
+"o": ["7", "8", "9", "10"],
+"a": 1,
+"sol": "There are 8 recognized planets since Pluto was reclassified as a dwarf planet."
+},
+{
+"q": "The 'Seven Sages' constellation is known in India as:",
+"o": ["Orion", "Saptarishi", "Kritika", "Rohini"],
+"a": 1,
+"sol": "Saptarishi represents seven great sages in Indian astronomy."
+},
+{
+"q": "Which instrument is used to see distant stars and planets?",
+"o": ["Microscope", "Periscope", "Telescope", "Stethoscope"],
+"a": 2,
+"sol": "Telescopes collect light to make distant objects appear closer."
+},
+{
+"q": "The changing shapes of the Moon as seen from Earth are called:",
+"o": ["Moon cycles", "Eclipses", "Phases of the Moon", "Tides"],
+"a": 2,
+"sol": "Phases occur because we see different amounts of the Moon's lit side."
+},
+{
+"q": "Which of these is NOT a planet?",
+"o": ["Earth", "Mars", "The Moon", "Venus"],
+"a": 2,
+"sol": "The Moon is a satellite, not a planet."
+},
+{
+"q": "The pole star (Polaris) always points towards the:",
+"o": ["South", "East", "West", "North"],
+"a": 3,
+"sol": "The North Star remains fixed above the North Pole."
+},
+{
+"q": "An object that enters Earth's atmosphere and burns up with a streak of light is a:",
+"o": ["Meteor", "Asteroid", "Planet", "Star"],
+"a": 0,
+"sol": "Meteors are often incorrectly called 'shooting stars'."
+},
+{
+"q": "Which planet takes the longest to revolve around the Sun?",
+"o": ["Jupiter", "Uranus", "Neptune", "Saturn"],
+"a": 2,
+"sol": "Neptune is the farthest planet and has the largest orbit."
+},
+{
+"q": "Halley's Comet appears after every ________ years.",
+"o": ["50", "76", "100", "25"],
+"a": 1,
+"sol": "It is a periodic comet last seen in 1986."
+},
+{
+"q": "The rocky objects found mostly between Mars and Jupiter are:",
+"o": ["Comets", "Stars", "Asteroids", "Moons"],
+"a": 2,
+"sol": "This region is known as the Asteroid Belt."
+},
+{
+"q": "Which planet is the brightest object in our night sky (after the Moon)?",
+"o": ["Jupiter", "Venus", "Mars", "Saturn"],
+"a": 1,
+"sol": "Venus reflects a lot of sunlight due to its thick clouds."
+},
+{
+"q": "The study of the universe is called:",
+"o": ["Astrology", "Biology", "Astronomy", "Geology"],
+"a": 2,
+"sol": "Astronomy is the scientific study of celestial objects."
+},
+{
+"q": "Which planet rotates on its side?",
+"o": ["Venus", "Uranus", "Neptune", "Mars"],
+"a": 1,
+"sol": "Uranus has an extreme axial tilt, making it look like it's rolling."
+},
+{
+"q": "A 'New Moon' occurs when the Moon is:",
+"o": ["Behind the Earth", "Between the Earth and the Sun", "Fully lit", "Far away"],
+"a": 1,
+"sol": "At New Moon, the lit side faces away from Earth."
+},
+{
+"q": "The 'Morning Star' or 'Evening Star' is actually:",
+"o": ["Mars", "Mercury", "Venus", "Jupiter"],
+"a": 2,
+"sol": "Venus is visible near sunrise or sunset."
+},
+{
+"q": "What is the approximate distance of light-travel in one year?",
+"o": ["Light-mile", "Light-year", "Solar-distance", "Giga-meter"],
+"a": 1,
+"sol": "A light-year is a unit of distance, not time."
+},
+{
+"q": "Which planet has the 'Great Red Spot'?",
+"o": ["Mars", "Saturn", "Jupiter", "Neptune"],
+"a": 2,
+"sol": "The Great Red Spot is a giant storm on Jupiter."
+},
+{
+"q": "Space has no air, which means it is a:",
+"o": ["Atmosphere", "Vacuum", "Cloud", "Solid"],
+"a": 1,
+"sol": "Sound cannot travel in space because it is a vacuum."
+},
+{
+"q": "Indian space agency is known as:",
+"o": ["NASA", "ESA", "ISRO", "JAXA"],
+"a": 2,
+"sol": "ISRO stands for Indian Space Research Organisation."
+},
+{
+"q": "Who was the first Indian to travel into space?",
+"o": ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Vikram Sarabhai"],
+"a": 1,
+"sol": "Rakesh Sharma flew aboard the Soviet Soyuz T-11 in 1984."
+},
+{
+"q": "What protects the Earth from harmful solar radiation?",
+"o": ["The Moon", "Magnetic field and Atmosphere", "The Sun itself", "Asteroids"],
+"a": 1,
+"sol": "Our atmosphere and magnetic field act as a shield."
+},
+{
+"q": "A huge collection of gas, dust, and billions of stars is a:",
+"o": ["Solar System", "Galaxy", "Universe", "Constellation"],
+"a": 1,
+"sol": "Galaxies come in different shapes: spiral, elliptical, and irregular."
+},
+{
+"q": "Which planet's day is longer than its year?",
+"o": ["Mercury", "Venus", "Mars", "Jupiter"],
+"a": 1,
+"sol": "Venus rotates very slowly on its axis."
+},
+{
+"q": "The surface of the Moon is covered with deep holes called:",
+"o": ["Pits", "Canyons", "Craters", "Valleys"],
+"a": 2,
+"sol": "Craters are formed by the impact of meteors."
+},
+{
+"q": "The first man to step on the Moon was:",
+"o": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Michael Collins"],
+"a": 1,
+"sol": "Neil Armstrong landed on the Moon in 1969 (Apollo 11 mission)."
+},
+{
+"q": "Pluto is now classified as a:",
+"o": ["Main planet", "Dwarf planet", "Moon", "Comet"],
+"a": 1,
+"sol": "Pluto lost its status as a major planet in 2006."
+},
+{
+"q": "Which planet is known as the 'Blue Planet'?",
+"o": ["Neptune", "Uranus", "Earth", "Saturn"],
+"a": 2,
+"sol": "Earth looks blue from space due to its vast oceans."
+},
+{
+"q": "The Hunter constellation is also known as:",
+"o": ["Ursa Major", "Orion", "Leo", "Scorpius"],
+"a": 1,
+"sol": "Orion is easily identified by the three stars in 'Orion's Belt'."
+},
+{
+"q": "Which planet would float if you put it in a giant bathtub of water?",
+"o": ["Earth", "Mars", "Saturn", "Jupiter"],
+"a": 2,
+"sol": "Saturn has a density lower than water."
+},
+{
+"q": "The sun-centered model of the solar system is called:",
+"o": ["Geocentric", "Heliocentric", "Egocentric", "Lunar-centric"],
+"a": 1,
+"sol": "Copernicus proposed that planets revolve around the Sun."
+},
+{
+"q": "Shooting stars are not actually stars, they are:",
+"o": ["Comets", "Meteors", "Galaxies", "Nebulae"],
+"a": 1,
+"sol": "They are small pieces of rock burning in the atmosphere."
+},
+{
+"q": "Which star is closest to the Earth after the Sun?",
+"o": ["Sirius", "Proxima Centauri", "Polaris", "Betelgeuse"],
+"a": 1,
+"sol": "Proxima Centauri is about 4.2 light-years away."
+},
+{
+"q": "The first artificial satellite launched by India was:",
+"o": ["Rohini", "INSAT", "Aryabhata", "Chandrayaan"],
+"a": 2,
+"sol": "Aryabhata was launched in 1975."
+},
+{
+"q": "What happens during a Solar Eclipse?",
+"o": ["Earth is between Sun and Moon", "Moon is between Sun and Earth", "Sun is between Earth and Moon", "Stars block the Sun"],
+"a": 1,
+"sol": "The Moon casts a shadow on the Earth."
+},
+{
+"q": "Gravity on the Moon is about ________ of Earth's gravity.",
+"o": ["Half", "1/4th", "1/6th", "Double"],
+"a": 2,
+"sol": "You can jump much higher on the Moon because of its weak gravity."
+},
+{
+"q": "Which planet has the most moons?",
+"o": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+"a": 1,
+"sol": "Saturn currently holds the record for the most discovered moons."
+},
+{
+"q": "The spinning of the Earth on its axis is called:",
+"o": ["Revolution", "Orbiting", "Rotation", "Tumbling"],
+"a": 2,
+"sol": "Rotation causes the cycle of day and night."
+},
+{
+"q": "A year on Earth is the time it takes for:",
+"o": ["Moon to orbit Earth", "Earth to rotate once", "Earth to revolve around the Sun", "Sun to spin once"],
+"a": 2,
+"sol": "One revolution takes about 365.25 days."
+},
+{
+"q": "Which is the smallest planet in the solar system?",
+"o": ["Mars", "Venus", "Mercury", "Earth"],
+"a": 2,
+"sol": "Mercury is the smallest of the eight major planets."
+},
+{
+"q": "The tail of a comet always points:",
+"o": ["Towards the Sun", "Away from the Sun", "Towards the Earth", "Upwards"],
+"a": 1,
+"sol": "Solar wind pushes the gas and dust away from the Sun."
+},
+{
+"q": "Inner planets (like Earth) are made mostly of:",
+"o": ["Gas", "Liquid", "Rock", "Ice"],
+"a": 2,
+"sol": "The four inner planets are called 'Terrestrial' planets."
+},
+{
+"q": "Outer planets (like Jupiter) are made mostly of:",
+"o": ["Rock", "Metal", "Gas and Ice", "Sand"],
+"a": 2,
+"sol": "They are much larger and lack a solid surface."
+},
+{
+"q": "Which constellation looks like a big ladle or spoon?",
+"o": ["Cassiopeia", "Orion", "The Big Dipper (Ursa Major)", "Leo"],
+"a": 2,
+"sol": "It is one of the most famous patterns in the northern sky."
+},
+{
+"q": "The layer of the Sun that we see is called the:",
+"o": ["Core", "Corona", "Photosphere", "Crust"],
+"a": 2,
+"sol": "Photosphere means 'sphere of light'."
+},
+{
+"q": "Tides in the ocean are mainly caused by the:",
+"o": ["Earth's rotation", "Sun's heat", "Moon's gravity", "Wind"],
+"a": 2,
+"sol": "The Moon's pull creates a bulge in the Earth's oceans."
+},
+{
+"q": "How long does it take for sunlight to reach Earth?",
+"o": ["1 second", "8 minutes", "1 hour", "24 hours"],
+"a": 1,
+"sol": "Light travels at 300,000 km/s and takes about 8 minutes 20 seconds."
+},
+{
+"q": "Which planet was discovered by the use of mathematics before being seen?",
+"o": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+"a": 1,
+"sol": "Astronomers calculated its position based on Uranus's orbit."
+},
+{
+"q": "The boundary of the solar system where the Sun's influence ends is the:",
+"o": ["Atmosphere", "Heliopause", "Ozone layer", "Orbit"],
+"a": 1,
+"sol": "Voyager probes have crossed this boundary."
+},
+{
+"q": "A group of stars named 'Cassiopeia' looks like the letter:",
+"o": ["O", "W or M", "L", "X"],
+"a": 1,
+"sol": "It represents a Queen sitting on a throne."
+},
+{
+"q": "Which planet has a moon named 'Titan'?",
+"o": ["Jupiter", "Saturn", "Mars", "Neptune"],
+"a": 1,
+"sol": "Titan is the only moon known to have a thick atmosphere."
+},
+{
+"q": "The brightest star in the night sky is:",
+"o": ["Polaris", "Sirius", "Sun", "Rigel"],
+"a": 1,
+"sol": "Sirius is also known as the Dog Star."
+},
+{
+"q": "What color are the hottest stars?",
+"o": ["Red", "Yellow", "Blue", "Orange"],
+"a": 2,
+"sol": "Blue stars are much hotter than red or yellow stars."
+},
+{
+"q": "Mars has two small moons named Phobos and:",
+"o": ["Titan", "Deimos", "Europa", "Ganymede"],
+"a": 1,
+"sol": "Phobos and Deimos mean 'Fear' and 'Panic'."
+},
+{
+"q": "A 'Leap Year' has ________ days.",
+"o": ["364", "365", "366", "367"],
+"a": 2,
+"sol": "An extra day is added to February every four years."
+},
+{
+"q": "The first animal to orbit the Earth was a dog named:",
+"o": ["Belka", "Strelka", "Laika", "Rex"],
+"a": 2,
+"sol": "Laika was launched by the Soviet Union in 1957."
+},
+{
+"q": "Which planet is famous for being very windy?",
+"o": ["Mars", "Venus", "Neptune", "Mercury"],
+"a": 2,
+"sol": "Neptune has the fastest winds recorded in the solar system."
+},
+{
+"q": "The 'Summer Triangle' is a pattern formed by:",
+"o": ["Planets", "Stars", "Moons", "Comets"],
+"a": 1,
+"sol": "It consists of stars Vega, Deneb, and Altair."
+},
+{
+"q": "Earth is tilted on its axis by ________ degrees.",
+"o": ["0", "23.5", "45", "90"],
+"a": 1,
+"sol": "This tilt is responsible for our seasons."
+},
+{
+"q": "What is the 'Light-speed' limit?",
+"o": ["100 km/h", "300,000 km/s", "1,000,000 km/h", "Sound speed"],
+"a": 1,
+"sol": "Nothing in the universe is known to travel faster than light."
+},
+{
+"q": "Which mission successfully landed an Indian probe on the Moon's South Pole?",
+"o": ["Mangalyaan", "Chandrayaan-2", "Chandrayaan-3", "Aditya-L1"],
+"a": 2,
+"sol": "India became the first country to land near the lunar south pole in 2023."
+},
+{
+"q": "The atmosphere of Venus is mostly made of:",
+"o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+"a": 2,
+"sol": "The high CO2 levels create an extreme greenhouse effect."
+},
+{
+"q": "A telescope in space that has provided amazing images for decades is:",
+"o": ["Galileo", "Hubble", "Newton", "Tesla"],
+"a": 1,
+"sol": "The Hubble Space Telescope orbits above the Earth's atmosphere."
+},
+{
+"q": "The visible part of the Milky Way seen in dark areas is called:",
+"o": ["Akash Ganga", "Swarg Dwar", "Tara Mandal", "Surya Path"],
+"a": 0,
+"sol": "In India, the Milky Way is traditionally called Akash Ganga."
+},
+{
+"q": "Which is the largest moon in the solar system?",
+"o": ["Titan", "The Moon", "Ganymede", "Callisto"],
+"a": 2,
+"sol": "Ganymede is a moon of Jupiter and is larger than the planet Mercury."
+},
+{
+"q": "The first human in space was:",
+"o": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Buzz Aldrin"],
+"a": 1,
+"sol": "Yuri Gagarin made one orbit around the Earth in 1961."
+},
+{
+"q": "Black holes have a gravitational pull so strong that even ________ cannot escape.",
+"o": ["Sound", "Light", "Planets", "Gas"],
+"a": 1,
+"sol": "Their density is infinitely high."
+},
+{
+"q": "Which planet has no moons and no atmosphere?",
+"o": ["Venus", "Mercury", "Mars", "Neptune"],
+"a": 1,
+"sol": "Mercury is too small and close to the Sun to hold an atmosphere."
+},
+{
+"q": "The Sun's energy is produced by a process called:",
+"o": ["Burning coal", "Nuclear Fusion", "Friction", "Electricity"],
+"a": 1,
+"sol": "Hydrogen atoms join to form Helium, releasing massive energy."
+},
+{
+"q": "What is 'Zero Gravity' or Weightlessness?",
+"o": ["No mass", "The feeling of falling without stopping", "Being in a vacuum", "No air"],
+"a": 1,
+"sol": "Astronauts feel weightless because they are in constant freefall."
+},
+{
+"q": "Space debris or 'Space Junk' refers to:",
+"o": ["Asteroids", "Man-made objects left in orbit", "Alien trash", "Dust"],
+"a": 1,
+"sol": "Broken satellites and rocket parts pose a danger to space missions."
+},
+{
+"q": "Which planet is the least dense?",
+"o": ["Mercury", "Earth", "Saturn", "Jupiter"],
+"a": 2,
+"sol": "Saturn is mostly made of hydrogen and helium."
+},
+{
+"q": "The 'Great Bear' constellation is another name for:",
+"o": ["Orion", "Ursa Major", "Cassiopeia", "Scorpius"],
+"a": 1,
+"sol": "Ursa Major contains the Big Dipper pattern."
+},
+{
+"q": "A planet's atmosphere reflects sunlight. This is called:",
+"o": ["Refraction", "Albedo", "Shadow", "Emission"],
+"a": 1,
+"sol": "Albedo determines how bright a planet appears to us."
+},
+{
+"q": "Which is the second-largest planet?",
+"o": ["Neptune", "Jupiter", "Saturn", "Uranus"],
+"a": 2,
+"sol": "Saturn follows Jupiter in size."
+},
+{
+"q": "How many Earths could fit inside the Sun?",
+"o": ["100", "1,000", "1.3 million", "1 billion"],
+"a": 2,
+"sol": "The Sun is incredibly massive compared to the planets."
+},
+{
+"q": "What does 'NASA' stand for?",
+"o": ["National Aeronautics and Space Administration", "New Aerospace and Space Agency", "National Air and Sea Authority", "Natural Astronomy Space Agency"],
+"a": 0,
+"sol": "It is the space agency of the United States."
+},
+{
+"q": "Which planet has 'Canals' that were once thought to be built by aliens?",
+"o": ["Venus", "Mars", "Jupiter", "Saturn"],
+"a": 1,
+"sol": "Better telescopes proved they were just natural features."
+},
+{
+"q": "The point in an orbit closest to the Sun is called:",
+"o": ["Aphelion", "Perihelion", "Equinox", "Solstice"],
+"a": 1,
+"sol": "Peri (near) + Helios (Sun)."
+},
+{
+"q": "The point in an orbit farthest from the Sun is called:",
+"o": ["Perihelion", "Aphelion", "Zenith", "Nadir"],
+"a": 1,
+"sol": "Ap (away) + Helios (Sun)."
+},
+{
+"q": "Which planet was named after the Roman God of the Sea?",
+"o": ["Uranus", "Neptune", "Jupiter", "Mars"],
+"a": 1,
+"sol": "Neptune's blue color reminded early astronomers of the sea."
+},
+{
+"q": "When we see the Moon getting 'bigger' each night, it is:",
+"o": ["Waning", "Waxing", "Eclipsing", "Rotating"],
+"a": 1,
+"sol": "Waxing means increasing in illumination."
+},
+{
+"q": "When the Moon appears to be 'shrinking', it is:",
+"o": ["Waxing", "Waning", "Growing", "Spinning"],
+"a": 1,
+"sol": "Waning means the lit portion is decreasing."
+},
+{
+"q": "A star that suddenly increases in brightness and then fades is a:",
+"o": ["Planet", "Nova", "Moon", "Comet"],
+"a": 1,
+"sol": "A very large explosion is called a Supernova."
+},
+{
+"q": "The imaginary line through the center of the Earth is its:",
+"o": ["Orbit", "Equator", "Axis", "Latitude"],
+"a": 2,
+"sol": "The Earth spins around this axis."
+},
+{
+"q": "Which planet has the highest mountain in the solar system (Olympus Mons)?",
+"o": ["Earth", "Mars", "Venus", "Jupiter"],
+"a": 1,
+"sol": "Olympus Mons is a giant volcano on Mars, nearly 3 times higher than Everest."
+},
+{
+"q": "Astronomy is a journey that starts with:",
+"o": ["Buying a rocket", "Looking up at the night sky", "Reading a dictionary", "Sleeping"],
+"a": 1,
+"sol": "Observation is the foundation of all scientific discovery."
+}
+]
