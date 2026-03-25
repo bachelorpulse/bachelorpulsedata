@@ -1,0 +1,602 @@
+[
+{
+"q": "Which of these materials is naturally magnetic?",
+"o": ["Iron", "Magnetite", "Nickel", "Cobalt"],
+"a": 1,
+"sol": "Magnetite (also known as lodestone) is a natural magnetic mineral found in the Earth."
+},
+{
+"q": "A magnet will always point in which direction when suspended freely?",
+"o": ["East-West", "Up-Down", "North-South", "West-North"],
+"a": 2,
+"sol": "A freely suspended magnet always aligns itself along the Earth's North-South magnetic direction."
+},
+{
+"q": "The property of a magnet to attract iron pieces is called:",
+"o": ["Magnetism", "Gravity", "Elasticity", "Friction"],
+"a": 0,
+"sol": "Magnetism is the force exerted by magnets when they attract or repel certain materials."
+},
+{
+"q": "Which part of a bar magnet has the strongest magnetic pull?",
+"o": ["The center", "The edges", "Both poles", "Only the North pole"],
+"a": 2,
+"sol": "Magnetic strength is maximum at the two ends, known as the poles of the magnet."
+},
+{
+"q": "What happens when the North pole of a magnet is brought near the North pole of another magnet?",
+"o": ["They attract", "They repel", "Nothing happens", "They stick together"],
+"a": 1,
+"sol": "Like poles (N-N or S-S) always repel each other."
+},
+{
+"q": "A compass needle is a:",
+"o": ["Plastic pointer", "Small magnet", "Steel rod", "Copper wire"],
+"a": 1,
+"sol": "A compass consists of a tiny magnetized needle that can rotate freely."
+},
+{
+"q": "Which of these is a non-magnetic material?",
+"o": ["Iron", "Nickel", "Aluminum", "Cobalt"],
+"a": 2,
+"sol": "Aluminum is not attracted by magnets, unlike iron, nickel, and cobalt."
+},
+{
+"q": "To store bar magnets safely, they should be kept in pairs with:",
+"o": ["Same poles on same side", "Opposite poles on same side", "No separators", "With plastic layers"],
+"a": 1,
+"sol": "They should be kept in pairs with opposite poles on the same side, separated by wood or keepers."
+},
+{
+"q": "If a magnet is broken into two pieces, each piece will have:",
+"o": ["Only North pole", "Only South pole", "Both North and South poles", "No poles"],
+"a": 2,
+"sol": "Magnets always exist as dipoles; even a broken piece will have its own N and S poles."
+},
+{
+"q": "The discovery of magnets is often associated with a shepherd named:",
+"o": ["Newton", "Magnes", "Einstein", "Galileo"],
+"a": 1,
+"sol": "Legend says a shepherd named Magnes discovered magnetite in ancient Greece."
+},
+{
+"q": "Which of these can be used to make a temporary magnet?",
+"o": ["Plastic rod", "Soft iron bar", "Copper wire", "Rubber band"],
+"a": 1,
+"sol": "Soft iron is easily magnetized but loses its magnetism quickly, making it a temporary magnet."
+},
+{
+"q": "What destroys the magnetic properties of a magnet?",
+"o": ["Heating", "Hammering", "Dropping from height", "All of these"],
+"a": 3,
+"sol": "High heat, physical impact, and rough handling disalign the internal magnetic domains."
+},
+{
+"q": "In ancient times, sailors used ________ to find directions.",
+"o": ["Sunlight", "Lodestones", "Stars only", "Maps"],
+"a": 1,
+"sol": "Lodestones (natural magnets) were used as primitive compasses by sailors."
+},
+{
+"q": "A permanent magnet is usually made of:",
+"o": ["Soft iron", "Steel", "Copper", "Zinc"],
+"a": 1,
+"sol": "Steel and alloys like Alnico are used for permanent magnets because they retain magnetism for a long time."
+},
+{
+"q": "Which pole of a compass needle usually points towards the Earth's North?",
+"o": ["The South pole", "The North pole", "The East side", "The West side"],
+"a": 1,
+"sol": "The 'North-seeking' pole of the needle points to the geographical North."
+},
+{
+"q": "Magnetic field lines emerge from the ________ and enter the ________.",
+"o": ["South pole, North pole", "North pole, South pole", "Center, Poles", "Poles, Center"],
+"a": 1,
+"sol": "Field lines are conventionally defined to flow from North to South outside the magnet."
+},
+{
+"q": "Magnets are NOT used in:",
+"o": ["Credit cards", "Electric bells", "Glass windows", "Hard disks"],
+"a": 2,
+"sol": "Standard glass windows do not require or use magnetic properties."
+},
+{
+"q": "A material that is weakly repelled by a magnet is called:",
+"o": ["Ferromagnetic", "Paramagnetic", "Diamagnetic", "Non-magnetic"],
+"a": 2,
+"sol": "Diamagnetic materials (like water or gold) are very weakly repelled by magnetic fields."
+},
+{
+"q": "Which of the following is an artificial magnet?",
+"o": ["Lodestone", "Bar magnet", "Magnetite", "Earth"],
+"a": 1,
+"sol": "Bar magnets are manufactured by humans using magnetic materials."
+},
+{
+"q": "Like poles ________ each other.",
+"o": ["Attract", "Repel", "Melt", "Destroy"],
+"a": 1,
+"sol": "Basic law of magnetism: Like poles repel, unlike poles attract."
+},
+{
+"q": "The space around a magnet where its influence is felt is the:",
+"o": ["Electric field", "Magnetic field", "Gravitational field", "Force field"],
+"a": 1,
+"sol": "The magnetic field is the region where magnetic forces can be detected."
+},
+{
+"q": "Which shape of magnet is commonly used in laboratories?",
+"o": ["Horse-shoe magnet", "Cylindrical magnet", "Bar magnet", "Ball-ended magnet"],
+"a": 2,
+"sol": "The bar magnet is the most standard shape used for school experiments."
+},
+{
+"q": "What happens if you rub an iron nail with a magnet in one direction several times?",
+"o": ["It becomes hot", "It becomes magnetized", "It breaks", "Nothing"],
+"a": 1,
+"sol": "This is the single-touch method of making an artificial magnet."
+},
+{
+"q": "Which of these is a magnetic metal?",
+"o": ["Copper", "Silver", "Nickel", "Gold"],
+"a": 2,
+"sol": "Nickel is one of the few metals that shows strong magnetic properties at room temperature."
+},
+{
+"q": "A magnet attracts:",
+"o": ["All metals", "Only Iron", "Iron, Nickel, and Cobalt", "Plastic and Wood"],
+"a": 2,
+"sol": "Magnets attract ferromagnetic materials, primarily iron, nickel, and cobalt."
+},
+{
+"q": "The Earth behaves like a giant magnet with its North magnetic pole near the:",
+"o": ["Geographical North", "Geographical South", "Equator", "Sun"],
+"a": 1,
+"sol": "The Earth's magnetic North pole is actually located near the geographical South Pole (and vice-versa)."
+},
+{
+"q": "Can we isolate a single magnetic pole (monopole)?",
+"o": ["Yes", "No", "Only in summer", "Only if it is strong"],
+"a": 1,
+"sol": "No, poles always come in pairs (Dipoles). You cannot have a North pole without a South pole."
+},
+{
+"q": "Which device uses a magnet to show direction?",
+"o": ["Thermometer", "Compass", "Barometer", "Speedometer"],
+"a": 1,
+"sol": "The magnetic compass has been used for navigation for centuries."
+},
+{
+"q": "The magnetic power of a magnet is concentrated at:",
+"o": ["One end only", "The middle", "The poles", "The surface only"],
+"a": 2,
+"sol": "The force is strongest near the poles."
+},
+{
+"q": "When a magnet is heated to a very high temperature, it:",
+"o": ["Becomes stronger", "Loses its magnetism", "Changes color", "Attracts plastic"],
+"a": 1,
+"sol": "Heat energy disrupts the alignment of magnetic domains."
+},
+{
+"q": "Magnetic keepers are used to:",
+"o": ["Make magnets stronger", "Prevent loss of magnetism", "Change poles", "Clean magnets"],
+"a": 1,
+"sol": "Keepers (soft iron pieces) provide a path for magnetic field lines, preventing 'self-demagnetization'."
+},
+{
+"q": "Which of these is used to make powerful electromagnets?",
+"o": ["Steel", "Soft iron", "Aluminum", "Lead"],
+"a": 1,
+"sol": "Soft iron is preferred because it can be magnetized and demagnetized instantly."
+},
+{
+"q": "Which pole of a magnet is usually marked with a red dot or 'N'?",
+"o": ["South Pole", "North Pole", "Neutral Pole", "Center"],
+"a": 1,
+"sol": "The North Pole is usually distinguished by markings."
+},
+{
+"q": "The substances which are NOT attracted by a magnet are called:",
+"o": ["Magnetic", "Non-magnetic", "Electric", "Metallic"],
+"a": 1,
+"sol": "Materials like wood, paper, and glass are non-magnetic."
+},
+{
+"q": "If we bring a piece of wood near a magnet, it will:",
+"o": ["Be attracted", "Be repelled", "Show no reaction", "Catch fire"],
+"a": 2,
+"sol": "Wood is a non-magnetic material."
+},
+{
+"q": "Attraction is a sure test for magnetism.",
+"o": ["True", "False", "Partially true", "Only for iron"],
+"a": 1,
+"sol": "False. Repulsion is the only sure test, as an unmagnetized iron piece can be attracted by both poles."
+},
+{
+"q": "Unlike poles ________ each other.",
+"o": ["Repel", "Attract", "Destroy", "Ignore"],
+"a": 1,
+"sol": "Opposite poles (N and S) pull towards each other."
+},
+{
+"q": "A cylindrical magnet has ________ pole(s).",
+"o": ["One", "Two", "Three", "Four"],
+"a": 1,
+"sol": "Every magnet, regardless of shape, has exactly two poles."
+},
+{
+"q": "Magnets should be kept away from:",
+"o": ["Computers and Mobiles", "CDs and DVDs", "Television", "All of these"],
+"a": 3,
+"sol": "Magnetic fields can interfere with or erase data on electronic devices and storage."
+},
+{
+"q": "The name 'Lodestone' means:",
+"o": ["Heavy stone", "Leading stone", "Black stone", "Strong stone"],
+"a": 1,
+"sol": "It 'leads' or shows the way (direction), hence the name 'Leading stone'."
+},
+{
+"q": "Which of these is NOT a shape of an artificial magnet?",
+"o": ["Bar", "Horse-shoe", "Cylindrical", "Tree-shaped"],
+"a": 3,
+"sol": "Artificial magnets are made in specific functional shapes like bar, ring, or horse-shoe."
+},
+{
+"q": "What happens if a magnet is dropped repeatedly?",
+"o": ["It becomes stronger", "It loses magnetism", "It becomes longer", "It glows"],
+"a": 1,
+"sol": "Rough handling causes the magnetic alignment to break down."
+},
+{
+"q": "Magnetic compass works because of Earth's:",
+"o": ["Gravity", "Magnetic field", "Rotation", "Atmosphere"],
+"a": 1,
+"sol": "The compass needle aligns with the Earth's natural magnetic field lines."
+},
+{
+"q": "Which material is used to make the needle of a compass?",
+"o": ["Copper", "Steel/Magnetized Iron", "Plastic", "Aluminum"],
+"a": 1,
+"sol": "The needle must be a magnet to react to the Earth's field."
+},
+{
+"q": "Magnets can be made using electricity.",
+"o": ["True", "False", "Only on Sundays", "Not possible"],
+"a": 0,
+"sol": "This is how electromagnets are created."
+},
+{
+"q": "A magnet is usually strongest at its:",
+"o": ["Sides", "Center", "Poles", "Bottom"],
+"a": 2,
+"sol": "Magnetic flux is densest at the poles."
+},
+{
+"q": "Paper is a magnetic material.",
+"o": ["True", "False", "Only wet paper", "Only thick paper"],
+"a": 1,
+"sol": "Paper is non-magnetic."
+},
+{
+"q": "We can see magnetic field lines with our naked eyes.",
+"o": ["Yes", "No", "Using iron filings", "Only in the dark"],
+"a": 1,
+"sol": "Magnetic fields are invisible, but we can visualize them using iron filings."
+},
+{
+"q": "Iron filings stick mostly at the ________ of a bar magnet.",
+"o": ["Middle", "Ends", "Top surface", "Corners"],
+"a": 1,
+"sol": "Maximum filings accumulate at the poles where attraction is strongest."
+},
+{
+"q": "Which of these is an example of a contact force?",
+"o": ["Magnetic force", "Gravitational force", "Frictional force", "Electrostatic force"],
+"a": 2,
+"sol": "Magnetic force is a non-contact force; friction requires physical contact."
+},
+{
+"q": "Magnets are used in speakers to:",
+"o": ["Convert sound to light", "Convert electrical signals into sound", "Filter noise", "Provide power"],
+"a": 1,
+"sol": "The interaction between a magnet and a coil of wire creates sound vibrations."
+},
+{
+"q": "A horse-shoe magnet has:",
+"o": ["No poles", "One pole", "Two poles", "Four poles"],
+"a": 2,
+"sol": "It is just a bar magnet bent into a 'U' shape, still having two poles."
+},
+{
+"q": "Materials that get magnetized strongly are called:",
+"o": ["Ferromagnetic", "Non-magnetic", "Plastic", "Insulators"],
+"a": 0,
+"sol": "Iron, Cobalt, and Nickel are ferromagnetic."
+},
+{
+"q": "The region where a magnet does NOT attract iron filings is:",
+"o": ["North Pole", "South Pole", "Center of the magnet", "Both ends"],
+"a": 2,
+"sol": "The center (neutral point) of a bar magnet has almost zero magnetic attraction."
+},
+{
+"q": "Earth's magnetic poles and geographical poles are at the exact same spot.",
+"o": ["True", "False", "Yes, always", "Only at noon"],
+"a": 1,
+"sol": "False. There is a slight tilt/offset between the geographical axis and magnetic axis."
+},
+{
+"q": "Which of these is a temporary magnet?",
+"o": ["Bar magnet", "Horse-shoe magnet", "Electromagnet", "Lodestone"],
+"a": 2,
+"sol": "An electromagnet works only as long as electric current flows through it."
+},
+{
+"q": "If you bring a magnet near a television screen, it might:",
+"o": ["Explode", "Distort the picture", "Charge the battery", "Make it faster"],
+"a": 1,
+"sol": "Magnets interfere with the electron beams inside older CRT screens."
+},
+{
+"q": "In a bar magnet, the North pole points towards:",
+"o": ["The Sun", "Geographical North", "Geographical South", "The Moon"],
+"a": 1,
+"sol": "By definition, the North-seeking pole points North."
+},
+{
+"q": "A compass can be used to check if a metal rod is a magnet.",
+"o": ["Yes", "No", "Only if rod is copper", "Only at night"],
+"a": 0,
+"sol": "If one end of the rod repels a pole of the compass needle, the rod is magnetized."
+},
+{
+"q": "Magnets were discovered in a place called:",
+"o": ["London", "Magnesia", "Rome", "New Delhi"],
+"a": 1,
+"sol": "The region of Magnesia in Greece is the namesake for 'Magnets'."
+},
+{
+"q": "To make an electromagnet, we need:",
+"o": ["Plastic wire", "Battery, iron nail, and copper wire", "Magnet and wood", "Paper and glue"],
+"a": 1,
+"sol": "An electric current flowing through a coil around an iron core creates magnetism."
+},
+{
+"q": "A freely suspended magnet points North-South due to:",
+"o": ["Air currents", "Earth's magnetism", "Sun's gravity", "Moon's pull"],
+"a": 1,
+"sol": "It acts like a small needle inside the Earth's massive magnetic field."
+},
+{
+"q": "Magnetic force can pass through:",
+"o": ["Paper", "Plastic sheet", "Thin cloth", "All of these"],
+"a": 3,
+"sol": "Magnetic fields can penetrate non-magnetic barriers."
+},
+{
+"q": "Which pole is the 'S' pole of a magnet?",
+"o": ["North-seeking", "South-seeking", "East-seeking", "West-seeking"],
+"a": 1,
+"sol": "The pole that points towards the Earth's South is the South-seeking pole."
+},
+{
+"q": "Magnetic field is a ________ quantity.",
+"o": ["Scalar", "Vector", "Chemical", "Biological"],
+"a": 1,
+"sol": "It has both magnitude (strength) and direction."
+},
+{
+"q": "Which of these objects will be attracted by a magnet?",
+"o": ["Wooden pencil", "Iron nail", "Glass marble", "Plastic ruler"],
+"a": 1,
+"sol": "Only the iron nail is magnetic."
+},
+{
+"q": "When we bring a magnet near iron filings, they:",
+"o": ["Fly away", "Get attracted", "Change color", "Melt"],
+"a": 1,
+"sol": "Iron filings are ferromagnetic and stick to the magnet."
+},
+{
+"q": "Does a magnet work in space?",
+"o": ["No", "Yes", "Only on Moon", "Only near stars"],
+"a": 1,
+"sol": "Magnetism is an intrinsic property of the material and does not require an atmosphere."
+},
+{
+"q": "Can two magnetic field lines cross each other?",
+"o": ["Yes", "No", "Sometimes", "Only at poles"],
+"a": 1,
+"sol": "No, because at the point of intersection, the compass would have to point in two directions, which is impossible."
+},
+{
+"q": "Which of these can be magnetized?",
+"o": ["Rubber", "Iron", "Gold", "Silver"],
+"a": 1,
+"sol": "Iron is the most common material for making magnets."
+},
+{
+"q": "Magnets are used in maglev trains to:",
+"o": ["Provide light", "Levitate and move the train", "Cool the engine", "Stop the train"],
+"a": 1,
+"sol": "Magnetic levitation (Maglev) uses magnetic repulsion to float the train above tracks."
+},
+{
+"q": "What is 'demagnetization'?",
+"o": ["Cleaning a magnet", "Loss of magnetic properties", "Making a magnet", "Painting a magnet"],
+"a": 1,
+"sol": "It is the process by which a magnet loses its power."
+},
+{
+"q": "What happens when you bring a magnet near a compass?",
+"o": ["Compass needle deflects", "Compass breaks", "Magnet loses power", "Compass glows"],
+"a": 0,
+"sol": "The magnet's field is stronger than Earth's field nearby, so it pulls the needle."
+},
+{
+"q": "Which pole of a magnet will attract the South pole of another magnet?",
+"o": ["South Pole", "North Pole", "East Pole", "West Pole"],
+"a": 1,
+"sol": "Unlike poles attract."
+},
+{
+"q": "An unmagnetized iron bar can be converted into a magnet by:",
+"o": ["Painting it", "Stroking with a magnet", "Washing it", "Leaving it in dark"],
+"a": 1,
+"sol": "The 'stroke' method aligns the domains inside the iron."
+},
+{
+"q": "Magnets are used in ________ to separate iron from scrap.",
+"o": ["Schools", "Hospitals", "Junk yards / Recycling centers", "Libraries"],
+"a": 2,
+"sol": "Large electromagnets lift iron and steel from trash."
+},
+{
+"q": "A magnet's attraction is strongest through:",
+"o": ["Air", "Iron", "Water", "Wood"],
+"a": 1,
+"sol": "Magnetic force is transmitted most effectively through magnetic materials."
+},
+{
+"q": "Magnetic strength can be increased in an electromagnet by:",
+"o": ["Increasing current", "Increasing number of turns of wire", "Using iron core", "All of these"],
+"a": 3,
+"sol": "More current and more coils create a stronger field."
+},
+{
+"q": "Which of these is NOT a magnetic material?",
+"o": ["Cobalt", "Nickel", "Bronze", "Steel"],
+"a": 2,
+"sol": "Bronze is an alloy of copper and tin, neither of which is strongly magnetic."
+},
+{
+"q": "Which part of the magnet is the 'neutral' region?",
+"o": ["Poles", "The middle part", "The edges", "The whole surface"],
+"a": 1,
+"sol": "The center of a bar magnet shows little to no attraction."
+},
+{
+"q": "Magnets are used in ATM cards in the form of a:",
+"o": ["Big block", "Magnetic strip", "Small needle", "Battery"],
+"a": 1,
+"sol": "The black/brown strip on the back stores data magnetically."
+},
+{
+"q": "A magnet that keeps its magnetism for a very long time is:",
+"o": ["Temporary magnet", "Permanent magnet", "Electromagnet", "Weak magnet"],
+"a": 1,
+"sol": "Permanent magnets are made of hard magnetic materials."
+},
+{
+"q": "If we suspend a magnet vertically, will it point North-South?",
+"o": ["Yes", "No", "Only if it is long", "Only in India"],
+"a": 0,
+"sol": "Yes, it will align with the Earth's magnetic dip."
+},
+{
+"q": "Artificial magnets were discovered much later than natural magnets.",
+"o": ["True", "False", "Both discovered together", "Nature has no magnets"],
+"a": 0,
+"sol": "Lodestones were known for centuries before humans learned to manufacture magnets."
+},
+{
+"q": "Which of these is a property of a magnet?",
+"o": ["Directive property", "Attractive property", "Both A and B", "None"],
+"a": 2,
+"sol": "Magnets attract certain metals and point in specific directions."
+},
+{
+"q": "What happens if a magnet is kept near a heater for long?",
+"o": ["It becomes bigger", "It loses its magnetism", "It turns into iron", "It starts speaking"],
+"a": 1,
+"sol": "High temperature causes demagnetization."
+},
+{
+"q": "The Earth's South Magnetic Pole is near the:",
+"o": ["Geographic South Pole", "Geographic North Pole", "Equator", "Pacific Ocean"],
+"a": 1,
+"sol": "The Earth's magnetic poles are opposite to the geographic names."
+},
+{
+"q": "Which of these is the 'surest test' of magnetism?",
+"o": ["Attraction", "Repulsion", "Heating", "Hammering"],
+"a": 1,
+"sol": "Repulsion can only happen between two magnets, while attraction can happen between a magnet and a piece of iron."
+},
+{
+"q": "An electromagnet is a ________ magnet.",
+"o": ["Permanent", "Temporary", "Natural", "Weak"],
+"a": 1,
+"sol": "It only works when electricity is 'ON'."
+},
+{
+"q": "Magnets in stickers on refrigerators use:",
+"o": ["Electricity", "Magnetic attraction to the metal door", "Glue only", "Suction"],
+"a": 1,
+"sol": "The magnet attracts the steel/iron body of the fridge."
+},
+{
+"q": "A compass needle is always ________.",
+"o": ["Fixed", "Magnetized", "Hot", "Plastic"],
+"a": 1,
+"sol": "It must be a permanent magnet to work."
+},
+{
+"q": "Which pole of a magnet is normally at the top of a compass needle?",
+"o": ["South Pole", "North Pole", "It has no poles", "East Pole"],
+"a": 1,
+"sol": "The North pole points to the Earth's North."
+},
+{
+"q": "The lines of force around a magnet are called:",
+"o": ["Electric lines", "Magnetic field lines", "Flow lines", "Invisible wires"],
+"a": 1,
+"sol": "These lines represent the direction and strength of the magnetic field."
+},
+{
+"q": "Can we see magnetism?",
+"o": ["Yes", "No", "Only on TV", "Only in mirrors"],
+"a": 1,
+"sol": "Magnetism is an invisible force; we only see its effects."
+},
+{
+"q": "Magnetism is a form of:",
+"o": ["Matter", "Energy/Force", "Liquid", "Gas"],
+"a": 1,
+"sol": "It is a physical force/phenomenon."
+},
+{
+"q": "Which of these is used to store magnets?",
+"o": ["Wooden boxes with iron keepers", "Plastic bags", "Glass jars", "Paper wraps"],
+"a": 0,
+"sol": "Proper storage prevents magnets from becoming weak."
+},
+{
+"q": "The force between two magnets ________ as the distance increases.",
+"o": ["Increases", "Decreases", "Stays same", "Becomes zero instantly"],
+"a": 1,
+"sol": "The magnetic force follows an inverse square-like law; distance reduces the pull."
+},
+{
+"q": "Magnets are used in door holders to:",
+"o": ["Lock the door", "Keep the door open/attached to the wall", "Make the door light", "Cool the room"],
+"a": 1,
+"sol": "They hold the door firmly against a metal catch."
+},
+{
+"q": "Lodestone is a ________ magnet.",
+"o": ["Artificial", "Natural", "Temporary", "Man-made"],
+"a": 1,
+"sol": "It is found naturally in the Earth's crust."
+},
+{
+"q": "The word 'Magnet' comes from the Greek region of:",
+"o": ["Athens", "Magnesia", "Sparta", "Crete"],
+"a": 1,
+"sol": "Magnesia was rich in magnetite deposits."
+}
+]
