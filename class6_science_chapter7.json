@@ -1,0 +1,602 @@
+[
+{
+"q": "The degree of hotness or coldness of an object is known as its:",
+"o": ["Heat", "Energy", "Temperature", "Pressure"],
+"a": 2,
+"sol": "Temperature is the reliable measure of how hot or cold an object is."
+},
+{
+"q": "Which device is used to measure body temperature?",
+"o": ["Laboratory thermometer", "Clinical thermometer", "Barometer", "Ammeter"],
+"a": 1,
+"sol": "A clinical thermometer is specifically designed to measure human body temperature."
+},
+{
+"q": "What is the normal temperature of a healthy human body?",
+"o": ["35°C", "42°C", "37°C", "39°C"],
+"a": 2,
+"sol": "The average internal temperature of a healthy human is 37°C (98.6°F)."
+},
+{
+"q": "The range of a clinical thermometer is usually:",
+"o": ["0°C to 100°C", "35°C to 42°C", "-10°C to 110°C", "32°C to 50°C"],
+"a": 1,
+"sol": "It covers a narrow range because human body temperature doesn't go below 35°C or above 42°C."
+},
+{
+"q": "Why is there a 'kink' (constriction) in a clinical thermometer?",
+"o": ["To make it look beautiful", "To prevent mercury level from falling on its own", "To help mercury rise faster", "To increase the range"],
+"a": 1,
+"sol": "The kink prevents the mercury from flowing back into the bulb immediately, giving time to read the temperature."
+},
+{
+"q": "Which liquid is commonly used in thermometers?",
+"o": ["Water", "Oil", "Mercury", "Milk"],
+"a": 2,
+"sol": "Mercury is used because it expands uniformly and does not stick to the glass."
+},
+{
+"q": "A laboratory thermometer generally has a range from:",
+"o": ["35°C to 42°C", "0°C to 100°C", "-10°C to 110°C", "10°C to 50°C"],
+"a": 2,
+"sol": "Laboratory thermometers need a wider range for scientific experiments."
+},
+{
+"q": "While reading a laboratory thermometer, it should be kept:",
+"o": ["Tilted", "Upside down", "Upright (vertical)", "Horizontal"],
+"a": 2,
+"sol": "It must be kept vertical and read while the bulb is still in contact with the substance."
+},
+{
+"q": "The boiling point of pure water at sea level is:",
+"o": ["0°C", "50°C", "100°C", "37°C"],
+"a": 2,
+"sol": "Standard boiling point of water is 100°C."
+},
+{
+"q": "Freezing point of water is:",
+"o": ["10°C", "100°C", "32°C", "0°C"],
+"a": 3,
+"sol": "Water turns to ice at 0°C on the Celsius scale."
+},
+{
+"q": "Digital thermometers are preferred today because they do not contain:",
+"o": ["Plastic", "Glass", "Mercury", "Battery"],
+"a": 2,
+"sol": "Mercury is a toxic substance and difficult to dispose of if the thermometer breaks."
+},
+{
+"q": "Before using a clinical thermometer, you should give it a few jerks to:",
+"o": ["Clean it", "Warm it up", "Bring mercury level below 35°C", "Mix the liquid"],
+"a": 2,
+"sol": "Jerking forces the mercury back through the kink into the bulb."
+},
+{
+"q": "Heat always flows from:",
+"o": ["Cold to hot object", "Hot to cold object", "Any direction", "Top to bottom only"],
+"a": 1,
+"sol": "Heat transfer naturally occurs from a higher temperature region to a lower one."
+},
+{
+"q": "SI unit of temperature is:",
+"o": ["Celsius", "Fahrenheit", "Kelvin", "Degree"],
+"a": 2,
+"sol": "Kelvin (K) is the International System unit for temperature."
+},
+{
+"q": "Can we use a clinical thermometer to measure the temperature of boiling milk?",
+"o": ["Yes", "No, it will break", "Only if it is made of plastic", "Yes, but it takes time"],
+"a": 1,
+"sol": "Boiling milk is much hotter than 42°C; the pressure of expanding mercury will break the clinical thermometer."
+},
+{
+"q": "The expansion of a substance on heating is called:",
+"o": ["Contraction", "Thermal expansion", "Evaporation", "Melting"],
+"a": 1,
+"sol": "Substances generally increase in volume when their temperature rises."
+},
+{
+"q": "Maximum-Minimum thermometers are used to measure:",
+"o": ["Body temperature", "Chemical reactions", "Daily weather temperature", "Milk temperature"],
+"a": 2,
+"sol": "They record the highest and lowest temperatures of the previous day."
+},
+{
+"q": "Stainless steel spoons are used in hot tea. The handle becomes hot due to:",
+"o": ["Convection", "Radiation", "Conduction", "Insulation"],
+"a": 2,
+"sol": "In solids, heat is transferred from the hotter end to the colder end by conduction."
+},
+{
+"q": "Which of the following is an insulator of heat?",
+"o": ["Copper", "Iron", "Wood", "Aluminium"],
+"a": 2,
+"sol": "Wood does not allow heat to pass through it easily."
+},
+{
+"q": "The level of mercury ________ when the bulb comes in contact with a hot object.",
+"o": ["Falls", "Stays same", "Rises", "Disappears"],
+"a": 2,
+"sol": "Heat causes mercury to expand and move up the capillary tube."
+},
+{
+"q": "To get an accurate reading, the eye must be ________ with the mercury level.",
+"o": ["Below", "Above", "At the same level", "Closing"],
+"a": 2,
+"sol": "Viewing from the same level prevents parallax error."
+},
+{
+"q": "In a laboratory thermometer, why do we read it while it is in the liquid?",
+"o": ["Because it has a kink", "Because it does NOT have a kink", "Because it is too long", "To save time"],
+"a": 1,
+"sol": "Without a kink, the mercury level falls as soon as it is removed from the hot substance."
+},
+{
+"q": "Temperature of 100°C is equal to ________ in Fahrenheit.",
+"o": ["100°F", "212°F", "32°F", "37°F"],
+"a": 1,
+"sol": "The boiling point of water is 212°F."
+},
+{
+"q": "0°C on Celsius scale is ________ on Fahrenheit scale.",
+"o": ["32°F", "0°F", "100°F", "212°F"],
+"a": 0,
+"sol": "Freezing point of water is 32°F."
+},
+{
+"q": "The metallic strip used in some thermometers is based on:",
+"o": ["Melting", "Differential expansion", "Chemical reaction", "Magnetic force"],
+"a": 1,
+"sol": "Two different metals expand at different rates, causing the strip to bend."
+},
+{
+"q": "Alcohol thermometers are better for very cold regions because:",
+"o": ["Alcohol is cheaper", "Alcohol has a very low freezing point", "Alcohol is colorful", "Alcohol doesn't break glass"],
+"a": 1,
+"sol": "Alcohol remains liquid at temperatures where mercury would freeze."
+},
+{
+"q": "One division on a thermometer scale usually represents:",
+"o": ["10 degrees", "1 degree or 0.1 degree", "Exactly 5 degrees", "No fixed value"],
+"a": 1,
+"sol": "Small divisions allow for precise measurements."
+},
+{
+"q": "We feel 'cold' when:",
+"o": ["Heat enters our body", "Heat leaves our body", "Temperature is 37°C", "We sit in the sun"],
+"a": 1,
+"sol": "Sensation of cold is due to the loss of heat from our body to the surroundings."
+},
+{
+"q": "Which of these is NOT a scale of temperature?",
+"o": ["Celsius", "Newton", "Fahrenheit", "Kelvin"],
+"a": 1,
+"sol": "Newton is a unit of force, not temperature."
+},
+{
+"q": "A clinical thermometer should be washed with:",
+"o": ["Hot boiling water", "Antiseptic solution", "Milk", "Kerosene"],
+"a": 1,
+"sol": "Antiseptic kills germs; boiling water might break the thermometer."
+},
+{
+"q": "Gaps are left between railway tracks to allow for:",
+"o": ["Air flow", "Thermal expansion in summer", "Saving iron", "Noise reduction"],
+"a": 1,
+"sol": "Rails expand when hot; without gaps, they would bend and cause accidents."
+},
+{
+"q": "When we touch an ice cube, heat flows from:",
+"o": ["Ice to hand", "Hand to ice", "Nowhere", "Both ways"],
+"a": 1,
+"sol": "Your hand is warmer (37°C) than ice (0°C), so heat flows out of your hand."
+},
+{
+"q": "The transfer of heat in liquids and gases is mainly by:",
+"o": ["Conduction", "Convection", "Radiation", "Expansion"],
+"a": 1,
+"sol": "Convection involves the actual movement of particles."
+},
+{
+"q": "Heat from the Sun reaches Earth by:",
+"o": ["Conduction", "Convection", "Radiation", "Direct contact"],
+"a": 2,
+"sol": "Radiation does not require a medium to travel through space."
+},
+{
+"q": "Woolen clothes keep us warm because wool is a:",
+"o": ["Good conductor", "Poor conductor and traps air", "Radiator", "Source of heat"],
+"a": 1,
+"sol": "Wool and the air trapped in it prevent body heat from escaping."
+},
+{
+"q": "Dark colored clothes are preferred in:",
+"o": ["Summer", "Winter", "Rainy season", "Everyday"],
+"a": 1,
+"sol": "Dark colors absorb more heat from the sun."
+},
+{
+"q": "A cold steel spoon is dipped in a cup of hot milk. It transfers heat to its other end by the process of:",
+"o": ["Convection", "Radiation", "Conduction", "Absorption"],
+"a": 2,
+"sol": "Conduction is the mode of heat transfer in metals."
+},
+{
+"q": "Which of the following is a good conductor of heat?",
+"o": ["Plastic", "Paper", "Copper", "Rubber"],
+"a": 2,
+"sol": "Metals like copper are excellent conductors."
+},
+{
+"q": "Sea breeze blows during:",
+"o": ["Night", "Day", "Only in winter", "Only in storms"],
+"a": 1,
+"sol": "During the day, land heats up faster, causing cool air from the sea to move towards land."
+},
+{
+"q": "Land breeze blows from:",
+"o": ["Sea to land", "Land to sea", "North to south", "Sky to earth"],
+"a": 1,
+"sol": "At night, land cools faster than the sea."
+},
+{
+"q": "Blowing on a hot cup of tea helps it cool down by increasing:",
+"o": ["Conduction", "Convection/Evaporation", "Radiation", "Mass"],
+"a": 1,
+"sol": "Moving air carries away the heat and vapor faster."
+},
+{
+"q": "Which of these feels coldest at 10°C?",
+"o": ["Wooden chair", "Iron rod", "Woolen blanket", "Plastic toy"],
+"a": 1,
+"sol": "Iron is a good conductor and pulls heat away from your hand faster."
+},
+{
+"q": "The temperature of an object is 310 K. In Celsius it is:",
+"o": ["10°C", "100°C", "37°C", "0°C"],
+"a": 2,
+"sol": "K - 273 = Celsius. 310 - 273 = 37."
+},
+{
+"q": "A thermometer bulb should not touch the ________ of the beaker while measuring.",
+"o": ["Liquid", "Bottom or sides", "Surface", "Air"],
+"a": 1,
+"sol": "Touching the container gives the temperature of the container, not the liquid."
+},
+{
+"q": "Expansion is maximum in ________.",
+"o": ["Solids", "Liquids", "Gases", "All are same"],
+"a": 2,
+"sol": "Gas particles are far apart and expand the most when heated."
+},
+{
+"q": "Thermometers work on the principle of:",
+"o": ["Thermal Expansion", "Chemical change", "Magnetism", "Gravity"],
+"a": 0,
+"sol": "The change in volume of a liquid with temperature change."
+},
+{
+"q": "Light colored clothes ________ most of the heat that falls on them.",
+"o": ["Absorb", "Reflect", "Conduct", "Transmit"],
+"a": 1,
+"sol": "Reflecting heat keeps the body cool in summer."
+},
+{
+"q": "Which material is used to make handles of pressure cookers?",
+"o": ["Steel", "Iron", "Bakelite", "Aluminium"],
+"a": 2,
+"sol": "Bakelite is a poor conductor of heat."
+},
+{
+"q": "What happens to the molecules of a substance when it is heated?",
+"o": ["They stop moving", "They move slower", "They move faster", "They get smaller"],
+"a": 2,
+"sol": "Heat increases the kinetic energy of the molecules."
+},
+{
+"q": "The unit of heat is:",
+"o": ["Celsius", "Kelvin", "Joule", "Pascal"],
+"a": 2,
+"sol": "Heat is a form of energy, so its SI unit is Joule (J)."
+},
+{
+"q": "A wooden spoon is dipped in a cup of ice cream. Its other end:",
+"o": ["Becomes cold by conduction", "Becomes cold by convection", "Becomes cold by radiation", "Does not become cold"],
+"a": 3,
+"sol": "Wood is an insulator, so heat/cold is not conducted through it."
+},
+{
+"q": "The Celsius scale was designed by:",
+"o": ["Lord Kelvin", "Anders Celsius", "Gabriel Fahrenheit", "Isaac Newton"],
+"a": 1,
+"sol": "The scale is named after the Swedish astronomer."
+},
+{
+"q": "Why do we wear more layers of clothing in winter?",
+"o": ["They look good", "Layers trap air which is an insulator", "To increase body weight", "To absorb more light"],
+"a": 1,
+"sol": "Trapped air prevents heat loss from the body."
+},
+{
+"q": "A marble floor feels colder than a carpet in winter because marble:",
+"o": ["Is a better conductor of heat than carpet", "Is a worse conductor of heat than carpet", "Reflects more heat", "Is a source of cold"],
+"a": 0,
+"sol": "Marble conducts heat away from your feet faster than a carpet does."
+},
+{
+"q": "Which thermometer has a higher range?",
+"o": ["Clinical", "Laboratory", "Both are same", "Digital"],
+"a": 1,
+"sol": "Laboratory thermometers usually go from -10°C to 110°C."
+},
+{
+"q": "Which part of the clinical thermometer is placed under the tongue?",
+"o": ["The stem", "The kink", "The glass bulb", "The scale"],
+"a": 2,
+"sol": "The bulb contains the mercury that senses the heat."
+},
+{
+"q": "In which mode of heat transfer is no medium required?",
+"o": ["Conduction", "Convection", "Radiation", "Expansion"],
+"a": 2,
+"sol": "Radiation can travel through a vacuum."
+},
+{
+"q": "Water is a ________ conductor of heat.",
+"o": ["Very good", "Poor", "Super", "None"],
+"a": 1,
+"sol": "Liquids are generally poor conductors compared to metals."
+},
+{
+"q": "Two objects at the same temperature are in contact. Heat flow will be:",
+"o": ["From A to B", "From B to A", "Zero", "Continuous in both directions"],
+"a": 2,
+"sol": "Heat only flows if there is a temperature difference."
+},
+{
+"q": "Why do birds fluff their feathers in winter?",
+"o": ["To fly better", "To look bigger", "To trap air for insulation", "To shed water"],
+"a": 2,
+"sol": "Fluffing creates air pockets that keep them warm."
+},
+{
+"q": "Mercury is a ________.",
+"o": ["Solid", "Liquid metal", "Gas", "Non-metal"],
+"a": 1,
+"sol": "It is the only metal that is liquid at room temperature."
+},
+{
+"q": "1 calorie is approximately equal to:",
+"o": ["1 Joule", "4.2 Joules", "10 Joules", "0.5 Joules"],
+"a": 1,
+"sol": "This is the conversion factor between heat units."
+},
+{
+"q": "When a solid changes into a liquid, it is called:",
+"o": ["Freezing", "Boiling", "Melting", "Condensation"],
+"a": 2,
+"sol": "Melting occurs when a substance absorbs heat and changes phase."
+},
+{
+"q": "The temperature at which a liquid changes to gas is its:",
+"o": ["Melting point", "Boiling point", "Freezing point", "Critical point"],
+"a": 1,
+"sol": "For water, this is 100°C."
+},
+{
+"q": "Why should we not hold a thermometer by its bulb while reading it?",
+"o": ["It might break", "The reading will change due to our body heat", "It is slippery", "It is dirty"],
+"a": 1,
+"sol": "Your hand's temperature will influence the mercury level."
+},
+{
+"q": "In convection, which part of the fluid moves up?",
+"o": ["Cold part", "Hot part", "Bottom part always", "None"],
+"a": 1,
+"sol": "Hot fluids are less dense and rise up."
+},
+{
+"q": "A thermos flask prevents heat loss by:",
+"o": ["Conduction only", "Convection only", "Radiation only", "All three modes"],
+"a": 3,
+"sol": "Vacuum and reflective surfaces block all heat transfer methods."
+},
+{
+"q": "Which of the following expands the least on heating?",
+"o": ["Iron", "Water", "Air", "Hydrogen"],
+"a": 0,
+"sol": "Solids expand much less than liquids or gases."
+},
+{
+"q": "The shine of a thermometer is due to ________.",
+"o": ["Glass", "Water", "Mercury", "Plastic"],
+"a": 2,
+"sol": "Mercury is an opaque, shiny liquid metal."
+},
+{
+"q": "What is the relation between Celsius (C) and Fahrenheit (F)?",
+"o": ["F = C + 32", "C = F - 32", "F = (9/5)C + 32", "C = (9/5)F + 32"],
+"a": 2,
+"sol": "Standard conversion formula."
+},
+{
+"q": "Body temperature is usually checked for ________ minute(s).",
+"o": ["10", "1", "5", "0.5"],
+"a": 1,
+"sol": "One minute is generally sufficient for a clinical thermometer to stabilize."
+},
+{
+"q": "In winter, the temperature of the surroundings is ________ than body temperature.",
+"o": ["Higher", "Lower", "Same", "Zero"],
+"a": 1,
+"sol": "Ambient temperature is usually 10-25°C, while body is 37°C."
+},
+{
+"q": "Metals are good conductors because they have:",
+"o": ["Free electrons", "Many protons", "No space", "Heavy mass"],
+"a": 0,
+"sol": "Free electrons help in fast transfer of energy."
+},
+{
+"q": "Which of these is a sensation of heat?",
+"o": ["Vision", "Touch", "Hearing", "Smell"],
+"a": 1,
+"sol": "Skin can detect temperature differences."
+},
+{
+"q": "The sun heats the Earth's surface. This heat moves to the air just above it by:",
+"o": ["Radiation", "Conduction", "Convection", "None"],
+"a": 1,
+"sol": "Air in direct contact with the hot ground is heated by conduction."
+},
+{
+"q": "An empty glass bottle is heated and its mouth is dipped in water. Bubbles come out due to:",
+"o": ["Water boiling", "Air expanding", "Glass melting", "Bottle breaking"],
+"a": 1,
+"sol": "Heating causes air inside to expand and escape as bubbles."
+},
+{
+"q": "Temperature of a substance ________ during a state change (like melting).",
+"o": ["Increases", "Decreases", "Remains constant", "Fluctuates"],
+"a": 2,
+"sol": "Heat is used as 'latent heat' to break bonds, so temperature doesn't rise."
+},
+{
+"q": "A tight metal cap on a glass jar can be opened by:",
+"o": ["Cooling it", "Heating it in hot water", "Freezing it", "Hitting it"],
+"a": 1,
+"sol": "Heat makes the metal cap expand, making it loose."
+},
+{
+"q": "Which is more reliable for checking fever?",
+"o": ["Touching the forehead", "Using a thermometer", "Looking at the eyes", "Checking the pulse"],
+"a": 1,
+"sol": "Touch is relative and can be misleading; thermometers are accurate."
+},
+{
+"q": "Ventilators in houses are provided near the ceiling because:",
+"o": ["They look good", "Hot air rises up", "Cold air stays up", "To prevent rain"],
+"a": 1,
+"sol": "Hot, stale air rises and escapes through high openings by convection."
+},
+{
+"q": "Which scale has 180 divisions between freezing and boiling points?",
+"o": ["Celsius", "Kelvin", "Fahrenheit", "All of them"],
+"a": 2,
+"sol": "Fahrenheit goes from 32 to 212 (difference of 180)."
+},
+{
+"q": "Heat and temperature are the same thing.",
+"o": ["True", "False", "Only in space", "Only for water"],
+"a": 1,
+"sol": "Heat is energy; temperature is the measure of the intensity of that energy."
+},
+{
+"q": "The handle of a pressure cooker is made of Bakelite because it is a ________.",
+"o": ["Conductor", "Semiconductor", "Insulator", "Radiator"],
+"a": 2,
+"sol": "It prevents heat from the metal cooker from reaching your hand."
+},
+{
+"q": "Mercury thermometer was invented by:",
+"o": ["Daniel Gabriel Fahrenheit", "Anders Celsius", "Lord Kelvin", "Galileo"],
+"a": 0,
+"sol": "Fahrenheit invented the first mercury-in-glass thermometer."
+},
+{
+"q": "A clinical thermometer can be used for:",
+"o": ["Cooking", "Weather", "Human body only", "Industry"],
+"a": 2,
+"sol": "Its range and design are specific to medical use."
+},
+{
+"q": "Air is a ________ conductor of heat.",
+"o": ["Excellent", "Poor", "Better than iron", "None"],
+"a": 1,
+"sol": "Gases are very poor conductors."
+},
+{
+"q": "A black surface ________ more heat than a white surface.",
+"o": ["Reflects", "Radiates", "Absorbs", "Conducts"],
+"a": 2,
+"sol": "Black objects are good absorbers of radiant energy."
+},
+{
+"q": "If we mix 1 litre of water at 30°C with 1 litre of water at 50°C, the temperature will be:",
+"o": ["80°C", "20°C", "Between 30°C and 50°C", "70°C"],
+"a": 2,
+"sol": "The final temperature will be the average (around 40°C)."
+},
+{
+"q": "Thermostat is a device that:",
+"o": ["Measures mass", "Regulates temperature", "Increases heat", "Measures speed"],
+"a": 1,
+"sol": "It maintains a constant temperature in appliances like irons or ACs."
+},
+{
+"q": "One scale on a thermometer is marked from 0 to 1. If there are 10 small divisions, each mark is:",
+"o": ["0.5 degree", "0.1 degree", "1 degree", "0.2 degree"],
+"a": 1,
+"sol": "1 divided by 10 = 0.1."
+},
+{
+"q": "Bimetallic strips are used in:",
+"o": ["Books", "Electric irons", "Pencils", "Shoes"],
+"a": 1,
+"sol": "They act as switches that turn off the heat when it gets too high."
+},
+{
+"q": "Which thermometer is used by doctors?",
+"o": ["Lab thermometer", "Clinical thermometer", "Wall thermometer", "Barometer"],
+"a": 1,
+"sol": "Clinical thermometers are for medical diagnostics."
+},
+{
+"q": "The space between two walls of a thermos flask is a ________.",
+"o": ["Solid", "Liquid", "Vacuum", "Gas"],
+"a": 2,
+"sol": "Vacuum prevents heat transfer by conduction and convection."
+},
+{
+"q": "What is the unit of temperature in the Celsius scale?",
+"o": ["Kelvin", "°C", "°F", "Joule"],
+"a": 1,
+"sol": "It is measured in degrees Celsius."
+},
+{
+"q": "While using a thermometer, it should be ________.",
+"o": ["Washed after use", "Stored in hot water", "Held by bulb", "Kept tilted"],
+"a": 0,
+"sol": "Hygiene is important for medical tools."
+},
+{
+"q": "Water expands when frozen into ice. This is ________.",
+"o": ["Normal", "Anomalous (unusual)", "Impossible", "Constant"],
+"a": 1,
+"sol": "Usually, substances contract when freezing, but water expands."
+},
+{
+"q": "In which state of matter is convection not possible?",
+"o": ["Solid", "Liquid", "Gas", "Both B and C"],
+"a": 0,
+"sol": "Particles in solids cannot move from one place to another."
+},
+{
+"q": "Which of these is the hottest part of a candle flame?",
+"o": ["Inner zone", "Middle zone", "Outer zone", "Base"],
+"a": 2,
+"sol": "The outer blue zone has the highest temperature."
+},
+{
+"q": "Pyrometers are used to measure:",
+"o": ["Body temp", "Ice temp", "Very high temperatures (like furnaces)", "Low temp"],
+"a": 2,
+"sol": "They measure heat through radiation from a distance."
+},
+{
+"q": "Why does a metal chair feel colder than a plastic chair in the same room?",
+"o": ["Metal is colder", "Plastic is warmer", "Metal conducts heat faster from our body", "Plastic reflects heat"],
+"a": 2,
+"sol": "Our perception of cold is often based on how fast we lose heat."
+}
+]
