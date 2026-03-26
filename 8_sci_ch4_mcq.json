@@ -1,0 +1,602 @@
+[
+{
+"q": "Which effect of electric current is used in an electric heater?",
+"o": ["Chemical effect", "Magnetic effect", "Heating effect", "Lighting effect"],
+"a": 2,
+"sol": "Electric heaters convert electrical energy into heat energy through resistance."
+},
+{
+"q": "The material used for the filament of an incandescent bulb is:",
+"o": ["Copper", "Tungsten", "Nichrome", "Aluminum"],
+"a": 1,
+"sol": "Tungsten has a very high melting point, preventing it from melting at high temperatures."
+},
+{
+"q": "Who discovered the magnetic effect of electric current?",
+"o": ["Hans Christian Oersted", "Michael Faraday", "Newton", "James Watt"],
+"a": 0,
+"sol": "Oersted noticed a compass needle deflect near a wire carrying current in 1820."
+},
+{
+"q": "A safety device that breaks the circuit when excessive current flows is:",
+"o": ["Switch", "Fuse", "Battery", "Resistor"],
+"a": 1,
+"sol": "A fuse melts when current exceeds a safe limit, protecting the appliances."
+},
+{
+"q": "The core of an electromagnet is usually made of:",
+"o": ["Steel", "Soft iron", "Copper", "Plastic"],
+"a": 1,
+"sol": "Soft iron is easily magnetized and demagnetized, making it ideal for electromagnets."
+},
+{
+"q": "Which of these works on the magnetic effect of current?",
+"o": ["Electric iron", "Electric bell", "Electric toaster", "Geyser"],
+"a": 1,
+"sol": "Electric bells use an electromagnet to pull an iron strip to strike the gong."
+},
+{
+"q": "What happens to a compass needle kept near a current-carrying wire?",
+"o": ["It stays still", "It gets hot", "It deflects", "It breaks"],
+"a": 2,
+"sol": "The magnetic field produced by the current interacts with the compass magnet."
+},
+{
+"q": "The heating effect of current depends on:",
+"o": ["Only resistance", "Only time", "Only current", "Current, resistance, and time"],
+"a": 3,
+"sol": "According to Joule's law, Heat (H) = I²RT."
+},
+{
+"q": "The heating element of an electric iron is made of:",
+"o": ["Iron", "Nichrome", "Silver", "Lead"],
+"a": 1,
+"sol": "Nichrome is an alloy with high resistance and high melting point."
+},
+{
+"q": "MCB stands for:",
+"o": ["Main Circuit Board", "Miniature Circuit Breaker", "Maximum Current Battery", "Minimum Circuit Box"],
+"a": 1,
+"sol": "MCBs are modern switches that automatically turn off during overloads."
+},
+{
+"q": "An electromagnet is a:",
+"o": ["Permanent magnet", "Temporary magnet", "Natural magnet", "Weak magnet"],
+"a": 1,
+"sol": "It only acts as a magnet as long as electric current flows through it."
+},
+{
+"q": "Increasing the number of turns in a coil ________ the strength of the electromagnet.",
+"o": ["Decreases", "Increases", "Does not change", "Neutralizes"],
+"a": 1,
+"sol": "More turns create a stronger concentrated magnetic field."
+},
+{
+"q": "The short-circuiting occurs when:",
+"o": ["The switch is off", "Live and neutral wires touch directly", "The bulb fuses", "Low voltage occurs"],
+"a": 1,
+"sol": "Direct contact leads to a sudden huge flow of current."
+},
+{
+"q": "Which property is essential for a fuse wire?",
+"o": ["High melting point", "Low melting point", "High ductility", "No resistance"],
+"a": 1,
+"sol": "It must melt quickly if the current becomes dangerously high."
+},
+{
+"q": "Electric cranes use ________ to lift heavy iron scrap.",
+"o": ["Heating effect", "Chemical effect", "Electromagnets", "Permanent magnets"],
+"a": 2,
+"sol": "Electromagnets allow the crane to pick up and drop metal easily by switching current."
+},
+{
+"q": "The magnetic field around a straight current-carrying wire is in the shape of:",
+"o": ["Straight lines", "Concentric circles", "Squares", "Triangles"],
+"a": 1,
+"sol": "The magnetic field lines encircle the wire."
+},
+{
+"q": "If the direction of current is reversed, the magnetic field direction:",
+"o": ["Stays the same", "Is also reversed", "Becomes zero", "Increases"],
+"a": 1,
+"sol": "Magnetic field direction is directly linked to the direction of current flow."
+},
+{
+"q": "The fuse wire is usually an alloy of:",
+"o": ["Copper and Aluminum", "Tin and Lead", "Iron and Carbon", "Gold and Silver"],
+"a": 1,
+"sol": "The tin-lead alloy has the appropriate low melting point."
+},
+{
+"q": "A solenoid acts like a ________ when current passes through it.",
+"o": ["U-shaped magnet", "Bar magnet", "Ring magnet", "Spherical magnet"],
+"a": 1,
+"sol": "A long coil of wire (solenoid) creates a magnetic field similar to a bar magnet."
+},
+{
+"q": "Which of the following does not use the heating effect of current?",
+"o": ["Electric Kettle", "Room Heater", "Electric Fan", "Hair Dryer"],
+"a": 2,
+"sol": "Electric fans primarily use the magnetic effect to drive a motor."
+},
+{
+"q": "ISI mark on electrical appliances ensures:",
+"o": ["Low price", "Safety and quality", "Bright colors", "Foreign make"],
+"a": 1,
+"sol": "ISI mark signifies that the product meets the safety standards set by the Bureau of Indian Standards."
+},
+{
+"q": "The magnetic effect of current can be observed in:",
+"o": ["A plastic wire", "A copper wire with current", "A wooden stick", "A glass rod"],
+"a": 1,
+"sol": "Only conductors carrying electric current produce a magnetic field."
+},
+{
+"q": "When current flows through a wire, it behaves like a:",
+"o": ["Insulator", "Magnet", "Battery", "Switch"],
+"a": 1,
+"sol": "This is the fundamental definition of the magnetic effect of current."
+},
+{
+"q": "A glowing bulb becomes hot due to:",
+"o": ["Magnetic effect", "Heating effect", "Chemical effect", "Static electricity"],
+"a": 1,
+"sol": "Resistance in the filament produces heat as a byproduct of light."
+},
+{
+"q": "Which appliance works on both heating and magnetic effects?",
+"o": ["Electric Iron", "Hair Dryer", "Bulb", "Toaster"],
+"a": 1,
+"sol": "A hair dryer has a heating element (heat) and a motor/fan (magnetic)."
+},
+{
+"q": "A 'fuse' is always connected in ________ with the appliance.",
+"o": ["Parallel", "Series", "Randomly", "Not connected"],
+"a": 1,
+"sol": "Series connection ensures all current passes through the fuse before the appliance."
+},
+{
+"q": "To make a stronger electromagnet, we can:",
+"o": ["Use a plastic core", "Decrease the current", "Increase the current", "Reduce the number of turns"],
+"a": 2,
+"sol": "Higher current intensity generates a stronger magnetic field."
+},
+{
+"q": "Which device uses a permanent magnet and an electromagnet?",
+"o": ["Electric Heater", "Loudspeaker", "Electric Fuse", "CFL"],
+"a": 1,
+"sol": "Loudspeakers use the interaction between both to produce sound vibrations."
+},
+{
+"q": "The space around a magnet where its influence is felt is called:",
+"o": ["Electric field", "Magnetic field", "Gravitational field", "Force field"],
+"a": 1,
+"sol": "The magnetic field is the region where magnetic forces act."
+},
+{
+"q": "Electric current is measured in:",
+"o": ["Volts", "Ohms", "Amperes", "Watts"],
+"a": 2,
+"sol": "Amperes (A) is the SI unit of electric current."
+},
+{
+"q": "Resistance of a wire is ________ proportional to its thickness.",
+"o": ["Directly", "Inversely", "Not", "Equally"],
+"a": 1,
+"sol": "Thicker wires have lower resistance, allowing current to flow more easily."
+},
+{
+"q": "Which of these is a poor conductor of electricity?",
+"o": ["Copper", "Iron", "Distilled water", "Lemon juice"],
+"a": 2,
+"sol": "Pure distilled water lacks ions to conduct electricity."
+},
+{
+"q": "A fuse is a ________ link in an electrical circuit.",
+"o": ["Strong", "Weak", "Permanent", "Useless"],
+"a": 1,
+"sol": "It is designed to be the first part to break to save others."
+},
+{
+"q": "The amount of heat produced in a wire depends on its:",
+"o": ["Length", "Thickness", "Material", "All of these"],
+"a": 3,
+"sol": "Material, length, and cross-section all determine the total resistance."
+},
+{
+"q": "What protects our house from lightning?",
+"o": ["Electric fuse", "MCB", "Lightning conductor", "Earthing wire"],
+"a": 2,
+"sol": "Lightning conductors provide a low-resistance path for lightning to reach the ground."
+},
+{
+"q": "If a circuit is 'open', the current:",
+"o": ["Flows faster", "Flows slower", "Does not flow", "Leaks"],
+"a": 2,
+"sol": "An open circuit has a gap that prevents the flow of electrons."
+},
+{
+"q": "Which effect is used in electroplating?",
+"o": ["Magnetic effect", "Heating effect", "Chemical effect", "Physical effect"],
+"a": 2,
+"sol": "Electroplating uses electricity to cause a chemical change in a solution."
+},
+{
+"q": "The coil of wire in an electric heater is called:",
+"o": ["Spring", "Filament", "Element", "Circuit"],
+"a": 2,
+"sol": "The 'element' is the part that gets red hot and provides heat."
+},
+{
+"q": "Magnetic field lines always start from:",
+"o": ["South pole", "North pole", "The center", "Nowhere"],
+"a": 1,
+"sol": "By convention, magnetic field lines emerge from the North pole."
+},
+{
+"q": "An electric fuse works on the:",
+"o": ["Magnetic effect", "Heating effect", "Chemical effect", "Lighting effect"],
+"a": 1,
+"sol": "It works on the principle that current produces heat which can melt the wire."
+},
+{
+"q": "The magnetic field inside a solenoid is:",
+"o": ["Zero", "Uniform/Parallel", "Circular", "Weak"],
+"a": 1,
+"sol": "Inside the solenoid, field lines are straight and parallel, indicating a uniform field."
+},
+{
+"q": "When the strength of current is increased, the deflection in the compass:",
+"o": ["Decreases", "Increases", "Stays same", "Becomes zero"],
+"a": 1,
+"sol": "Stronger current creates a stronger magnetic field, pushing the needle harder."
+},
+{
+"q": "Which of these is used to detect the presence of current?",
+"o": ["Voltmeter", "Galvanometer", "Thermometer", "Hygrometer"],
+"a": 1,
+"sol": "A galvanometer is a sensitive instrument that detects small currents via magnetic deflection."
+},
+{
+"q": "A high resistance wire produces ________ heat than a low resistance wire.",
+"o": ["Less", "More", "Equal", "No"],
+"a": 1,
+"sol": "More resistance results in more collisions and more heat (H=I²RT)."
+},
+{
+"q": "A fuse is usually placed in which wire?",
+"o": ["Neutral wire", "Earth wire", "Live wire", "Any wire"],
+"a": 2,
+"sol": "Placing it in the live wire cuts off the high-voltage supply entirely if it melts."
+},
+{
+"q": "Which of the following is an alloy used in heating elements?",
+"o": ["Steel", "Nichrome", "Brass", "Bronze"],
+"a": 1,
+"sol": "Nichrome (Nickel + Chromium) is the standard for heating elements."
+},
+{
+"q": "A group of cells connected together is called a:",
+"o": ["Circuit", "Switch", "Battery", "Generator"],
+"a": 2,
+"sol": "A battery is two or more cells combined to provide higher voltage."
+},
+{
+"q": "The magnetic effect of current is used in which medical technology?",
+"o": ["X-ray", "MRI", "ECG", "EEG"],
+"a": 1,
+"sol": "MRI stands for Magnetic Resonance Imaging."
+},
+{
+"q": "What is the unit of resistance?",
+"o": ["Volt", "Ampere", "Ohm", "Watt"],
+"a": 2,
+"sol": "The Ohm (Ω) is the unit named after Georg Simon Ohm."
+},
+{
+"q": "Current is the flow of:",
+"o": ["Protons", "Neutrons", "Electrons", "Atoms"],
+"a": 2,
+"sol": "Electric current in a wire is the directed movement of negative electrons."
+},
+{
+"q": "Which of these will not be attracted by an electromagnet?",
+"o": ["Iron nail", "Steel clip", "Copper coin", "Nickel plate"],
+"a": 2,
+"sol": "Copper is a non-magnetic material."
+},
+{
+"q": "The purpose of 'earthing' is to:",
+"o": ["Save electricity", "Prevent electric shocks", "Increase voltage", "Make bulbs brighter"],
+"a": 1,
+"sol": "Earthing transfers leakage current safely to the ground."
+},
+{
+"q": "An electric bell contains an:",
+"o": ["Electric cell", "Electromagnet", "Electric motor", "Electric heater"],
+"a": 1,
+"sol": "The electromagnet attracts the armature to ring the bell."
+},
+{
+"q": "In a battery, the longer line in the symbol represents:",
+"o": ["Negative terminal", "Positive terminal", "Neutral terminal", "Switch"],
+"a": 1,
+"sol": "The long thin line is positive; the short thick line is negative."
+},
+{
+"q": "Which of the following generates a lot of heat?",
+"o": ["Copper wire", "Nichrome wire", "Silver wire", "Gold wire"],
+"a": 1,
+"sol": "Nichrome has significantly higher resistance compared to the others."
+},
+{
+"q": "A compact fluorescent lamp (CFL) is better than a bulb because it:",
+"o": ["Is cheaper", "Wastes less heat", "Is made of glass", "Does not use electricity"],
+"a": 1,
+"sol": "CFLs convert more energy to light rather than wasting it as heat."
+},
+{
+"q": "Who made the first electric battery?",
+"o": ["Alessandro Volta", "Thomas Edison", "Benjamin Franklin", "Nikola Tesla"],
+"a": 0,
+"sol": "The 'Voltaic Pile' was the first chemical battery."
+},
+{
+"q": "Heating effect is unwanted in which device?",
+"o": ["Toaster", "Geyser", "Computer", "Electric Oven"],
+"a": 2,
+"sol": "In computers, heat is a harmful byproduct that requires cooling fans."
+},
+{
+"q": "In an electric bell, the circuit is broken by the:",
+"o": ["Switch", "Hammer", "Contact screw", "Gong"],
+"a": 2,
+"sol": "When the armature moves, it loses contact with the screw, breaking the circuit."
+},
+{
+"q": "If we wrap a wire around a plastic pen and pass current, will it be a magnet?",
+"o": ["Yes", "No", "Only if it is red", "Maybe"],
+"a": 0,
+"sol": "A current-carrying coil creates a magnetic field regardless of the core, though a plastic core won't amplify it."
+},
+{
+"q": "What is the standard voltage of domestic power supply in India?",
+"o": ["110 V", "220 V", "440 V", "12 V"],
+"a": 1,
+"sol": "India uses a 220-240V AC supply at 50Hz."
+},
+{
+"q": "An electromagnet is used in 'Maglev' trains for:",
+"o": ["Lighting", "Levitation and propulsion", "Heating the seats", "Cleaning tracks"],
+"a": 1,
+"sol": "Maglev stands for Magnetic Levitation."
+},
+{
+"q": "Which of these is a safety precaution for electricity?",
+"o": ["Touching with wet hands", "Using worn-out wires", "Using a proper fuse", "Overloading a socket"],
+"a": 2,
+"sol": "A fuse prevents fires caused by overcurrent."
+},
+{
+"q": "The soft iron inside an electromagnet helps to:",
+"o": ["Stop the current", "Increase the magnetic strength", "Cool the wire", "Make it permanent"],
+"a": 1,
+"sol": "It concentrates the magnetic flux lines."
+},
+{
+"q": "Which wire is generally used for making the connecting wires in a circuit?",
+"o": ["Tungsten", "Copper", "Nichrome", "Lead"],
+"a": 1,
+"sol": "Copper has very low resistance and is inexpensive."
+},
+{
+"q": "The property of 'superconductivity' means a material has:",
+"o": ["Infinite resistance", "Zero resistance", "Magnetic property", "High melting point"],
+"a": 1,
+"sol": "Superconductors allow current to flow without any loss of energy as heat."
+},
+{
+"q": "Does a current-carrying wire attract a plastic bead?",
+"o": ["Yes", "No", "Sometimes", "Only if the bead is wet"],
+"a": 1,
+"sol": "Magnetism only affects magnetic materials (iron, cobalt, nickel)."
+},
+{
+"q": "A heater wire glowing red is an example of:",
+"o": ["Incandescence", "Fluorescence", "Combustion", "Evaporation"],
+"a": 0,
+"sol": "Incandescence is the emission of light due to high temperature."
+},
+{
+"q": "What happens if you increase the voltage in a circuit?",
+"o": ["Current decreases", "Current increases", "Resistance increases", "Nothing"],
+"a": 1,
+"sol": "According to Ohm's Law (V=IR), increasing V increases I if R is constant."
+},
+{
+"q": "Which device is used to open or close a circuit?",
+"o": ["Wire", "Switch", "Fuse", "Cell"],
+"a": 1,
+"sol": "A switch acts as a bridge that can be connected or disconnected."
+},
+{
+"q": "Is the magnetic field of a bar magnet stronger at the poles or center?",
+"o": ["Center", "Poles", "Equally strong", "It has no field"],
+"a": 1,
+"sol": "Magnetic lines of force are most crowded at the poles."
+},
+{
+"q": "Which material has the highest electrical conductivity?",
+"o": ["Copper", "Silver", "Aluminum", "Iron"],
+"a": 1,
+"sol": "Silver is the best conductor, but copper is used more often due to cost."
+},
+{
+"q": "An electric iron consumes electricity and produces:",
+"o": ["Chemical energy", "Mechanical energy", "Heat energy", "Sound energy"],
+"a": 2,
+"sol": "It utilizes the heating effect of current."
+},
+{
+"q": "A magnetic compass always points towards:",
+"o": ["East-West", "North-South", "Up-Down", "Left-Right"],
+"a": 1,
+"sol": "It aligns with the Earth's magnetic field."
+},
+{
+"q": "In a parallel circuit, if one bulb fuses:",
+"o": ["All bulbs go out", "Other bulbs stay on", "The battery explodes", "The wires melt"],
+"a": 1,
+"sol": "Parallel circuits provide independent paths for each component."
+},
+{
+"q": "The symbol for 'A' in an electric circuit diagram represents:",
+"o": ["Ammeter", "Battery", "Bulb", "Switch"],
+"a": 0,
+"sol": "A circle with an 'A' inside is the standard symbol for an ammeter."
+},
+{
+"q": "Which of these is not a magnetic material?",
+"o": ["Iron", "Nickel", "Cobalt", "Aluminum"],
+"a": 3,
+"sol": "Aluminum is paramagnetic but not ferromagnetic (it's not 'magnetic' in daily terms)."
+},
+{
+"q": "Which wire should never be used as a fuse?",
+"o": ["Tin-lead alloy", "Thick copper wire", "Aluminum wire", "Special fuse wire"],
+"a": 1,
+"sol": "Thick copper has a high melting point and won't melt during a surge, risking a fire."
+},
+{
+"q": "An electromagnet used in a scrap yard is attached to a:",
+"o": ["Truck", "Crane", "Bulldozer", "Train"],
+"a": 1,
+"sol": "Cranes lift and move the magnetic load."
+},
+{
+"q": "What creates the sound in an electric bell?",
+"o": ["The switch", "The electromagnet", "The hammer hitting the gong", "The battery"],
+"a": 2,
+"sol": "Mechanical impact produces the sound waves."
+},
+{
+"q": "As the resistance increases, the current ________.",
+"o": ["Increases", "Decreases", "Stays same", "Doubles"],
+"a": 1,
+"sol": "Resistance opposes the flow of current."
+},
+{
+"q": "Magnetic field lines ________ each other.",
+"o": ["Never cross", "Always cross", "Cross at poles", "Cross at center"],
+"a": 0,
+"sol": "If they crossed, the compass would point in two directions at once, which is impossible."
+},
+{
+"q": "The magnetic effect of current is also called:",
+"o": ["Electro-heating", "Electromagnetism", "Electro-chemistry", "Electro-statics"],
+"a": 1,
+"sol": "It describes the relationship between electricity and magnetism."
+},
+{
+"q": "A galvanometer can show:",
+"o": ["Only magnitude", "Only direction", "Both magnitude and direction", "Neither"],
+"a": 2,
+"sol": "The needle deflects to different sides based on current direction."
+},
+{
+"q": "Electric power is measured in:",
+"o": ["Joules", "Watts", "Newtons", "Calories"],
+"a": 1,
+"sol": "Watt (W) is the unit of power (Energy per second)."
+},
+{
+"q": "Domestic wiring is done in:",
+"o": ["Series", "Parallel", "Circular", "None"],
+"a": 1,
+"sol": "Parallel wiring ensures constant voltage and independent operation of devices."
+},
+{
+"q": "Which device converts mechanical energy into electrical energy?",
+"o": ["Motor", "Generator", "Heater", "Bulb"],
+"a": 1,
+"sol": "Generators use the inverse effect (electromagnetic induction)."
+},
+{
+"q": "What determines the polarity of an electromagnet?",
+"o": ["Size of core", "Direction of current", "Number of cells", "Color of wire"],
+"a": 1,
+"sol": "Changing current direction swaps the North and South poles."
+},
+{
+"q": "A cell is a device that converts ________ energy to electrical energy.",
+"o": ["Mechanical", "Chemical", "Heat", "Light"],
+"a": 1,
+"sol": "Chemical reactions inside the cell push electrons through the circuit."
+},
+{
+"q": "Which of these is a magnetic effect application?",
+"o": ["Electric fuse", "Electric kettle", "Maglev train", "Water heater"],
+"a": 2,
+"sol": "Maglev trains use powerful magnets to float above tracks."
+},
+{
+"q": "To prevent overheating, appliances often use a:",
+"o": ["Thermometer", "Thermostat", "Barometer", "Voltmeter"],
+"a": 1,
+"sol": "A thermostat automatically switches off the current when a set temperature is reached."
+},
+{
+"q": "Which pole of a compass needle is usually painted red?",
+"o": ["South pole", "North pole", "East pole", "West pole"],
+"a": 1,
+"sol": "The North-seeking pole is usually highlighted."
+},
+{
+"q": "Why is a solenoid more effective than a single wire loop?",
+"o": ["It uses less wire", "It concentrates the magnetic field", "It is cheaper", "It doesn't get hot"],
+"a": 1,
+"sol": "The magnetic fields of each loop add up together."
+},
+{
+"q": "What happens if a fuse is bypassed using a copper wire?",
+"o": ["Safety increases", "Circuit becomes fire hazard", "Electricity is saved", "Bulbs shine brighter"],
+"a": 1,
+"sol": "Without a fuse, wires can melt and catch fire during a fault."
+},
+{
+"q": "The heating effect was first studied quantitatively by:",
+"o": ["James Prescott Joule", "Isaac Newton", "Charles Darwin", "Galileo"],
+"a": 0,
+"sol": "Joule's Law of heating is named after him."
+},
+{
+"q": "Which of these is used as an insulator?",
+"o": ["Silver", "Plastic", "Iron", "Gold"],
+"a": 1,
+"sol": "Plastic does not allow current to pass through it."
+},
+{
+"q": "When current stops flowing, an electromagnet:",
+"o": ["Keeps its magnetism", "Loses its magnetism", "Explodes", "Becomes hotter"],
+"a": 1,
+"sol": "It is a temporary magnet; magnetism vanishes with the current."
+},
+{
+"q": "A thick wire has ________ resistance than a thin wire of the same material.",
+"o": ["More", "Less", "Equal", "Zero"],
+"a": 1,
+"sol": "Think of it like a wider road allowing more traffic (current) to flow."
+},
+{
+"q": "The strength of a magnetic field is measured in:",
+"o": ["Tesla", "Watt", "Ohm", "Volt"],
+"a": 0,
+"sol": "Tesla (T) is the SI unit for magnetic field strength."
+},
+{
+"q": "Electrical energy is sold in units of:",
+"o": ["Watts", "kWh (Kilowatt-hour)", "Joules", "Amperes"],
+"a": 1,
+"sol": "1 unit on your electricity bill is equal to 1 kWh."
+}
+]
