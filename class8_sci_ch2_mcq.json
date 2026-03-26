@@ -1,0 +1,602 @@
+[
+{
+"q": "Which instrument is essential to see most microorganisms?",
+"o": ["Telescope", "Microscope", "Periscope", "Magnifying glass"],
+"a": 1,
+"sol": "Microorganisms are too small to be seen with the naked eye; a microscope provides the necessary magnification."
+},
+{
+"q": "Which of these is a multicellular microorganism?",
+"o": ["Amoeba", "Paramecium", "Bread mould", "Bacteria"],
+"a": 2,
+"sol": "While many microbes are unicellular, fungi like bread mould are multicellular."
+},
+{
+"q": "The process of conversion of sugar into alcohol is called:",
+"o": ["Nitrogen fixation", "Pasteurization", "Moulding", "Fermentation"],
+"a": 3,
+"sol": "Fermentation is carried out by yeast to produce alcohol and CO2."
+},
+{
+"q": "Who discovered the first antibiotic, Penicillin?",
+"o": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Edward Jenner"],
+"a": 0,
+"sol": "Alexander Fleming discovered Penicillin in 1929 from the mould Penicillium notatum."
+},
+{
+"q": "Which microbe is responsible for the curdling of milk?",
+"o": ["Rhizobium", "Lactobacillus", "Vibrio cholerae", "Yeast"],
+"a": 1,
+"sol": "Lactobacillus bacteria convert lactose sugar in milk into lactic acid."
+},
+{
+"q": "Malaria is caused by which type of microorganism?",
+"o": ["Virus", "Bacteria", "Protozoa", "Fungi"],
+"a": 2,
+"sol": "Malaria is caused by Plasmodium, which is a protozoan."
+},
+{
+"q": "The carrier of dengue virus is:",
+"o": ["Female Anopheles mosquito", "Housefly", "Cockroach", "Female Aedes mosquito"],
+"a": 3,
+"sol": "Aedes aegypti mosquito acts as the carrier for the dengue virus."
+},
+{
+"q": "Which microorganism reproduces only inside the cells of a host organism?",
+"o": ["Bacteria", "Virus", "Algae", "Fungi"],
+"a": 1,
+"sol": "Viruses are borderline living/non-living and require a host cell to replicate."
+},
+{
+"q": "The process by which milk is heated to high temperature and then suddenly chilled is:",
+"o": ["Fermentation", "Pasteurization", "Sterilization", "Nitrification"],
+"a": 1,
+"sol": "Developed by Louis Pasteur, this kills harmful microbes without boiling the milk."
+},
+{
+"q": "Which of the following is an antibiotic?",
+"o": ["Sodium bicarbonate", "Alcohol", "Streptomycin", "Yeast"],
+"a": 2,
+"sol": "Streptomycin is a common antibiotic used to treat bacterial infections."
+},
+{
+"q": "Atmospheric nitrogen is fixed in the soil by:",
+"o": ["Rhizobium bacteria", "Amoeba", "Yeast", "Bread mould"],
+"a": 0,
+"sol": "Rhizobium lives in root nodules of leguminous plants and fixes nitrogen."
+},
+{
+"q": "Bread or idli dough rises because of:",
+"o": ["Heat", "Grinding", "Growth of yeast cells", "Kneading"],
+"a": 2,
+"sol": "Yeast reproduces rapidly and produces CO2, which makes the dough swell."
+},
+{
+"q": "Cholera is a disease caused by:",
+"o": ["Fungi", "Protozoa", "Virus", "Bacteria"],
+"a": 3,
+"sol": "Cholera is caused by the bacterium Vibrio cholerae."
+},
+{
+"q": "Which of the following is NOT a fungal disease?",
+"o": ["Ringworm", "Athlete's foot", "Tuberculosis", "Wheat rust"],
+"a": 2,
+"sol": "Tuberculosis is caused by bacteria (Mycobacterium tuberculosis)."
+},
+{
+"q": "Smallpox vaccine was discovered by:",
+"o": ["Edward Jenner", "Louis Pasteur", "Alexander Fleming", "Robert Koch"],
+"a": 0,
+"sol": "Edward Jenner discovered the smallpox vaccine in 1798."
+},
+{
+"q": "Blue-green algae fix ______ directly from air to enhance fertility of soil.",
+"o": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+"a": 2,
+"sol": "Like Rhizobium, blue-green algae are biological nitrogen fixers."
+},
+{
+"q": "Microorganisms that cause diseases are called:",
+"o": ["Antibodies", "Pathogens", "Antigens", "Vaccines"],
+"a": 1,
+"sol": "Pathogens are harmful microbes that invade hosts to cause disease."
+},
+{
+"q": "Common salt is used as a preservative to prevent the growth of:",
+"o": ["Bacteria", "Viruses", "Protozoa", "Algae"],
+"a": 0,
+"sol": "Salt draws out moisture from food, preventing bacterial growth."
+},
+{
+"q": "Which of these is a food preservative?",
+"o": ["Sodium meta-bisulphite", "Sodium chloride", "Sugar", "All of the above"],
+"a": 3,
+"sol": "Chemicals, salts, and sugar are all used to preserve food."
+},
+{
+"q": "Mushroom belongs to which group of microorganisms?",
+"o": ["Algae", "Fungi", "Protozoa", "Bacteria"],
+"a": 1,
+"sol": "Mushrooms are fungi, though most studied in this chapter are microscopic like yeast."
+},
+{
+"q": "The parasite 'Plasmodium' causes:",
+"o": ["Dysentery", "Malaria", "Typhoid", "Chicken pox"],
+"a": 1,
+"sol": "Plasmodium enters the blood through a mosquito bite and causes malaria."
+},
+{
+"q": "Which organism is used in the commercial production of wine?",
+"o": ["Lactobacillus", "Yeast", "Rhizobium", "Aspergillus"],
+"a": 1,
+"sol": "Yeast is essential for the fermentation of grape juice into wine."
+},
+{
+"q": "Which of the following is a communicable disease?",
+"o": ["Diabetes", "Cancer", "Common cold", "Heart attack"],
+"a": 2,
+"sol": "Communicable diseases spread from person to person through air, water, or contact."
+},
+{
+"q": "Citrus canker is a plant disease caused by:",
+"o": ["Fungi", "Virus", "Bacteria", "Insects"],
+"a": 2,
+"sol": "Citrus canker is a bacterial disease spread by air."
+},
+{
+"q": "The medicine used to kill or stop the growth of disease-causing microbes is:",
+"o": ["Vaccine", "Antibiotic", "Antibody", "Pathogen"],
+"a": 1,
+"sol": "Antibiotics target bacterial and fungal infections."
+},
+{
+"q": "Rust of wheat is caused by:",
+"o": ["Bacteria", "Fungi", "Virus", "Protozoa"],
+"a": 1,
+"sol": "Wheat rust is a common fungal disease in agriculture."
+},
+{
+"q": "Which bacterium is found in the root nodules of leguminous plants?",
+"o": ["Azotobacter", "Lactobacillus", "Rhizobium", "Staphylococcus"],
+"a": 2,
+"sol": "Rhizobium forms a symbiotic relationship with legumes."
+},
+{
+"q": "What is produced by our body to fight an invading pathogen?",
+"o": ["Antibiotics", "Antibodies", "Antigens", "Vaccines"],
+"a": 1,
+"sol": "The immune system produces antibodies to neutralize pathogens."
+},
+{
+"q": "Oil and vinegar prevent spoilage of pickles because:",
+"o": ["They make pickles taste better", "Microbes cannot live in such an environment", "They provide nutrients", "They keep the pickles cool"],
+"a": 1,
+"sol": "The acidic and oily environment is hostile to most decay-causing bacteria."
+},
+{
+"q": "Which of these is used to preserve jams and jellies?",
+"o": ["Salt", "Sugar", "Vinegar", "Oil"],
+"a": 1,
+"sol": "Sugar reduces moisture content, inhibiting microbial growth."
+},
+{
+"q": "The process of nitrogen cycle starts with:",
+"o": ["Denitrification", "Nitrogen fixation", "Ammonification", "Nitrification"],
+"a": 1,
+"sol": "Nitrogen must first be 'fixed' into a usable form for plants."
+},
+{
+"q": "Yellow vein mosaic of bhindi (okra) is caused by:",
+"o": ["Insects", "Bacteria", "Fungi", "Virus"],
+"a": 3,
+"sol": "It is a viral disease spread by insects."
+},
+{
+"q": "Which organism does not have a well-defined nucleus?",
+"o": ["Fungi", "Algae", "Bacteria", "Protozoa"],
+"a": 2,
+"sol": "Bacteria are prokaryotes and lack a nuclear membrane."
+},
+{
+"q": "Spirogyra is an example of:",
+"o": ["Fungi", "Algae", "Protozoa", "Virus"],
+"a": 1,
+"sol": "Spirogyra is a filamentous green algae found in water."
+},
+{
+"q": "Amoeba moves and captures food with the help of:",
+"o": ["Cilia", "Flagella", "Pseudodia", "Tentacles"],
+"a": 2,
+"sol": "Pseudopodia ('false feet') are temporary extensions of the cell membrane."
+},
+{
+"q": "Which microorganism is used to make antibiotics like Erythromycin?",
+"o": ["Bacteria and Fungi", "Viruses", "Algae", "Protozoa"],
+"a": 0,
+"sol": "Most antibiotics are derived from specific bacteria or fungi."
+},
+{
+"q": "The percentage of nitrogen in the atmosphere is approximately:",
+"o": ["21%", "0.03%", "78%", "0.9%"],
+"a": 2,
+"sol": "Nitrogen is the most abundant gas in the Earth's atmosphere."
+},
+{
+"q": "Which of these is a viral disease in humans?",
+"o": ["Typhoid", "Polio", "Tuberculosis", "Anthrax"],
+"a": 1,
+"sol": "Polio is caused by the poliovirus."
+},
+{
+"q": "Foot and mouth disease of cattle is caused by a:",
+"o": ["Bacteria", "Fungi", "Virus", "Protozoa"],
+"a": 2,
+"sol": "It is a highly contagious viral disease of livestock."
+},
+{
+"q": "The temperature at which milk is heated during pasteurization is about:",
+"o": ["100°C", "70°C", "50°C", "120°C"],
+"a": 1,
+"sol": "Milk is heated to about 70°C for 15-30 seconds."
+},
+{
+"q": "Which of the following does not cause spoilage of food?",
+"o": ["Bacteria", "Fungi", "Enzymes", "Nitrogen gas"],
+"a": 3,
+"sol": "Nitrogen is an inert gas used in packing to prevent oxidation and spoilage."
+},
+{
+"q": "In the nitrogen cycle, bacteria convert nitrates into nitrogen gas by:",
+"o": ["Nitrification", "Nitrogen fixation", "Denitrification", "Ammonification"],
+"a": 2,
+"sol": "Denitrifying bacteria release nitrogen back into the atmosphere."
+},
+{
+"q": "Which of these is a protozoan?",
+"o": ["Penicillium", "Chlamydomonas", "Paramecium", "Bacillus"],
+"a": 2,
+"sol": "Paramecium is a ciliated protozoan."
+},
+{
+"q": "Which microorganism is used in the production of vinegar (acetic acid)?",
+"o": ["Yeast", "Acetobacter", "Rhizobium", "Lactobacillus"],
+"a": 1,
+"sol": "Acetobacter bacteria convert alcohol into acetic acid."
+},
+{
+"q": "Vaccines work by stimulating the production of:",
+"o": ["Pathogens", "Red blood cells", "Antibodies", "Hormones"],
+"a": 2,
+"sol": "Vaccines train the immune system to produce antibodies without causing the disease."
+},
+{
+"q": "The 'eyes' of the potato are used for:",
+"o": ["Seeing", "Respiration", "Vegetative propagation", "Excretion"],
+"a": 2,
+"sol": "This is a form of asexual reproduction (though not purely 'microbial', it relates to the biological context of the chapter)."
+},
+{
+"q": "Which of the following is a symptom of food poisoning?",
+"o": ["Vomiting", "Abdominal pain", "Diarrhoea", "All of the above"],
+"a": 3,
+"sol": "Food poisoning results from consuming toxins produced by microbes in food."
+},
+{
+"q": "The organism 'Chlamydomonas' is a:",
+"o": ["Fungi", "Bacterium", "Algae", "Protozoan"],
+"a": 2,
+"sol": "It is a genus of green algae consisting of unicellular flagellates."
+},
+{
+"q": "Pencillium is a type of:",
+"o": ["Bacteria", "Fungi", "Algae", "Virus"],
+"a": 1,
+"sol": "Penicillium is a genus of ascomycetous fungi."
+},
+{
+"q": "Which of the following is responsible for fixing nitrogen in legumes?",
+"o": ["Azotobacter", "Nitrosomonas", "Rhizobium", "Pseudomonas"],
+"a": 2,
+"sol": "Rhizobium is the specific bacterium associated with legume root nodules."
+},
+{
+"q": "Who discovered the bacterium Bacillus anthracis which causes anthrax?",
+"o": ["Robert Koch", "Louis Pasteur", "Edward Jenner", "Alexander Fleming"],
+"a": 0,
+"sol": "Robert Koch (1876) discovered the cause of anthrax."
+},
+{
+"q": "Which microbe is used to increase soil fertility?",
+"o": ["Bread mould", "Blue-green algae", "Yeast", "Amoeba"],
+"a": 1,
+"sol": "Biological nitrogen fixers like cyanobacteria (blue-green algae) improve soil."
+},
+{
+"q": "Common cold spreads through:",
+"o": ["Water", "Air", "Food", "Vectors"],
+"a": 1,
+"sol": "Droplets released while sneezing/coughing spread the virus through air."
+},
+{
+"q": "Which of these is an example of an antibiotic?",
+"o": ["Tetracycline", "Paracetamol", "Insulin", "Aspirin"],
+"a": 0,
+"sol": "Tetracycline is a broad-spectrum antibiotic."
+},
+{
+"q": "Alcohol is produced with the help of:",
+"o": ["Sodium chloride", "Yeast", "Nitrogen", "Oxygen"],
+"a": 1,
+"sol": "Yeast breaks down sugars into ethanol in anaerobic conditions."
+},
+{
+"q": "Diseases like dysentery and malaria are caused by:",
+"o": ["Bacteria", "Viruses", "Protozoa", "Fungi"],
+"a": 2,
+"sol": "Both are caused by different types of protozoans."
+},
+{
+"q": "The microorganism that causes Hepatitis B is a:",
+"o": ["Bacterium", "Protozoan", "Virus", "Fungi"],
+"a": 2,
+"sol": "Hepatitis B is a viral infection that attacks the liver."
+},
+{
+"q": "Which of the following is not a step in the nitrogen cycle?",
+"o": ["Nitrification", "Photosynthesis", "Ammonification", "Denitrification"],
+"a": 1,
+"sol": "Photosynthesis involves carbon/oxygen, not specifically the nitrogen cycle steps."
+},
+{
+"q": "The organism that carries the pathogen of a disease is called:",
+"o": ["Host", "Carrier/Vector", "Antibody", "Parasite"],
+"a": 1,
+"sol": "Houseflies and mosquitoes are common examples of carriers."
+},
+{
+"q": "Preservation by sugar is common in:",
+"o": ["Pickles", "Meat", "Jams", "Vegetables"],
+"a": 2,
+"sol": "Sugar is a primary preservative for jams, jellies, and squashes."
+},
+{
+"q": "Bacteria that convert dead organic matter into ammonia are called:",
+"o": ["Nitrifying bacteria", "Denitrifying bacteria", "Ammonifying bacteria", "Nitrogen-fixing bacteria"],
+"a": 2,
+"sol": "Ammonification is the conversion of organic nitrogen into ammonia."
+},
+{
+"q": "TB (Tuberculosis) is spread through:",
+"o": ["Infected water", "Infected air", "Infected food", "Direct contact"],
+"a": 1,
+"sol": "Like the cold, TB is an airborne bacterial disease."
+},
+{
+"q": "Which of the following is a fungus?",
+"o": ["Aspergillus", "Spirogyra", "Amoeba", "Lactobacillus"],
+"a": 0,
+"sol": "Aspergillus is a common genus of fungi."
+},
+{
+"q": "Vaccination is the process of:",
+"o": ["Treating a disease", "Preventing a disease", "Spreading a disease", "Curing a disease"],
+"a": 1,
+"sol": "Vaccination is a preventative measure to build immunity."
+},
+{
+"q": "Bread mould is also known as:",
+"o": ["Rhizopus", "Yeast", "Penicillium", "Agaricus"],
+"a": 0,
+"sol": "Rhizopus stolonifer is the scientific name for bread mould."
+},
+{
+"q": "Typhoid is caused by:",
+"o": ["Virus", "Fungi", "Bacteria", "Protozoa"],
+"a": 2,
+"sol": "Typhoid fever is caused by the bacterium Salmonella typhi."
+},
+{
+"q": "Which gas is released during the preparation of bread?",
+"o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+"a": 2,
+"sol": "CO2 gas bubbles fill the dough and make it rise."
+},
+{
+"q": "What prevents the spoilage of fruit juices?",
+"o": ["Pasteurization", "Boiling", "Chemical preservatives", "Both A and C"],
+"a": 3,
+"sol": "Juices are often pasteurized and may contain preservatives like sodium benzoate."
+},
+{
+"q": "Salt and edible oils are known as:",
+"o": ["Antibiotics", "Preservatives", "Vaccines", "Antigens"],
+"a": 1,
+"sol": "They are basic household preservatives used for centuries."
+},
+{
+"q": "The disease 'Anthrax' is found in:",
+"o": ["Humans", "Cattle", "Plants", "Both A and B"],
+"a": 3,
+"sol": "Anthrax affects both humans and animals like cattle."
+},
+{
+"q": "Viruses can be seen using:",
+"o": ["Light microscope", "Electron microscope", "Magnifying glass", "Binoculars"],
+"a": 1,
+"sol": "Viruses are extremely tiny and require electron microscopes to visualize."
+},
+{
+"q": "The carrier of Malaria-causing protozoan is:",
+"o": ["Male Anopheles mosquito", "Female Anopheles mosquito", "Housefly", "Butterfly"],
+"a": 1,
+"sol": "Only the female Anopheles mosquito bites and transmits the parasite."
+},
+{
+"q": "Which part of the nitrogen cycle returns nitrogen to the atmosphere?",
+"o": ["Nitrogen fixation", "Ammonification", "Nitrification", "Denitrification"],
+"a": 3,
+"sol": "Denitrification converts soil nitrates back into N2 gas."
+},
+{
+"q": "Which of these is a protozoan disease?",
+"o": ["Malaria", "AIDS", "Chicken pox", "Cholera"],
+"a": 0,
+"sol": "Malaria is the classic example of a protozoan disease in this curriculum."
+},
+{
+"q": "Yeasts are used in the bakery industry because they produce:",
+"o": ["Sugar", "Oxygen", "CO2", "Protein"],
+"a": 2,
+"sol": "Carbon dioxide is the functional byproduct for baking."
+},
+{
+"q": "Which of the following does not cause a disease?",
+"o": ["Pathogenic bacteria", "Beneficial bacteria", "Viruses", "Protozoa"],
+"a": 1,
+"sol": "Many bacteria (like those in our gut) are helpful, not harmful."
+},
+{
+"q": "Food poisoning is caused by:",
+"o": ["Eating too much", "Microbes in the food", "Lack of vitamins", "Exercise"],
+"a": 1,
+"sol": "It is an illness caused by bacteria or toxins in contaminated food."
+},
+{
+"q": "Which of these is a bacterial disease in plants?",
+"o": ["Wheat rust", "Citrus canker", "Yellow vein mosaic", "Smut"],
+"a": 1,
+"sol": "Citrus canker is caused by Xanthomonas axonopodis."
+},
+{
+"q": "The simplest method of food preservation at home is:",
+"o": ["Canning", "Boiling", "Pasteurization", "Radiation"],
+"a": 1,
+"sol": "Boiling milk or water kills many microorganisms immediately."
+},
+{
+"q": "Nitrogen fixation can also occur through:",
+"o": ["Rain", "Lightning", "Wind", "Soil erosion"],
+"a": 1,
+"sol": "The energy from lightning can break N2 bonds, allowing it to react with oxygen."
+},
+{
+"q": "Which microbe is a source of Agar, used in labs?",
+"o": ["Fungi", "Protozoa", "Algae", "Virus"],
+"a": 2,
+"sol": "Agar is a jelly-like substance obtained from red algae."
+},
+{
+"q": "The science of studying microorganisms is called:",
+"o": ["Biology", "Zoology", "Microbiology", "Botany"],
+"a": 2,
+"sol": "Microbiology is the specific study of microscopic organisms."
+},
+{
+"q": "Which organism is a link between living and non-living?",
+"o": ["Bacteria", "Virus", "Amoeba", "Yeast"],
+"a": 1,
+"sol": "Viruses show living characteristics only inside a host."
+},
+{
+"q": "Dry fruits are preserved by:",
+"o": ["Adding salt", "Adding oil", "Sealing in airtight packets", "Boiling"],
+"a": 2,
+"sol": "Airtight packaging prevents moisture and microbial entry."
+},
+{
+"q": "Dengue is spread by the carrier:",
+"o": ["Housefly", "Anopheles mosquito", "Aedes mosquito", "Dragonfly"],
+"a": 2,
+"sol": "Aedes aegypti is the vector for Dengue."
+},
+{
+"q": "Which of the following is an airborne disease?",
+"o": ["Typhoid", "Cholera", "Chicken pox", "Polio"],
+"a": 2,
+"sol": "Chicken pox (and TB/Cold) are primarily airborne."
+},
+{
+"q": "Microbes that grow on our food sometimes produce:",
+"o": ["Vitamin C", "Oxygen", "Toxic substances", "Sugar"],
+"a": 2,
+"sol": "Toxins produced by microbes lead to food poisoning."
+},
+{
+"q": "Which of these is a waterborne disease?",
+"o": ["Tuberculosis", "Cholera", "Measles", "Malaria"],
+"a": 1,
+"sol": "Cholera is commonly spread through contaminated drinking water."
+},
+{
+"q": "Preservation of meat and fish is done by:",
+"o": ["Covering with dry salt", "Using vinegar", "Freezing", "All of the above"],
+"a": 3,
+"sol": "Salting, acidifying, and cooling are all effective for meat/fish."
+},
+{
+"q": "Who is the 'Father of Microbiology'?",
+"o": ["Robert Hooke", "Antonie van Leeuwenhoek", "Louis Pasteur", "Charles Darwin"],
+"a": 1,
+"sol": "Leeuwenhoek was the first to observe microbes using his handcrafted lenses."
+},
+{
+"q": "Lactobacillus is used in the industry to make:",
+"o": ["Bread", "Cheese and Curd", "Wine", "Pickles"],
+"a": 1,
+"sol": "Lactobacillus is the 'curd-maker' and is used in cheese production."
+},
+{
+"q": "The process of pasteurization is named after:",
+"o": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Edward Jenner"],
+"a": 1,
+"sol": "Louis Pasteur developed the method in the 19th century."
+},
+{
+"q": "Which of these microbes has chlorophyll?",
+"o": ["Algae", "Fungi", "Protozoa", "Viruses"],
+"a": 0,
+"sol": "Algae are autotrophic microbes that perform photosynthesis."
+},
+{
+"q": "Poliovirus causes which disease?",
+"o": ["Pneumonia", "Polio", "Plague", "Pox"],
+"a": 1,
+"sol": "Polio is the disease name; the virus is the agent."
+},
+{
+"q": "An example of a multicellular alga is:",
+"o": ["Chlamydomonas", "Amoeba", "Spirogyra", "Bacteria"],
+"a": 2,
+"sol": "Spirogyra consists of long chains of cells."
+},
+{
+"q": "Nitrogen-fixing bacteria convert atmospheric nitrogen into:",
+"o": ["Nitrogen gas", "Nitrates and Nitrites", "Ammonia gas", "Amino acids"],
+"a": 1,
+"sol": "These inorganic salts are easily absorbed by plant roots."
+},
+{
+"q": "Houseflies carry pathogens on their:",
+"o": ["Wings", "Eyes", "Legs and body hair", "Mouth"],
+"a": 2,
+"sol": "Flies sit on garbage/excreta and pathogens stick to their appendages."
+},
+{
+"q": "Sodium benzoate is a common:",
+"o": ["Preservative", "Antibiotic", "Vaccine", "Disinfectant"],
+"a": 0,
+"sol": "It is a chemical preservative used widely in the food industry."
+},
+{
+"q": "Which microorganism is used to test the quality of water?",
+"o": ["Yeast", "Coliform bacteria", "Amoeba", "Mushrooms"],
+"a": 1,
+"sol": "Presence of Coliform (like E. coli) indicates fecal contamination."
+},
+{
+"q": "The major groups of microorganisms are:",
+"o": ["2", "3", "4", "5"],
+"a": 3,
+"sol": "Bacteria, Fungi, Protozoa, Algae, and Viruses (though viruses are unique)."
+}
+]
