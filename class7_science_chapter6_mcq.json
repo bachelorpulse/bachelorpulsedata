@@ -1,0 +1,302 @@
+[
+{
+"q": "The period of life when the body undergoes changes leading to reproductive maturity is called:",
+"o": ["Childhood", "Adolescence", "Old age", "Infancy"],
+"a": 1,
+"sol": "Adolescence is the transitional stage between childhood and adulthood."
+},
+{
+"q": "Adolescents are also called ________ because they fall in the age group of 13 to 19.",
+"o": ["Toddlers", "Adults", "Teens", "Seniors"],
+"a": 2,
+"sol": "The word 'Teenager' comes from the age ending in 'teen' (13-19)."
+},
+{
+"q": "Which gland is known as the 'Master Gland'?",
+"o": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"],
+"a": 2,
+"sol": "The pituitary gland controls the functioning of many other endocrine glands."
+},
+{
+"q": "The first menstrual flow at puberty is known as:",
+"o": ["Menopause", "Menarche", "Ovulation", "Menstruation"],
+"a": 1,
+"sol": "Menarche marks the beginning of the reproductive phase in females."
+},
+{
+"q": "Which hormone is responsible for secondary sexual characters in boys?",
+"o": ["Estrogen", "Insulin", "Testosterone", "Thyroxine"],
+"a": 2,
+"sol": "Testosterone is the male sex hormone produced by the testes."
+},
+{
+"q": "The protruding part of the throat in boys at puberty is called:",
+"o": ["Larynx", "Adam's Apple", "Pharynx", "Goitre"],
+"a": 1,
+"sol": "The Adam's Apple is the enlarged voice box visible in males."
+},
+{
+"q": "Which of the following is a female sex hormone?",
+"o": ["Testosterone", "Estrogen", "Adrenaline", "Growth hormone"],
+"a": 1,
+"sol": "Estrogen is responsible for female secondary sexual characteristics like breast development."
+},
+{
+"q": "Stoppage of menstruation is called:",
+"o": ["Menarche", "Menopause", "Puberty", "Gestation"],
+"a": 1,
+"sol": "Menopause usually occurs in women between the ages of 45 and 55."
+},
+{
+"q": "How many pairs of chromosomes are present in human cells?",
+"o": ["22 pairs", "23 pairs", "24 pairs", "46 pairs"],
+"a": 1,
+"sol": "Human beings have 46 chromosomes in total, arranged in 23 pairs."
+},
+{
+"q": "Which chromosome combination results in a baby boy?",
+"o": ["XX", "YY", "XY", "XO"],
+"a": 2,
+"sol": "The Y chromosome from the father determines the male sex."
+},
+{
+"q": "The chemical substances secreted by endocrine glands are called:",
+"o": ["Enzymes", "Hormones", "Catalysts", "Proteins"],
+"a": 1,
+"sol": "Hormones are chemical messengers that travel through the bloodstream."
+},
+{
+"q": "Thyroxine hormone is produced by which gland?",
+"o": ["Adrenal", "Thyroid", "Pituitary", "Testes"],
+"a": 1,
+"sol": "The thyroid gland located in the neck region produces thyroxine."
+},
+{
+"q": "Deficiency of iodine in food or water leads to:",
+"o": ["Diabetes", "Goitre", "Anaemia", "Scurvy"],
+"a": 1,
+"sol": "Iodine is necessary for the thyroid gland to produce thyroxine; its lack causes goitre."
+},
+{
+"q": "Which gland secretes insulin?",
+"o": ["Liver", "Pancreas", "Thyroid", "Adrenal"],
+"a": 1,
+"sol": "Insulin is produced by the pancreas to regulate blood sugar levels."
+},
+{
+"q": "The hormone that helps the body adjust to stress (Fight or Flight) is:",
+"o": ["Thyroxine", "Adrenaline", "Insulin", "Estrogen"],
+"a": 1,
+"sol": "Adrenaline is produced by the adrenal glands during emergencies or excitement."
+},
+{
+"q": "In insects, the process of transformation from larva to adult is controlled by:",
+"o": ["Human hormones", "Insect hormones", "Pheromones", "Vitamins"],
+"a": 1,
+"sol": "Metamorphosis in insects is regulated by specific insect hormones."
+},
+{
+"q": "In frogs, the metamorphosis of tadpoles requires ________ in water.",
+"o": ["Chlorine", "Iodine", "Oxygen", "Nitrogen"],
+"a": 1,
+"sol": "Tadpoles cannot become frogs if the water does not contain enough iodine for thyroxine production."
+},
+{
+"q": "What is the most important nutrient for adolescents to prevent anaemia?",
+"o": ["Calcium", "Iron", "Vitamin C", "Iodine"],
+"a": 1,
+"sol": "Iron is essential for blood formation, especially during growth and menstruation."
+},
+{
+"q": "Which of these is a myth/misconception?",
+"o": ["Adolescents need balanced diet", "Girls are responsible for the sex of the baby", "Exercise is good", "Hormones cause body changes"],
+"a": 1,
+"sol": "The father determines the sex of the baby; it is scientifically incorrect to blame the mother."
+},
+{
+"q": "Adolescents should avoid 'Junk Food' because:",
+"o": ["It is expensive", "It has no nutritional value for growth", "It tastes bad", "It causes height to decrease"],
+"a": 1,
+"sol": "Junk food lacks the balanced nutrients required for rapid growth during puberty."
+},
+{
+"q": "The functional unit of inheritance is called:",
+"o": ["Cell", "Nucleus", "Gene", "Chromosome"],
+"a": 2,
+"sol": "Genes carry hereditary information from parents to offspring."
+},
+{
+"q": "During puberty, the sweat and sebaceous glands become:",
+"o": ["Inactive", "More active", "Smaller", "Blocked"],
+"a": 1,
+"sol": "Increased activity of these glands often leads to acne and pimples."
+},
+{
+"q": "Which gland is found in the brain?",
+"o": ["Thyroid", "Adrenal", "Pituitary", "Ovaries"],
+"a": 2,
+"sol": "The pituitary gland is attached to the base of the brain."
+},
+{
+"q": "Menstruation in females starts at the age of:",
+"o": ["5-7 years", "10-12 years", "20-25 years", "45-50 years"],
+"a": 1,
+"sol": "Puberty typically begins between ages 10 and 12 for girls."
+},
+{
+"q": "The reproductive phase in females lasts from:",
+"o": ["Birth to death", "Puberty to menopause", "Puberty to old age", "15 to 30 years only"],
+"a": 1,
+"sol": "The release of eggs starts at menarche and ends at menopause."
+},
+{
+"q": "Which hormone controls the blood sugar level?",
+"o": ["Glucagon only", "Insulin", "Growth hormone", "Testosterone"],
+"a": 1,
+"sol": "Insulin allows cells to take in glucose from the blood."
+},
+{
+"q": "The sex chromosomes in a human female are:",
+"o": ["XY", "YY", "XX", "XO"],
+"a": 2,
+"sol": "Females have two X chromosomes."
+},
+{
+"q": "The sex chromosomes in a human male are:",
+"o": ["XX", "XY", "YY", "ZZ"],
+"a": 1,
+"sol": "Males have one X and one Y chromosome."
+},
+{
+"q": "Which of the following is an endocrine gland?",
+"o": ["Salivary gland", "Sweat gland", "Thyroid gland", "Oil gland"],
+"a": 2,
+"sol": "Endocrine glands are ductless glands that release secretions into the blood."
+},
+{
+"q": "Secondary sexual characters in females include:",
+"o": ["Deep voice", "Development of breasts", "Growth of facial hair", "Broad shoulders"],
+"a": 1,
+"sol": "Breast development is a key physical change in girls during puberty."
+},
+{
+"q": "Acne and pimples are common during adolescence due to:",
+"o": ["Lack of sleep", "Oil gland activity", "Eating fruits", "Drinking water"],
+"a": 1,
+"sol": "Increased sebum (oil) production clogs pores, leading to pimples."
+},
+{
+"q": "Which gland is located on top of the kidneys?",
+"o": ["Pancreas", "Adrenal", "Thyroid", "Pituitary"],
+"a": 1,
+"sol": "The adrenal glands sit like caps on both kidneys."
+},
+{
+"q": "Hormones from the pituitary stimulate ________ to release sex hormones.",
+"o": ["Liver and Lungs", "Testes and Ovaries", "Heart and Brain", "Skin and Hair"],
+"a": 1,
+"sol": "The pituitary gland triggers the reproductive organs to start producing sex hormones."
+},
+{
+"q": "The cycle of producing eggs, thickening of uterus wall and bleeding is:",
+"o": ["Life cycle", "Menstrual cycle", "Nitrogen cycle", "Water cycle"],
+"a": 1,
+"sol": "This roughly 28-day cycle prepares the female body for potential pregnancy."
+},
+{
+"q": "A balanced diet should include:",
+"o": ["Chips and Soda", "Proteins, Carbs, Fats, Vitamins", "Only Rice", "Burgers and Pizzas"],
+"a": 1,
+"sol": "Balance means getting all necessary nutrients in correct proportions."
+},
+{
+"q": "An unfertilised egg in a female always has ________ chromosome.",
+"o": ["Y", "X", "Both X and Y", "None"],
+"a": 1,
+"sol": "Eggs always carry one X chromosome; sperm can carry either X or Y."
+},
+{
+"q": "Who is responsible for the sex of the child?",
+"o": ["Mother", "Father", "Both parents equally", "Grandparents"],
+"a": 1,
+"sol": "The sex is determined by whether the father's sperm carries an X or a Y chromosome."
+},
+{
+"q": "Adolescents must take a bath every day because:",
+"o": ["It makes them tall", "Increased sweat makes the body smelly", "It changes their voice", "It prevents hormones from leaking"],
+"a": 1,
+"sol": "Maintaining personal hygiene is crucial due to increased sweat and oil gland activity."
+},
+{
+"q": "Which of the following is NOT a part of a balanced diet?",
+"o": ["Pulse", "Milk", "Vegetables", "Cold drinks"],
+"a": 3,
+"sol": "Cold drinks contain mostly sugar and no vital nutrients for growth."
+},
+{
+"q": "AIDS is caused by a:",
+"o": ["Bacteria", "Virus (HIV)", "Fungi", "Protozoa"],
+"a": 1,
+"sol": "HIV stands for Human Immunodeficiency Virus."
+},
+{
+"q": "AIDS can be transmitted through:",
+"o": ["Sharing food", "Hugging", "Infected needles/blood", "Shaking hands"],
+"a": 2,
+"sol": "HIV is transmitted through body fluids, not casual social contact."
+},
+{
+"q": "The legal age for marriage in India for girls is:",
+"o": ["15 years", "18 years", "21 years", "25 years"],
+"a": 1,
+"sol": "Current law sets 18 as the minimum age for girls, though it is being reviewed."
+},
+{
+"q": "The legal age for marriage in India for boys is:",
+"o": ["18 years", "21 years", "25 years", "15 years"],
+"a": 1,
+"sol": "The current legal age for boys is 21 years."
+},
+{
+"q": "Why is early marriage harmful?",
+"o": ["It causes height to stop", "It leads to health problems in mother and child", "It makes people too rich", "It is illegal but healthy"],
+"a": 1,
+"sol": "The body is not fully ready for the stress of motherhood at a very young age."
+},
+{
+"q": "Growth hormone is secreted by:",
+"o": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"],
+"a": 2,
+"sol": "The pituitary gland regulates the overall growth of the body."
+},
+{
+"q": "The voice box is also called:",
+"o": ["Pharynx", "Larynx", "Trachea", "Oesophagus"],
+"a": 1,
+"sol": "The larynx is responsible for producing sound."
+},
+{
+"q": "Which of the following changes is NOT observed in girls during puberty?",
+"o": ["Broadening of hips", "High pitched voice", "Growth of facial hair", "Menstruation"],
+"a": 2,
+"sol": "Facial hair (beard/moustache) is a secondary sexual character of males."
+},
+{
+"q": "Which hormone is produced in excess when we are angry or worried?",
+"o": ["Thyroxine", "Adrenaline", "Insulin", "Testosterone"],
+"a": 1,
+"sol": "Adrenaline helps the body prepare for 'Fight or Flight' response."
+},
+{
+"q": "Which gland performs both endocrine and exocrine functions?",
+"o": ["Pituitary", "Thyroid", "Pancreas", "Adrenal"],
+"a": 2,
+"sol": "Pancreas secretes insulin (hormone) and digestive juices (enzymes)."
+},
+{
+"q": "Target sites for hormones are reached through:",
+"o": ["Nerves", "Bloodstream", "Ducts", "Lymph"],
+"a": 1,
+"sol": "Endocrine glands release hormones directly into the blood."
+}
+]
