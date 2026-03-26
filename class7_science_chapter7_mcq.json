@@ -1,0 +1,152 @@
+[
+{
+"q": "The process of transfer of heat from the hotter end to the colder end of an object is called:",
+"o": ["Radiation", "Convection", "Conduction", "Insulation"],
+"a": 2,
+"sol": "Conduction is the primary mode of heat transfer in solids."
+},
+{
+"q": "Which of the following is a good conductor of heat?",
+"o": ["Wood", "Plastic", "Copper", "Air"],
+"a": 2,
+"sol": "Metals like copper allow heat to pass through them easily."
+},
+{
+"q": "The materials which do not allow heat to pass through them easily are called:",
+"o": ["Insulators", "Conductors", "Radiators", "Absorbers"],
+"a": 0,
+"sol": "Insulators like rubber and wood resist the flow of heat."
+},
+{
+"q": "In liquids and gases, heat is transferred primarily by:",
+"o": ["Conduction", "Convection", "Radiation", "Vibration"],
+"a": 1,
+"sol": "Convection involves the actual movement of particles in fluids."
+},
+{
+"q": "Which mode of heat transfer does not require any medium?",
+"o": ["Conduction", "Convection", "Radiation", "None of these"],
+"a": 2,
+"sol": "Radiation can transfer heat even through a vacuum, like sunlight reaching Earth."
+},
+{
+"q": "Sea breeze blows during the:",
+"o": ["Night", "Day", "Winter", "Evening only"],
+"a": 1,
+"sol": "During the day, land heats up faster than water, causing cool air from the sea to blow towards the land."
+},
+{
+"q": "Land breeze blows from:",
+"o": ["Sea to land", "Land to sea", "North to south", "Sky to ground"],
+"a": 1,
+"sol": "At night, land cools faster than the sea, so air moves from land to sea."
+},
+{
+"q": "Dark-coloured surfaces are ________ absorbers of heat than light-coloured surfaces.",
+"o": ["Poorer", "Equal", "Better", "Slower"],
+"a": 2,
+"sol": "Dark colors absorb more radiant heat, which is why we wear light colors in summer."
+},
+{
+"q": "A clinical thermometer reads temperature from:",
+"o": ["0°C to 100°C", "35°C to 42°C", "32°C to 212°C", "-10°C to 110°C"],
+"a": 1,
+"sol": "Clinical thermometers are designed to measure human body temperature."
+},
+{
+"q": "The normal temperature of the human body is:",
+"o": ["98.6°C", "37°C", "35°C", "42°C"],
+"a": 1,
+"sol": "37°C is the average normal body temperature for a healthy human."
+},
+{
+"q": "Why do we wear woolen clothes in winter?",
+"o": ["Wool is a good conductor", "Wool traps air, which is an insulator", "Wool reflects heat", "Wool is very heavy"],
+"a": 1,
+"sol": "Air trapped in wool fibers prevents body heat from escaping."
+},
+{
+"q": "Which of these is an example of heat transfer by radiation?",
+"o": ["Heating a metal rod", "Boiling water in a pan", "Feeling the heat of a bonfire from a distance", "Touching a hot cup"],
+"a": 2,
+"sol": "The heat from a fire reaches you through electromagnetic waves (radiation)."
+},
+{
+"q": "The 'kink' in a clinical thermometer prevents:",
+"o": ["The mercury from breaking", "The mercury level from falling on its own", "The thermometer from exploding", "Expansion of glass"],
+"a": 1,
+"sol": "The kink allows us to read the temperature accurately after removing it from the mouth."
+},
+{
+"q": "Heat always flows from a body at ________ temperature to a body at ________ temperature.",
+"o": ["Lower, Higher", "Higher, Lower", "Constant, Variable", "Colder, Warmer"],
+"a": 1,
+"sol": "Heat energy moves down a temperature gradient."
+},
+{
+"q": "Which substance expands the most on heating?",
+"o": ["Solids", "Liquids", "Gases", "All expand equally"],
+"a": 2,
+"sol": "Gases have the highest rate of thermal expansion due to weak intermolecular forces."
+},
+{
+"q": "Stainless steel pans are usually provided with copper bottoms because:",
+"o": ["Copper is easier to clean", "Copper is a better conductor of heat than stainless steel", "Copper makes the pan look beautiful", "Copper is cheaper"],
+"a": 1,
+"sol": "Copper helps in distributing heat quickly and evenly to the food."
+},
+{
+"q": "Ventilators in houses are provided near the ceiling because:",
+"o": ["Hot air rises up by convection", "It looks modern", "To let sunlight in", "To prevent rain from entering"],
+"a": 0,
+"sol": "Warm air is lighter and rises; ventilators allow it to escape the room."
+},
+{
+"q": "In which mode of heat transfer do the particles move from one place to another?",
+"o": ["Conduction", "Radiation", "Convection", "None of these"],
+"a": 2,
+"sol": "In convection, heated particles actually travel to transfer energy."
+},
+{
+"q": "A wooden spoon is dipped in a cup of ice cream. Its other end:",
+"o": ["Becomes cold by conduction", "Becomes cold by convection", "Does not become cold", "Becomes cold by radiation"],
+"a": 2,
+"sol": "Wood is an insulator, so heat transfer does not occur easily."
+},
+{
+"q": "The temperature of boiling water cannot be measured by a:",
+"o": ["Laboratory thermometer", "Clinical thermometer", "Digital thermometer", "Both A and B"],
+"a": 1,
+"sol": "Clinical thermometers have a limited range and can break at high boiling temperatures."
+},
+{
+"q": "Why are the handles of cooking utensils made of plastic or wood?",
+"o": ["They are good conductors", "They are insulators", "They are cheaper", "They are more durable"],
+"a": 1,
+"sol": "They protect our hands from getting burnt by blocking the heat flow."
+},
+{
+"q": "What happens when a cold object is brought in contact with a hot object?",
+"o": ["Heat flows from cold to hot", "Heat flows from hot to cold", "Both objects remain at same temperature", "Heat disappears"],
+"a": 1,
+"sol": "Energy transfer continues until thermal equilibrium is reached."
+},
+{
+"q": "Which of the following is a poor conductor of heat?",
+"o": ["Silver", "Iron", "Aluminum", "Distilled Water"],
+"a": 3,
+"sol": "Pure water is a poor conductor; air and glass are also poor conductors."
+},
+{
+"q": "Which color absorbs the least amount of heat?",
+"o": ["Black", "Red", "White", "Blue"],
+"a": 2,
+"sol": "White reflects most of the radiant heat."
+},
+{
+"q": "Radiation can take place in:",
+"o": ["Solid medium only", "Liquid medium only", "Air and Vacuum", "None of these"],
+"a": 2,
+"sol": "Radiation doesn't need physical contact or a specific medium."
+}
+]
