@@ -1,0 +1,602 @@
+
+{
+"q": "The imaginary line around which the Earth rotates is called its:",
+"o": ["Orbit", "Axis", "Equator", "Path"],
+"a": 1,
+"sol": "Earth rotates on its axis, which is tilted at 23.5 degrees."
+},
+{
+"q": "How long does it take for the Earth to complete one rotation?",
+"o": ["12 hours", "30 days", "24 hours", "365 days"],
+"a": 2,
+"sol": "One rotation takes approximately 24 hours, causing day and night."
+},
+{
+"q": "The ancient instrument used to tell time by the position of the sun's shadow is a:",
+"o": ["Telescope", "Sundial", "Compass", "Astrolabe"],
+"a": 1,
+"sol": "Sundials were among the earliest devices used to track time during the day."
+},
+{
+"q": "The study of celestial objects and phenomena is known as:",
+"o": ["Astrology", "Geology", "Astronomy", "Meteorology"],
+"a": 2,
+"sol": "Astronomy is the scientific study of stars, planets, and the universe."
+},
+{
+"q": "Which star remains almost stationary in the sky because it lies on the Earth's axis of rotation?",
+"o": ["Sirius", "Polaris (Pole Star)", "Betelgeuse", "Alpha Centauri"],
+"a": 1,
+"sol": "The Pole Star stays fixed above the North Pole, helping in navigation."
+},
+{
+"q": "The time taken by the Earth to revolve around the Sun once is called a:",
+"o": ["Lunar month", "Solar day", "Solar year", "Season"],
+"a": 2,
+"sol": "A solar year is approximately 365.25 days."
+},
+{
+"q": "The changing shapes of the visible part of the moon are called:",
+"o": ["Moon cycles", "Lunar tides", "Phases of the moon", "Eclipses"],
+"a": 2,
+"sol": "Phases occur because we see different amounts of the moon's sunlit side."
+},
+{
+"q": "A group of stars forming a recognizable pattern is called a:",
+"o": ["Galaxy", "Constellation", "Solar system", "Nebula"],
+"a": 1,
+"sol": "Constellations like Ursa Major help identify regions of the sky."
+},
+{
+"q": "Which constellation is also known as the Great Bear?",
+"o": ["Orion", "Cassiopeia", "Ursa Major", "Leo"],
+"a": 2,
+"sol": "Ursa Major contains the famous 'Big Dipper' asterism."
+},
+{
+"q": "The phase of the moon when it is completely dark from Earth is the:",
+"o": ["Full Moon", "Crescent Moon", "New Moon", "Gibbous Moon"],
+"a": 2,
+"sol": "During New Moon, the moon is between the Earth and the Sun."
+},
+{
+"q": "The interval between one New Moon and the next is approximately:",
+"o": ["15 days", "29.5 days", "31 days", "27.3 days"],
+"a": 1,
+"sol": "A synodic month (New Moon to New Moon) is about 29.5 days."
+},
+{
+"q": "In which direction does the Sun appear to rise?",
+"o": ["West", "North", "East", "South"],
+"a": 2,
+"sol": "Because Earth rotates West to East, the Sun appears to rise in the East."
+},
+{
+"q": "Which Indian astronomer proposed that the Earth is round and rotates on its axis?",
+"o": ["Varahamihira", "Aryabhata", "Bhaskara", "Brahmagupta"],
+"a": 1,
+"sol": "Aryabhata was a pioneer in describing Earth's rotation in ancient India."
+},
+{
+"q": "The path followed by a planet around the sun is called its:",
+"o": ["Axis", "Orbit", "Belt", "Ring"],
+"a": 1,
+"sol": "Orbits are generally elliptical (oval-shaped)."
+},
+{
+"q": "Which constellation is shaped like a hunter?",
+"o": ["Ursa Minor", "Cassiopeia", "Orion", "Scorpius"],
+"a": 2,
+"sol": "Orion is easily recognized by the three stars forming 'Orion's Belt'."
+},
+{
+"q": "An extra day added to the month of February every four years creates a:",
+"o": ["Lunar year", "Leap year", "Century", "Millennium"],
+"a": 1,
+"sol": "Leap years account for the extra quarter-day in Earth's orbit."
+},
+{
+"q": "The moon does not have its own light; it reflects light from the:",
+"o": ["Stars", "Earth", "Sun", "Venus"],
+"a": 2,
+"sol": "The moon is a non-luminous body that reflects sunlight."
+},
+{
+"q": "When more than half of the moon is visible, it is called a ________ moon.",
+"o": ["Crescent", "Gibbous", "Full", "Quarter"],
+"a": 1,
+"sol": "Gibbous comes from a word meaning 'humped'."
+},
+{
+"q": "Which of these is used to track months in the Indian lunar calendar?",
+"o": ["Tithi", "Year", "Day", "Hour"],
+"a": 0,
+"sol": "A Tithi is a lunar day in the Hindu calendar."
+},
+{
+"q": "The point in the sky directly above the observer is called the:",
+"o": ["Horizon", "Nadir", "Zenith", "Apex"],
+"a": 2,
+"sol": "Zenith is the highest point relative to an observer's position."
+},
+{
+"q": "The 'Seven Sages' constellation is known in India as:",
+"o": ["Saptarishi", "Nakshatra", "Akash Ganga", "Graha"],
+"a": 0,
+"sol": "Saptarishi is the Indian name for Ursa Major."
+},
+{
+"q": "In which season is the constellation Orion clearly visible in the evening?",
+"o": ["Summer", "Monsoon", "Winter", "Spring"],
+"a": 2,
+"sol": "Orion is a prominent winter constellation."
+},
+{
+"q": "A 'waxing' moon means the visible portion is:",
+"o": ["Decreasing", "Increasing", "Staying the same", "Turning blue"],
+"a": 1,
+"sol": "Waxing refers to the period from New Moon to Full Moon."
+},
+{
+"q": "The sun is a ________.",
+"o": ["Planet", "Satellite", "Star", "Comet"],
+"a": 2,
+"sol": "The sun is a medium-sized star at the center of our solar system."
+},
+{
+"q": "Ancient people used the movement of ________ to track seasons for farming.",
+"o": ["Birds", "Tides", "Celestial bodies", "Winds"],
+"a": 2,
+"sol": "Predicting seasons was vital for agriculture in early civilizations."
+},
+{
+"q": "Which constellation looks like a distorted letter 'W' or 'M'?",
+"o": ["Ursa Major", "Orion", "Cassiopeia", "Leo"],
+"a": 2,
+"sol": "Cassiopeia is located in the northern sky."
+},
+{
+"q": "The day of the Full Moon is called ________ in India.",
+"o": ["Amavasya", "Purnima", "Ekadashi", "Sankranti"],
+"a": 1,
+"sol": "Purnima is the night when the entire side of the moon facing Earth is lit."
+},
+{
+"q": "A 'waning' moon means the visible portion is:",
+"o": ["Growing", "Shrinking", "Brighter", "Redder"],
+"a": 1,
+"sol": "Waning happens from Full Moon back to New Moon."
+},
+{
+"q": "Stars appear to move from ________ to ________ in the night sky.",
+"o": ["North to South", "West to East", "East to West", "South to North"],
+"a": 2,
+"sol": "This is due to the Earth's rotation from West to East."
+},
+{
+"q": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+"o": ["Mars", "Jupiter", "Venus", "Saturn"],
+"a": 2,
+"sol": "Venus is highly reflective and appears bright near sunrise or sunset."
+},
+{
+"q": "The distance light travels in one year is called a:",
+"o": ["Kilometer", "Light year", "Solar distance", "Astronomical Unit"],
+"a": 1,
+"sol": "It is a unit of distance used for the vast space between stars."
+},
+{
+"q": "What is the approximate speed of light?",
+"o": ["300,000 km/s", "30,000 km/s", "3,000 km/s", "3,000,000 km/s"],
+"a": 0,
+"sol": "Light travels incredibly fast, covering 3 lakh kilometers every second."
+},
+{
+"q": "Which star is closest to our Solar System (after the Sun)?",
+"o": ["Sirius", "Vega", "Proxima Centauri", "Polaris"],
+"a": 2,
+"sol": "It is about 4.2 light-years away from Earth."
+},
+{
+"q": "How many major planets are there in our solar system?",
+"o": ["7", "8", "9", "10"],
+"a": 1,
+"sol": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+},
+{
+"q": "The sun's diameter is about ________ times that of Earth.",
+"o": ["10", "109", "500", "1000"],
+"a": 1,
+"sol": "The sun is massive compared to all the planets."
+},
+{
+"q": "Shooting stars are actually:",
+"o": ["Dying stars", "Comets", "Meteors", "Satellites"],
+"a": 2,
+"sol": "Meteors are space rocks burning up in Earth's atmosphere."
+},
+{
+"q": "Halley's Comet appears after every ________ years.",
+"o": ["50", "76", "100", "10"],
+"a": 1,
+"sol": "It was last seen in 1986 and will return in 2061."
+},
+{
+"q": "The largest planet in the solar system is:",
+"o": ["Saturn", "Neptune", "Jupiter", "Earth"],
+"a": 2,
+"sol": "Jupiter is so large that over 1300 Earths could fit inside it."
+},
+{
+"q": "A planet that has a prominent ring system is:",
+"o": ["Mars", "Venus", "Saturn", "Mercury"],
+"a": 2,
+"sol": "Saturn's rings are made of ice and dust particles."
+},
+{
+"q": "The red planet is:",
+"o": ["Venus", "Mars", "Jupiter", "Mercury"],
+"a": 1,
+"sol": "Mars appears red due to iron oxide (rust) on its surface."
+},
+{
+"q": "Which of these is a natural satellite of Earth?",
+"o": ["INSAT", "Sputnik", "Moon", "Aryabhata"],
+"a": 2,
+"sol": "The Moon is Earth's only natural satellite."
+},
+{
+"q": "Celestial objects that revolve around planets are called:",
+"o": ["Comets", "Stars", "Satellites", "Asteroids"],
+"a": 2,
+"sol": "Satellites can be natural (moons) or man-made."
+},
+{
+"q": "The 'Belt of Asteroids' is located between the orbits of:",
+"o": ["Earth and Mars", "Mars and Jupiter", "Jupiter and Saturn", "Venus and Earth"],
+"a": 1,
+"sol": "This belt contains millions of rocky objects."
+},
+{
+"q": "Which planet is the coldest and farthest from the sun?",
+"o": ["Uranus", "Jupiter", "Neptune", "Saturn"],
+"a": 2,
+"sol": "Neptune is the eighth and outermost planet."
+},
+{
+"q": "A 'Blue Moon' refers to:",
+"o": ["A moon that turns blue", "The second full moon in a month", "A lunar eclipse", "A moon near the horizon"],
+"a": 1,
+"sol": "It is a rare calendar event occurring once every 2-3 years."
+},
+{
+"q": "The tilt of Earth's axis causes:",
+"o": ["Day and night", "Tides", "Seasons", "Earthquakes"],
+"a": 2,
+"sol": "The tilt affects how much sunlight different regions receive throughout the year."
+},
+{
+"q": "The first man-made satellite launched by India was:",
+"o": ["Rohini", "Bhaskara", "Aryabhata", "Apple"],
+"a": 2,
+"sol": "Aryabhata was launched in 1975."
+},
+{
+"q": "Celestial bodies with a long glowing tail are:",
+"o": ["Asteroids", "Meteors", "Comets", "Planets"],
+"a": 2,
+"sol": "Comets develop tails when they get close to the sun."
+},
+{
+"q": "Which of the following does NOT belong to the solar system?",
+"o": ["Asteroids", "Comets", "Constellations", "Planets"],
+"a": 2,
+"sol": "Constellations are distant patterns of stars, not part of our local system."
+},
+{
+"q": "The bright streak of light caused by a meteoroid falling through the atmosphere is a:",
+"o": ["Meteor", "Meteorite", "Asteroid", "Comet"],
+"a": 0,
+"sol": "Friction with air makes the meteoroid glow hot."
+},
+{
+"q": "If a meteor reaches the Earth's surface, it is called a:",
+"o": ["Meteor", "Meteorite", "Asteroid", "Planetoid"],
+"a": 1,
+"sol": "Meteorites are the remnants that survive the atmospheric entry."
+},
+{
+"q": "Which planet rotates on its axis from East to West?",
+"o": ["Earth", "Mars", "Venus", "Jupiter"],
+"a": 2,
+"sol": "Venus has a retrograde rotation, unlike most other planets."
+},
+{
+"q": "A light-year measures ________.",
+"o": ["Time", "Speed", "Distance", "Brightness"],
+"a": 2,
+"sol": "It is the distance light travels in one year (approx. 9.46 trillion km)."
+},
+{
+"q": "Which constellation contains the star Sirius?",
+"o": ["Ursa Major", "Orion", "Canis Major", "Leo"],
+"a": 2,
+"sol": "Sirius is the brightest star in the night sky."
+},
+{
+"q": "The darkest part of a shadow is called the:",
+"o": ["Penumbra", "Umbra", "Eclipse", "Halo"],
+"a": 1,
+"sol": "The umbra is where the light source is completely blocked."
+},
+{
+"q": "During a lunar eclipse, the ________ comes between the Sun and the Moon.",
+"o": ["Mars", "Venus", "Earth", "Jupiter"],
+"a": 2,
+"sol": "Earth's shadow falls on the moon."
+},
+{
+"q": "A solar eclipse occurs only on a ________ day.",
+"o": ["Full Moon", "New Moon", "Gibbous Moon", "Half Moon"],
+"a": 1,
+"sol": "The moon must be between the Sun and the Earth."
+},
+{
+"q": "Which of these planets has no moon?",
+"o": ["Mars", "Saturn", "Venus", "Neptune"],
+"a": 2,
+"sol": "Mercury and Venus are the only planets in our system without moons."
+},
+{
+"q": "The galaxy we live in is called the:",
+"o": ["Andromeda", "Milky Way", "Sombrero", "Whirlpool"],
+"a": 1,
+"sol": "In India, it is often called 'Akash Ganga'."
+},
+{
+"q": "Which planet has the shortest day (fastest rotation)?",
+"o": ["Mercury", "Earth", "Jupiter", "Venus"],
+"a": 2,
+"sol": "Jupiter rotates once in just under 10 hours."
+},
+{
+"q": "Tides in the ocean are primarily caused by the gravitational pull of the:",
+"o": ["Sun", "Moon", "Mars", "Earth's core"],
+"a": 1,
+"sol": "The moon's gravity pulls on Earth's water, creating high and low tides."
+},
+{
+"q": "The sun appears to move 15 degrees every hour. This is used to define:",
+"o": ["Days", "Months", "Time zones", "Leap years"],
+"a": 2,
+"sol": "Since 360 / 24 = 15, each hour corresponds to 15 degrees of longitude."
+},
+{
+"q": "What is the primary gas found in the Sun?",
+"o": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon Dioxide"],
+"a": 2,
+"sol": "The Sun is mostly hydrogen undergoing nuclear fusion into helium."
+},
+{
+"q": "Which planet is known for its 'Great Red Spot'?",
+"o": ["Mars", "Jupiter", "Saturn", "Uranus"],
+"a": 1,
+"sol": "The spot is a massive storm that has lasted for centuries."
+},
+{
+"q": "The surface of the moon is covered with dark flat plains called:",
+"o": ["Craters", "Mountains", "Maria (Seas)", "Valleys"],
+"a": 2,
+"sol": "These are basaltic plains formed by ancient volcanic eruptions."
+},
+{
+"q": "The tilt of the Earth's axis is ________ degrees.",
+"o": ["90", "45", "23.5", "0"],
+"a": 2,
+"sol": "This tilt is responsible for the distribution of heat across latitudes."
+},
+{
+"q": "Which ancient civilization built the Stonehenge to track celestial events?",
+"o": ["Indians", "Egyptians", "Britons", "Mayans"],
+"a": 2,
+"sol": "Stonehenge was likely used as a calendar and observatory."
+},
+{
+"q": "A leap year has ________ days.",
+"o": ["364", "365", "366", "365.5"],
+"a": 2,
+"sol": "The extra day is February 29th."
+},
+{
+"q": "Which planet is often called Earth's twin?",
+"o": ["Mars", "Venus", "Neptune", "Mercury"],
+"a": 1,
+"sol": "Venus has a similar size and mass to Earth."
+},
+{
+"q": "The 'Hunters' moon usually occurs in:",
+"o": ["Spring", "Autumn", "Winter", "Summer"],
+"a": 1,
+"sol": "It is the full moon following the Harvest Moon."
+},
+{
+"q": "The time between two consecutive Full Moons is about ________ days.",
+"o": ["27", "28", "29.5", "30"],
+"a": 2,
+"sol": "This period is known as the synodic month."
+},
+{
+"q": "Which planet has the longest year (revolution time)?",
+"o": ["Saturn", "Neptune", "Uranus", "Jupiter"],
+"a": 1,
+"sol": "Neptune takes about 165 Earth years to orbit the Sun."
+},
+{
+"q": "Planets reflect light, while stars ________ light.",
+"o": ["Absorb", "Emit", "Store", "Bend"],
+"a": 1,
+"sol": "Stars are luminous bodies that produce energy via fusion."
+},
+{
+"q": "The Earth is ________ from the Sun in winter (in Northern Hemisphere).",
+"o": ["Closest", "Farthest", "Same distance", "Behind"],
+"a": 0,
+"sol": "Seasons are caused by tilt, not distance from the sun."
+},
+{
+"q": "A person who travels into space is an:",
+"o": ["Astronomer", "Astrologer", "Astronaut", "Aeronaut"],
+"a": 2,
+"sol": "Astronauts work in space; astronomers study it from Earth."
+},
+{
+"q": "The first human to set foot on the moon was:",
+"o": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Rakesh Sharma"],
+"a": 1,
+"sol": "Neil Armstrong landed on the moon in 1969."
+},
+{
+"q": "The boundary between day and night on the moon is the:",
+"o": ["Horizon", "Equator", "Terminator", "Cusp"],
+"a": 2,
+"sol": "The terminator line moves as the moon rotates."
+},
+{
+"q": "Which of these is NOT a phase of the moon?",
+"o": ["Crescent", "Gibbous", "Quarter", "Oval"],
+"a": 3,
+"sol": "Oval is not a standard astronomical name for a moon phase."
+},
+{
+"q": "What prevents planets from flying off into space?",
+"o": ["Magnetism", "Gravity", "Atmosphere", "Wind"],
+"a": 1,
+"sol": "The Sun's gravity keeps all planets in their orbits."
+},
+{
+"q": "The Equinox occurs when:",
+"o": ["Day is longer than night", "Night is longer than day", "Day and night are equal", "The sun is farthest"],
+"a": 2,
+"sol": "This happens twice a year, in March and September."
+},
+{
+"q": "Which planet is the least dense (would float in water)?",
+"o": ["Earth", "Mars", "Saturn", "Jupiter"],
+"a": 2,
+"sol": "Saturn is mostly gas and has a very low density."
+},
+{
+"q": "A solar day is ________ minutes longer than a sidereal day.",
+"o": ["10", "4", "24", "60"],
+"a": 1,
+"sol": "Because Earth moves in orbit, it must rotate slightly more each day to face the sun."
+},
+{
+"q": "The sun’s light takes about ________ to reach Earth.",
+"o": ["8 seconds", "8 minutes", "8 hours", "8 days"],
+"a": 1,
+"sol": "Light travels 150 million km in about 8 minutes and 20 seconds."
+},
+{
+"q": "Which constellation is used to find the North Star?",
+"o": ["Orion", "Ursa Major", "Cassiopeia", "Scorpius"],
+"a": 1,
+"sol": "The 'pointers' in Ursa Major point toward Polaris."
+},
+{
+"q": "The moon’s gravity is about ________ of Earth’s gravity.",
+"o": ["Half", "Double", "One-sixth", "One-tenth"],
+"a": 2,
+"sol": "This is why astronauts can jump very high on the moon."
+},
+{
+"q": "A 'New Moon' occurs when the moon is located ________.",
+"o": ["Behind Earth", "Between Sun and Earth", "Above Earth", "Far from Sun"],
+"a": 1,
+"sol": "The side facing us is not lit by the sun."
+},
+{
+"q": "Indian calendar months like Chaitra and Vaishakha are based on:",
+"o": ["Stars", "Sun", "Moon", "Comets"],
+"a": 2,
+"sol": "The Indian national calendar is lunisolar."
+},
+{
+"q": "The outermost layer of the Sun is called the:",
+"o": ["Core", "Crust", "Corona", "Mantle"],
+"a": 2,
+"sol": "The corona is visible during a total solar eclipse."
+},
+{
+"q": "The North Star is always visible in the ________ sky (in Northern Hemisphere).",
+"o": ["Western", "Eastern", "Northern", "Southern"],
+"a": 2,
+"sol": "It sits directly above the North Pole."
+},
+{
+"q": "Planets that are primarily made of rock are called:",
+"o": ["Gas giants", "Terrestrial planets", "Dwarf planets", "Ice giants"],
+"a": 1,
+"sol": "Mercury, Venus, Earth, and Mars are terrestrial planets."
+},
+{
+"q": "How many Earths could fit inside the Sun?",
+"o": ["100", "13,000", "1.3 million", "10 million"],
+"a": 2,
+"sol": "The Sun's volume is vast."
+},
+{
+"q": "The study of how celestial bodies affect human lives is:",
+"o": ["Astronomy", "Astrology", "Biology", "Physiology"],
+"a": 1,
+"sol": "Astrology is a belief system, while astronomy is a science."
+},
+{
+"q": "Which star is also called the 'Dog Star'?",
+"o": ["Polaris", "Sirius", "Rigel", "Capella"],
+"a": 1,
+"sol": "It is the brightest star in Canis Major."
+},
+{
+"q": "The phase of the moon where only a tiny sliver is visible is:",
+"o": ["Gibbous", "Crescent", "New", "Full"],
+"a": 1,
+"sol": "Crescents appear just before or after a New Moon."
+},
+{
+"q": "The Summer Solstice is the ________ day of the year.",
+"o": ["Shortest", "Longest", "Darkest", "Coldest"],
+"a": 1,
+"sol": "In the Northern Hemisphere, it occurs around June 21."
+},
+{
+"q": "In ancient India, hours were measured in ________.",
+"o": ["Minutes", "Ghatikas", "Seconds", "Leaps"],
+"a": 1,
+"sol": "One Ghatika is roughly 24 minutes."
+},
+{
+"q": "Which planet has a surface pressure 90 times that of Earth?",
+"o": ["Mars", "Jupiter", "Venus", "Saturn"],
+"a": 2,
+"sol": "Venus has a thick, toxic atmosphere."
+},
+{
+"q": "The 'Great Bear' constellation appears in the ________ sky.",
+"o": ["Northern", "Southern", "Equatorial", "Western"],
+"a": 0,
+"sol": "It is a circumpolar constellation in the North."
+},
+{
+"q": "The light from the moon takes ________ to reach Earth.",
+"o": ["1.3 seconds", "1.3 minutes", "1.3 hours", "No time"],
+"a": 0,
+"sol": "Since the moon is close (384,000 km), light reaches us almost instantly."
+},
+{
+"q": "The solar system belongs to the ________ Galaxy.",
+"o": ["Andromeda", "Milky Way", "Black Eye", "Pinwheel"],
+"a": 1,
+"sol": "Our home galaxy contains billions of stars."
+}
+]
