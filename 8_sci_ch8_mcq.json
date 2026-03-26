@@ -1,0 +1,602 @@
+[
+{
+"q": "A substance made up of only one kind of atom is called a/an:",
+"o": ["Compound", "Mixture", "Element", "Solution"],
+"a": 2,
+"sol": "Elements are pure substances consisting of only one type of atom."
+},
+{
+"q": "Which of the following is a symbol for Silver?",
+"o": ["Si", "Ag", "Au", "Sl"],
+"a": 1,
+"sol": "Ag comes from the Latin name 'Argentum'."
+},
+{
+"q": "A chemical combination of two or more elements in a fixed ratio is a:",
+"o": ["Compound", "Homogeneous mixture", "Heterogeneous mixture", "Alloy"],
+"a": 0,
+"sol": "Compounds have a definite chemical composition by mass."
+},
+{
+"q": "Which of these can be separated by physical methods like filtration?",
+"o": ["Pure water", "Common salt", "Mixture of sand and water", "Iron sulfide"],
+"a": 2,
+"sol": "Mixtures can be separated physically; compounds cannot."
+},
+{
+"q": "The smallest particle of an element that may or may not exist independently is:",
+"o": ["Molecule", "Atom", "Ion", "Electron"],
+"a": 1,
+"sol": "An atom is the smallest unit of an element."
+},
+{
+"q": "Which of the following is a metalloid?",
+"o": ["Iron", "Sulfur", "Silicon", "Helium"],
+"a": 2,
+"sol": "Silicon shows properties of both metals and non-metals."
+},
+{
+"q": "Air is considered a mixture because:",
+"o": ["It has a fixed boiling point", "Its components can be separated by physical means", "It is always pure", "It is made of only one gas"],
+"a": 1,
+"sol": "Air components like oxygen and nitrogen can be separated by fractional distillation."
+},
+{
+"q": "The formula 'NaCl' represents:",
+"o": ["An element", "A mixture", "A compound", "An atom"],
+"a": 2,
+"sol": "Sodium chloride is a compound formed by sodium and chlorine."
+},
+{
+"q": "A mixture where the components are uniformly distributed is called:",
+"o": ["Heterogeneous", "Homogeneous", "Compound", "Element"],
+"a": 1,
+"sol": "Homogeneous mixtures have a uniform composition throughout."
+},
+{
+"q": "Which of the following is a non-metal that is liquid at room temperature?",
+"o": ["Mercury", "Bromine", "Chlorine", "Iodine"],
+"a": 1,
+"sol": "Bromine is the only non-metal that is liquid at room temperature."
+},
+{
+"q": "Sugar solution is a:",
+"o": ["Compound", "Heterogeneous mixture", "Homogeneous mixture", "Element"],
+"a": 2,
+"sol": "Sugar dissolves completely in water to form a uniform solution."
+},
+{
+"q": "The Latin name for Iron is:",
+"o": ["Natrium", "Ferrum", "Kalium", "Cuprum"],
+"a": 1,
+"sol": "Iron's symbol 'Fe' is derived from Ferrum."
+},
+{
+"q": "Which method is best for separating iron filings from sulfur powder?",
+"o": ["Filtration", "Evaporation", "Magnetic separation", "Sublimation"],
+"a": 2,
+"sol": "A magnet attracts iron but not sulfur."
+},
+{
+"q": "A pure substance has a ________ melting and boiling point.",
+"o": ["Variable", "Fixed", "Low", "High"],
+"a": 1,
+"sol": "Fixed physical constants are a characteristic of pure substances."
+},
+{
+"q": "Valency of Magnesium is:",
+"o": ["1", "2", "3", "4"],
+"a": 1,
+"sol": "Magnesium loses two electrons to achieve stability."
+},
+{
+"q": "Molecules of which substance contain two different types of atoms?",
+"o": ["Ozone", "Oxygen", "Water", "Hydrogen"],
+"a": 2,
+"sol": "Water (H2O) contains Hydrogen and Oxygen atoms."
+},
+{
+"q": "The components of a compound are combined in a:",
+"o": ["Random ratio", "Fixed ratio by mass", "Fixed ratio by volume only", "Variable ratio"],
+"a": 1,
+"sol": "The Law of Constant Proportions applies to compounds."
+},
+{
+"q": "Which of these is a heterogeneous mixture?",
+"o": ["Salt water", "Air", "Oil and water", "Brass"],
+"a": 2,
+"sol": "Oil and water do not mix and form distinct layers."
+},
+{
+"q": "The number of atoms present in one molecule of an element is its:",
+"o": ["Valency", "Atomic number", "Atomicity", "Mass number"],
+"a": 2,
+"sol": "Atomicity defines how many atoms make up a molecule (e.g., O2 is diatomic)."
+},
+{
+"q": "Symbol for Potassium is:",
+"o": ["P", "Po", "K", "Pt"],
+"a": 2,
+"sol": "K comes from the Latin name 'Kalium'."
+},
+{
+"q": "A chemical change occurs during the formation of a:",
+"o": ["Mixture", "Solution", "Compound", "Alloy"],
+"a": 2,
+"sol": "Compounds are formed through chemical reactions."
+},
+{
+"q": "Brass is a mixture of:",
+"o": ["Copper and Tin", "Copper and Zinc", "Iron and Carbon", "Lead and Tin"],
+"a": 1,
+"sol": "Brass is an alloy of copper and zinc."
+},
+{
+"q": "Which of the following is a monoatomic element?",
+"o": ["Nitrogen", "Oxygen", "Helium", "Chlorine"],
+"a": 2,
+"sol": "Noble gases exist as single atoms."
+},
+{
+"q": "The process of a solid turning into liquid is:",
+"o": ["Freezing", "Melting", "Condensation", "Vaporization"],
+"a": 1,
+"sol": "Melting is the transition from solid to liquid."
+},
+{
+"q": "What is the atomicity of Phosphorus (P4)?",
+"o": ["2", "3", "4", "8"],
+"a": 2,
+"sol": "A phosphorus molecule contains four atoms."
+},
+{
+"q": "In a mixture of salt and sand, which method is used first for separation?",
+"o": ["Evaporation", "Filtration", "Dissolving in water", "Magnetic separation"],
+"a": 2,
+"sol": "Dissolving allows the salt to become liquid-phase for later filtration."
+},
+{
+"q": "Which of the following is NOT an element?",
+"o": ["Gold", "Graphite", "Silica (Sand)", "Diamond"],
+"a": 2,
+"sol": "Silica is a compound (SiO2); Gold, Graphite, and Diamond are elements."
+},
+{
+"q": "The elements in a mixture ________ their original properties.",
+"o": ["Lose", "Retain", "Change into new properties", "Double"],
+"a": 1,
+"sol": "Mixture components keep their individual identities."
+},
+{
+"q": "The shorthand representation of an element is a:",
+"o": ["Formula", "Equation", "Symbol", "Valency"],
+"a": 2,
+"sol": "Symbols like 'H' or 'O' represent elements."
+},
+{
+"q": "Which gas is used in fire extinguishers?",
+"o": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+"a": 1,
+"sol": "CO2 does not support combustion and is denser than air."
+},
+{
+"q": "Common salt is obtained from sea water by:",
+"o": ["Filtration", "Decantation", "Evaporation", "Sublimation"],
+"a": 2,
+"sol": "Evaporation leaves behind the solid salt."
+},
+{
+"q": "Which element is used in thermometers?",
+"o": ["Alcohol", "Mercury", "Water", "Copper"],
+"a": 1,
+"sol": "Mercury is a liquid metal with uniform expansion."
+},
+{
+"q": "The formula of a molecule of Chlorine is:",
+"o": ["Cl", "Cl2", "Cl3", "Cl4"],
+"a": 1,
+"sol": "Chlorine is a diatomic gas."
+},
+{
+"q": "Metals are generally:",
+"o": ["Brittle", "Malleable and Ductile", "Liquids", "Poor conductors"],
+"a": 1,
+"sol": "Metals can be beaten into sheets or drawn into wires."
+},
+{
+"q": "Which of the following is a noble gas?",
+"o": ["Hydrogen", "Neon", "Nitrogen", "Fluorine"],
+"a": 1,
+"sol": "Neon is an inert noble gas."
+},
+{
+"q": "The combine capacity of an element is called its:",
+"o": ["Atomic number", "Atomicity", "Valency", "Mass number"],
+"a": 2,
+"sol": "Valency determines how many bonds an atom can form."
+},
+{
+"q": "When iron and sulfur are heated together, they form:",
+"o": ["A mixture", "Iron sulfide", "A solution", "An alloy"],
+"a": 1,
+"sol": "Heating iron and sulfur results in a chemical reaction to form a compound."
+},
+{
+"q": "Separating funnel is used to separate:",
+"o": ["Miscible liquids", "Immiscible liquids", "Solids from liquids", "Gases from liquids"],
+"a": 1,
+"sol": "It separates liquids that do not mix, like oil and water."
+},
+{
+"q": "Which element has a valency of 0?",
+"o": ["Oxygen", "Helium", "Sodium", "Carbon"],
+"a": 1,
+"sol": "Noble gases have a full outer shell and do not usually react."
+},
+{
+"q": "Ammonia (NH3) is a:",
+"o": ["Element", "Compound", "Mixture", "Metal"],
+"a": 1,
+"sol": "Ammonia consists of Nitrogen and Hydrogen in a fixed ratio."
+},
+{
+"q": "Distillation is used for separating:",
+"o": ["Two solids", "Liquids with different boiling points", "Insoluble solids from liquids", "Two gases"],
+"a": 1,
+"sol": "Distillation relies on differences in boiling points."
+},
+{
+"q": "The symbol for Lead is:",
+"o": ["L", "Le", "Pb", "Pd"],
+"a": 2,
+"sol": "Pb comes from the Latin name 'Plumbum'."
+},
+{
+"q": "Non-metals are generally ________ conductors of electricity.",
+"o": ["Good", "Poor", "Super", "Perfect"],
+"a": 1,
+"sol": "Most non-metals lack free electrons (except graphite)."
+},
+{
+"q": "Sea water is a:",
+"o": ["Pure substance", "Mixture", "Element", "Compound"],
+"a": 1,
+"sol": "It contains water, salts, and dissolved gases."
+},
+{
+"q": "The formula for Sulfuric acid is:",
+"o": ["HCl", "HNO3", "H2SO4", "CH3COOH"],
+"a": 2,
+"sol": "H2SO4 is the chemical formula for sulfuric acid."
+},
+{
+"q": "A mixture of sawdust and water can be separated by:",
+"o": ["Evaporation", "Filtration", "Distillation", "Sublimation"],
+"a": 1,
+"sol": "The insoluble sawdust is trapped by the filter paper."
+},
+{
+"q": "Which of the following is a compound?",
+"o": ["Iron", "Air", "Water", "Iodine"],
+"a": 2,
+"sol": "Water is a chemical combination of H and O."
+},
+{
+"q": "The atomicity of Ozone is:",
+"o": ["1", "2", "3", "4"],
+"a": 2,
+"sol": "Ozone (O3) contains three oxygen atoms."
+},
+{
+"q": "Bronze is an alloy of:",
+"o": ["Copper and Zinc", "Copper and Tin", "Iron and Chromium", "Lead and Tin"],
+"a": 1,
+"sol": "Bronze is primarily copper and tin."
+},
+{
+"q": "Elements are classified into:",
+"o": ["Metals and non-metals only", "Metals, non-metals, and metalloids", "Compounds and mixtures", "Solids and liquids"],
+"a": 1,
+"sol": "This is the primary classification based on properties."
+},
+{
+"q": "The symbol for Sodium is:",
+"o": ["S", "So", "Na", "Sd"],
+"a": 2,
+"sol": "Na comes from 'Natrium'."
+},
+{
+"q": "Which of these is a triatomic molecule?",
+"o": ["H2", "CO2", "P4", "He"],
+"a": 1,
+"sol": "CO2 contains one carbon and two oxygen atoms (total 3)."
+},
+{
+"q": "Sublimation can be used to separate:",
+"o": ["Salt and water", "Ammonium chloride and salt", "Iron and sulfur", "Oil and water"],
+"a": 1,
+"sol": "Ammonium chloride sublimes upon heating."
+},
+{
+"q": "Which element is essential for combustion?",
+"o": ["Nitrogen", "Carbon dioxide", "Oxygen", "Argon"],
+"a": 2,
+"sol": "Oxygen supports burning."
+},
+{
+"q": "The chemical name for baking soda is:",
+"o": ["Sodium chloride", "Sodium bicarbonate", "Calcium carbonate", "Sodium hydroxide"],
+"a": 1,
+"sol": "NaHCO3 is sodium bicarbonate."
+},
+{
+"q": "Metals have a shiny appearance called:",
+"o": ["Malleability", "Luster", "Sonority", "Ductility"],
+"a": 1,
+"sol": "Metallic luster is the shine of a fresh metal surface."
+},
+{
+"q": "Which of the following is a physical change?",
+"o": ["Burning of paper", "Rusting of iron", "Melting of wax", "Cooking of food"],
+"a": 2,
+"sol": "Melting is a change of state, not identity."
+},
+{
+"q": "Gunpowder is a ________.",
+"o": ["Compound", "Mixture", "Element", "Metalloid"],
+"a": 1,
+"sol": "Gunpowder is a mixture of sulfur, charcoal, and potassium nitrate."
+},
+{
+"q": "The formula of Calcium carbonate is:",
+"o": ["CaO", "Ca(OH)2", "CaCO3", "CaCl2"],
+"a": 2,
+"sol": "CaCO3 is the chemical formula for limestone/calcium carbonate."
+},
+{
+"q": "Nitrogen is a ________ gas.",
+"o": ["Highly reactive", "Relatively inactive", "Combustible", "Poisonous"],
+"a": 1,
+"sol": "Nitrogen makes up 78% of air and is mostly inert."
+},
+{
+"q": "Valency of Carbon is:",
+"o": ["2", "3", "4", "1"],
+"a": 2,
+"sol": "Carbon is tetravalent."
+},
+{
+"q": "A symbol represents ________ of an element.",
+"o": ["One atom", "One molecule", "The mass", "The volume"],
+"a": 0,
+"sol": "A chemical symbol stands for a single atom."
+},
+{
+"q": "Which non-metal is a good conductor of electricity?",
+"o": ["Sulfur", "Diamond", "Graphite", "Phosphorus"],
+"a": 2,
+"sol": "Graphite has free electrons in its structure."
+},
+{
+"q": "The most abundant element in the Earth's crust is:",
+"o": ["Iron", "Oxygen", "Silicon", "Aluminum"],
+"a": 1,
+"sol": "Oxygen is the most abundant element by mass in the crust."
+},
+{
+"q": "Which of the following describes a compound?",
+"o": ["Variable composition", "Components retain properties", "Separable by physical means", "Energy is usually released or absorbed during formation"],
+"a": 3,
+"sol": "Chemical reactions (forming compounds) involve energy changes."
+},
+{
+"q": "Symbol for Mercury is:",
+"o": ["Me", "My", "Hg", "Hy"],
+"a": 2,
+"sol": "Hg comes from 'Hydrargyrum'."
+},
+{
+"q": "The smallest unit of a compound that can exist independently is a:",
+"o": ["Atom", "Molecule", "Ion", "Element"],
+"a": 1,
+"sol": "Molecules of compounds consist of two or more different atoms."
+},
+{
+"q": "What is the atomicity of Sulfur (S8)?",
+"o": ["2", "4", "6", "8"],
+"a": 3,
+"sol": "Sulfur naturally exists in octa-atomic molecules."
+},
+{
+"q": "Which of these is used for making electric wires?",
+"o": ["Silver", "Copper", "Iron", "Gold"],
+"a": 1,
+"sol": "Copper is a good conductor and relatively cheap."
+},
+{
+"q": "Tap water is a ________.",
+"o": ["Compound", "Mixture", "Pure substance", "Element"],
+"a": 1,
+"sol": "It contains dissolved minerals and gases."
+},
+{
+"q": "The formula for Hydrochloric acid is:",
+"o": ["HCl", "H2SO4", "HNO3", "H2O"],
+"a": 0,
+"sol": "HCl is the formula for hydrochloric acid."
+},
+{
+"q": "Which element is found in all organic compounds?",
+"o": ["Oxygen", "Nitrogen", "Carbon", "Hydrogen"],
+"a": 2,
+"sol": "Carbon is the backbone of organic chemistry."
+},
+{
+"q": "An alloy is a ________ mixture.",
+"o": ["Heterogeneous", "Homogeneous", "Compound", "Element"],
+"a": 1,
+"sol": "Alloys are solid solutions (homogeneous)."
+},
+{
+"q": "Fractional distillation is used when the boiling points are ________.",
+"o": ["Very far apart", "Close to each other", "Exactly the same", "Extremely high"],
+"a": 1,
+"sol": "It is used when difference in boiling points is less than 25K."
+},
+{
+"q": "Symbol for Iron is:",
+"o": ["I", "Ir", "Fe", "In"],
+"a": 2,
+"sol": "Fe represents Ferrum."
+},
+{
+"q": "The valency of Oxygen is:",
+"o": ["1", "2", "3", "4"],
+"a": 1,
+"sol": "Oxygen needs two electrons to complete its octet."
+},
+{
+"q": "Which of these is a liquid metal at room temperature?",
+"o": ["Gallium", "Mercury", "Sodium", "Gold"],
+"a": 1,
+"sol": "Mercury is the standard liquid metal."
+},
+{
+"q": "Methane (CH4) contains how many atoms in total?",
+"o": ["2", "4", "5", "6"],
+"a": 2,
+"sol": "1 Carbon + 4 Hydrogen = 5 atoms."
+},
+{
+"q": "Salt from water is recovered by ________.",
+"o": ["Filtration", "Decantation", "Evaporation", "Sublimation"],
+"a": 2,
+"sol": "Water evaporates, leaving salt."
+},
+{
+"q": "Symbols were first introduced by:",
+"o": ["Dalton", "Berzelius", "Newton", "Lavoisier"],
+"a": 1,
+"sol": "J.J. Berzelius suggested using letters for symbols."
+},
+{
+"q": "Which gas is used in electric bulbs?",
+"o": ["Oxygen", "Hydrogen", "Argon", "Chlorine"],
+"a": 2,
+"sol": "Argon is inert and prevents the filament from burning."
+},
+{
+"q": "The symbol for Copper is:",
+"o": ["Co", "Cr", "Cu", "Cp"],
+"a": 2,
+"sol": "Cu comes from 'Cuprum'."
+},
+{
+"q": "Magnesium oxide (MgO) is a ________.",
+"o": ["Element", "Compound", "Mixture", "Metalloid"],
+"a": 1,
+"sol": "It is a chemical combination of Mg and O."
+},
+{
+"q": "Metals produce a ringing sound when struck, a property called:",
+"o": ["Malleability", "Ductility", "Sonority", "Hardness"],
+"a": 2,
+"sol": "Sonorous materials produce sound."
+},
+{
+"q": "Which of these is a diatomic molecule?",
+"o": ["O2", "P4", "S8", "He"],
+"a": 0,
+"sol": "Diatomic means two atoms (Oxygen gas)."
+},
+{
+"q": "Mixtures have ________ melting points.",
+"o": ["Fixed", "Variable", "Sharp", "High"],
+"a": 1,
+"sol": "Due to variable composition, they melt over a range."
+},
+{
+"q": "Valency of Aluminum is:",
+"o": ["1", "2", "3", "4"],
+"a": 2,
+"sol": "Aluminum belongs to group 13 and has 3 valence electrons."
+},
+{
+"q": "Kerosine and water are separated by ________.",
+"o": ["Distillation", "Separating funnel", "Evaporation", "Filtration"],
+"a": 1,
+"sol": "They are immiscible liquids."
+},
+{
+"q": "The symbol for Tin is:",
+"o": ["Ti", "T", "Sn", "Tn"],
+"a": 2,
+"sol": "Sn comes from 'Stannum'."
+},
+{
+"q": "A molecule of an element contains only ________ kind of atom.",
+"o": ["Different", "One", "Two", "Three"],
+"a": 1,
+"sol": "If atoms are different, it is a molecule of a compound."
+},
+{
+"q": "Which of the following is an example of a mixture?",
+"o": ["Sugar", "Soil", "Baking soda", "Copper sulfate"],
+"a": 1,
+"sol": "Soil contains sand, clay, minerals, and organic matter."
+},
+{
+"q": "The formula for Nitric acid is:",
+"o": ["H2SO4", "HNO3", "HCl", "H3PO4"],
+"a": 1,
+"sol": "HNO3 is nitric acid."
+},
+{
+"q": "Which is a chemical formula for Ammonia?",
+"o": ["NH4", "N2H", "NH3", "NH"],
+"a": 2,
+"sol": "NH3 is the correct formula."
+},
+{
+"q": "Molecules of water are ________.",
+"o": ["Atoms", "Compounds", "Mixtures", "Elements"],
+"a": 1,
+"sol": "Actually, molecules are the units of compounds."
+},
+{
+"q": "Valency of Chlorine is:",
+"o": ["7", "1", "2", "0"],
+"a": 1,
+"sol": "It gains one electron to complete its shell."
+},
+{
+"q": "Which process is used to get pure water from salt water?",
+"o": ["Filtration", "Distillation", "Decantation", "Magnetic separation"],
+"a": 1,
+"sol": "Distillation collects the evaporated water vapor as liquid."
+},
+{
+"q": "Symbol for Carbon is:",
+"o": ["Ca", "C", "Cr", "Co"],
+"a": 1,
+"sol": "C is the symbol for carbon."
+},
+{
+"q": "Matter is defined as anything that has ________.",
+"o": ["Color and mass", "Mass and volume", "Shape and size", "Weight only"],
+"a": 1,
+"sol": "Basic definition of matter."
+},
+{
+"q": "Which element is used in jewelry due to its lack of reactivity?",
+"o": ["Iron", "Copper", "Gold", "Sodium"],
+"a": 2,
+"sol": "Gold is a noble metal and does not tarnish easily."
+},
+{
+"q": "The formula 'H2' represents a ________.",
+"o": ["Atom of hydrogen", "Molecule of hydrogen", "Ion of hydrogen", "Compound"],
+"a": 1,
+"sol": "H2 is the molecular form of hydrogen gas."
+}
+]
