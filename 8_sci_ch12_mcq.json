@@ -1,0 +1,602 @@
+[
+{
+"q": "The interaction between living organisms and their non-living environment is called an:",
+"o": ["Atmosphere", "Ecosystem", "Hydrosphere", "Lithosphere"],
+"a": 1,
+"sol": "An ecosystem consists of both biotic (living) and abiotic (non-living) components interacting together."
+},
+{
+"q": "Which of these is an example of an abiotic component?",
+"o": ["Fungi", "Earthworm", "Sunlight", "Bacteria"],
+"a": 2,
+"sol": "Abiotic components are non-living physical and chemical elements like sunlight, water, and soil."
+},
+{
+"q": "Organisms that can manufacture their own food are known as:",
+"o": ["Heterotrophs", "Saprophytes", "Autotrophs", "Parasites"],
+"a": 2,
+"sol": "Autotrophs, mainly green plants, produce food through photosynthesis."
+},
+{
+"q": "In a food chain, plants are also referred to as:",
+"o": ["Consumers", "Producers", "Decomposers", "Scavengers"],
+"a": 1,
+"sol": "Plants produce energy-rich food from solar energy, forming the base of the food chain."
+},
+{
+"q": "Animals that eat only plants are called:",
+"o": ["Carnivores", "Omnivores", "Herbivores", "Decomposers"],
+"a": 2,
+"sol": "Herbivores are primary consumers that depend directly on producers."
+},
+{
+"q": "Which organism occupies the first trophic level in any food chain?",
+"o": ["Eagle", "Deer", "Green plants", "Snake"],
+"a": 2,
+"sol": "Trophic level 1 always consists of producers."
+},
+{
+"q": "The process by which plants return water to the atmosphere is:",
+"o": ["Respiration", "Transpiration", "Condensation", "Precipitation"],
+"a": 1,
+"sol": "Transpiration is the evaporation of water from plant leaves."
+},
+{
+"q": "What percentage of energy is approximately transferred to the next trophic level?",
+"o": ["50%", "10%", "90%", "100%"],
+"a": 1,
+"sol": "According to the 10 percent law, only 10% of energy is passed to the next level."
+},
+{
+"q": "Fungi and bacteria that break down dead matter are called:",
+"o": ["Producers", "Decomposers", "Primary consumers", "Secondary consumers"],
+"a": 1,
+"sol": "Decomposers recycle nutrients back into the soil by breaking down organic remains."
+},
+{
+"q": "A network of interconnected food chains is a:",
+"o": ["Food pyramid", "Food web", "Food cycle", "Food link"],
+"a": 1,
+"sol": "A food web shows the complex feeding relationships in an ecosystem."
+},
+{
+"q": "Which gas is released by plants during photosynthesis?",
+"o": ["Carbon dioxide", "Nitrogen", "Oxygen", "Methane"],
+"a": 2,
+"sol": "Plants intake CO2 and release Oxygen as a byproduct of making food."
+},
+{
+"q": "The variety of different species living in an ecosystem is called:",
+"o": ["Bio-accumulation", "Biodiversity", "Biomass", "Biosphere"],
+"a": 1,
+"sol": "Biodiversity refers to the richness and variety of life forms."
+},
+{
+"q": "Animals that eat both plants and other animals are:",
+"o": ["Herbivores", "Carnivores", "Omnivores", "Saprophytes"],
+"a": 2,
+"sol": "Omnivores, like humans and bears, have a diverse diet."
+},
+{
+"q": "Which of the following is a scavenger?",
+"o": ["Lion", "Vulture", "Cow", "Rabbit"],
+"a": 1,
+"sol": "Scavengers feed on dead animals killed by other predators or natural causes."
+},
+{
+"q": "Global warming is primarily caused by an increase in:",
+"o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+"a": 2,
+"sol": "Increased CO2 traps heat in the atmosphere, leading to the greenhouse effect."
+},
+{
+"q": "The conversion of nitrogen gas into nitrates by bacteria is called:",
+"o": ["Denitrification", "Nitrogen fixation", "Nitrification", "Ammonification"],
+"a": 1,
+"sol": "Nitrogen fixation makes atmospheric nitrogen usable for plants."
+},
+{
+"q": "Which animal is an apex predator (top of the food chain)?",
+"o": ["Frog", "Grasshopper", "Tiger", "Deer"],
+"a": 2,
+"sol": "Apex predators have no natural predators of their own."
+},
+{
+"q": "Deforestation leads to:",
+"o": ["Soil erosion", "Increase in rainfall", "Higher oxygen levels", "Better biodiversity"],
+"a": 0,
+"sol": "Removing trees leaves the soil exposed to wind and water, causing erosion."
+},
+{
+"q": "The flow of energy in an ecosystem is always:",
+"o": ["Cyclic", "Unidirectional", "Multidirectional", "Reversible"],
+"a": 1,
+"sol": "Energy moves in one direction: from the Sun to producers to consumers."
+},
+{
+"q": "An example of a man-made ecosystem is a:",
+"o": ["Forest", "Pond", "Crop field", "Desert"],
+"a": 2,
+"sol": "Crop fields (agro-ecosystems) are created and managed by humans."
+},
+{
+"q": "Which level has the most energy in an ecological pyramid?",
+"o": ["Primary consumers", "Secondary consumers", "Producers", "Tertiary consumers"],
+"a": 2,
+"sol": "Producers have the highest energy since they capture it directly from the Sun."
+},
+{
+"q": "The buildup of toxic chemicals in the bodies of organisms at higher trophic levels is:",
+"o": ["Biodegradation", "Biomass production", "Biological magnification", "Biotic potential"],
+"a": 2,
+"sol": "Chemicals like DDT increase in concentration as they move up the food chain."
+},
+{
+"q": "A parasite is an organism that:",
+"o": ["Produces its own food", "Lives on or inside a host for food", "Decomposes dead matter", "Eats only grass"],
+"a": 1,
+"sol": "Parasites benefit at the expense of the host organism."
+},
+{
+"q": "Which bacteria help in nitrogen fixation in leguminous plants?",
+"o": ["Lactobacillus", "Rhizobium", "E. coli", "Streptococcus"],
+"a": 1,
+"sol": "Rhizobium lives in the root nodules of peas and beans."
+},
+{
+"q": "The 'Greenhouse Effect' helps in:",
+"o": ["Cooling the earth", "Keeping the earth warm", "Producing more oxygen", "Purifying water"],
+"a": 1,
+"sol": "Without the greenhouse effect, Earth would be too cold to sustain life."
+},
+{
+"q": "Primary consumers are always:",
+"o": ["Carnivores", "Herbivores", "Omnivores", "Decomposers"],
+"a": 1,
+"sol": "Primary consumers are the first to eat the producers (plants)."
+},
+{
+"q": "What is the ultimate source of energy for all life on Earth?",
+"o": ["Moon", "Coal", "The Sun", "Water"],
+"a": 2,
+"sol": "Solar energy fuels photosynthesis, which starts all energy flow."
+},
+{
+"q": "Which gas is used by plants to perform photosynthesis?",
+"o": ["Oxygen", "Carbon dioxide", "Hydrogen", "Helium"],
+"a": 1,
+"sol": "Plants use CO2, water, and sunlight to synthesize glucose."
+},
+{
+"q": "Nature's 'recyclers' are:",
+"o": ["Herbivores", "Decomposers", "Producers", "Carnivores"],
+"a": 1,
+"sol": "Decomposers return minerals back to the soil, completing the nutrient cycle."
+},
+{
+"q": "When a habitat is destroyed, species face:",
+"o": ["Evolution", "Extinction", "Overpopulation", "Growth"],
+"a": 1,
+"sol": "Habitat loss is the leading cause of species becoming extinct."
+},
+{
+"q": "The sequence: Grass → Rabbit → Fox is a:",
+"o": ["Food web", "Energy cycle", "Food chain", "Trophic pyramid"],
+"a": 2,
+"sol": "It shows a single linear path of energy transfer."
+},
+{
+"q": "Sustainable development means meeting needs while:",
+"o": ["Ignoring future generations", "Conserving resources for the future", "Using all resources fast", "Destroying forests"],
+"a": 1,
+"sol": "It balances current human needs with the preservation of nature."
+},
+{
+"q": "The organic matter used as fuel is called:",
+"o": ["Biomass", "Biodiversity", "Biotic", "Abiotic"],
+"a": 0,
+"sol": "Biomass includes wood, agricultural waste, and animal dung."
+},
+{
+"q": "Which zone of the Earth includes all living organisms?",
+"o": ["Atmosphere", "Hydrosphere", "Lithosphere", "Biosphere"],
+"a": 3,
+"sol": "The biosphere is the global sum of all ecosystems."
+},
+{
+"q": "A group of individuals of the same species living in an area is a:",
+"o": ["Community", "Population", "Ecosystem", "Biome"],
+"a": 1,
+"sol": "A population refers to a single species in a specific location."
+},
+{
+"q": "An increase in the Earth's average temperature is called:",
+"o": ["Climate change", "Global warming", "Solar heating", "Thermal expansion"],
+"a": 1,
+"sol": "Global warming refers to the long-term rise in temperature due to human activities."
+},
+{
+"q": "Which of these is a carnivore?",
+"o": ["Rabbit", "Deer", "Wolf", "Elephant"],
+"a": 2,
+"sol": "Wolves primarily eat meat from other animals."
+},
+{
+"q": "Photosynthesis occurs in the ________ of a plant cell.",
+"o": ["Nucleus", "Mitochondria", "Chloroplast", "Vacuole"],
+"a": 2,
+"sol": "Chloroplasts contain chlorophyll which captures solar energy."
+},
+{
+"q": "Dead and decaying organic matter is called:",
+"o": ["Humus", "Lava", "Crystal", "Plastic"],
+"a": 0,
+"sol": "Humus is the dark organic component of soil formed by decomposition."
+},
+{
+"q": "Symbiosis is a relationship where:",
+"o": ["One dies", "Both benefit", "One benefits and one is harmed", "Neither benefits"],
+"a": 1,
+"sol": "In a symbiotic relationship (mutualism), both species help each other."
+},
+{
+"q": "Which gas makes up 78% of our atmosphere?",
+"o": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+"a": 2,
+"sol": "Nitrogen is the most abundant gas in the atmosphere."
+},
+{
+"q": "The loss of trees in a forest is:",
+"o": ["Afforestation", "Deforestation", "Reforestation", "Agriculture"],
+"a": 1,
+"sol": "Deforestation is the permanent removal of trees."
+},
+{
+"q": "Which is a renewable source of energy?",
+"o": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+"a": 2,
+"sol": "Renewable sources are naturally replenished, like sunlight and wind."
+},
+{
+"q": "In an energy pyramid, the top level has the ________ number of organisms.",
+"o": ["Highest", "Lowest", "Equal", "Infinite"],
+"a": 1,
+"sol": "Energy loss limits the number of individuals at the top of the pyramid."
+},
+{
+"q": "Human impact on nature includes:",
+"o": ["Pollution", "Conservation", "Over-consumption", "All of these"],
+"a": 3,
+"sol": "Humans affect nature in both harmful (pollution) and helpful (conservation) ways."
+},
+{
+"q": "Rainwater harvesting helps in:",
+"o": ["Reducing air pollution", "Conserving groundwater", "Increasing temperature", "Killing pests"],
+"a": 1,
+"sol": "It recharges underground water tables for future use."
+},
+{
+"q": "The thin layer of air surrounding the Earth is the:",
+"o": ["Lithosphere", "Hydrosphere", "Atmosphere", "Stratosphere"],
+"a": 2,
+"sol": "The atmosphere protects Earth and provides gases for life."
+},
+{
+"q": "Which animal is a secondary consumer in: Grass → Insects → Frog → Snake?",
+"o": ["Insects", "Frog", "Snake", "Grass"],
+"a": 1,
+"sol": "Insects are primary; Frogs eat insects, making them secondary consumers."
+},
+{
+"q": "Carbon is returned to the atmosphere by:",
+"o": ["Photosynthesis", "Respiration", "Evaporation", "Freezing"],
+"a": 1,
+"sol": "Organisms exhale CO2 as a result of breaking down food for energy."
+},
+{
+"q": "Planting trees on a large scale is:",
+"o": ["Deforestation", "Afforestation", "Erosion", "Mining"],
+"a": 1,
+"sol": "Afforestation helps restore balance to the ecosystem."
+},
+{
+"q": "A lizard eating an insect is an example of:",
+"o": ["Producer", "Predation", "Decomposition", "Parasitism"],
+"a": 1,
+"sol": "Predation involves one organism hunting and eating another."
+},
+{
+"q": "Plastic is a ________ material.",
+"o": ["Biodegradable", "Non-biodegradable", "Natural", "Organic"],
+"a": 1,
+"sol": "Non-biodegradable materials cannot be broken down by decomposers."
+},
+{
+"q": "The niche of an organism refers to its:",
+"o": ["Address", "Role in ecosystem", "Weight", "Color"],
+"a": 1,
+"sol": "A niche includes an organism's diet, behavior, and environment."
+},
+{
+"q": "Which of these acts as a carbon sink?",
+"o": ["Factories", "Oceans and Forests", "Cars", "Volcanoes"],
+"a": 1,
+"sol": "Oceans and forests absorb more CO2 than they release."
+},
+{
+"q": "Natural disasters like floods can:",
+"o": ["Improve habitat", "Disrupt the balance of nature", "Create more food", "Help humans"],
+"a": 1,
+"sol": "Sudden disasters can wipe out populations and destroy habitats."
+},
+{
+"q": "The green pigment in plants is:",
+"o": ["Hemoglobin", "Chlorophyll", "Melanin", "Xanthophyll"],
+"a": 1,
+"sol": "Chlorophyll is essential for absorbing light during photosynthesis."
+},
+{
+"q": "Vultures help clean the environment by eating:",
+"o": ["Fruits", "Live prey", "Carrion (dead flesh)", "Leaves"],
+"a": 2,
+"sol": "They prevent the spread of diseases by disposing of carcasses."
+},
+{
+"q": "Lichens are a symbiotic association between:",
+"o": ["Algae and Fungi", "Bacteria and Virus", "Moss and Grass", "Roots and Leaves"],
+"a": 0,
+"sol": "Algae provide food, and fungi provide shelter and water."
+},
+{
+"q": "Overgrazing by cattle leads to:",
+"o": ["More grass", "Soil erosion", "Rainfall", "Better soil"],
+"a": 1,
+"sol": "It removes plant cover, making soil vulnerable to erosion."
+},
+{
+"q": "The primary cause of the 'hole' in the ozone layer was:",
+"o": ["CO2", "CFCs", "Oxygen", "Argon"],
+"a": 1,
+"sol": "Chlorofluorocarbons react with ozone molecules, breaking them down."
+},
+{
+"q": "Earth Day is celebrated on:",
+"o": ["June 5", "April 22", "September 16", "December 25"],
+"a": 1,
+"sol": "April 22 is dedicated to environmental protection awareness."
+},
+{
+"q": "Which process converts water vapor into clouds?",
+"o": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+"a": 1,
+"sol": "Cooling of water vapor leads to cloud formation."
+},
+{
+"q": "Biodegradable waste can be converted into:",
+"o": ["Plastic", "Compost", "Glass", "Metal"],
+"a": 1,
+"sol": "Composting turns organic waste into nutrient-rich soil fertilizer."
+},
+{
+"q": "Living things are also called ________ factors.",
+"o": ["Abiotic", "Biotic", "Atmospheric", "Chemical"],
+"a": 1,
+"sol": "Bio means life; hence biotic factors are living organisms."
+},
+{
+"q": "Most of the Earth's oxygen is produced by:",
+"o": ["Rainforests", "Phytoplankton in oceans", "Cacti in deserts", "Grasslands"],
+"a": 1,
+"sol": "Oceanic plankton produce a significant portion of the world's oxygen."
+},
+{
+"q": "A consumer that eats only meat is a:",
+"o": ["Herbivore", "Carnivore", "Omnivore", "Decomposer"],
+"a": 1,
+"sol": "Carnivores are meat-eaters."
+},
+{
+"q": "The 'Balance of Nature' refers to:",
+"o": ["Equilibrium in ecosystems", "Destruction of forests", "Ice age", "Volcanic eruptions"],
+"a": 0,
+"sol": "It is the steady state where populations and resources are stable."
+},
+{
+"q": "Drought is caused by:",
+"o": ["Heavy rain", "Lack of rain for a long time", "Cold weather", "Wind"],
+"a": 1,
+"sol": "Prolonged dry periods lead to water scarcity and crop failure."
+},
+{
+"q": "The 3 R's of environment are:",
+"o": ["Read, Run, Rest", "Reduce, Reuse, Recycle", "Rise, Roar, Race", "Red, Rose, Rice"],
+"a": 1,
+"sol": "These principles help in waste management and resource conservation."
+},
+{
+"q": "Which habitat has the highest biodiversity?",
+"o": ["Desert", "Tundra", "Tropical Rainforest", "Polar ice"],
+"a": 2,
+"sol": "Rainforests are home to over half of the world's plant and animal species."
+},
+{
+"q": "Nitrogen is essential for building:",
+"o": ["Fats", "Proteins", "Sugars", "Minerals"],
+"a": 1,
+"sol": "Nitrogen is a key component of amino acids, which form proteins."
+},
+{
+"q": "The 'Environment' consists of:",
+"o": ["Only plants", "Only animals", "Both biotic and abiotic components", "Only humans"],
+"a": 2,
+"sol": "Everything that surrounds us forms our environment."
+},
+{
+"q": "Global warming leads to the ________ of polar ice caps.",
+"o": ["Freezing", "Melting", "Growing", "Expansion"],
+"a": 1,
+"sol": "Rising temperatures cause glaciers and ice sheets to melt."
+},
+{
+"q": "Which animal can survive in extreme desert conditions?",
+"o": ["Polar bear", "Camel", "Penguin", "Whale"],
+"a": 1,
+"sol": "Camels have adaptations like humps to store fat for energy in the desert."
+},
+{
+"q": "Extinct species are those that:",
+"o": ["Are found everywhere", "No longer exist on Earth", "Are protected", "Live in zoos"],
+"a": 1,
+"sol": "Species like the Dodo or Dinosaurs are gone forever."
+},
+{
+"q": "A pond ecosystem has ________ as producers.",
+"o": ["Small fish", "Algae", "Frogs", "Turtles"],
+"a": 1,
+"sol": "Algae and aquatic plants are the primary producers in water bodies."
+},
+{
+"q": "Burning fossil fuels releases:",
+"o": ["Oxygen", "Smoke and CO2", "Cold air", "Pure water"],
+"a": 1,
+"sol": "Combustion of coal and oil produces pollutants and greenhouse gases."
+},
+{
+"q": "Ecology is the study of:",
+"o": ["Rocks", "Interactions of organisms and environment", "Stars", "Human history"],
+"a": 1,
+"sol": "Ecology focuses on how life relates to its surroundings."
+},
+{
+"q": "If all producers die, what happens to consumers?",
+"o": ["They live longer", "They will also die", "They will eat rocks", "They will become producers"],
+"a": 1,
+"sol": "Without the base of the food chain, all higher levels collapse."
+},
+{
+"q": "Pollution of water can lead to:",
+"o": ["More fish", "Water-borne diseases", "Better taste", "Cleaner rivers"],
+"a": 1,
+"sol": "Contaminated water causes diseases like cholera and typhoid."
+},
+{
+"q": "Sustainable farming avoids the use of excessive:",
+"o": ["Water", "Chemical pesticides", "Seeds", "Sunlight"],
+"a": 1,
+"sol": "Chemicals can harm the soil and enter the food chain."
+},
+{
+"q": "The transition area between two different ecosystems is an:",
+"o": ["Ecotone", "Ecotype", "Economy", "Ecology"],
+"a": 0,
+"sol": "Ecotones (like a marsh between land and sea) often have high biodiversity."
+},
+{
+"q": "The main source of oxygen in the atmosphere is:",
+"o": ["Burning wood", "Photosynthesis", "Breathing", "Volcanoes"],
+"a": 1,
+"sol": "Plants produce oxygen as they make their own food."
+},
+{
+"q": "Solar energy is converted to chemical energy by:",
+"o": ["Animals", "Plants", "Decomposers", "Clouds"],
+"a": 1,
+"sol": "Plants store solar energy in the form of sugar (chemical energy)."
+},
+{
+"q": "Soil formation from rocks is called:",
+"o": ["Erosion", "Weathering", "Mining", "Melting"],
+"a": 1,
+"sol": "Weathering is the breaking down of rocks over time."
+},
+{
+"q": "The part of a plant that absorbs water is the:",
+"o": ["Stem", "Leaves", "Root", "Flower"],
+"a": 2,
+"sol": "Roots draw water and minerals from the soil."
+},
+{
+"q": "Humans are usually ________ in a food web.",
+"o": ["Primary consumers", "Secondary or tertiary consumers", "Producers", "Decomposers"],
+"a": 1,
+"sol": "Humans eat both plants and animals, occupying higher levels."
+},
+{
+"q": "Wildlife sanctuaries are meant for:",
+"o": ["Hunting animals", "Protecting animals and habitats", "Building factories", "Cutting trees"],
+"a": 1,
+"sol": "Sanctuaries provide a safe space for species to thrive without human interference."
+},
+{
+"q": "Acid rain is caused by pollutants like:",
+"o": ["Sulfur dioxide", "Pure water", "Helium", "Nitrogen gas"],
+"a": 0,
+"sol": "Sulfur and nitrogen oxides mix with water in the air to form acids."
+},
+{
+"q": "The primary consumers in a forest are:",
+"o": ["Tigers", "Deer", "Lions", "Snakes"],
+"a": 1,
+"sol": "Deer eat the forest vegetation directly."
+},
+{
+"q": "Desert plants (like cacti) have ________ to reduce water loss.",
+"o": ["Broad leaves", "Thorns (Spines)", "Large flowers", "No roots"],
+"a": 1,
+"sol": "Spines reduce transpiration and protect the plant."
+},
+{
+"q": "Every food chain begins with a:",
+"o": ["Carnivore", "Decomposer", "Producer", "Herbivore"],
+"a": 2,
+"sol": "Producers are the entry point of energy into the system."
+},
+{
+"q": "The ozone layer protects us from harmful ________ rays.",
+"o": ["Infrared", "X-ray", "Ultraviolet (UV)", "Gamma"],
+"a": 2,
+"sol": "UV rays can cause skin cancer and damage crops."
+},
+{
+"q": "Chipko Movement was related to the protection of:",
+"o": ["Water", "Wildlife", "Trees", "Air"],
+"a": 2,
+"sol": "Villagers hugged trees to prevent them from being cut down."
+},
+{
+"q": "A forest is a ________ resource.",
+"o": ["Non-renewable", "Renewable", "Man-made", "Toxic"],
+"a": 1,
+"sol": "Forests can grow back if managed sustainably."
+},
+{
+"q": "Which of these is a biotic factor?",
+"o": ["Temperature", "Humidity", "Plants", "Rainfall"],
+"a": 2,
+"sol": "Plants are living organisms."
+},
+{
+"q": "Composting is a way to handle ________ waste.",
+"o": ["Glass", "Metal", "Organic", "Plastic"],
+"a": 2,
+"sol": "Organic waste like food scraps is ideal for composting."
+},
+{
+"q": "What happens to the number of organisms as we move up the pyramid?",
+"o": ["Increases", "Decreases", "Stays same", "Fluctuates"],
+"a": 1,
+"sol": "Due to energy loss, fewer individuals can be supported at the top."
+},
+{
+"q": "The environment consists of all ________ surroundings.",
+"o": ["External", "Internal", "Small", "Large"],
+"a": 0,
+"sol": "Environment includes everything outside an organism that affects its life."
+},
+{
+"q": "Who is at the end of every food chain (conceptually)?",
+"o": ["Sun", "Producers", "Decomposers", "Apex Predator"],
+"a": 2,
+"sol": "Decomposers eventually consume everything that dies, recycling it."
+}
+]
