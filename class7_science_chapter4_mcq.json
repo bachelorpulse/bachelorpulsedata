@@ -1,0 +1,602 @@
+[
+{
+"q": "Which property allows metals to be beaten into thin sheets?",
+"o": ["Ductility", "Malleability", "Sonorous", "Conductivity"],
+"a": 1,
+"sol": "Malleability is the property of metals by which they can be beaten into thin sheets like silver foil."
+},
+{
+"q": "Which of these is a non-metal that is liquid at room temperature?",
+"o": ["Mercury", "Bromine", "Chlorine", "Iodine"],
+"a": 1,
+"sol": "Bromine is the only non-metal that exists in liquid state at room temperature."
+},
+{
+"q": "Metals produce a ringing sound when struck, so they are called:",
+"o": ["Lustrous", "Hard", "Sonorous", "Malleable"],
+"a": 2,
+"sol": "Sonorous means producing a deep or ringing sound."
+},
+{
+"q": "The property of drawing metals into thin wires is called:",
+"o": ["Malleability", "Ductility", "Tensile strength", "Conductivity"],
+"a": 1,
+"sol": "Ductility allows metals like gold and copper to be drawn into long wires."
+},
+{
+"q": "Which metal is stored in kerosene due to its high reactivity?",
+"o": ["Iron", "Sodium", "Gold", "Magnesium"],
+"a": 1,
+"sol": "Sodium and Potassium are highly reactive and catch fire when exposed to air or moisture."
+},
+{
+"q": "Non-metals generally react with oxygen to form ________ oxides.",
+"o": ["Basic", "Neutral", "Acidic", "Amphoteric"],
+"a": 2,
+"sol": "Non-metallic oxides (like SO2) dissolve in water to form acids."
+},
+{
+"q": "Which non-metal is essential for our life and is inhaled during breathing?",
+"o": ["Nitrogen", "Hydrogen", "Oxygen", "Carbon"],
+"a": 2,
+"sol": "Oxygen is a non-metal required by all living beings for respiration."
+},
+{
+"q": "What happens when Copper is exposed to moist air for a long time?",
+"o": ["It turns black", "It gets a green coating", "It melts", "It starts glowing"],
+"a": 1,
+"sol": "The green coating is a mixture of copper hydroxide and copper carbonate."
+},
+{
+"q": "Which of the following is the best conductor of electricity?",
+"o": ["Iron", "Aluminum", "Silver", "Copper"],
+"a": 2,
+"sol": "Silver has the highest electrical conductivity among all metals."
+},
+{
+"q": "Phosphorus is a very reactive non-metal. To prevent its contact with air, it is stored in:",
+"o": ["Kerosene", "Alcohol", "Water", "Empty bottles"],
+"a": 2,
+"sol": "Phosphorus catches fire in air but does not react with water."
+},
+{
+"q": "Generally, metallic oxides are ________ in nature.",
+"o": ["Acidic", "Basic", "Neutral", "Liquid"],
+"a": 1,
+"sol": "Metallic oxides (like MgO) react with water to form bases (Mg(OH)2)."
+},
+{
+"q": "Which of these is a non-metal but is lustrous (shiny)?",
+"o": ["Carbon", "Sulfur", "Iodine", "Oxygen"],
+"a": 2,
+"sol": "Iodine is an exception among non-metals as it has a natural shine."
+},
+{
+"q": "The reaction in which a more reactive metal replaces a less reactive metal is called:",
+"o": ["Addition reaction", "Displacement reaction", "Combination reaction", "Neutralisation"],
+"a": 1,
+"sol": "Example: Zinc + Copper Sulphate -> Zinc Sulphate + Copper."
+},
+{
+"q": "Which metal is found in liquid state at room temperature?",
+"o": ["Bromine", "Mercury", "Sodium", "Calcium"],
+"a": 1,
+"sol": "Mercury is the only metal that is liquid at normal room temperature."
+},
+{
+"q": "Which non-metal is used in purple-colored antiseptic solutions on wounds?",
+"o": ["Chlorine", "Iodine", "Sulfur", "Nitrogen"],
+"a": 1,
+"sol": "Tincture of iodine is used as a powerful antiseptic."
+},
+{
+"q": "What gas is produced when metals react with dilute acids?",
+"o": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+"a": 2,
+"sol": "Metals react with acids to produce salt and hydrogen gas (with a 'pop' sound)."
+},
+{
+"q": "Which of the following can be beaten into thin sheets?",
+"o": ["Zinc", "Phosphorus", "Sulfur", "Oxygen"],
+"a": 0,
+"sol": "Zinc is a metal, while others are non-metals (which are brittle)."
+},
+{
+"q": "The sound produced by a school bell is due to which property of metals?",
+"o": ["Hardness", "Malleability", "Sonority", "Ductility"],
+"a": 2,
+"sol": "Sonority is the ability to produce a ringing sound."
+},
+{
+"q": "Which of these is used in making jewelry because it is least reactive?",
+"o": ["Iron", "Copper", "Gold", "Sodium"],
+"a": 2,
+"sol": "Gold is a 'noble metal' that doesn't tarnish or react easily."
+},
+{
+"q": "Non-metals are generally ________ conductors of heat and electricity.",
+"o": ["Good", "Poor", "Super", "None of these"],
+"a": 1,
+"sol": "Non-metals lack free electrons, making them poor conductors."
+},
+{
+"q": "Which non-metal is used in crackers (fireworks)?",
+"o": ["Sulfur", "Iron", "Gold", "Copper"],
+"a": 0,
+"sol": "Sulfur and Phosphorus are used in the manufacturing of crackers."
+},
+{
+"q": "Magnesium + Oxygen → ?",
+"o": ["Magnesium hydroxide", "Magnesium oxide", "Magnesium sulfate", "Magnesium chloride"],
+"a": 1,
+"sol": "Burning magnesium ribbon produces white ash of Magnesium Oxide (MgO)."
+},
+{
+"q": "A solution of Magnesium oxide turns ________ litmus ________.",
+"o": ["Blue to Red", "Red to Blue", "Red to Green", "No change"],
+"a": 1,
+"sol": "MgO is basic, so it turns red litmus blue."
+},
+{
+"q": "Which metal will displace copper from copper sulphate solution?",
+"o": ["Silver", "Gold", "Iron", "Mercury"],
+"a": 2,
+"sol": "Iron is more reactive than copper, so it displaces it."
+},
+{
+"q": "The non-metal used in water purification to kill germs is:",
+"o": ["Oxygen", "Chlorine", "Hydrogen", "Iodine"],
+"a": 1,
+"sol": "Chlorination is a common method for disinfecting water."
+},
+{
+"q": "Which of these is a property of non-metals?",
+"o": ["Malleable", "Ductile", "Brittle", "Sonorous"],
+"a": 2,
+"sol": "Non-metals break into pieces when hammered; they are brittle."
+},
+{
+"q": "Graphite is an allotrope of which non-metal?",
+"o": ["Sulfur", "Phosphorus", "Carbon", "Silicon"],
+"a": 2,
+"sol": "Graphite and Diamond are forms of Carbon."
+},
+{
+"q": "Which non-metal is a good conductor of electricity?",
+"o": ["Iodine", "Graphite", "Sulfur", "Coal"],
+"a": 1,
+"sol": "Graphite is an exceptional non-metal that conducts electricity."
+},
+{
+"q": "Which metal is used in thermometers?",
+"o": ["Aluminum", "Mercury", "Copper", "Iron"],
+"a": 1,
+"sol": "Mercury is used because it stays liquid and expands uniformly with heat."
+},
+{
+"q": "What happens when Sulfur dioxide reacts with water?",
+"o": ["Sulfurous acid is formed", "Sulfuric acid is formed", "Oxygen is released", "No reaction"],
+"a": 0,
+"sol": "SO2 + H2O -> H2SO3 (Sulfurous acid)."
+},
+{
+"q": "Copper does not react with ________ even on heating.",
+"o": ["Oxygen", "Dilute Hydrochloric acid", "Concentrated Sulfuric acid", "Zinc"],
+"a": 1,
+"sol": "Copper is less reactive and doesn't displace hydrogen from dilute HCl."
+},
+{
+"q": "Which of these metals can be cut with a knife?",
+"o": ["Iron", "Sodium", "Aluminum", "Copper"],
+"a": 1,
+"sol": "Sodium and Potassium are soft metals that can be sliced easily."
+},
+{
+"q": "Iron + Copper Sulphate → Iron Sulphate + Copper. This shows iron is ________ than copper.",
+"o": ["Less reactive", "More reactive", "Equally reactive", "Lighter"],
+"a": 1,
+"sol": "Displacement occurs only if the displacing metal is more reactive."
+},
+{
+"q": "Aluminum foils are used for wrapping food because aluminum is:",
+"o": ["Ductile", "Highly Malleable", "Reactive", "Heavy"],
+"a": 1,
+"sol": "Aluminum can be made into very thin foils due to high malleability."
+},
+{
+"q": "Which non-metal is used as a fertilizer for plants?",
+"o": ["Sulfur", "Nitrogen", "Chlorine", "Iodine"],
+"a": 1,
+"sol": "Nitrogen and Phosphorus are key components of fertilizers."
+},
+{
+"q": "The reaction of Sodium with water is:",
+"o": ["Slow", "Very vigorous", "Endothermic", "No reaction"],
+"a": 1,
+"sol": "Sodium reacts violently with water, producing a lot of heat."
+},
+{
+"q": "Metals react with Sodium hydroxide to produce:",
+"o": ["Oxygen gas", "Hydrogen gas", "Chlorine gas", "Water"],
+"a": 1,
+"sol": "Reactive metals like Zinc or Aluminum react with bases to release H2."
+},
+{
+"q": "Why can't we store lemon pickle in an aluminum utensil?",
+"o": ["Aluminum is too expensive", "Acid in lemon reacts with aluminum", "Aluminum makes it sweet", "Pickle becomes dry"],
+"a": 1,
+"sol": "Acids react with metals to form toxic salts, which can spoil the food."
+},
+{
+"q": "Which of these is a metalloid (shows properties of both)?",
+"o": ["Iron", "Sulfur", "Silicon", "Gold"],
+"a": 2,
+"sol": "Silicon, Germanium, etc., are metalloids."
+},
+{
+"q": "What is the color of Iron Sulphate solution?",
+"o": ["Blue", "Green", "Colorless", "Red"],
+"a": 1,
+"sol": "Iron sulphate (FeSO4) is pale green in color."
+},
+{
+"q": "Non-metals do not react with:",
+"o": ["Oxygen", "Water", "Air", "Chlorine"],
+"a": 1,
+"sol": "Generally, non-metals do not react with water, which is why Phosphorus is stored in it."
+},
+{
+"q": "Which of the following will show a displacement reaction?",
+"o": ["Copper + Iron Sulphate", "Iron + Zinc Sulphate", "Zinc + Copper Sulphate", "Silver + Copper Sulphate"],
+"a": 2,
+"sol": "Zinc is more reactive than Copper, so it will displace it."
+},
+{
+"q": "The 'Pop' sound test is used for which gas?",
+"o": ["Carbon dioxide", "Oxygen", "Hydrogen", "Sulphur dioxide"],
+"a": 2,
+"sol": "Hydrogen gas burns with a characteristic pop sound."
+},
+{
+"q": "Sulfur is used in the process of ________ of rubber.",
+"o": ["Melting", "Vulcanization", "Freezing", "Coloring"],
+"a": 1,
+"sol": "Vulcanization makes rubber stronger and more durable."
+},
+{
+"q": "Which metal is used in galvanization to prevent rusting of iron?",
+"o": ["Copper", "Zinc", "Silver", "Aluminum"],
+"a": 1,
+"sol": "Zinc coating protects iron from air and moisture."
+},
+{
+"q": "Metals are generally ________ at room temperature (except Mercury).",
+"o": ["Liquids", "Gases", "Solids", "Soft"],
+"a": 2,
+"sol": "Most metals have high melting points and are solid."
+},
+{
+"q": "Rusting of iron is a reaction of iron with:",
+"o": ["Oxygen only", "Water only", "Oxygen and Water (moisture)", "Nitrogen"],
+"a": 2,
+"sol": "Both air and water are necessary for the formation of rust (Hydrated Iron Oxide)."
+},
+{
+"q": "Which of these is NOT a property of metals?",
+"o": ["Hardness", "Lustre", "Poor conductivity", "Ductility"],
+"a": 2,
+"sol": "Metals are actually excellent conductors."
+},
+{
+"q": "Charcoal is a form of:",
+"o": ["Sulfur", "Phosphorus", "Carbon", "Nitrogen"],
+"a": 2,
+"sol": "Charcoal is an impure form of the non-metal Carbon."
+},
+{
+"q": "What is the formula of Copper Sulphate?",
+"o": ["CuSO4", "CuCl2", "CuO", "CuCO3"],
+"a": 0,
+"sol": "CuSO4 is the chemical formula for Copper (II) Sulphate."
+},
+{
+"q": "Gold is used for making coins and medals because it is:",
+"o": ["Very reactive", "Non-reactive and lustrous", "Liquid", "Found in air"],
+"a": 1,
+"sol": "Its stability and beauty make it ideal for precious items."
+},
+{
+"q": "Which metal is used in electric wires?",
+"o": ["Iron", "Copper", "Zinc", "Lead"],
+"a": 1,
+"sol": "Copper is used due to its high conductivity and ductility."
+},
+{
+"q": "Metals ________ when hammered.",
+"o": ["Break into pieces", "Change shape (flatten)", "Become gas", "Disappear"],
+"a": 1,
+"sol": "This is due to malleability."
+},
+{
+"q": "Zinc is ________ reactive than Iron.",
+"o": ["Less", "More", "Equally", "Not"],
+"a": 1,
+"sol": "In the reactivity series, Zinc is placed above Iron."
+},
+{
+"q": "Which of the following non-metals is used in the manufacture of steel?",
+"o": ["Phosphorus", "Carbon", "Iodine", "Bromine"],
+"a": 1,
+"sol": "Carbon is mixed with iron to make it hard and form steel."
+},
+{
+"q": "Oxides of Sulfur and Nitrogen cause:",
+"o": ["Global warming", "Acid rain", "Ozone depletion", "Photosynthesis"],
+"a": 1,
+"sol": "These oxides react with rainwater to form acids."
+},
+{
+"q": "Magnesium reacts with hot water to form:",
+"o": ["Magnesium oxide", "Magnesium hydroxide", "Magnesium chloride", "No reaction"],
+"a": 1,
+"sol": "Mg + 2H2O -> Mg(OH)2 + H2."
+},
+{
+"q": "Which metal is essential in the human body for blood (hemoglobin)?",
+"o": ["Calcium", "Iron", "Sodium", "Magnesium"],
+"a": 1,
+"sol": "Iron deficiency leads to anemia."
+},
+{
+"q": "Non-metals are ________ when they are in solid form.",
+"o": ["Shiny", "Dull", "Strong", "Elastic"],
+"a": 1,
+"sol": "Non-metals typically have a non-lustrous, dull appearance."
+},
+{
+"q": "Copper + Zinc Sulphate → ?",
+"o": ["Copper Sulphate + Zinc", "Zinc Copper Sulphate", "No reaction", "Copper Oxide"],
+"a": 2,
+"sol": "No reaction occurs because Copper is less reactive than Zinc."
+},
+{
+"q": "The property of metals to be hard is called:",
+"o": ["Malleability", "Hardness", "Ductility", "Lustre"],
+"a": 1,
+"sol": "Most metals (except Na, K, Hg) are hard to touch."
+},
+{
+"q": "Which non-metal is used to preserve food items?",
+"o": ["Oxygen", "Nitrogen", "Chlorine", "Sulfur"],
+"a": 1,
+"sol": "Nitrogen gas is used to flush food packets (like chips) to prevent oxidation."
+},
+{
+"q": "Metals have ________ melting and boiling points.",
+"o": ["Low", "Medium", "High", "Zero"],
+"a": 2,
+"sol": "Strong metallic bonds require a lot of energy to break."
+},
+{
+"q": "What is the color of Copper Sulphate solution?",
+"o": ["Green", "Blue", "Red", "Yellow"],
+"a": 1,
+"sol": "Copper sulphate is also known as blue vitriol."
+},
+{
+"q": "Which of these is a metal but is not hard?",
+"o": ["Iron", "Potassium", "Copper", "Aluminum"],
+"a": 1,
+"sol": "Potassium is a soft metal like Sodium."
+},
+{
+"q": "Non-metals react with ________ to form negative ions.",
+"o": ["Gaining electrons", "Losing electrons", "Sharing protons", "Nothing"],
+"a": 0,
+"sol": "Non-metals are electronegative in nature."
+},
+{
+"q": "The chemical name of rust is:",
+"o": ["Iron Oxide", "Hydrated Iron Oxide", "Iron Carbonate", "Iron Chloride"],
+"a": 1,
+"sol": "Rust is Fe2O3.xH2O."
+},
+{
+"q": "Which of the following will react with cold water?",
+"o": ["Iron", "Sodium", "Magnesium", "Copper"],
+"a": 1,
+"sol": "Sodium is so reactive it reacts with cold water instantly."
+},
+{
+"q": "Sulfur is a ________ at room temperature.",
+"o": ["Gas", "Liquid", "Solid", "Plasma"],
+"a": 2,
+"sol": "Sulfur is a yellow brittle solid."
+},
+{
+"q": "Displacement reactions depend on the ________ of metals.",
+"o": ["Weight", "Color", "Reactivity", "Density"],
+"a": 2,
+"sol": "The reactivity series determines which metal can displace another."
+},
+{
+"q": "Which of these is used to make lead of pencils?",
+"o": ["Lead metal", "Graphite", "Coal", "Sulfur"],
+"a": 1,
+"sol": "Pencil 'lead' is actually a mixture of graphite and clay."
+},
+{
+"q": "Gold, Silver, and Platinum are called:",
+"o": ["Noble metals", "Reactive metals", "Common metals", "Non-metals"],
+"a": 0,
+"sol": "They are called noble because they are very unreactive."
+},
+{
+"q": "When zinc reacts with sulfuric acid, it produces:",
+"o": ["Zinc oxide", "Zinc sulfate + Hydrogen", "Sulfur dioxide", "Water"],
+"a": 1,
+"sol": "Zn + H2SO4 -> ZnSO4 + H2."
+},
+{
+"q": "Which of these is a use of metals?",
+"o": ["Machinery", "Automobiles", "Satellites", "All of these"],
+"a": 3,
+"sol": "Metals are vital for modern industry and technology."
+},
+{
+"q": "Metals generally have ________ density.",
+"o": ["Low", "High", "Variable", "Negative"],
+"a": 1,
+"sol": "Metals are heavy for their volume because atoms are closely packed."
+},
+{
+"q": "Bronze is an alloy of Copper and:",
+"o": ["Zinc", "Tin", "Iron", "Silver"],
+"a": 1,
+"sol": "Bronze = Copper + Tin."
+},
+{
+"q": "Which non-metal is used to convert vegetable oil into vegetable ghee?",
+"o": ["Oxygen", "Hydrogen", "Nitrogen", "Chlorine"],
+"a": 1,
+"sol": "The process is called hydrogenation."
+},
+{
+"q": "Copper vessels get corroded to form a ________ layer.",
+"o": ["Red", "Black", "Green", "White"],
+"a": 2,
+"sol": "This is due to the formation of basic copper carbonate."
+},
+{
+"q": "Which metal is used in the construction of bridges and buildings?",
+"o": ["Gold", "Silver", "Iron", "Mercury"],
+"a": 2,
+"sol": "Iron (in the form of steel) is used for its strength."
+},
+{
+"q": "Non-metals ________ when hit with a hammer.",
+"o": ["Flatten", "Break into small pieces", "Melt", "Bend"],
+"a": 1,
+"sol": "Non-metals are brittle and lack malleability."
+},
+{
+"q": "Which metal reacts with steam but not with cold or hot water?",
+"o": ["Sodium", "Iron", "Magnesium", "Calcium"],
+"a": 1,
+"sol": "Iron is less reactive than Na or Mg."
+},
+{
+"q": "What is the nature of the oxide formed by burning phosphorus?",
+"o": ["Basic", "Acidic", "Neutral", "Solid"],
+"a": 1,
+"sol": "P2O5 reacts with water to form phosphoric acid."
+},
+{
+"q": "Which of these is a characteristic of most metals?",
+"o": ["Dullness", "Low density", "Lustre", "Low conductivity"],
+"a": 2,
+"sol": "Most metals reflect light from their surface (lustre)."
+},
+{
+"q": "Sulfuric acid is produced when ________ is added to water.",
+"o": ["Sulfur", "Sulfur dioxide", "Sulfur trioxide", "Magnesium"],
+"a": 2,
+"sol": "SO3 + H2O -> H2SO4."
+},
+{
+"q": "Which metal is used for electroplating to give a shiny look to bicycle parts?",
+"o": ["Copper", "Iron", "Chromium", "Zinc"],
+"a": 2,
+"sol": "Chromium plating provides shine and resists scratches."
+},
+{
+"q": "The word 'Metal' is derived from a Greek word 'Metallon', which means:",
+"o": ["Hard", "Shining", "Mine", "Heavy"],
+"a": 2,
+"sol": "It originally referred to the process of mining."
+},
+{
+"q": "Which non-metal is found in every living thing?",
+"o": ["Sulfur", "Chlorine", "Carbon", "Bromine"],
+"a": 2,
+"sol": "Carbon is the basis of all organic life molecules."
+},
+{
+"q": "Metals displace hydrogen from bases ________.",
+"o": ["Easily", "Only if highly reactive", "Never", "Always"],
+"a": 1,
+"sol": "Only certain metals like Zn, Al react with bases like NaOH."
+},
+{
+"q": "Mercury is a ________ metal.",
+"o": ["Dull", "Liquid", "Gas", "Highly reactive"],
+"a": 1,
+"sol": "Its liquid state at room temperature is a unique property."
+},
+{
+"q": "What happens when iron nails are placed in copper sulphate solution?",
+"o": ["Blue color fades and becomes green", "Green color becomes blue", "No change", "Bubbles of gas"],
+"a": 0,
+"sol": "Iron displaces copper, turning the solution green (FeSO4)."
+},
+{
+"q": "Metals generally form ________ when they react with chlorine.",
+"o": ["Covalent chlorides", "Ionic chlorides", "Acidic chlorides", "Gaseous chlorides"],
+"a": 1,
+"sol": "Metallic chlorides are usually solid salts."
+},
+{
+"q": "Which of these is a noble gas (non-reactive non-metal)?",
+"o": ["Oxygen", "Nitrogen", "Helium", "Hydrogen"],
+"a": 2,
+"sol": "Helium belongs to the noble gas group."
+},
+{
+"q": "Silicon is used in making:",
+"o": ["Wires", "Solar cells and computer chips", "Cooking pots", "Jewelry"],
+"a": 1,
+"sol": "Silicon is a semi-conductor (metalloid)."
+},
+{
+"q": "Metals react with oxygen to form ________.",
+"o": ["Acids", "Oxides", "Sulfates", "Chlorides"],
+"a": 1,
+"sol": "The chemical combination results in metallic oxides."
+},
+{
+"q": "Why is copper used for making boilers?",
+"o": ["It is cheap", "It is a good conductor of heat", "It is light", "It is a non-metal"],
+"a": 1,
+"sol": "Its high thermal conductivity is efficient for heating water."
+},
+{
+"q": "A non-metal that is used to disinfect swimming pools is:",
+"o": ["Iodine", "Chlorine", "Fluorine", "Bromine"],
+"a": 1,
+"sol": "Chlorine is effective at killing water-borne pathogens."
+},
+{
+"q": "Reactivity of metals ________ down the activity series.",
+"o": ["Increases", "Decreases", "Stays same", "Randomly changes"],
+"a": 1,
+"sol": "Potassium is at the top (most reactive), Gold at the bottom."
+},
+{
+"q": "Which of these is the most ductile metal?",
+"o": ["Copper", "Silver", "Gold", "Aluminum"],
+"a": 2,
+"sol": "1 gram of gold can be drawn into a 2 km long wire."
+},
+{
+"q": "Alloying of metals is done to:",
+"o": ["Increase strength", "Prevent corrosion", "Change appearance", "All of these"],
+"a": 3,
+"sol": "Alloys like stainless steel are superior to pure metals in many ways."
+},
+{
+"q": "Metals can be distinguished from non-metals based on ________ properties.",
+"o": ["Physical", "Chemical", "Both Physical and Chemical", "Only Color"],
+"a": 2,
+"sol": "Both sets of properties show distinct differences between them."
+}
+]
