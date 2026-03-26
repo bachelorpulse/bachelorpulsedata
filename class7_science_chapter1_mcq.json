@@ -1,0 +1,602 @@
+[
+{
+"q": "Science is primarily a way of:",
+"o": ["Memorizing old facts", "Thinking and observing", "Collecting expensive tools", "Ignoring common sense"],
+"a": 1,
+"sol": "Science is a process of thinking, observing, and doing to understand the world."
+},
+{
+"q": "To be a 'wise' person in science, you must first be a ________ person.",
+"o": ["Silent", "Fast", "Whys", "Rich"],
+"a": 2,
+"sol": "The text suggests that asking 'Why?' is the first step toward scientific wisdom."
+},
+{
+"q": "Which of the following is the 'fuel' for scientific discovery?",
+"o": ["Electricity", "Curiosity", "Petrol", "Money"],
+"a": 1,
+"sol": "Curiosity drives us to ask questions and find answers about nature."
+},
+{
+"q": "When scientists make a new discovery, it is like adding a piece to a:",
+"o": ["Building block", "Jigsaw puzzle", "Road map", "Story book"],
+"a": 1,
+"sol": "Each discovery helps complete the bigger picture of how the universe works."
+},
+{
+"q": "What should a scientist do if a new discovery proves an old idea wrong?",
+"o": ["Ignore it", "Change the idea", "Hide the evidence", "Stop working"],
+"a": 1,
+"sol": "Science is ever-evolving; we correct our understanding when new evidence appears."
+},
+{
+"q": "Which skill involves using your senses to gather information?",
+"o": ["Imagination", "Observation", "Calculation", "Sleeping"],
+"a": 1,
+"sol": "Observation is the act of noticing and describing events or processes."
+},
+{
+"q": "Scientific inquiry starts with a:",
+"o": ["Conclusion", "Question", "Result", "Law"],
+"a": 1,
+"sol": "All science begins by asking a question about something we observe."
+},
+{
+"q": "A possible explanation for an observation that can be tested is a:",
+"o": ["Fact", "Hypothesis", "Fixed Rule", "Dream"],
+"a": 1,
+"sol": "A hypothesis is a tentative explanation that leads to further investigation."
+},
+{
+"q": "Which of these is NOT a part of the scientific method?",
+"o": ["Experimenting", "Guessing without checking", "Analyzing data", "Drawing conclusions"],
+"a": 1,
+"sol": "Science requires evidence and testing, not just blind guessing."
+},
+{
+"q": "Why do we repeat experiments multiple times?",
+"o": ["To waste time", "To get different answers", "To ensure results are reliable", "Because it is fun"],
+"a": 2,
+"sol": "Repetition helps confirm that the results were not just a one-time accident."
+},
+{
+"q": "What do we call the information collected during an experiment?",
+"o": ["Stories", "Data", "Gossip", "Assumptions"],
+"a": 1,
+"sol": "Data consists of facts, figures, and other evidence gathered through observations."
+},
+{
+"q": "Which of these is a 'Scientific Attitude'?",
+"o": ["Being narrow-minded", "Open-mindedness", "Believing everything", "Refusing to change"],
+"a": 1,
+"sol": "Scientists must be willing to accept new ideas if they are supported by evidence."
+},
+{
+"q": "If you observe that 'plants grow towards light', this is an:",
+"o": ["Opinion", "Observation", "Invention", "Mistake"],
+"a": 1,
+"sol": "Noticing a natural phenomenon is a direct observation."
+},
+{
+"q": "Science helps us understand:",
+"o": ["Only space", "Only chemicals", "The entire natural world", "Only magic tricks"],
+"a": 2,
+"sol": "Science covers everything from tiny atoms to the vast universe."
+},
+{
+"q": "Who can be a scientist?",
+"o": ["Only people in labs", "Only old people", "Anyone who is curious and observant", "Only teachers"],
+"a": 2,
+"sol": "Anyone who systematically explores the 'whys' of the world acts as a scientist."
+},
+{
+"q": "What is the result of a scientific investigation called?",
+"o": ["Beginning", "Conclusion", "Intro", "Method"],
+"a": 1,
+"sol": "The conclusion summarizes what was learned from the data and experiment."
+},
+{
+"q": "Science is 'ever-evolving' because:",
+"o": ["It is very old", "It is always changing and improving", "It is written in ink", "It is boring"],
+"a": 1,
+"sol": "As we get better tools and more data, our scientific knowledge grows and shifts."
+},
+{
+"q": "Which tool would you use to observe things too small to be seen with the naked eye?",
+"o": ["Telescope", "Microscope", "Stethoscope", "Periscope"],
+"a": 1,
+"sol": "Microscopes magnify tiny objects like cells or bacteria."
+},
+{
+"q": "Making a 'prediction' in science means:",
+"o": ["Telling the future like magic", "Saying what you think will happen based on evidence", "Lying", "Remembering the past"],
+"a": 1,
+"sol": "A scientific prediction is a logical consequence of a hypothesis."
+},
+{
+"q": "Which of these is a way to share scientific findings?",
+"o": ["Keeping it a secret", "Writing a report", "Forgetting it", "Talking to no one"],
+"a": 1,
+"sol": "Communication is vital so other scientists can verify and build on the work."
+},
+{
+"q": "Comparing the weights of two different stones is an example of:",
+"o": ["Imagining", "Measurement", "Singing", "Theorizing"],
+"a": 1,
+"sol": "Measurement is a fundamental part of gathering quantitative data."
+},
+{
+"q": "A scientist who studies living things is a:",
+"o": ["Physicist", "Chemist", "Biologist", "Geologist"],
+"a": 2,
+"sol": "Biology is the branch of science dedicated to life and living organisms."
+},
+{
+"q": "Science in daily life is seen when we:",
+"o": ["Cook food", "Use a mobile phone", "Observe the weather", "All of the above"],
+"a": 3,
+"sol": "Scientific principles are involved in almost every activity we do."
+},
+{
+"q": "What is 'Inquiry'?",
+"o": ["Answering without thinking", "A search for information or knowledge", "Following a recipe", "Sleeping"],
+"a": 1,
+"sol": "Inquiry is the process of exploring and investigating to find answers."
+},
+{
+"q": "Which of these is an example of a 'Why' question?",
+"o": ["What is your name?", "Why does the moon change shape?", "Where is the shop?", "When is the party?"],
+"a": 1,
+"sol": "Asking about the cause of a natural phenomenon (like moon phases) is scientific."
+},
+{
+"q": "To 'Analyze' data means to:",
+"o": ["Delete it", "Look for patterns and meanings", "Ignore it", "Color it"],
+"a": 1,
+"sol": "Analysis helps us understand what the collected information actually tells us."
+},
+{
+"q": "What is the most important quality of a scientific experiment?",
+"o": ["It must be expensive", "It must be fair", "It must be loud", "It must be secret"],
+"a": 1,
+"sol": "A 'fair test' ensures that only one variable is changed at a time."
+},
+{
+"q": "Science is based on ________, not just opinions.",
+"o": ["Stories", "Evidence", "Wishes", "Guesses"],
+"a": 1,
+"sol": "Evidence is proof that supports a scientific claim."
+},
+{
+"q": "Which of these helps us 'extend' our senses?",
+"o": ["A pillow", "A magnifying glass", "A chocolate", "A chair"],
+"a": 1,
+"sol": "Tools like magnifying glasses help us see things our eyes alone cannot."
+},
+{
+"q": "The story of science is like a journey that ________.",
+"o": ["Ends in Class 10", "Has no end", "Ended years ago", "Is very short"],
+"a": 1,
+"sol": "Science is an ongoing adventure that continues as long as humans are curious."
+},
+{
+"q": "Scientific knowledge is built ________.",
+"o": ["Overnight", "Step by step over time", "By only one person", "By magic"],
+"a": 1,
+"sol": "It is a collective effort spanning generations of thinkers."
+},
+{
+"q": "What is the 'Scientific Method'?",
+"o": ["A magic spell", "A systematic way of solving problems", "A type of dance", "A way to avoid homework"],
+"a": 1,
+"sol": "It is a logical approach used by scientists to investigate the world."
+},
+{
+"q": "When you group things together based on similarities, it is called:",
+"o": ["Dividing", "Classification", "Addition", "Subtraction"],
+"a": 1,
+"sol": "Classification helps organize scientific information effectively."
+},
+{
+"q": "Which sense do you use to detect the 'smell' of a flower?",
+"o": ["Sight", "Hearing", "Smell", "Touch"],
+"a": 2,
+"sol": "The sense of smell is one of the ways we observe our surroundings."
+},
+{
+"q": "A statement that describes what always happens in nature under certain conditions is a:",
+"o": ["Scientific Law", "Scientific Guess", "Mistake", "Rumor"],
+"a": 0,
+"sol": "Laws describe patterns, such as the Law of Gravity."
+},
+{
+"q": "If an experiment doesn't support your hypothesis, you should:",
+"o": ["Fake the data", "Cry", "Refine or reject the hypothesis", "Blame the tools"],
+"a": 2,
+"sol": "Negative results are still valuable as they rule out incorrect ideas."
+},
+{
+"q": "Which of these is a qualitative observation?",
+"o": ["The car is 4 meters long", "The flower is red", "The temperature is 30°C", "There are 5 apples"],
+"a": 1,
+"sol": "Qualitative observations describe qualities like color or texture."
+},
+{
+"q": "Which of these is a quantitative observation?",
+"o": ["The soup is hot", "The book is heavy", "The stick is 15 cm long", "The cat is soft"],
+"a": 2,
+"sol": "Quantitative observations involve numbers or measurements."
+},
+{
+"q": "Science often involves 'trial and error'. This means:",
+"o": ["Failing once and giving up", "Learning from mistakes", "Never making mistakes", "Ignoring the error"],
+"a": 1,
+"sol": "Mistakes are opportunities to learn and adjust our scientific path."
+},
+{
+"q": "A scientist who studies stars and planets is an:",
+"o": ["Architect", "Astronomer", "Artist", "Accountant"],
+"a": 1,
+"sol": "Astronomy is the science of celestial objects."
+},
+{
+"q": "The main goal of science is to:",
+"o": ["Win awards", "Understand how things work", "Make life boring", "Memorize long words"],
+"a": 1,
+"sol": "Discovery and understanding are the core motivations of science."
+},
+{
+"q": "Which of these represents 'Inquiry' in a classroom?",
+"o": ["Sleeping during a lecture", "Asking the teacher 'Why?'", "Copying from a friend", "Tearing pages"],
+"a": 1,
+"sol": "Asking questions is the essence of inquiry."
+},
+{
+"q": "Science is different from art because it requires:",
+"o": ["Creativity", "Experimental verification", "Colors", "Paper"],
+"a": 1,
+"sol": "While both use creativity, science must be proven through testing."
+},
+{
+"q": "A scientist who studies the Earth's structure is a:",
+"o": ["Biologist", "Geologist", "Chemist", "Pilot"],
+"a": 1,
+"sol": "Geology is the study of the solid Earth and its rocks."
+},
+{
+"q": "Using a thermometer to find temperature is an act of:",
+"o": ["Guessing", "Measurement", "Invention", "Painting"],
+"a": 1,
+"sol": "Measurement provides precise data for experiments."
+},
+{
+"q": "The word 'Science' comes from a Latin word 'Scientia', which means:",
+"o": ["Power", "Knowledge", "Magic", "Tool"],
+"a": 1,
+"sol": "Knowledge is the ultimate fruit of the scientific process."
+},
+{
+"q": "Which of the following is an 'Inference'?",
+"o": ["The grass is wet", "It rained last night (because the grass is wet)", "The grass is green", "There are 20 blades of grass"],
+"a": 1,
+"sol": "An inference is a logical conclusion based on observations."
+},
+{
+"q": "Science helps in making our lives:",
+"o": ["Harder", "Easier and healthier", "Confusing", "Only for rich people"],
+"a": 1,
+"sol": "Medicine, technology, and sanitation are all gifts of science."
+},
+{
+"q": "In a scientific experiment, the factor that is changed is the:",
+"o": ["Constant", "Variable", "Conclusion", "Evidence"],
+"a": 1,
+"sol": "Variables are parts of the experiment that can be altered or measured."
+},
+{
+"q": "When you say 'The sky is blue', you are making an:",
+"o": ["Inference", "Observation", "Experiment", "Hypothesis"],
+"a": 1,
+"sol": "This is a direct description using your sense of sight."
+},
+{
+"q": "The 'Evolving' nature of science means that:",
+"o": ["It stays the same forever", "It is getting worse", "It gets more accurate over time", "It is a secret"],
+"a": 2,
+"sol": "Our knowledge is refined as we gain better evidence."
+},
+{
+"q": "Which of these is a way to maintain 'Objectivity' in science?",
+"o": ["Using personal feelings", "Using measurements and facts", "Ignoring data you don't like", "Making up results"],
+"a": 1,
+"sol": "Objectivity means being unbiased and relying only on data."
+},
+{
+"q": "Science often starts with 'Curiosity'. What is curiosity?",
+"o": ["A desire to learn or know more", "Being bored", "Knowing everything already", "Feeling sad"],
+"a": 0,
+"sol": "Curiosity is the 'itch' that makes us want to explore."
+},
+{
+"q": "Can scientific ideas change?",
+"o": ["Never", "Yes, when new evidence is found", "Only on Sundays", "Only if the teacher says so"],
+"a": 1,
+"sol": "Science is flexible and changes with new, better information."
+},
+{
+"q": "Which part of our body is used to 'observe' sound?",
+"o": ["Eyes", "Ears", "Nose", "Skin"],
+"a": 1,
+"sol": "Ears are the sensory organs for hearing."
+},
+{
+"q": "A scientist who studies chemicals and matter is a:",
+"o": ["Physicist", "Chemist", "Zoologist", "Botanist"],
+"a": 1,
+"sol": "Chemistry is the study of substances and their reactions."
+},
+{
+"q": "Which of these is a 'Fair Test'?",
+"o": ["Changing everything at once", "Changing only one thing at a time", "Changing nothing", "Asking a friend for the answer"],
+"a": 1,
+"sol": "Changing only one variable ensures you know what caused the result."
+},
+{
+"q": "A prediction that can be tested is called a:",
+"o": ["Hypothesis", "Conclusion", "Law", "Story"],
+"a": 0,
+"sol": "A hypothesis is a testable statement."
+},
+{
+"q": "What is the best way to record observations?",
+"o": ["By memory only", "By writing them down or taking photos", "By shouting them out", "By forgetting them"],
+"a": 1,
+"sol": "Documentation is essential for accuracy and sharing."
+},
+{
+"q": "If you see smoke, you might 'infer' that there is a:",
+"o": ["Cloud", "Fire", "Waterfall", "Tree"],
+"a": 1,
+"sol": "Inferring fire from smoke is a logical conclusion based on an observation."
+},
+{
+"q": "The scientific journey is like an 'Adventure'. Why?",
+"o": ["Because it's dangerous", "Because it's full of new discoveries", "Because you have to travel a lot", "Because it is scary"],
+"a": 1,
+"sol": "Discovery and the unknown make science an exciting adventure."
+},
+{
+"q": "Which of these is an 'Open Question'?",
+"o": ["Is it raining?", "How does a rainbow form?", "Do you like science?", "Is the sun hot?"],
+"a": 1,
+"sol": "Open questions require detailed explanations, not just 'yes' or 'no'."
+},
+{
+"q": "Using a ruler to measure a line is a:",
+"o": ["Qualitative observation", "Quantitative observation", "Guess", "Mistake"],
+"a": 1,
+"sol": "It involves a numerical value and unit."
+},
+{
+"q": "Science helps us solve ________.",
+"o": ["Problems", "Magic tricks", "Nothing", "Only math"],
+"a": 0,
+"sol": "Scientific thinking is a powerful tool for problem-solving."
+},
+{
+"q": "A scientist who studies forces, energy, and matter is a:",
+"o": ["Biologist", "Physicist", "Geologist", "Historian"],
+"a": 1,
+"sol": "Physics is the study of how the physical world behaves."
+},
+{
+"q": "If someone tells you a 'fact', a scientist would ask for:",
+"o": ["Money", "Evidence", "A smile", "A drink"],
+"a": 1,
+"sol": "Scientists require proof before accepting a claim as true."
+},
+{
+"q": "The process of getting an answer by doing an experiment is:",
+"o": ["Guessing", "Investigation", "Luck", "Reading"],
+"a": 1,
+"sol": "Investigation is the active search for answers."
+},
+{
+"q": "Which of these is a 'Systematic' way to work?",
+"o": ["Working randomly", "Following a step-by-step plan", "Skipping steps", "Doing only what you like"],
+"a": 1,
+"sol": "Systematic work ensures accuracy and repeatability."
+},
+{
+"q": "Which of these is NOT a sense organ?",
+"o": ["Ear", "Heart", "Tongue", "Skin"],
+"a": 1,
+"sol": "The heart is a pump, not a sensory organ for observation."
+},
+{
+"q": "A person who studies plants is a:",
+"o": ["Zoologist", "Botanist", "Chemist", "Geologist"],
+"a": 1,
+"sol": "Botany is the scientific study of plants."
+},
+{
+"q": "Why is 'Curiosity' important in science?",
+"o": ["It makes you look smart", "It leads to questions that lead to answers", "It is required by law", "It is not important"],
+"a": 1,
+"sol": "Without curiosity, we would never seek to learn more."
+},
+{
+"q": "What is 'Evidence'?",
+"o": ["A rumor", "Information that supports an idea", "A loud guess", "A drawing"],
+"a": 1,
+"sol": "Evidence is the foundation of scientific truth."
+},
+{
+"q": "Observing the 'texture' of a leaf uses which sense?",
+"o": ["Sight", "Touch", "Hearing", "Taste"],
+"a": 1,
+"sol": "The sense of touch tells us if something is rough or smooth."
+},
+{
+"q": "If a scientist says 'I don't know', they will usually follow it with:",
+"o": ["'And I don't care'", "'But I will find out'", "'So forget it'", "'It's magic'"],
+"a": 1,
+"sol": "Not knowing is the starting point for a new investigation."
+},
+{
+"q": "Which of these is a 'Scientific' observation?",
+"o": ["The ice cream is yummy", "The ice cream melts at room temperature", "I hate ice cream", "Ice cream is expensive"],
+"a": 1,
+"sol": "Melting points are observable and measurable physical properties."
+},
+{
+"q": "Data can be represented in:",
+"o": ["Tables", "Graphs", "Drawings", "All of the above"],
+"a": 3,
+"sol": "Visual aids help communicate data clearly."
+},
+{
+"q": "A 'Prediction' is about:",
+"o": ["The Past", "The Present", "The Future", "None of these"],
+"a": 2,
+"sol": "A prediction tells what will happen next based on a pattern."
+},
+{
+"q": "Which of these is a branch of science?",
+"o": ["Physics", "History", "Music", "Dance"],
+"a": 0,
+"sol": "Physics is a core branch of the natural sciences."
+},
+{
+"q": "The 'Ever-evolving world of science' means science is:",
+"o": ["Static", "Dynamic", "Dead", "Simple"],
+"a": 1,
+"sol": "Dynamic means it is constantly active and changing."
+},
+{
+"q": "An organized way to study something is a:",
+"o": ["Mess", "Scientific investigation", "Dream", "Holiday"],
+"a": 1,
+"sol": "Investigation requires organization and planning."
+},
+{
+"q": "Observation + Logical Thinking = ________.",
+"o": ["Inference", "Magic", "Confusion", "Art"],
+"a": 0,
+"sol": "Logical reasoning about observations leads to an inference."
+},
+{
+"q": "Scientific truth is reached by ________.",
+"o": ["Voting", "Evidence and testing", "Wishing", "Guessing"],
+"a": 1,
+"sol": "Testing and evidence are the only ways to confirm scientific claims."
+},
+{
+"q": "Which tool is used to measure 'Mass'?",
+"o": ["Ruler", "Thermometer", "Weighing Balance", "Clock"],
+"a": 2,
+"sol": "Mass is measured using a balance."
+},
+{
+"q": "If you smell gas in the kitchen, your 'observation' is:",
+"o": ["The stove is on", "The smell of gas", "A fire might start", "I should run"],
+"a": 1,
+"sol": "The smell itself is the observation; 'stove is on' is an inference."
+},
+{
+"q": "Science is a ________ process.",
+"o": ["One-time", "Continuous", "Finished", "Simple"],
+"a": 1,
+"sol": "It is an ongoing cycle of questioning and answering."
+},
+{
+"q": "A person who studies how animals behave is a:",
+"o": ["Botanist", "Zoologist", "Chemist", "Physicist"],
+"a": 1,
+"sol": "Zoology is the study of animal life."
+},
+{
+"q": "Which of these is a 'Quantitative' tool?",
+"o": ["Your eye", "A Measuring Tape", "Your imagination", "Your memory"],
+"a": 1,
+"sol": "A measuring tape provides numerical data."
+},
+{
+"q": "A conclusion should always be based on:",
+"o": ["What you wanted to happen", "The data from the experiment", "What your friend said", "A lucky guess"],
+"a": 1,
+"sol": "Conclusions must be supported by the actual evidence collected."
+},
+{
+"q": "Science makes us more ________ of our surroundings.",
+"o": ["Afraid", "Aware", "Ignorant", "Sad"],
+"a": 1,
+"sol": "Science helps us notice and understand the world around us."
+},
+{
+"q": "Can two people make different observations of the same thing?",
+"o": ["No, never", "Yes, if they focus on different details", "Only if one is lying", "Only in space"],
+"a": 1,
+"sol": "People might notice different aspects (color vs size) of the same object."
+},
+{
+"q": "The 'Whys' of science help us understand the ________ of things.",
+"o": ["Causes", "Prices", "Names", "Locations"],
+"a": 0,
+"sol": "Science seeks to find the underlying causes of natural events."
+},
+{
+"q": "Which of these is an example of 'Testing'?",
+"o": ["Watching TV", "Dropping a ball to see if it falls", "Sleeping", "Reading a comic"],
+"a": 1,
+"sol": "Testing involves active experimentation to verify an idea."
+},
+{
+"q": "Science is 'universal'. This means:",
+"o": ["It only works in India", "It works the same everywhere in the universe", "It only works in schools", "It is only for experts"],
+"a": 1,
+"sol": "Scientific laws (like gravity) apply everywhere."
+},
+{
+"q": "A scientist's notebook should be:",
+"o": ["Messy", "Clear and accurate", "Empty", "Full of drawings only"],
+"a": 1,
+"sol": "Clarity and accuracy allow others to understand the work."
+},
+{
+"q": "What is the opposite of 'Scientific Thinking'?",
+"o": ["Logical reasoning", "Superstition/Blind belief", "Observation", "Inquiry"],
+"a": 1,
+"sol": "Blind belief without evidence is non-scientific."
+},
+{
+"q": "To 'Compare' means to look for:",
+"o": ["Only differences", "Only similarities", "Both similarities and differences", "Names"],
+"a": 2,
+"sol": "Comparison involves identifying how things are alike or different."
+},
+{
+"q": "Which of these is a 'Curiosity-driven' question?",
+"o": ["What time is it?", "How do birds fly?", "Where is my pen?", "Who is at the door?"],
+"a": 1,
+"sol": "Inquiring about flight mechanisms shows scientific curiosity."
+},
+{
+"q": "The journey of science is described as:",
+"o": ["Boring", "Wonderful and never-ending", "Too difficult", "For only a few"],
+"a": 1,
+"sol": "The 'Wonderful World of Science' is a phrase used to describe this exciting path."
+},
+{
+"q": "What is the first step in a scientific inquiry?",
+"o": ["Analysis", "Conclusion", "Observation and Questioning", "Experiment"],
+"a": 2,
+"sol": "It all begins when you notice something and ask 'Why?'"
+},
+{
+"q": "The text says you should 'be a whys person'. This means:",
+"o": ["Be sad", "Ask a lot of questions", "Be very quiet", "Tell others what to do"],
+"a": 1,
+"sol": "Questioning is the key to deep understanding."
+}
+]
