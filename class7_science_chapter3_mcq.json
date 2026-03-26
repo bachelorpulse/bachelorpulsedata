@@ -1,0 +1,602 @@
+[
+{
+"q": "Which component is used to 'open' or 'close' a circuit?",
+"o": ["Bulb", "Connecting wire", "Switch", "Battery"],
+"a": 2,
+"sol": "A switch or key is the component that starts or stops the flow of current."
+},
+{
+"q": "In the symbol of an electric cell, the longer line represents:",
+"o": ["Negative terminal", "Positive terminal", "Neutral terminal", "Ground"],
+"a": 1,
+"sol": "The long thin line is the positive terminal and the short thick line is the negative terminal."
+},
+{
+"q": "A combination of two or more cells is called a:",
+"o": ["Circuit", "Fuse", "Battery", "Generator"],
+"a": 2,
+"sol": "Connecting multiple cells together forms a battery."
+},
+{
+"q": "Which effect of current is used in an electric heater?",
+"o": ["Magnetic effect", "Heating effect", "Chemical effect", "Lighting effect"],
+"a": 1,
+"sol": "Heating effect occurs when current flows through a high-resistance wire like Nichrome."
+},
+{
+"q": "The thin wire inside a bulb that glows is called the:",
+"o": ["Element", "Connecting wire", "Filament", "Switch"],
+"a": 2,
+"sol": "The filament (usually made of tungsten) gets white-hot and emits light."
+},
+{
+"q": "A safety device used to prevent damage to electrical circuits is a:",
+"o": ["Switch", "Battery", "Fuse", "Indicator"],
+"a": 2,
+"sol": "A fuse melts and breaks the circuit if the current becomes dangerously high."
+},
+{
+"q": "Who discovered the magnetic effect of electric current?",
+"o": ["Thomas Edison", "Hans Christian Oersted", "Newton", "Michael Faraday"],
+"a": 1,
+"sol": "Oersted noticed that a compass needle deflects when current flows nearby."
+},
+{
+"q": "A coil of insulated wire wrapped around an iron piece acts as an:",
+"o": ["Insulator", "Electromagnet", "Electric cell", "Electric heater"],
+"a": 1,
+"sol": "When current passes through the coil, the iron becomes magnetic."
+},
+{
+"q": "Electric current flows only when the circuit is:",
+"o": ["Open", "Broken", "Closed", "Switched off"],
+"a": 2,
+"sol": "A 'closed' circuit provides a continuous path for electrons to move."
+},
+{
+"q": "MCB stands for:",
+"o": ["Miniature Circuit Breaker", "Main Circuit Board", "Maximum Current Battery", "Metal Circuit Box"],
+"a": 0,
+"sol": "MCBs are modern switches that automatically turn off during an overload."
+},
+{
+"q": "What happens to a compass needle kept near a wire when current is switched on?",
+"o": ["It vibrates", "It gets hot", "It gets deflected", "No change"],
+"a": 2,
+"sol": "The magnetic field produced by the current affects the compass."
+},
+{
+"q": "Which material is used for making the 'element' of an electric iron?",
+"o": ["Copper", "Nichrome", "Tungsten", "Aluminum"],
+"a": 1,
+"sol": "Nichrome is used because it has high resistance and a high melting point."
+},
+{
+"q": "When the filament of a bulb breaks, the bulb is said to be:",
+"o": ["Closed", "Fused", "Charged", "Turned on"],
+"a": 1,
+"sol": "A broken filament means the circuit is incomplete; the bulb won't glow."
+},
+{
+"q": "If cells are connected in series, the positive terminal of one cell is connected to:",
+"o": ["Positive of next cell", "Negative of next cell", "The switch", "The bulb directly"],
+"a": 1,
+"sol": "For current to flow, terminals must be connected in alternating fashion (+ to -)."
+},
+{
+"q": "An electric bell works on the principle of:",
+"o": ["Heating effect", "Lighting effect", "Magnetic effect", "Friction"],
+"a": 2,
+"sol": "It uses an electromagnet to pull a hammer towards a gong."
+},
+{
+"q": "Which of these is a source of electric current?",
+"o": ["Wire", "Switch", "Cell", "Bulb"],
+"a": 2,
+"sol": "A cell converts chemical energy into electrical energy."
+},
+{
+"q": "Why is a fuse wire made of a material with a low melting point?",
+"o": ["So it can carry more current", "So it glows brightly", "So it melts easily during overload", "So it lasts longer"],
+"a": 2,
+"sol": "Safety depends on the wire melting quickly when heat exceeds safe limits."
+},
+{
+"q": "CFL stands for:",
+"o": ["Common Fluorescent Lamp", "Compact Fluorescent Lamp", "Current Flowing Light", "Circuit Filling Lamp"],
+"a": 1,
+"sol": "CFLs are energy-efficient alternatives to traditional bulbs."
+},
+{
+"q": "A 'closed circuit' is also called an ________ circuit.",
+"o": ["Incomplete", "Complete", "Broken", "Open"],
+"a": 1,
+"sol": "Complete means the path for electricity is not interrupted."
+},
+{
+"q": "Which of the following is NOT a component of a simple circuit?",
+"o": ["Cell", "Magnet", "Switch", "Wire"],
+"a": 1,
+"sol": "A basic circuit needs a source, path, and switch; a magnet is an extra/separate tool."
+},
+{
+"q": "ISI mark on electrical appliances ensures:",
+"o": ["High price", "Safety and quality", "Attractive design", "Large size"],
+"a": 1,
+"sol": "ISI mark is a standard certification for safety in India."
+},
+{
+"q": "If the switch is in the 'OFF' position, the circuit is:",
+"o": ["Closed", "Open", "Dangerous", "Glowing"],
+"a": 1,
+"sol": "OFF position creates a gap in the path, making it an open circuit."
+},
+{
+"q": "Which part of the electric bell attracts the iron strip?",
+"o": ["Hammer", "Gong", "Electromagnet", "Contact screw"],
+"a": 2,
+"sol": "The electromagnet creates the force that pulls the iron strip."
+},
+{
+"q": "Connecting too many appliances to a single socket can cause:",
+"o": ["Short circuit", "Overloading", "Battery drainage", "High voltage"],
+"a": 1,
+"sol": "Overloading happens when the current drawn exceeds the limit of the wire."
+},
+{
+"q": "What happens to an electromagnet when the current is switched OFF?",
+"o": ["It becomes stronger", "It loses its magnetism", "It explodes", "It stays magnetic forever"],
+"a": 1,
+"sol": "Temporary magnetism is a key feature of electromagnets."
+},
+{
+"q": "Which device uses the heating effect of current?",
+"o": ["Computer", "Electric kettle", "Ceiling fan", "Radio"],
+"a": 1,
+"sol": "Kettles use heating elements to boil water."
+},
+{
+"q": "The short thick line in a cell symbol is the:",
+"o": ["Positive terminal", "Negative terminal", "Neutral terminal", "Switch"],
+"a": 1,
+"sol": "Standard convention uses the thicker, shorter line for negative."
+},
+{
+"q": "In a battery of 4 cells, how many positive terminals are there?",
+"o": ["1", "4", "2", "8"],
+"a": 1,
+"sol": "Each cell has one positive and one negative terminal."
+},
+{
+"q": "The amount of heat produced in a wire depends on its:",
+"o": ["Material", "Length and Thickness", "Time current flows", "All of these"],
+"a": 3,
+"sol": "Resistance and heat are influenced by material, dimensions, and time."
+},
+{
+"q": "Which of these is better than a fuse for home safety?",
+"o": ["Paper", "Copper wire", "MCB", "Wood"],
+"a": 2,
+"sol": "MCBs are more convenient as they can be reset without replacement."
+},
+{
+"q": "Electromagnets are used in:",
+"o": ["Electric motors", "Cranes to lift scrap iron", "Electric bells", "All of these"],
+"a": 3,
+"sol": "Electromagnets are found in various industrial and household devices."
+},
+{
+"q": "If one bulb in a series circuit fuses, the other bulbs will:",
+"o": ["Glow brighter", "Stop glowing", "Glow dimmer", "Not be affected"],
+"a": 1,
+"sol": "In a series circuit, if one part breaks, the whole circuit stops."
+},
+{
+"q": "A fuse is always connected in ________ with the circuit.",
+"o": ["Parallel", "Series", "Randomly", "Not connected"],
+"a": 1,
+"sol": "Fuses must be in series so all current passes through them."
+},
+{
+"q": "Which gas is filled in fluorescent tubes to make them glow?",
+"o": ["Oxygen", "Nitrogen", "Mercury vapor", "Carbon dioxide"],
+"a": 2,
+"sol": "Mercury vapor helps in producing UV light which turns into visible light."
+},
+{
+"q": "What is the reason for a short circuit?",
+"o": ["Switching off the bulb", "Touching of live and neutral wires", "Low voltage", "Using a battery"],
+"a": 1,
+"sol": "Direct contact between wires bypasses the load and creates high current."
+},
+{
+"q": "An electric cell converts ________ energy into electrical energy.",
+"o": ["Solar", "Chemical", "Mechanical", "Heat"],
+"a": 1,
+"sol": "Chemicals inside the cell react to produce electricity."
+},
+{
+"q": "When a switch is in 'ON' position, the circuit is:",
+"o": ["Incomplete", "Open", "Closed", "Broken"],
+"a": 2,
+"sol": "ON position connects the wires, making a closed loop."
+},
+{
+"q": "Which of these conducts electricity?",
+"o": ["Rubber", "Plastic", "Copper", "Wood"],
+"a": 2,
+"sol": "Copper is a good conductor of electricity."
+},
+{
+"q": "The flow of electricity is known as:",
+"o": ["Voltage", "Current", "Resistance", "Power"],
+"a": 1,
+"sol": "Electric current is the movement of charge through a conductor."
+},
+{
+"q": "A coil of wire in a heater is called:",
+"o": ["Filament", "Element", "Spring", "Fuse"],
+"a": 1,
+"sol": "The 'element' is the part that generates heat."
+},
+{
+"q": "Why do we use LED bulbs nowadays?",
+"o": ["They are cheaper", "They consume less electricity", "They are very heavy", "They glow in many colors"],
+"a": 1,
+"sol": "LEDs are extremely energy-efficient compared to traditional bulbs."
+},
+{
+"q": "Which part of an electric bell hits the gong?",
+"o": ["Electromagnet", "Hammer", "Screw", "Soft iron strip"],
+"a": 1,
+"sol": "The hammer is the moving part that creates the sound."
+},
+{
+"q": "In an electric circuit, the arrow indicates the direction of:",
+"o": ["Heat", "Magnetism", "Current", "Wind"],
+"a": 2,
+"sol": "Current direction is usually shown from positive to negative terminal."
+},
+{
+"q": "If we increase the number of turns in an electromagnet, its strength:",
+"o": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+"a": 1,
+"sol": "More turns create a stronger magnetic field."
+},
+{
+"q": "An electromagnet is a ________ magnet.",
+"o": ["Permanent", "Temporary", "Natural", "Weak"],
+"a": 1,
+"sol": "It only works as long as current is flowing."
+},
+{
+"q": "Which device does NOT work on the magnetic effect of current?",
+"o": ["Electric Bell", "Loudspeaker", "Electric Toaster", "Electric Motor"],
+"a": 2,
+"sol": "Toasters work on the heating effect of current."
+},
+{
+"q": "What happens when you bring a magnet near a current-carrying wire?",
+"o": ["The wire melts", "The wire moves or feels a force", "The magnet loses power", "The bulb glows brighter"],
+"a": 1,
+"sol": "The two magnetic fields interact with each other."
+},
+{
+"q": "A cell symbol has a small '+' sign near which line?",
+"o": ["Short thick line", "Long thin line", "Both", "Neither"],
+"a": 1,
+"sol": "The long line is the positive side."
+},
+{
+"q": "Electricity generated from a wall socket is:",
+"o": ["Direct Current (DC)", "Alternating Current (AC)", "Static electricity", "Battery power"],
+"a": 1,
+"sol": "Mains supply in houses is AC."
+},
+{
+"q": "Fuses are often made of an alloy of:",
+"o": ["Iron and Steel", "Tin and Lead", "Copper and Silver", "Gold and Aluminum"],
+"a": 1,
+"sol": "Tin-lead alloy has the required low melting point."
+},
+{
+"q": "Why shouldn't you touch a glowing bulb with your hand?",
+"o": ["It might bite", "It is very hot", "It will lose its light", "It is slippery"],
+"a": 1,
+"sol": "Incandescent bulbs produce a lot of heat along with light."
+},
+{
+"q": "How can we make an electromagnet stronger?",
+"o": ["Increase current", "Increase number of turns", "Use a soft iron core", "All of these"],
+"a": 3,
+"sol": "All these factors boost the magnetic flux."
+},
+{
+"q": "Which symbol represents a group of cells?",
+"o": ["Single long and short line", "Multiple long and short lines", "A circle with X", "Two parallel lines of same length"],
+"a": 1,
+"sol": "A battery symbol shows multiple cells in a row."
+},
+{
+"q": "What protects a circuit from fire due to short circuit?",
+"o": ["Switch", "Fuse", "Insulated tape", "Connecting wire"],
+"a": 1,
+"sol": "The fuse breaks the circuit before the heat can cause a fire."
+},
+{
+"q": "Electric energy is measured in terms of:",
+"o": ["Meters", "Kilograms", "Kilowatt-hour (units)", "Liters"],
+"a": 2,
+"sol": "Our electricity bills are based on kWh consumed."
+},
+{
+"q": "When current flows through a wire, the wire gets:",
+"o": ["Colder", "Hotter", "Longer", "Lighter"],
+"a": 1,
+"sol": "Heat is produced due to the resistance of the wire."
+},
+{
+"q": "The soft iron piece in an electric bell is attached to a:",
+"o": ["Gong", "Spring", "Battery", "Bulb"],
+"a": 1,
+"sol": "The spring pulls the iron strip back when magnetism is lost."
+},
+{
+"q": "Which of these is used in torches?",
+"o": ["Generator", "Electric cell", "Solar panel", "MCB"],
+"a": 1,
+"sol": "Torches use cells to provide portable power."
+},
+{
+"q": "A fuse wire should have ________ resistance and ________ melting point.",
+"o": ["Low, High", "High, Low", "Low, Low", "High, High"],
+"a": 1,
+"sol": "High resistance generates heat quickly, and low melting point breaks the circuit."
+},
+{
+"q": "Which material is a poor conductor of electricity?",
+"o": ["Iron", "Aluminum", "Plastic", "Silver"],
+"a": 2,
+"sol": "Plastic does not allow current to pass through it."
+},
+{
+"q": "Who invented the first electric bulb?",
+"o": ["Graham Bell", "Thomas Alva Edison", "James Watt", "Newton"],
+"a": 1,
+"sol": "Edison is credited with the commercial success of the light bulb."
+},
+{
+"q": "If you add more bulbs in a series circuit, they will:",
+"o": ["Glow brighter", "Glow dimmer", "Explode", "Not glow at all"],
+"a": 1,
+"sol": "Voltage is shared, so each bulb gets less power."
+},
+{
+"q": "Which of these devices contains an electromagnet?",
+"o": ["Refrigerator door seal", "Electric fan", "Hard disk drive", "All of these"],
+"a": 3,
+"sol": "Electromagnets are used in motors, seals, and data storage."
+},
+{
+"q": "What is the purpose of the 'contact screw' in an electric bell?",
+"o": ["To fix the bell to wall", "To complete and break the circuit", "To produce sound", "To charge the battery"],
+"a": 1,
+"sol": "The screw makes/breaks contact with the moving iron strip to cause vibration."
+},
+{
+"q": "Copper wires used in circuits are covered with plastic to:",
+"o": ["Make them colorful", "Prevent electric shocks", "Keep them warm", "Make them thick"],
+"a": 1,
+"sol": "Plastic is an insulator that protects users from current."
+},
+{
+"q": "A standard cell has a voltage of approximately:",
+"o": ["1.5 V", "10 V", "220 V", "5 V"],
+"a": 0,
+"sol": "Common dry cells used in remotes/torches are 1.5 volts."
+},
+{
+"q": "Heating effect of current is ________ if the wire is thicker (lower resistance).",
+"o": ["More", "Less", "Same", "Zero"],
+"a": 1,
+"sol": "Lower resistance leads to less heat generation for the same current."
+},
+{
+"q": "In which position can the switch be placed in a circuit?",
+"o": ["Only near positive terminal", "Only near negative terminal", "Anywhere in the circuit", "Only near the bulb"],
+"a": 2,
+"sol": "As long as it breaks the loop, its location doesn't matter much."
+},
+{
+"q": "What happens if a fuse is replaced by a thick copper wire?",
+"o": ["Circuit becomes safer", "Circuit might catch fire during overload", "Bulb glows brighter", "No change"],
+"a": 1,
+"sol": "Copper won't melt easily, allowing dangerous current to flow."
+},
+{
+"q": "Which component is represented by a circle with a cross (X) inside?",
+"o": ["Cell", "Switch", "Bulb", "Wire"],
+"a": 2,
+"sol": "This is a standard symbol for a light bulb or lamp."
+},
+{
+"q": "The core of an electromagnet should be made of:",
+"o": ["Steel", "Soft Iron", "Copper", "Wood"],
+"a": 1,
+"sol": "Soft iron magnetizes and demagnetizes quickly."
+},
+{
+"q": "Electric heaters are dangerous to use near:",
+"o": ["Metal", "Curtains or paper", "Plastic", "Water"],
+"a": 1,
+"sol": "Flammable materials can catch fire from the heat."
+},
+{
+"q": "Why do some wires get very hot while others don't?",
+"o": ["Depends on color", "Depends on resistance", "Depends on weight", "Depends on price"],
+"a": 1,
+"sol": "High resistance wires (like Nichrome) get hotter than low resistance ones (like Copper)."
+},
+{
+"q": "When a switch is 'ON', the circuit is from ________ to ________.",
+"o": ["Positive to Negative", "Negative to Positive", "Bulb to Switch", "Cell to Wire"],
+"a": 0,
+"sol": "Conventional current flows from positive to negative."
+},
+{
+"q": "Which of these is a safety precaution while handling electricity?",
+"o": ["Touch wires with wet hands", "Use rubber gloves", "Never use a fuse", "Insert metal in sockets"],
+"a": 1,
+"sol": "Rubber is an insulator and prevents shocks."
+},
+{
+"q": "An electric circuit is a ________ path.",
+"o": ["Open", "Broken", "Closed", "Curvy"],
+"a": 2,
+"sol": "Electricity needs a complete, closed loop to flow."
+},
+{
+"q": "Magnetic effect of current is used in which of these?",
+"o": ["Hair dryer", "Crane", "Iron", "Geyser"],
+"a": 1,
+"sol": "Cranes use electromagnets to lift heavy iron objects."
+},
+{
+"q": "What is the result of connecting cells in parallel?",
+"o": ["Higher voltage", "Longer battery life", "Dimmer bulb", "Circuit breaks"],
+"a": 1,
+"sol": "Parallel connection keeps voltage same but increases capacity."
+},
+{
+"q": "A magnet made using electricity is called:",
+"o": ["Permanent magnet", "Bar magnet", "Electromagnet", "Horseshoe magnet"],
+"a": 2,
+"sol": "The name 'electro-magnet' implies it uses electricity."
+},
+{
+"q": "The property of a material to oppose the flow of current is:",
+"o": ["Conductance", "Voltage", "Resistance", "Inductance"],
+"a": 2,
+"sol": "High resistance makes it harder for current to flow."
+},
+{
+"q": "Which light source is most energy efficient?",
+"o": ["Incandescent bulb", "CFL", "LED", "Neon tube"],
+"a": 2,
+"sol": "LEDs use the least power for the same amount of light."
+},
+{
+"q": "A dry cell produces ________ electricity.",
+"o": ["AC", "DC", "Static", "High voltage"],
+"a": 1,
+"sol": "Cells and batteries provide Direct Current."
+},
+{
+"q": "What is the color of the 'live' wire in modern household wiring?",
+"o": ["Green", "Blue", "Brown/Red", "Yellow"],
+"a": 2,
+"sol": "Live wires are usually red or brown."
+},
+{
+"q": "Why is tungsten used for bulb filaments?",
+"o": ["It is very cheap", "It has a very high melting point", "It is a liquid", "It is very soft"],
+"a": 1,
+"sol": "Tungsten can withstand temperatures up to 3400°C without melting."
+},
+{
+"q": "When current is too high, the fuse wire ________.",
+"o": ["Becomes stronger", "Glows blue", "Melts", "Shrinks"],
+"a": 2,
+"sol": "Melting breaks the circuit and stops the current."
+},
+{
+"q": "Which device 'makes' or 'breaks' the circuit?",
+"o": ["Bulb", "Wire", "Switch", "Cell"],
+"a": 2,
+"sol": "This is the primary function of a switch."
+},
+{
+"q": "Magnetic field around a wire exists ________.",
+"o": ["Always", "Only when current flows", "Only when bulb is fused", "Only in daytime"],
+"a": 1,
+"sol": "No current means no magnetic field."
+},
+{
+"q": "The symbol for a switch in 'ON' position shows:",
+"o": ["Gap between dots", "Line connecting dots", "A broken line", "A zigzag line"],
+"a": 1,
+"sol": "The connecting line indicates the path is closed."
+},
+{
+"q": "Which of these is a danger of electricity?",
+"o": ["Fire", "Electric shock", "Overloading", "All of these"],
+"a": 3,
+"sol": "Electricity must be handled with great care."
+},
+{
+"q": "A solenoid is a:",
+"o": ["Single straight wire", "Coil of wire", "Type of battery", "Fuse"],
+"a": 1,
+"sol": "A solenoid is a long coil of wire that acts like a magnet."
+},
+{
+"q": "Which part of the cell is positive?",
+"o": ["The metal cap", "The metal disc", "The side walls", "The chemicals inside"],
+"a": 0,
+"sol": "In a standard dry cell, the top cap is positive."
+},
+{
+"q": "In a torch, cells are usually placed ________.",
+"o": ["Side by side", "One after another (Series)", "In different rooms", "Randomly"],
+"a": 1,
+"sol": "Series connection is needed to get enough voltage for the bulb."
+},
+{
+"q": "Which component protects us from 'leakage' of current?",
+"o": ["Fuse", "Earthing", "Switch", "Bulb"],
+"a": 1,
+"sol": "Earthing sends leaked current safely to the ground."
+},
+{
+"q": "The 'strength' of a cell is its:",
+"o": ["Weight", "Voltage", "Color", "Size"],
+"a": 1,
+"sol": "Voltage (V) determines how much 'push' it gives to the current."
+},
+{
+"q": "What happens to the iron core when current in an electromagnet is reversed?",
+"o": ["Magnetism becomes zero", "Magnetic poles swap", "Iron core melts", "It becomes a permanent magnet"],
+"a": 1,
+"sol": "Reversing current reverses the direction of the magnetic field."
+},
+{
+"q": "Which material is used for making standard connecting wires?",
+"o": ["Plastic", "Copper", "Iron", "Gold"],
+"a": 1,
+"sol": "Copper is cheap, flexible, and a great conductor."
+},
+{
+"q": "If a circuit has no battery, can current flow?",
+"o": ["Yes, always", "No, never", "Only if switch is on", "Only if wires are long"],
+"a": 1,
+"sol": "A power source is mandatory for current to flow."
+},
+{
+"q": "The 'humming' sound in transformers is due to:",
+"o": ["Heating effect", "Magnetic effect", "Wind", "Insects"],
+"a": 1,
+"sol": "Magnetic forces cause parts of the transformer to vibrate."
+},
+{
+"q": "A circuit diagram uses ________ to represent components.",
+"o": ["Photos", "Drawings", "Symbols", "Words"],
+"a": 2,
+"sol": "Symbols make it easy to draw and understand complex circuits."
+},
+{
+"q": "Safety fuses should NOT be replaced by:",
+"o": ["Proper fuse wire", "Any ordinary metal wire", "MCBs", "Lower rated fuse"],
+"a": 1,
+"sol": "Ordinary wires might not melt, creating a fire hazard."
+}
+]
