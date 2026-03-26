@@ -1,0 +1,602 @@
+[
+{
+"q": "The bouncing back of light from a polished surface is called:",
+"o": ["Refraction", "Reflection", "Dispersion", "Absorption"],
+"a": 1,
+"sol": "Reflection is the phenomenon where light hits a surface and bounces back."
+},
+{
+"q": "A smooth, highly polished reflecting surface is a:",
+"o": ["Lens", "Prism", "Mirror", "Glass slab"],
+"a": 2,
+"sol": "Mirrors are designed to reflect light with minimal scattering."
+},
+{
+"q": "The angle between the incident ray and the normal is called the:",
+"o": ["Angle of reflection", "Angle of incidence", "Angle of refraction", "Glancing angle"],
+"a": 1,
+"sol": "By definition, the angle of incidence is measured from the normal."
+},
+{
+"q": "According to the laws of reflection, the angle of incidence is ________ the angle of reflection.",
+"o": ["Greater than", "Less than", "Equal to", "Double"],
+"a": 2,
+"sol": "Angle i = Angle r is a fundamental law of reflection."
+},
+{
+"q": "The image formed by a plane mirror is always:",
+"o": ["Real and inverted", "Virtual and erect", "Real and erect", "Virtual and inverted"],
+"a": 1,
+"sol": "Plane mirrors produce upright images that cannot be caught on a screen."
+},
+{
+"q": "Which mirror is used as a rear-view mirror in vehicles?",
+"o": ["Concave mirror", "Convex mirror", "Plane mirror", "Parabolic mirror"],
+"a": 1,
+"sol": "Convex mirrors provide a wide field of view and form diminished, erect images."
+},
+{
+"q": "A mirror that curves inwards is a:",
+"o": ["Convex mirror", "Plane mirror", "Concave mirror", "Cylindrical mirror"],
+"a": 2,
+"sol": "Concave mirrors are shaped like the inner surface of a hollow sphere."
+},
+{
+"q": "The center of the reflecting surface of a spherical mirror is called:",
+"o": ["Center of curvature", "Principal focus", "Pole", "Aperture"],
+"a": 2,
+"sol": "The pole (P) is the geometric center of the mirror's surface."
+},
+{
+"q": "The distance between the pole and the principal focus is the:",
+"o": ["Radius of curvature", "Focal length", "Object distance", "Image distance"],
+"a": 1,
+"sol": "Focal length (f) is the distance from P to F."
+},
+{
+"q": "For a spherical mirror, the radius of curvature (R) is equal to:",
+"o": ["f/2", "2f", "f", "3f"],
+"a": 1,
+"sol": "R is twice the focal length (R = 2f)."
+},
+{
+"q": "An image that can be obtained on a screen is called a:",
+"o": ["Virtual image", "Real image", "Inverted image", "Erect image"],
+"a": 1,
+"sol": "Real images are formed by the actual intersection of light rays."
+},
+{
+"q": "Concave mirrors are used by dentists to see:",
+"o": ["Diminished images", "Magnified images", "Inverted images", "Virtual images at infinity"],
+"a": 1,
+"sol": "When an object is close, a concave mirror forms a large, upright virtual image."
+},
+{
+"q": "Which mirror is called a 'diverging mirror'?",
+"o": ["Concave mirror", "Plane mirror", "Convex mirror", "Bifocal mirror"],
+"a": 2,
+"sol": "Convex mirrors spread out parallel rays of light."
+},
+{
+"q": "If an object is placed at the center of curvature of a concave mirror, the image is formed:",
+"o": ["At Focus", "At C", "Beyond C", "Between P and F"],
+"a": 1,
+"sol": "At C, the image is real, inverted, and the same size as the object."
+},
+{
+"q": "The phenomenon of left appearing right and right appearing left in a mirror is:",
+"o": ["Lateral inversion", "Refraction", "Dispersion", "Total internal reflection"],
+"a": 0,
+"sol": "Plane mirrors swap the left and right sides of an object."
+},
+{
+"q": "A ray of light passing through the center of curvature of a concave mirror after reflection:",
+"o": ["Passes through focus", "Becomes parallel to principal axis", "Retraces its path", "Diverges outward"],
+"a": 2,
+"sol": "Rays through C hit the mirror at 90 degrees and bounce straight back."
+},
+{
+"q": "The point where parallel rays meet after reflection from a concave mirror is the:",
+"o": ["Pole", "Center of curvature", "Principal focus", "Optical center"],
+"a": 2,
+"sol": "Parallel rays converge at the focus (F)."
+},
+{
+"q": "Which of the following can form a virtual image larger than the object?",
+"o": ["Convex mirror", "Concave mirror", "Plane mirror", "Glass slab"],
+"a": 1,
+"sol": "Concave mirrors magnify when the object is between P and F."
+},
+{
+"q": "Magnification produced by a plane mirror is:",
+"o": ["Zero", "Less than 1", "Equal to 1", "Greater than 1"],
+"a": 2,
+"sol": "The image size is exactly equal to the object size (m = 1)."
+},
+{
+"q": "The change in the direction of light when it passes from one medium to another is:",
+"o": ["Reflection", "Refraction", "Scattering", "Diffraction"],
+"a": 1,
+"sol": "Refraction occurs due to the change in speed of light in different media."
+},
+{
+"q": "A transparent material bound by two surfaces, of which at least one is spherical, is a:",
+"o": ["Mirror", "Lens", "Prism", "Slab"],
+"a": 1,
+"sol": "Lenses use refraction to converge or diverge light."
+},
+{
+"q": "A lens which is thicker at the middle than at the edges is a:",
+"o": ["Concave lens", "Convex lens", "Plano-concave lens", "Cylindrical lens"],
+"a": 1,
+"sol": "Convex lenses are converging lenses."
+},
+{
+"q": "Which lens is also known as a 'diverging lens'?",
+"o": ["Convex lens", "Concave lens", "Biconvex lens", "Cylindrical lens"],
+"a": 1,
+"sol": "Concave lenses spread out parallel rays."
+},
+{
+"q": "The SI unit of the power of a lens is:",
+"o": ["Meter", "Watt", "Dioptre", "Lumen"],
+"a": 2,
+"sol": "Power (P = 1/f) is measured in Dioptres (D)."
+},
+{
+"q": "A convex lens forms a real, inverted and highly diminished image when the object is at:",
+"o": ["Focus", "2F", "Infinity", "Between F and O"],
+"a": 2,
+"sol": "Parallel rays from infinity converge to a point at the focus."
+},
+{
+"q": "The central point of a lens is called its:",
+"o": ["Pole", "Optical center", "Focus", "Aperture"],
+"a": 1,
+"sol": "The optical center (O) is the point through which light passes undeviated."
+},
+{
+"q": "A concave lens always forms an image that is:",
+"o": ["Real and diminished", "Virtual and magnified", "Virtual and diminished", "Real and magnified"],
+"a": 2,
+"sol": "Concave lenses only produce virtual, erect, and smaller images."
+},
+{
+"q": "The splitting of white light into its component colors is called:",
+"o": ["Refraction", "Reflection", "Dispersion", "Interference"],
+"a": 2,
+"sol": "Dispersion creates the spectrum (VIBGYOR)."
+},
+{
+"q": "Which color of light deviates the least when passing through a prism?",
+"o": ["Violet", "Blue", "Green", "Red"],
+"a": 3,
+"sol": "Red has the longest wavelength and slows down the least."
+},
+{
+"q": "The ability of the eye to adjust its focal length is called:",
+"o": ["Refraction", "Accommodation", "Persistence of vision", "Adaptation"],
+"a": 1,
+"sol": "The ciliary muscles change the lens shape to focus on near or far objects."
+},
+{
+"q": "The defect of vision in which a person cannot see distant objects clearly is:",
+"o": ["Hypermetropia", "Myopia", "Presbyopia", "Cataract"],
+"a": 1,
+"sol": "Myopia is nearsightedness."
+},
+{
+"q": "Myopia can be corrected by using a:",
+"o": ["Convex lens", "Concave lens", "Bifocal lens", "Cylindrical lens"],
+"a": 1,
+"sol": "A concave lens diverges rays to help them focus correctly on the retina."
+},
+{
+"q": "The part of the eye that controls the amount of light entering is the:",
+"o": ["Retina", "Iris", "Cornea", "Ciliary muscles"],
+"a": 1,
+"sol": "The iris adjusts the size of the pupil."
+},
+{
+"q": "The image in a human eye is formed on the:",
+"o": ["Lens", "Cornea", "Iris", "Retina"],
+"a": 3,
+"sol": "The retina acts as the screen for the eye."
+},
+{
+"q": "A person having hypermetropia uses ________ lenses for correction.",
+"o": ["Concave", "Convex", "Plane", "Bifocal"],
+"a": 1,
+"sol": "Hypermetropia (farsightedness) requires a converging lens."
+},
+{
+"q": "The least distance of distinct vision for a normal human eye is:",
+"o": ["10 cm", "25 cm", "50 cm", "Infinite"],
+"a": 1,
+"sol": "At 25 cm, the eye can see clearly without strain."
+},
+{
+"q": "The speed of light in vacuum is approximately:",
+"o": ["3 x 10^5 m/s", "3 x 10^8 m/s", "3 x 10^10 m/s", "3 x 10^2 m/s"],
+"a": 1,
+"sol": "Light travels at 300,000,000 meters per second."
+},
+{
+"q": "When light travels from air to glass, it bends:",
+"o": ["Away from normal", "Towards normal", "Does not bend", "Backwards"],
+"a": 1,
+"sol": "Light bends towards the normal when moving from a rarer to a denser medium."
+},
+{
+"q": "A virtual image is always ________.",
+"o": ["Inverted", "Erect", "Upside down", "Real"],
+"a": 1,
+"sol": "Virtual images are not inverted; they are upright."
+},
+{
+"q": "Which of these is not a primary color of light?",
+"o": ["Red", "Green", "Blue", "Yellow"],
+"a": 3,
+"sol": "RGB are primary; yellow is a secondary color in light additive theory."
+},
+{
+"q": "The lens formula is given by:",
+"o": ["1/v + 1/u = 1/f", "1/v - 1/u = 1/f", "v + u = f", "v - u = f"],
+"a": 1,
+"sol": "The minus sign distinguishes the lens formula from the mirror formula."
+},
+{
+"q": "A magnifying glass is a ________.",
+"o": ["Concave lens", "Convex lens", "Plane glass", "Concave mirror"],
+"a": 1,
+"sol": "A simple microscope/magnifying glass is a convex lens."
+},
+{
+"q": "If the focal length of a lens is 0.5 m, its power is:",
+"o": ["+2 D", "-2 D", "+0.5 D", "-0.5 D"],
+"a": 0,
+"sol": "P = 1/f = 1/0.5 = 2 Dioptres."
+},
+{
+"q": "Which medium has the highest refractive index?",
+"o": ["Water", "Glass", "Diamond", "Air"],
+"a": 2,
+"sol": "Diamond has a refractive index of about 2.42."
+},
+{
+"q": "Rainbow is formed due to:",
+"o": ["Reflection", "Refraction", "Dispersion", "All of these"],
+"a": 3,
+"sol": "It involves refraction, dispersion, and total internal reflection."
+},
+{
+"q": "An object is placed at infinity from a concave mirror. The image is:",
+"o": ["At C", "At F", "Beyond C", "Between P and F"],
+"a": 1,
+"sol": "Infinity objects always focus at the principal focus."
+},
+{
+"q": "The mirror used in solar furnaces is:",
+"o": ["Convex", "Concave", "Plane", "Cylindrical"],
+"a": 1,
+"sol": "Concave mirrors converge sunlight to a single hot point."
+},
+{
+"q": "A ray of light parallel to the principal axis of a convex lens passes through ________ after refraction.",
+"o": ["Optical center", "First focus", "Second focus", "Center of curvature"],
+"a": 2,
+"sol": "It converges at the principal focus (F2)."
+},
+{
+"q": "Magnification (m) of a spherical mirror is:",
+"o": ["h'/h", "-v/u", "Both a and b", "u/v"],
+"a": 2,
+"sol": "Both ratios define magnification for mirrors."
+},
+{
+"q": "In which case does a concave mirror form a virtual and erect image?",
+"o": ["Object at C", "Object at F", "Object between P and F", "Object beyond C"],
+"a": 2,
+"sol": "This is the only case where a concave mirror produces a virtual image."
+},
+{
+"q": "The SI unit of refractive index is:",
+"o": ["m/s", "Dioptre", "Degree", "No unit"],
+"a": 3,
+"sol": "It is a ratio of speeds, so it has no units."
+},
+{
+"q": "Which lens can form both real and virtual images?",
+"o": ["Concave lens", "Convex lens", "Plane lens", "None"],
+"a": 1,
+"sol": "Convex lenses behave like concave mirrors in image variety."
+},
+{
+"q": "Shadows are formed because light travels in:",
+"o": ["Curved lines", "Straight lines", "Zig-zag lines", "Circles"],
+"a": 1,
+"sol": "This property is called rectilinear propagation of light."
+},
+{
+"q": "A convex mirror always forms an image which is:",
+"o": ["Real and inverted", "Virtual and enlarged", "Virtual and diminished", "Real and enlarged"],
+"a": 2,
+"sol": "Convex mirrors never form real or enlarged images."
+},
+{
+"q": "Refractive index of water with respect to air is:",
+"o": ["1.33", "1.50", "2.42", "1.00"],
+"a": 0,
+"sol": "Water's refractive index is roughly 4/3."
+},
+{
+"q": "The power of a concave lens is always:",
+"o": ["Positive", "Negative", "Zero", "Infinite"],
+"a": 1,
+"sol": "Since focal length is negative, power is negative."
+},
+{
+"q": "Which part of the eye is responsible for color vision?",
+"o": ["Rods", "Cones", "Cornea", "Lens"],
+"a": 1,
+"sol": "Cones detect colors; rods detect light intensity."
+},
+{
+"q": "The twinkling of stars is due to:",
+"o": ["Reflection", "Atmospheric refraction", "Dispersion", "Internal reflection"],
+"a": 1,
+"sol": "Varying air densities cause the light path to shift."
+},
+{
+"q": "The sky appears blue due to ________ of light.",
+"o": ["Refraction", "Reflection", "Scattering", "Dispersion"],
+"a": 2,
+"sol": "Rayleigh scattering affects shorter (blue) wavelengths more."
+},
+{
+"q": "What type of lens is used in a camera?",
+"o": ["Concave", "Convex", "Bifocal", "Plane"],
+"a": 1,
+"sol": "Cameras need to converge light onto a sensor/film."
+},
+{
+"q": "The focal length of a plane mirror is:",
+"o": ["Zero", "25 cm", "Infinite", "1 m"],
+"a": 2,
+"sol": "A plane mirror is a sphere of infinite radius."
+},
+{
+"q": "Image formed by a convex mirror is always between:",
+"o": ["P and F", "F and C", "At C", "Beyond C"],
+"a": 0,
+"sol": "The virtual image is always tucked behind the mirror near the pole."
+},
+{
+"q": "Periscopes work on the principle of:",
+"o": ["Refraction", "Multiple reflection", "Dispersion", "Diffraction"],
+"a": 1,
+"sol": "They use two mirrors at 45 degrees to see around obstacles."
+},
+{
+"q": "When light goes from glass to air, it bends ________ the normal.",
+"o": ["Towards", "Away from", "Parallel to", "Into"],
+"a": 1,
+"sol": "Denser to rarer medium results in bending away from normal."
+},
+{
+"q": "How many images are formed by two plane mirrors kept parallel to each other?",
+"o": ["Two", "Four", "Zero", "Infinite"],
+"a": 3,
+"sol": "Parallel mirrors create endless reflections."
+},
+{
+"q": "The persistence of vision for human eye is about:",
+"o": ["1/10th sec", "1/16th sec", "1 sec", "1/2 sec"],
+"a": 1,
+"sol": "This allows us to see motion in films/animations."
+},
+{
+"q": "Which mirror is used in street lights as a reflector?",
+"o": ["Concave", "Convex", "Plane", "Bifocal"],
+"a": 1,
+"sol": "Convex mirrors diverge light to cover a larger area."
+},
+{
+"q": "A ray of light through the focus of a concave mirror, after reflection:",
+"o": ["Passes through C", "Becomes parallel to principal axis", "Retraces path", "Goes to infinity"],
+"a": 1,
+"sol": "This is the inverse of the parallel ray rule."
+},
+{
+"q": "The blind spot in the eye is where:",
+"o": ["Cones are maximum", "Rods are maximum", "Optic nerve leaves the eye", "Lens is attached"],
+"a": 2,
+"sol": "There are no photoreceptors at this exit point."
+},
+{
+"q": "A transparent object that bends light is called a ________ medium.",
+"o": ["Opaque", "Refracting", "Reflecting", "Shadowy"],
+"a": 1,
+"sol": "Refraction is the bending of light."
+},
+{
+"q": "The speed of light is ________ in glass than in air.",
+"o": ["More", "Less", "Same", "Zero"],
+"a": 1,
+"sol": "Denser media slow down the speed of light."
+},
+{
+"q": "A kaleidoscope uses ________ reflections.",
+"o": ["Single", "Multiple", "No", "Total"],
+"a": 1,
+"sol": "Three mirrors form beautiful symmetrical patterns."
+},
+{
+"q": "Which mirror has a wider field of view?",
+"o": ["Plane", "Concave", "Convex", "All same"],
+"a": 2,
+"sol": "Convex mirrors see more 'behind' the viewer."
+},
+{
+"q": "Mirror formula is:",
+"o": ["1/v - 1/u = 1/f", "1/v + 1/u = 1/f", "1/f + 1/v = 1/u", "v + u = f"],
+"a": 1,
+"sol": "Addition is used for the mirror equation."
+},
+{
+"q": "At what distance should an object be placed from a convex lens to get a same-sized real image?",
+"o": ["At F", "At 2F", "Beyond 2F", "Between O and F"],
+"a": 1,
+"sol": "At 2F (or 2f), the image is real and same size."
+},
+{
+"q": "A concave lens has a focal length of 20 cm. Its power is:",
+"o": ["+5 D", "-5 D", "+0.05 D", "-0.05 D"],
+"a": 1,
+"sol": "P = 1/(-0.2) = -5 D."
+},
+{
+"q": "Which part of the eye is like a camera lens?",
+"o": ["Iris", "Pupil", "Crystalline lens", "Retina"],
+"a": 2,
+"sol": "The lens focuses light onto the retina."
+},
+{
+"q": "Dispersion of light by a glass prism is caused by:",
+"o": ["Different speeds of colors", "Reflection", "Scattering", "Diffraction"],
+"a": 0,
+"sol": "Different colors refract at different angles due to speed variations."
+},
+{
+"q": "The focal length of a lens is 25 cm. Its power is:",
+"o": ["4 D", "0.25 D", "2.5 D", "40 D"],
+"a": 0,
+"sol": "P = 1/0.25 = 4 D."
+},
+{
+"q": "The image formed by a plane mirror is at ________ distance behind the mirror as the object is in front.",
+"o": ["Double", "Half", "Same", "Triple"],
+"a": 2,
+"sol": "Object distance (u) = Image distance (v) in plane mirrors."
+},
+{
+"q": "For a real object, which of the following can form a real image?",
+"o": ["Plane mirror", "Convex mirror", "Concave mirror", "None of these"],
+"a": 2,
+"sol": "Concave mirrors are the only ones that produce real images of real objects."
+},
+{
+"q": "If magnification is negative, the image is:",
+"o": ["Virtual", "Real and inverted", "Erect", "Large"],
+"a": 1,
+"sol": "Negative magnification implies an inverted (real) image."
+},
+{
+"q": "The yellowish part of the retina with maximum vision is:",
+"o": ["Blind spot", "Yellow spot (Fovea)", "Iris", "Pupil"],
+"a": 1,
+"sol": "The yellow spot has the highest concentration of cones."
+},
+{
+"q": "A pencil dipped in water appears broken because of:",
+"o": ["Reflection", "Dispersion", "Refraction", "Scattering"],
+"a": 2,
+"sol": "Light from the pencil bends as it leaves the water."
+},
+{
+"q": "Refractive index is a ________ quantity.",
+"o": ["Vector", "Scalar", "Both", "Fundamental"],
+"a": 1,
+"sol": "It is just a numerical ratio."
+},
+{
+"q": "Which mirror is used as a shaving mirror?",
+"o": ["Convex", "Concave", "Plane", "Cylindrical"],
+"a": 1,
+"sol": "Concave mirrors provide a magnified view when held close."
+},
+{
+"q": "A ray of light through the optical center of a lens:",
+"o": ["Passes undeviated", "Passes through F", "Retraces path", "Becomes parallel"],
+"a": 0,
+"sol": "Light passing through O does not bend."
+},
+{
+"q": "Distance of the object from the mirror is represented by:",
+"o": ["v", "f", "u", "R"],
+"a": 2,
+"sol": "Standard convention uses 'u' for object distance."
+},
+{
+"q": "Which lens is used in spectacles for correction of Presbyopia?",
+"o": ["Concave", "Convex", "Bifocal", "None"],
+"a": 2,
+"sol": "Presbyopia often requires correction for both near and far vision."
+},
+{
+"q": "The focal length of a concave mirror is taken as ________.",
+"o": ["Positive", "Negative", "Zero", "Variable"],
+"a": 1,
+"sol": "By sign convention, concave mirrors have negative f."
+},
+{
+"q": "Mirage is an optical illusion caused by:",
+"o": ["Dispersion", "Total internal reflection", "Reflection", "Scattering"],
+"a": 1,
+"sol": "TIR occurs due to temperature gradients in the air."
+},
+{
+"q": "When white light enters a prism, which color bends the most?",
+"o": ["Red", "Violet", "Green", "Yellow"],
+"a": 1,
+"sol": "Violet light has the shortest wavelength and slowest speed in glass."
+},
+{
+"q": "A virtual image cannot be:",
+"o": ["Seen by eye", "Erect", "Projected on a screen", "Photographed"],
+"a": 2,
+"sol": "Only real images can be caught on a physical screen."
+},
+{
+"q": "A real image is always:",
+"o": ["Erect", "Inverted", "Small", "Magnified"],
+"a": 1,
+"sol": "Real images are consistently inverted with respect to the object."
+},
+{
+"q": "An object at 2F of a convex lens produces an image at:",
+"o": ["F", "Infinity", "2F", "O"],
+"a": 2,
+"sol": "Symmetric placement results in symmetric image location."
+},
+{
+"q": "If the angle between two plane mirrors is 90°, how many images are formed?",
+"o": ["1", "2", "3", "4"],
+"a": 2,
+"sol": "n = (360/90) - 1 = 4 - 1 = 3."
+},
+{
+"q": "Which of the following describes the nature of light?",
+"o": ["Only wave", "Only particle", "Dual nature", "None"],
+"a": 2,
+"sol": "Light exhibits both wave and particle (photon) properties."
+},
+{
+"q": "The center of the sphere of which the mirror is a part is called:",
+"o": ["Pole", "Optical Center", "Center of Curvature", "Focus"],
+"a": 2,
+"sol": "This point is denoted by 'C'."
+},
+{
+"q": "Lateral displacement depends on:",
+"o": ["Angle of incidence", "Thickness of slab", "Refractive index", "All of these"],
+"a": 3,
+"sol": "All these factors determine how much light shifts in a glass slab."
+},
+{
+"q": "The power of the combination of two lenses of +2D and -1D is:",
+"o": ["+3 D", "+1 D", "-1 D", "+2 D"],
+"a": 1,
+"sol": "P = P1 + P2 = 2 - 1 = +1 D."
+}
+]
