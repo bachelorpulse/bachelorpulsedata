@@ -1,0 +1,152 @@
+[
+{
+"q": "The SI unit of time is:",
+"o": ["Minute", "Hour", "Second", "Day"],
+"a": 2,
+"sol": "Second is the international standard unit for measuring time."
+},
+{
+"q": "A simple pendulum takes 32s to complete 20 oscillations. What is the time period?",
+"o": ["0.625 s", "1.6 s", "12 s", "640 s"],
+"a": 1,
+"sol": "Time period = Total time / Number of oscillations = 32 / 20 = 1.6 s."
+},
+{
+"q": "The distance-time graph for an object moving with a constant speed is a:",
+"o": ["Curved line", "Straight line", "Circle", "Z-shape"],
+"a": 1,
+"sol": "A straight line indicates that distance increases linearly with time (constant speed)."
+},
+{
+"q": "Which device is used to measure the distance moved by a vehicle?",
+"o": ["Speedometer", "Odometer", "Thermometer", "Barometer"],
+"a": 1,
+"sol": "Odometer records the total distance traveled by the vehicle."
+},
+{
+"q": "Speed is equal to:",
+"o": ["Distance × Time", "Time / Distance", "Distance / Time", "Distance + Time"],
+"a": 2,
+"sol": "Speed is defined as the rate of change of distance per unit time."
+},
+{
+"q": "The basic unit of speed is:",
+"o": ["km/min", "m/min", "km/h", "m/s"],
+"a": 3,
+"sol": "Meters per second (m/s) is the standard SI unit for speed."
+},
+{
+"q": "An object moving along a straight line with a constant speed is said to be in:",
+"o": ["Non-uniform motion", "Uniform motion", "Circular motion", "Periodic motion"],
+"a": 1,
+"sol": "Uniform motion occurs when an object covers equal distances in equal intervals of time."
+},
+{
+"q": "Which of the following cannot be used for the measurement of time?",
+"o": ["A leaking tap", "Simple pendulum", "Shadow of an object during the day", "A blinking eye"],
+"a": 3,
+"sol": "Blinking is not a periodic event with a fixed time interval."
+},
+{
+"q": "The time taken by a pendulum to complete one oscillation is called its:",
+"o": ["Frequency", "Amplitude", "Time period", "Speed"],
+"a": 2,
+"sol": "Time period is the specific duration for one full back-and-forth motion."
+},
+{
+"q": "Which of these is a periodic motion?",
+"o": ["A car moving on a straight road", "A stone falling from a height", "Motion of the earth around the sun", "A flying bird"],
+"a": 2,
+"sol": "Earth's orbit repeats at regular intervals (approx. 365 days)."
+},
+{
+"q": "If a car travels 60 km in 2 hours, its speed is:",
+"o": ["120 km/h", "30 km/h", "20 km/h", "60 km/h"],
+"a": 1,
+"sol": "Speed = 60 / 2 = 30 km/h."
+},
+{
+"q": "Sundials were used in ancient times to measure time based on:",
+"o": ["Water flow", "Sand flow", "Length of shadows", "Pulse rate"],
+"a": 2,
+"sol": "Sundials use the position and length of shadows cast by the sun."
+},
+{
+"q": "Quartz clocks are more accurate than ancient clocks because they use:",
+"o": ["Pendulums", "Electronic circuits with crystals", "Springs", "Water wheels"],
+"a": 1,
+"sol": "Vibrations of quartz crystals provide a very steady and precise frequency."
+},
+{
+"q": "The fastness or slowness of an object is decided by its:",
+"o": ["Distance", "Time", "Speed", "Weight"],
+"a": 2,
+"sol": "Speed tells us how much distance is covered in a certain time."
+},
+{
+"q": "If the distance-time graph is a horizontal line parallel to the time axis, the object is:",
+"o": ["Moving with high speed", "Moving with low speed", "At rest", "Moving with increasing speed"],
+"a": 2,
+"sol": "A flat line means distance is not changing as time passes, so the object is stationary."
+},
+{
+"q": "The motion of a swing is an example of:",
+"o": ["Rectilinear motion", "Periodic motion", "Circular motion", "Random motion"],
+"a": 1,
+"sol": "A swing repeats its path in regular intervals of time."
+},
+{
+"q": "How many seconds are there in one hour?",
+"o": ["60", "360", "3600", "36000"],
+"a": 2,
+"sol": "1 hour = 60 minutes and 1 minute = 60 seconds; 60 × 60 = 3600."
+},
+{
+"q": "Which of the following is not a unit of time?",
+"o": ["Microsecond", "Light year", "Millisecond", "Century"],
+"a": 1,
+"sol": "A light year is a unit of distance, not time."
+},
+{
+"q": "A cheetah can run at a speed of 100 km/h. How much distance will it cover in 15 minutes?",
+"o": ["1500 km", "25 km", "50 km", "10 km"],
+"a": 1,
+"sol": "15 min = 0.25 h; Distance = 100 × 0.25 = 25 km."
+},
+{
+"q": "In a simple pendulum, the metallic ball is called the:",
+"o": ["Hook", "Thread", "Bob", "Base"],
+"a": 2,
+"sol": "The small heavy mass suspended is known as the bob."
+},
+{
+"q": "Slope of a distance-time graph represents:",
+"o": ["Distance", "Time", "Speed", "Acceleration"],
+"a": 2,
+"sol": "The steeper the slope, the higher the speed of the object."
+},
+{
+"q": "Which instrument shows the speed of a vehicle in km/h?",
+"o": ["Odometer", "Speedometer", "Anemometer", "Chronometer"],
+"a": 1,
+"sol": "Speedometer displays the instantaneous speed of the vehicle."
+},
+{
+"q": "Non-uniform motion is characterized by:",
+"o": ["Constant speed", "Changing speed", "A straight line graph", "No movement"],
+"a": 1,
+"sol": "In non-uniform motion, the speed varies during the travel."
+},
+{
+"q": "The movement of a clock's hands is:",
+"o": ["Oscillatory", "Periodic", "Rectilinear", "Vibratory"],
+"a": 1,
+"sol": "The hands repeat their motion every hour, minute, or 12 hours."
+},
+{
+"q": "Galileo Galilei is famous for his work on:",
+"o": ["Calculators", "Simple Pendulums", "Steam Engines", "Electricity"],
+"a": 1,
+"sol": "Galileo discovered that a pendulum of a given length takes the same time for each oscillation."
+}
+]
