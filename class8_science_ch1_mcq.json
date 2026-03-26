@@ -1,0 +1,122 @@
+[
+{
+"q": "What is the first step typically taken in a scientific investigation?",
+"o": ["Drawing a conclusion", "Conducting an experiment", "Making an observation", "Analyzing data"],
+"a": 2,
+"sol": "Science begins with observing the world around us, which leads to asking questions."
+},
+{
+"q": "A 'Hypothesis' is best described as:",
+"o": ["A proven fact", "An educated guess or prediction", "A final report", "A laboratory tool"],
+"a": 1,
+"sol": "A hypothesis is a testable statement that predicts the outcome of an experiment."
+},
+{
+"q": "In an experiment, the factor that a scientist purposely changes is the:",
+"o": ["Dependent variable", "Controlled variable", "Constant", "Independent variable"],
+"a": 3,
+"sol": "The independent variable is the one being tested or manipulated by the researcher."
+},
+{
+"q": "Which variable is measured or observed as a result of the experiment?",
+"o": ["Dependent variable", "Independent variable", "Fixed variable", "Safety variable"],
+"a": 0,
+"sol": "The dependent variable 'depends' on the changes made to the independent variable."
+},
+{
+"q": "Why is it important to have 'controlled variables' in a fair test?",
+"o": ["To make the experiment faster", "To ensure results are due to the independent variable only", "To use less equipment", "To make the data look better"],
+"a": 1,
+"sol": "Control variables keep everything else constant so we know exactly what caused the change."
+},
+{
+"q": "Which piece of laboratory equipment is used to measure the volume of a liquid accurately?",
+"o": ["Beaker", "Test tube", "Graduated cylinder", "Petri dish"],
+"a": 2,
+"sol": "A graduated cylinder has precise markings (graduations) for measuring liquid volume."
+},
+{
+"q": "What should you do immediately if a chemical spills on your hand in the lab?",
+"o": ["Wait for it to dry", "Wash it with plenty of water and tell the teacher", "Wipe it with a paper towel", "Ignore it if it doesn't burn"],
+"a": 1,
+"sol": "Safety protocols require immediate rinsing and informing the instructor of any spills."
+},
+{
+"q": "A scientific theory is different from a law because a theory:",
+"o": ["Is just a guess", "Explains 'why' something happens", "Is always shorter", "Cannot be changed"],
+"a": 1,
+"sol": "Laws describe 'what' happens (often mathematically), while theories provide the explanation 'why'."
+},
+{
+"q": "Which of the following is 'Qualitative' data?",
+"o": ["The plant grew 5 cm", "The liquid turned bright blue", "The mass is 10 grams", "The temperature is 30°C"],
+"a": 1,
+"sol": "Qualitative data describes qualities or characteristics (like color) rather than numbers."
+},
+{
+"q": "The process of repeating an experiment to verify results is called:",
+"o": ["Rotation", "Replication", "Retraction", "Reduction"],
+"a": 1,
+"sol": "Replication ensures that the findings are consistent and not just a one-time accident."
+},
+{
+"q": "When graphing data, the independent variable is usually placed on the:",
+"o": ["Y-axis (vertical)", "X-axis (horizontal)", "Legend", "Title"],
+"a": 1,
+"sol": "Standard scientific practice puts the independent variable on the X-axis."
+},
+{
+"q": "What is the purpose of a 'Control Group' in an experiment?",
+"o": ["To provide a basis for comparison", "To be the group that gets the most medicine", "To perform the experiment faster", "To store the equipment"],
+"a": 0,
+"sol": "The control group does not receive the experimental treatment and shows what happens normally."
+},
+{
+"q": "Which unit is used in the SI system to measure mass?",
+"o": ["Liter", "Meter", "Kilogram", "Second"],
+"a": 2,
+"sol": "The kilogram (kg) is the base unit for mass in the International System of Units."
+},
+{
+"q": "If your experimental data does not support your hypothesis, you should:",
+"o": ["Change the data", "Throw away the experiment", "Refine the hypothesis and retest", "Stop doing science"],
+"a": 2,
+"sol": "Falsified hypotheses are valuable; they lead to new questions and better understanding."
+},
+{
+"q": "Which tool would a scientist use to see objects too small for the naked eye?",
+"o": ["Telescope", "Microscope", "Periscope", "Stethoscope"],
+"a": 1,
+"sol": "Microscopes magnify small biological or physical samples."
+},
+{
+"q": "What is 'Inference'?",
+"o": ["Directly seeing a fact", "A logical conclusion based on observations", "Measuring something with a ruler", "Cleaning the lab"],
+"a": 1,
+"sol": "Inference is interpreting what you observe (e.g., observing wet ground and inferring it rained)."
+},
+{
+"q": "Safety goggles are primarily worn to protect your eyes from:",
+"o": ["Bright lights", "Dust only", "Chemical splashes and flying debris", "Looking at the Sun"],
+"a": 2,
+"sol": "Goggles are essential for preventing chemical burns or physical injury during experiments."
+},
+{
+"q": "A 'Bias' in science is:",
+"o": ["A type of error in measurement", "A prejudice in favor of one result", "A mathematical formula", "A lab safety rule"],
+"a": 1,
+"sol": "Scientists must try to avoid bias to ensure their results are objective and fair."
+},
+{
+"q": "When smelling a chemical in a lab, you should:",
+"o": ["Inhale deeply", "Waft the vapors toward your nose", "Put your nose inside the beaker", "Ask a friend to smell it first"],
+"a": 1,
+"sol": "Wafting protects your lungs and nose from potentially irritating or toxic fumes."
+},
+{
+"q": "The summary at the end of an investigation that explains the results is the:",
+"o": ["Introduction", "Procedure", "Conclusion", "Abstract"],
+"a": 2,
+"sol": "The conclusion links the data back to the original hypothesis."
+}
+]
