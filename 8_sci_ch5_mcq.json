@@ -1,0 +1,602 @@
+[
+{
+"q": "A push or a pull on an object is called:",
+"o": ["Pressure", "Force", "Friction", "Gravity"],
+"a": 1,
+"sol": "Force is defined as a push or pull that can change the state of motion or shape of an object."
+},
+{
+"q": "Which of the following is a non-contact force?",
+"o": ["Muscular force", "Frictional force", "Magnetic force", "Mechanical force"],
+"a": 2,
+"sol": "Magnetic force acts even when objects are not touching, making it a non-contact force."
+},
+{
+"q": "The SI unit of force is:",
+"o": ["Pascal", "Joule", "Newton", "Watt"],
+"a": 2,
+"sol": "The Newton (N) is the standard unit named after Sir Isaac Newton."
+},
+{
+"q": "If two equal forces act on an object in opposite directions, the net force is:",
+"o": ["Double", "Zero", "Infinite", "Half"],
+"a": 1,
+"sol": "Opposite forces of equal magnitude cancel each other out."
+},
+{
+"q": "Pressure is defined as:",
+"o": ["Force × Area", "Force / Area", "Area / Force", "Force + Area"],
+"a": 1,
+"sol": "Pressure is the force acting perpendicularly on a unit area of a surface."
+},
+{
+"q": "Which force is responsible for objects falling to the ground?",
+"o": ["Electrostatic force", "Magnetic force", "Gravitational force", "Muscular force"],
+"a": 2,
+"sol": "Gravity is the attractive force exerted by the Earth on all objects."
+},
+{
+"q": "A camel can walk easily in the desert because:",
+"o": ["It has small feet", "It has large broad feet", "It has high muscular strength", "It runs very fast"],
+"a": 1,
+"sol": "Broad feet increase the area, which decreases the pressure exerted on the sand."
+},
+{
+"q": "The force that opposes the motion of one surface over another is:",
+"o": ["Gravitational force", "Friction", "Magnetic force", "Electrostatic force"],
+"a": 1,
+"sol": "Friction always acts in the direction opposite to the motion."
+},
+{
+"q": "When a plastic comb is rubbed with dry hair, it acquires:",
+"o": ["Magnetic force", "Muscular force", "Electrostatic force", "Gravitational force"],
+"a": 2,
+"sol": "Rubbing creates a static electric charge, which exerts an electrostatic force."
+},
+{
+"q": "Atmospheric pressure is measured using a:",
+"o": ["Thermometer", "Barometer", "Ammeter", "Speedometer"],
+"a": 1,
+"sol": "A barometer is the standard instrument for measuring the pressure of the air."
+},
+{
+"q": "To increase pressure, we should:",
+"o": ["Decrease force", "Increase area", "Decrease area", "Increase volume"],
+"a": 2,
+"sol": "Pressure is inversely proportional to area; smaller area means higher pressure."
+},
+{
+"q": "Muscular force is an example of:",
+"o": ["Contact force", "Non-contact force", "Magnetic force", "Electrostatic force"],
+"a": 0,
+"sol": "Muscular force can only be applied when in physical contact with an object."
+},
+{
+"q": "The pressure exerted by a liquid ________ with depth.",
+"o": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+"a": 1,
+"sol": "As depth increases, the weight of the liquid column above increases, thus increasing pressure."
+},
+{
+"q": "Which of the following does not change the shape of an object?",
+"o": ["Squeezing a lemon", "Stretching a rubber band", "A ball rolling on the floor", "Kneading dough"],
+"a": 2,
+"sol": "Rolling a ball changes its position/motion, not its physical shape."
+},
+{
+"q": "Force can change the ________ of a moving object.",
+"o": ["Mass", "Speed", "Direction", "Both Speed and Direction"],
+"a": 3,
+"sol": "Force can accelerate, decelerate, or change the path of an object."
+},
+{
+"q": "The unit of pressure is:",
+"o": ["Newton", "Pascal", "Kilogram", "Litre"],
+"a": 1,
+"sol": "1 Pascal (Pa) is equal to 1 Newton per square metre (N/m²)."
+},
+{
+"q": "Magnetic force is a ________ force.",
+"o": ["Contact", "Non-contact", "Muscular", "Frictional"],
+"a": 1,
+"sol": "Magnets attract or repel from a distance."
+},
+{
+"q": "Why are the cutting edges of tools made sharp?",
+"o": ["To look good", "To increase area", "To decrease pressure", "To increase pressure"],
+"a": 3,
+"sol": "Sharp edges have a very small area, making it easy to cut with less force."
+},
+{
+"q": "An object will move only if the applied force is ________ than the frictional force.",
+"o": ["Less", "Equal", "Greater", "Zero"],
+"a": 2,
+"sol": "To overcome inertia and friction, the net force must be positive in the direction of motion."
+},
+{
+"q": "The pressure at the bottom of a container depends on:",
+"o": ["Shape of container", "Height of liquid column", "Color of liquid", "Size of container"],
+"a": 1,
+"sol": "Liquid pressure depends on depth and density, not the shape of the vessel."
+},
+{
+"q": "Force of friction always acts ________ to the direction of motion.",
+"o": ["Parallel", "Opposite", "Perpendicular", "At 45 degrees"],
+"a": 1,
+"sol": "Friction works against the movement."
+},
+{
+"q": "Atmospheric pressure is caused by:",
+"o": ["Wind", "Weight of air", "Clouds", "Gravity of moon"],
+"a": 1,
+"sol": "The layer of air around Earth has weight that presses down on everything."
+},
+{
+"q": "Which of the following is not an effect of force?",
+"o": ["Change in state of rest", "Change in mass", "Change in direction", "Change in speed"],
+"a": 1,
+"sol": "Mass is an intrinsic property and does not change when force is applied."
+},
+{
+"q": "The atmosphere extends up to many ________ above the Earth's surface.",
+"o": ["Metres", "Kilometres", "Centimetres", "Millimetres"],
+"a": 1,
+"sol": "The air envelope (atmosphere) reaches hundreds of kilometers high."
+},
+{
+"q": "Shoulder bags are provided with broad straps to:",
+"o": ["Decrease weight", "Increase weight", "Decrease pressure", "Increase pressure"],
+"a": 2,
+"sol": "Broad straps spread the weight over a larger area of the shoulder."
+},
+{
+"q": "Forces acting on an object in the same direction ________ to each other.",
+"o": ["Subtract", "Multiply", "Add", "Divide"],
+"a": 2,
+"sol": "Net force is the sum of forces acting in the same direction."
+},
+{
+"q": "Which of the following is a contact force?",
+"o": ["Magnetic force", "Friction", "Gravitational force", "Electrostatic force"],
+"a": 1,
+"sol": "Friction occurs only when two surfaces touch."
+},
+{
+"q": "Liquids exert pressure on the ________ of the container.",
+"o": ["Bottom only", "Sides only", "Bottom and sides", "Top only"],
+"a": 2,
+"sol": "Fluids exert pressure in all directions."
+},
+{
+"q": "The force per unit area is called:",
+"o": ["Force", "Work", "Pressure", "Energy"],
+"a": 2,
+"sol": "This is the mathematical definition of pressure."
+},
+{
+"q": "Gravity is:",
+"o": ["Only a push", "Only a pull", "Both push and pull", "Neither push nor pull"],
+"a": 1,
+"sol": "Gravity is always an attractive (pulling) force."
+},
+{
+"q": "Friction depends on the ________ of the surfaces.",
+"o": ["Area", "Nature/Smoothness", "Color", "Volume"],
+"a": 1,
+"sol": "Rougher surfaces produce more friction."
+},
+{
+"q": "What happens when you go higher up in the mountains?",
+"o": ["Pressure increases", "Pressure decreases", "Pressure stays same", "Oxygen increases"],
+"a": 1,
+"sol": "The column of air above you becomes shorter and thinner, so pressure drops."
+},
+{
+"q": "A goalkeeper stops a ball by applying:",
+"o": ["Magnetic force", "Muscular force", "Friction", "Electrostatic force"],
+"a": 1,
+"sol": "Using hands involves the use of muscles."
+},
+{
+"q": "Two boys are pushing a box from opposite sides with 10N and 15N. What is the net force?",
+"o": ["25N", "5N", "10N", "15N"],
+"a": 1,
+"sol": "15N - 10N = 5N in the direction of the stronger force."
+},
+{
+"q": "Magnetic force can be ________.",
+"o": ["Only attractive", "Only repulsive", "Both attractive and repulsive", "Neither"],
+"a": 2,
+"sol": "Like poles repel, unlike poles attract."
+},
+{
+"q": "Sucking a drink through a straw works because of:",
+"o": ["Liquid pressure", "Atmospheric pressure", "Muscular force", "Gravity"],
+"a": 1,
+"sol": "Sucking reduces air pressure in the straw; atmospheric pressure then pushes the liquid up."
+},
+{
+"q": "A spring balance is used to measure:",
+"o": ["Mass", "Force/Weight", "Pressure", "Temperature"],
+"a": 1,
+"sol": "Spring balances measure the force applied (usually weight due to gravity)."
+},
+{
+"q": "The pressure of the atmosphere at sea level is approximately:",
+"o": ["10 Pa", "101,325 Pa", "1,000 Pa", "100 Pa"],
+"a": 1,
+"sol": "Standard atmospheric pressure is about 101.3 kPa."
+},
+{
+"q": "Force of friction can be reduced by using:",
+"o": ["Sand", "Lubricants", "Rough paper", "Water"],
+"a": 1,
+"sol": "Lubricants (oil, grease) create a thin layer between surfaces to reduce friction."
+},
+{
+"q": "When we press a rubber sucker on a smooth surface, it sticks because of:",
+"o": ["Glue", "Muscular force", "Atmospheric pressure", "Friction"],
+"a": 2,
+"sol": "Air is pushed out from under the sucker, and outside air pressure holds it tight."
+},
+{
+"q": "The strength of a force is usually expressed by its:",
+"o": ["Magnitude", "Direction", "Color", "Length"],
+"a": 0,
+"sol": "Magnitude refers to the size or amount of force applied."
+},
+{
+"q": "The walls of a dam are made thicker at the bottom because:",
+"o": ["To save material", "To look better", "Water pressure is higher at the bottom", "Water pressure is higher at the top"],
+"a": 2,
+"sol": "Dams must withstand the increased liquid pressure at greater depths."
+},
+{
+"q": "Which force helps in writing on paper?",
+"o": ["Gravity", "Friction", "Magnetic", "Electrostatic"],
+"a": 1,
+"sol": "Friction between the pen tip and paper allows ink to be deposited."
+},
+{
+"q": "An interaction of one object with another object results in a ________ between the two objects.",
+"o": ["Chemical reaction", "Force", "Heat", "Sound"],
+"a": 1,
+"sol": "At least two objects must interact for a force to come into play."
+},
+{
+"q": "If the area is doubled while keeping force constant, the pressure becomes:",
+"o": ["Double", "Half", "Same", "Four times"],
+"a": 1,
+"sol": "Since P = F/A, doubling A halves the pressure."
+},
+{
+"q": "Force can change the state of ________ of an object.",
+"o": ["Color", "Rest or Motion", "Mass", "Temperature"],
+"a": 1,
+"sol": "Force can make a stationary object move or a moving object stop."
+},
+{
+"q": "A brick exerts more pressure when it is placed on its:",
+"o": ["Broadest side", "Thinnest side/edge", "Same on all sides", "Diagonal"],
+"a": 1,
+"sol": "Smaller area (thinnest side) results in higher pressure for the same weight."
+},
+{
+"q": "Gases also exert ________ on the walls of their container.",
+"o": ["Heat", "Pressure", "Gravity", "Light"],
+"a": 1,
+"sol": "Gas molecules collide with container walls, creating pressure."
+},
+{
+"q": "Iron nails are pointed to:",
+"o": ["Decrease pressure", "Increase pressure", "Reduce friction", "Look sharp"],
+"a": 1,
+"sol": "The pointed tip has a small area, making it easy to drive into wood with high pressure."
+},
+{
+"q": "The magnitude of atmospheric pressure is:",
+"o": ["Very small", "Zero", "Very large", "Moderate"],
+"a": 2,
+"sol": "Atmospheric pressure is enormous, but we don't feel it because our internal body pressure balances it."
+},
+{
+"q": "Which force keeps the planets in orbit around the Sun?",
+"o": ["Magnetic", "Frictional", "Gravitational", "Electrostatic"],
+"a": 2,
+"sol": "The Sun's gravity pulls on the planets."
+},
+{
+"q": "A tug-of-war where neither team moves is an example of:",
+"o": ["Balanced forces", "Unbalanced forces", "Contact forces only", "Non-contact forces"],
+"a": 0,
+"sol": "Net force is zero when forces are balanced."
+},
+{
+"q": "We are not crushed by atmospheric pressure because:",
+"o": ["Our bones are strong", "Pressure inside our body is equal to atmospheric pressure", "Air is very light", "We live in houses"],
+"a": 1,
+"sol": "Fluids in our body exert an equal outward pressure."
+},
+{
+"q": "Rolling friction is ________ than sliding friction.",
+"o": ["Greater", "Smaller", "Equal", "Double"],
+"a": 1,
+"sol": "It is easier to roll an object than to slide it."
+},
+{
+"q": "Force applied by a magnet on an iron nail is:",
+"o": ["Contact force", "Non-contact force", "Muscular force", "Frictional force"],
+"a": 1,
+"sol": "Magnetism acts through space."
+},
+{
+"q": "1 Newton is approximately the weight of an object of mass:",
+"o": ["1 kg", "100 g", "10 kg", "1 g"],
+"a": 1,
+"sol": "On Earth, 100g (0.1kg) has a weight of ~1N (Weight = m * g)."
+},
+{
+"q": "A loaded truck exerts ________ pressure on the road than an empty truck.",
+"o": ["Less", "More", "Same", "Zero"],
+"a": 1,
+"sol": "More weight (force) means more pressure."
+},
+{
+"q": "Which of the following is not a unit of force?",
+"o": ["Newton", "Dyne", "Pascal", "Pound-force"],
+"a": 2,
+"sol": "Pascal is a unit of pressure, not force."
+},
+{
+"q": "Two forces of 5N and 5N act on an object in the same direction. Net force is:",
+"o": ["0N", "10N", "5N", "25N"],
+"a": 1,
+"sol": "5 + 5 = 10N."
+},
+{
+"q": "Deep sea divers wear special suits to protect themselves from:",
+"o": ["Cold water", "High water pressure", "Sharks", "Salt"],
+"a": 1,
+"sol": "Water pressure at great depths is high enough to crush a human body."
+},
+{
+"q": "The force exerted by a charged body on another charged or uncharged body is:",
+"o": ["Magnetic force", "Gravitational force", "Electrostatic force", "Muscular force"],
+"a": 2,
+"sol": "This is the definition of electrostatic force."
+},
+{
+"q": "A blunt knife does not cut fruit easily because:",
+"o": ["It is too heavy", "It has a large area of contact", "It has a small area of contact", "It is made of wood"],
+"a": 1,
+"sol": "Blunt edge increases area, which decreases pressure."
+},
+{
+"q": "When a ball is thrown up, which force slows it down?",
+"o": ["Muscular", "Friction", "Gravity", "Magnetic"],
+"a": 2,
+"sol": "Gravity pulls the ball back toward Earth."
+},
+{
+"q": "The use of ball bearings ________ friction.",
+"o": ["Increases", "Decreases", "Eliminates", "Maintains"],
+"a": 1,
+"sol": "Ball bearings convert sliding friction into rolling friction."
+},
+{
+"q": "If the net force on an object is zero, the object:",
+"o": ["Must be at rest", "Must be moving", "Will maintain its state of rest or uniform motion", "Will speed up"],
+"a": 2,
+"sol": "This is according to Newton's First Law (Law of Inertia)."
+},
+{
+"q": "A water tank is leaking from three holes at different heights. Pressure is highest at:",
+"o": ["Top hole", "Middle hole", "Bottom hole", "Same at all"],
+"a": 2,
+"sol": "Pressure increases with depth."
+},
+{
+"q": "Friction is a ________ force.",
+"o": ["Pulling", "Non-contact", "Contact", "Gravitational"],
+"a": 2,
+"sol": "Friction requires physical interaction between surfaces."
+},
+{
+"q": "The pressure at any point in a liquid at rest is ________ in all directions.",
+"o": ["Different", "Same", "Zero", "Increasing"],
+"a": 1,
+"sol": "Liquid pressure is transmitted equally in all directions (Pascal's Law)."
+},
+{
+"q": "Skiers use long flat skis to:",
+"o": ["Go faster", "Increase friction", "Reduce pressure on snow", "Increase pressure on snow"],
+"a": 2,
+"sol": "Long skis have a large area, preventing the skier from sinking into the snow."
+},
+{
+"q": "Which force helps in holding a glass of water?",
+"o": ["Magnetic", "Gravitational", "Friction", "Electrostatic"],
+"a": 2,
+"sol": "Friction between the hand and glass prevents it from slipping."
+},
+{
+"q": "The weight of an object is actually the ________ acting on it.",
+"o": ["Muscular force", "Frictional force", "Gravitational force", "Electrostatic force"],
+"a": 2,
+"sol": "Weight = Mass × Acceleration due to gravity."
+},
+{
+"q": "Pressure is ________ proportional to force.",
+"o": ["Directly", "Inversely", "Not", "Negatively"],
+"a": 0,
+"sol": "More force results in more pressure for the same area."
+},
+{
+"q": "Opening a door by pulling the handle is an example of applying:",
+"o": ["Pressure", "Force", "Gravity", "Magnetism"],
+"a": 1,
+"sol": "Pulling is a type of force application."
+},
+{
+"q": "A bicycle comes to a stop when we stop pedaling because of:",
+"o": ["Muscular force", "Friction", "Gravity", "Pressure"],
+"a": 1,
+"sol": "Friction between tires and road, and in the axles, slows it down."
+},
+{
+"q": "If you blow air into a balloon, it expands because:",
+"o": ["Air has no weight", "Air exerts pressure", "Balloon is made of rubber", "Gravity pulls air"],
+"a": 1,
+"sol": "Air molecules hit the inside walls, pushing them outward."
+},
+{
+"q": "Which of the following is not a non-contact force?",
+"o": ["Magnetic", "Electrostatic", "Gravity", "Friction"],
+"a": 3,
+"sol": "Friction is a contact force."
+},
+{
+"q": "A man standing on two feet exerts pressure P. If he stands on one foot, pressure is:",
+"o": ["P", "2P", "P/2", "4P"],
+"a": 1,
+"sol": "Area is halved, so pressure is doubled."
+},
+{
+"q": "The state of motion is described by its:",
+"o": ["Speed only", "Direction only", "Both speed and direction", "Shape"],
+"a": 2,
+"sol": "Velocity includes both magnitude (speed) and direction."
+},
+{
+"q": "When we stop rowing a boat, it stops after some distance due to:",
+"o": ["Gravity", "Friction between boat and water", "Magnetic force", "Atmospheric pressure"],
+"a": 1,
+"sol": "Water resistance (drag) is a form of friction."
+},
+{
+"q": "An apple falls from a tree because of:",
+"o": ["Earth's attraction", "Air pressure", "Muscular force", "Magnetic force"],
+"a": 0,
+"sol": "The Earth exerts a gravitational pull on the apple."
+},
+{
+"q": "Force can change the ________ of a moving car when brakes are applied.",
+"o": ["Speed", "Direction", "Mass", "Fuel"],
+"a": 0,
+"sol": "Braking force reduces the speed."
+},
+{
+"q": "Which of the following does not exert pressure?",
+"o": ["Solid", "Liquid", "Gas", "Vacuum"],
+"a": 3,
+"sol": "A vacuum contains no matter to exert force or pressure."
+},
+{
+"q": "The force that keeps us on the ground is:",
+"o": ["Muscular", "Magnetic", "Gravitational", "Friction"],
+"a": 2,
+"sol": "Gravity pulls everything toward the center of the Earth."
+},
+{
+"q": "A force is applied on a box, but it does not move. The net force is:",
+"o": ["Equal to applied force", "Zero", "Infinite", "Negative"],
+"a": 1,
+"sol": "If the object remains stationary, the applied force is balanced by friction."
+},
+{
+"q": "To reduce pressure on the ground, a building should have:",
+"o": ["Narrow foundation", "Wide foundation", "Tall structure", "Heavy roof"],
+"a": 1,
+"sol": "Wide foundation increases area, reducing pressure on the soil."
+},
+{
+"q": "Atmospheric pressure ________ as we go to higher altitudes.",
+"o": ["Increases", "Decreases", "Stays constant", "First increases then decreases"],
+"a": 1,
+"sol": "Air density and the height of the air column above both decrease."
+},
+{
+"q": "Which of the following is not a characteristic of force?",
+"o": ["It has magnitude", "It has direction", "It can change mass", "It can change shape"],
+"a": 2,
+"sol": "Force cannot alter the amount of matter (mass) in an object."
+},
+{
+"q": "The pressure exerted by air on us is called:",
+"o": ["Gas pressure", "Atmospheric pressure", "Wind pressure", "Static pressure"],
+"a": 1,
+"sol": "This is the specific term for air pressure from the atmosphere."
+},
+{
+"q": "Fluid is a common name for:",
+"o": ["Solids and liquids", "Liquids and gases", "Solids and gases", "Only liquids"],
+"a": 1,
+"sol": "Fluids are substances that can flow (liquids and gases)."
+},
+{
+"q": "Pressure at a given depth in a liquid ________ on the density of the liquid.",
+"o": ["Does not depend", "Depends", "Is inversely proportional", "Is zero"],
+"a": 1,
+"sol": "P = hρg (where ρ is density)."
+},
+{
+"q": "An example of non-contact force is:",
+"o": ["Friction", "Electrostatic", "Muscular", "Pushing"],
+"a": 1,
+"sol": "Electrostatic forces act through an electric field."
+},
+{
+"q": "Force changes the motion of an object only when it is:",
+"o": ["Balanced", "Unbalanced", "Very large", "Magnetic"],
+"a": 1,
+"sol": "Balanced forces result in no change in motion."
+},
+{
+"q": "Which force pulls a fallen leaf to the ground?",
+"o": ["Wind", "Gravity", "Magnetic", "Electrostatic"],
+"a": 1,
+"sol": "Earth's gravity pulls the leaf down."
+},
+{
+"q": "Pressure is measured in N/m². This unit is also known as:",
+"o": ["Joule", "Watt", "Pascal", "Newton"],
+"a": 2,
+"sol": "Named after Blaise Pascal."
+},
+{
+"q": "Walking on a slippery floor is difficult because of:",
+"o": ["High friction", "Low friction", "High pressure", "Low pressure"],
+"a": 1,
+"sol": "Low friction makes it hard to get a grip."
+},
+{
+"q": "If you increase force while keeping area constant, pressure will:",
+"o": ["Decrease", "Increase", "Stay same", "Become zero"],
+"a": 1,
+"sol": "Pressure is directly proportional to force."
+},
+{
+"q": "A car is moving with a constant speed in a straight line. The net force is:",
+"o": ["Zero", "Equal to engine force", "Equal to friction", "Infinite"],
+"a": 0,
+"sol": "Constant velocity means zero acceleration, hence zero net force."
+},
+{
+"q": "Which of the following is responsible for wear and tear of machine parts?",
+"o": ["Gravity", "Friction", "Magnetic force", "Electrostatic force"],
+"a": 1,
+"sol": "Friction between moving parts causes heat and physical damage."
+},
+{
+"q": "The pressure inside our body is ________ the atmospheric pressure.",
+"o": ["More than", "Less than", "Equal to", "Zero compared to"],
+"a": 2,
+"sol": "This equilibrium prevents us from being crushed."
+},
+{
+"q": "A stone is falling through water. Which forces are acting on it?",
+"o": ["Gravity and Magnetic", "Gravity and Friction (Water resistance)", "Friction and Electrostatic", "Only Gravity"],
+"a": 1,
+"sol": "Gravity pulls it down while water resistance opposes the motion."
+}
+]
