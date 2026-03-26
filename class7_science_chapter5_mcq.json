@@ -1,0 +1,602 @@
+[
+{
+"q": "Which of these is a physical change?",
+"o": ["Burning of paper", "Melting of wax", "Souring of milk", "Rusting of iron"],
+"a": 1,
+"sol": "Melting is a physical change because only the state changes, no new substance is formed."
+},
+{
+"q": "A change in which a new substance is formed is called a:",
+"o": ["Physical change", "Chemical change", "Temporary change", "Reversible change"],
+"a": 1,
+"sol": "Chemical changes involve the formation of entirely new substances with different properties."
+},
+{
+"q": "Which of these is usually reversible?",
+"o": ["Chemical change", "Physical change", "Burning", "Cooking"],
+"a": 1,
+"sol": "Most physical changes, like freezing water, can be reversed back to the original state."
+},
+{
+"q": "The process of depositing a layer of zinc on iron is called:",
+"o": ["Crystallization", "Galvanization", "Rusting", "Evaporation"],
+"a": 1,
+"sol": "Galvanization protects iron from rusting by preventing contact with air and moisture."
+},
+{
+"q": "What is the chemical name of rust?",
+"o": ["Iron Oxide", "Copper Sulfate", "Magnesium Oxide", "Calcium Carbonate"],
+"a": 0,
+"sol": "Rust is hydrated iron oxide formed when iron reacts with oxygen and water."
+},
+{
+"q": "When carbon dioxide is passed through lime water, it turns ________.",
+"o": ["Blue", "Milky", "Red", "Black"],
+"a": 1,
+"sol": "The formation of calcium carbonate makes the lime water appear milky."
+},
+{
+"q": "Which gas is released when baking soda reacts with vinegar?",
+"o": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+"a": 2,
+"sol": "The reaction produces sodium acetate, water, and CO2 gas bubbles."
+},
+{
+"q": "The process of obtaining large crystals of pure substances from their solution is:",
+"o": ["Galvanization", "Rusting", "Crystallization", "Oxidation"],
+"a": 2,
+"sol": "Crystallization is a physical change used to purify solids like salt or alum."
+},
+{
+"q": "Magnesium + Oxygen → ?",
+"o": ["Magnesium hydroxide", "Magnesium oxide", "Magnesium chloride", "Magnesium carbonate"],
+"a": 1,
+"sol": "Burning magnesium ribbon produces a white ash of Magnesium Oxide (MgO)."
+},
+{
+"q": "Cutting a log of wood into pieces is a ________ change.",
+"o": ["Chemical", "Physical", "Biological", "Irreversible chemical"],
+"a": 1,
+"sol": "It's a physical change because the properties of wood remain the same, even if it's irreversible."
+},
+{
+"q": "What two things are necessary for rusting to occur?",
+"o": ["Oxygen and Nitrogen", "Water and Carbon dioxide", "Oxygen and Moisture (Water)", "Heat and Light"],
+"a": 2,
+"sol": "Rusting cannot happen without both air (oxygen) and water/moisture."
+},
+{
+"q": "Which of the following is a chemical change?",
+"o": ["Tearing of paper", "Digestion of food", "Breaking of glass", "Stretching a rubber band"],
+"a": 1,
+"sol": "Digestion breaks down food into new chemicals that the body can absorb."
+},
+{
+"q": "Iron + Copper Sulfate → ________ + Copper",
+"o": ["Iron Oxide", "Iron Sulfate", "Iron Chloride", "Iron Carbonate"],
+"a": 1,
+"sol": "This is a displacement reaction where iron replaces copper in the solution."
+},
+{
+"q": "The brown color of a cut apple is due to a ________ change.",
+"o": ["Physical", "Chemical", "Reversible", "Nuclear"],
+"a": 1,
+"sol": "The enzymes in the apple react with oxygen to form new brown-colored substances."
+},
+{
+"q": "When Magnesium oxide is dissolved in water, it forms:",
+"o": ["Magnesium hydroxide", "Magnesium sulfate", "Magnesium chloride", "Magnesium carbonate"],
+"a": 0,
+"sol": "MgO + H2O → Mg(OH)2, which is a basic solution."
+},
+{
+"q": "Copper sulfate is also known as:",
+"o": ["Green vitriol", "Blue vitriol", "White vitriol", "Red vitriol"],
+"a": 1,
+"sol": "It is called blue vitriol due to its characteristic deep blue color."
+},
+{
+"q": "Explosion of fireworks is a ________ change.",
+"o": ["Physical", "Chemical", "Reversible", "Slow"],
+"a": 1,
+"sol": "It produces heat, light, sound, and new gases, making it a chemical change."
+},
+{
+"q": "Which of these is a property of a physical change?",
+"o": ["Production of heat", "Change in size or shape", "Evolution of gas", "Formation of new substance"],
+"a": 1,
+"sol": "Physical changes only affect physical properties like shape, size, color, or state."
+},
+{
+"q": "Burning of any substance is always a ________ change.",
+"o": ["Physical", "Chemical", "Reversible", "Temporary"],
+"a": 1,
+"sol": "Combustion always results in the formation of oxides and ash (new substances)."
+},
+{
+"q": "To prevent rusting, ships are ________.",
+"o": ["Washed with salt water", "Painted frequently", "Kept in dark", "Made of wood only"],
+"a": 1,
+"sol": "Painting prevents the iron hull from reacting with the humid sea air."
+},
+{
+"q": "Which of these changes is NOT reversible?",
+"o": ["Melting of ice", "Boiling of water", "Curdling of milk", "Blowing a balloon"],
+"a": 2,
+"sol": "Once milk turns into curd, it cannot be changed back into milk."
+},
+{
+"q": "Photosynthesis is a ________ change.",
+"o": ["Physical", "Chemical", "Periodic", "Reversible"],
+"a": 1,
+"sol": "Plants use sunlight to turn CO2 and water into glucose (a new substance)."
+},
+{
+"q": "What happens to the weight of iron during rusting?",
+"o": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+"a": 1,
+"sol": "Iron combines with oxygen and water, so the mass of the rusted object increases."
+},
+{
+"q": "Ozone layer protects us from ________ radiation.",
+"o": ["Infrared", "Ultraviolet (UV)", "Visible", "X-ray"],
+"a": 1,
+"sol": "The ozone layer breaks down during this process, which is a natural chemical change."
+},
+{
+"q": "Which of the following is NOT a sign of a chemical change?",
+"o": ["Change in color", "Release of gas", "Production of heat", "Change in weight during melting"],
+"a": 3,
+"sol": "Melting is physical; weight change here doesn't imply a chemical reaction."
+},
+{
+"q": "Crystallization is an example of a ________ change.",
+"o": ["Chemical", "Physical", "Irreversible", "Dangerous"],
+"a": 1,
+"sol": "It is a way to separate a solid from its liquid without changing its chemical nature."
+},
+{
+"q": "A change of state from solid to liquid is:",
+"o": ["Chemical change", "Physical change", "Displacement", "Oxidation"],
+"a": 1,
+"sol": "State changes are physical as the molecule itself remains the same (e.g., H2O)."
+},
+{
+"q": "Burning of a candle is ________.",
+"o": ["Only a physical change", "Only a chemical change", "Both physical and chemical", "None of these"],
+"a": 2,
+"sol": "Melting of wax is physical; burning of wax/wick is chemical."
+},
+{
+"q": "Stainless steel is made by mixing iron with ________.",
+"o": ["Carbon, Chromium, Nickel, Manganese", "Copper and Zinc", "Silver and Gold", "Sulfur and Oxygen"],
+"a": 0,
+"sol": "This combination prevents the iron from rusting even in contact with water."
+},
+{
+"q": "Which of these is a fast change?",
+"o": ["Rusting of iron", "Burning of a matchstick", "Growth of a plant", "Ripening of fruit"],
+"a": 1,
+"sol": "Matchsticks ignite and burn within seconds."
+},
+{
+"q": "Change in the composition of a substance occurs in ________.",
+"o": ["Physical change", "Chemical change", "Periodic change", "Slow change"],
+"a": 1,
+"sol": "Chemical reactions reorganize atoms to create different molecules."
+},
+{
+"q": "Adding sugar to water is a ________ change.",
+"o": ["Physical", "Chemical", "Irreversible", "Oxidation"],
+"a": 0,
+"sol": "It's a physical change because sugar can be recovered by evaporating the water."
+},
+{
+"q": "Rusting is faster in ________ areas.",
+"o": ["Desert", "Coastal", "Hilly", "Dry"],
+"a": 1,
+"sol": "High humidity and salt content in coastal air speed up the oxidation process."
+},
+{
+"q": "Formation of a precipitate is usually a sign of ________ change.",
+"o": ["Physical", "Chemical", "Reversible", "Fast"],
+"a": 1,
+"sol": "A solid forming from two liquids indicates a chemical reaction has occurred."
+},
+{
+"q": "Which of these is a desirable change?",
+"o": ["Rusting", "Spoiling of food", "Ripening of fruits", "Earthquakes"],
+"a": 2,
+"sol": "Ripening makes fruits sweet and edible, which is a useful chemical change."
+},
+{
+"q": "When magnesium ribbon is burnt, it produces a ________ flame.",
+"o": ["Blue", "Yellow", "Brilliant white", "Dull red"],
+"a": 2,
+"sol": "It burns with an intense white light, leaving white MgO powder."
+},
+{
+"q": "Sublimation of camphor is a ________ change.",
+"o": ["Physical", "Chemical", "Biological", "Periodic"],
+"a": 0,
+"sol": "State change from solid to gas directly is a physical process."
+},
+{
+"q": "What happens when an iron nail is dipped in Copper Sulfate solution?",
+"o": ["It becomes blue", "It gets a brown coating", "It melts", "It disappears"],
+"a": 1,
+"sol": "Iron displaces copper, and the brown copper metal deposits on the nail."
+},
+{
+"q": "Reaction between Vinegar and Baking Soda is ________ change.",
+"o": ["Physical", "Chemical", "Slow", "Reversible"],
+"a": 1,
+"sol": "It produces new substances like Sodium Acetate and Carbon Dioxide."
+},
+{
+"q": "Dissolving common salt in water is a ________ change.",
+"o": ["Chemical", "Physical", "Undesirable", "Fast"],
+"a": 1,
+"sol": "No new substance is formed, and salt can be recovered by evaporation."
+},
+{
+"q": "Breaking of an egg is a ________ change.",
+"o": ["Chemical", "Physical", "Reversible", "Slow"],
+"a": 1,
+"sol": "It's physical as the substance (egg) is the same, just the shell is broken."
+},
+{
+"q": "Cooking an egg is a ________ change.",
+"o": ["Chemical", "Physical", "Reversible", "Fast"],
+"a": 0,
+"sol": "Heat changes the proteins permanently, forming a new texture and taste."
+},
+{
+"q": "Growth of a human being is an ________ change.",
+"o": ["Irreversible physical", "Reversible physical", "Irreversible chemical", "Desirable chemical"],
+"a": 2,
+"sol": "Metabolic reactions cause growth, which cannot be reversed."
+},
+{
+"q": "Which gas turns lime water milky?",
+"o": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+"a": 2,
+"sol": "Carbon dioxide reacts with lime water to form insoluble calcium carbonate."
+},
+{
+"q": "Iron furniture is painted to ________.",
+"o": ["Make it look heavy", "Prevent rusting", "Make it conduct heat", "Kill germs"],
+"a": 1,
+"sol": "Paint forms a barrier against moisture and air."
+},
+{
+"q": "Which of these is a periodic change?",
+"o": ["Tides in sea", "Breaking of glass", "Burning of paper", "Rusting"],
+"a": 0,
+"sol": "Periodic changes occur at regular intervals of time."
+},
+{
+"q": "Physical changes involve change in ________ properties.",
+"o": ["Chemical", "Physical", "Biological", "Atomic"],
+"a": 1,
+"sol": "Physical properties include shape, size, color, and state."
+},
+{
+"q": "The color of lime water is originally ________.",
+"o": ["White", "Milky", "Colorless", "Blue"],
+"a": 2,
+"sol": "Lime water (Calcium hydroxide solution) is a clear, colorless liquid."
+},
+{
+"q": "Heating a metal rim to fit it on a wooden wheel is a ________ change.",
+"o": ["Chemical", "Physical", "Irreversible", "Slow"],
+"a": 1,
+"sol": "Expansion on heating and contraction on cooling are physical processes."
+},
+{
+"q": "Which of these changes produces heat?",
+"o": ["Condensation of steam", "Burning of wood", "Melting of ice", "Stretching a wire"],
+"a": 1,
+"sol": "Burning (combustion) is an exothermic chemical reaction."
+},
+{
+"q": "Making a toy airplane by folding paper is a ________ change.",
+"o": ["Reversible physical", "Irreversible physical", "Reversible chemical", "Irreversible chemical"],
+"a": 0,
+"sol": "The paper can be unfolded back to its original shape."
+},
+{
+"q": "Making a toy airplane by cutting paper is a ________ change.",
+"o": ["Reversible physical", "Irreversible physical", "Chemical", "Slow"],
+"a": 1,
+"sol": "It's physical because it's still paper, but irreversible because pieces can't be joined perfectly back."
+},
+{
+"q": "Which of the following involves both physical and chemical changes?",
+"o": ["Melting of wax", "Burning of a candle", "Freezing of water", "Burning of paper"],
+"a": 1,
+"sol": "Candle burning involves melting (physical) and combustion (chemical)."
+},
+{
+"q": "What is the nature of Magnesium hydroxide?",
+"o": ["Acidic", "Basic", "Neutral", "Gaseous"],
+"a": 1,
+"sol": "It turns red litmus paper blue, indicating it is a base."
+},
+{
+"q": "Is a chemical change temporary or permanent?",
+"o": ["Temporary", "Permanent", "Periodic", "Reversible"],
+"a": 1,
+"sol": "Chemical changes usually result in permanent alterations of the substance."
+},
+{
+"q": "The layer of zinc in galvanization prevents ________ from reaching the iron.",
+"o": ["Light", "Heat", "Oxygen and Moisture", "Nitrogen"],
+"a": 2,
+"sol": "By blocking these two, the chemical reaction of rusting is stopped."
+},
+{
+"q": "Mixing sand and water is a ________ change.",
+"o": ["Physical", "Chemical", "Slow", "Irreversible"],
+"a": 0,
+"sol": "The two substances do not react and can be separated by filtration."
+},
+{
+"q": "Which of these is an example of an endothermic physical change?",
+"o": ["Burning gas", "Freezing water", "Melting of ice", "Condensing steam"],
+"a": 2,
+"sol": "Ice absorbs heat from the surroundings to melt into water."
+},
+{
+"q": "Which change is harmful for environment?",
+"o": ["Planting trees", "Burning of plastic", "Rainfall", "Crystallization"],
+"a": 1,
+"sol": "Burning plastic releases toxic chemicals into the air."
+},
+{
+"q": "In a physical change, what happens to the molecules?",
+"o": ["They break apart", "They stay the same", "They become new molecules", "They turn into atoms"],
+"a": 1,
+"sol": "The arrangement or state changes, but the identity of the molecules doesn't."
+},
+{
+"q": "When copper sulfate solution reacts with iron, the blue color changes to ________.",
+"o": ["Red", "Light green", "Yellow", "Colorless"],
+"a": 1,
+"sol": "The formation of Ferrous sulfate (Iron sulfate) makes the solution green."
+},
+{
+"q": "The change in weather is a ________ change.",
+"o": ["Periodic", "Non-periodic", "Physical", "Desirable"],
+"a": 1,
+"sol": "Weather changes do not occur at fixed, predictable intervals."
+},
+{
+"q": "A change that takes a long time to occur is called a ________ change.",
+"o": ["Fast", "Slow", "Periodic", "Temporary"],
+"a": 1,
+"sol": "Rusting of a bridge is a classic example of a slow change."
+},
+{
+"q": "Which of these is a non-desirable change?",
+"o": ["Rusting of iron", "Setting of curd", "Melting of ice in a glass", "Growth of a child"],
+"a": 0,
+"sol": "Rusting destroys metal structures, which is harmful and unwanted."
+},
+{
+"q": "In which process is a solid directly converted to gas?",
+"o": ["Melting", "Boiling", "Sublimation", "Evaporation"],
+"a": 2,
+"sol": "Sublimation (like dry ice or naphthalene) is a physical change."
+},
+{
+"q": "Which of these is a reversible change?",
+"o": ["Burning of wood", "Inflating a balloon", "Cooking rice", "Aging of human"],
+"a": 1,
+"sol": "Air can be let out of the balloon to return it to its original state."
+},
+{
+"q": "Rusting of iron can be prevented by coating it with ________.",
+"o": ["Oil or Grease", "Paint", "Zinc", "All of these"],
+"a": 3,
+"sol": "Any layer that prevents contact with oxygen and moisture works."
+},
+{
+"q": "When sugar is heated strongly, it turns black. This is a ________ change.",
+"o": ["Physical", "Chemical", "Reversible", "Temporary"],
+"a": 1,
+"sol": "Sugar decomposes into carbon and water vapor, which is irreversible."
+},
+{
+"q": "What kind of change is the formation of clouds?",
+"o": ["Chemical", "Physical", "Slow", "Undesirable"],
+"a": 1,
+"sol": "It's just the condensation of water vapor, which is physical."
+},
+{
+"q": "Baking of bread is a ________ change.",
+"o": ["Physical", "Chemical", "Reversible", "Fast"],
+"a": 1,
+"sol": "Heat causes chemical reactions between ingredients to form bread."
+},
+{
+"q": "Which of these is a property that can change during a physical change?",
+"o": ["Smell", "Chemical formula", "Density", "Shape"],
+"a": 3,
+"sol": "Physical changes often result in a new shape or size."
+},
+{
+"q": "Expansion of a metal rod on heating is a ________ change.",
+"o": ["Chemical", "Physical", "Irreversible", "Biological"],
+"a": 1,
+"sol": "It returns to its original size on cooling."
+},
+{
+"q": "Which of the following is a reversible chemical change? (Rare)",
+"o": ["Burning wood", "Recharging a battery", "Cooking food", "Rusting"],
+"a": 1,
+"sol": "While most chemical changes are irreversible, some like charging/discharging batteries are reversible."
+},
+{
+"q": "Crystallization is used to ________.",
+"o": ["Make substances dirty", "Purify solids", "Burn substances", "Change color"],
+"a": 1,
+"sol": "Pure crystals of a substance can be separated from impurities."
+},
+{
+"q": "What happens when magnesium ribbon is burnt in oxygen?",
+"o": ["Magnesium reacts with nitrogen", "New substance is formed", "No change", "It melts only"],
+"a": 1,
+"sol": "Magnesium oxide is the new substance produced."
+},
+{
+"q": "Souring of milk is a ________ change.",
+"o": ["Physical", "Chemical", "Reversible", "Periodic"],
+"a": 1,
+"sol": "Lactose turns into lactic acid, creating a new substance."
+},
+{
+"q": "Which of these is a man-made change?",
+"o": ["Tides", "Burning of fuels", "Day and Night", "Growth of a plant"],
+"a": 1,
+"sol": "Humans burn fuels for energy, which is an artificial change."
+},
+{
+"q": "In a physical change, total mass of the substance ________.",
+"o": ["Increases", "Decreases", "Remains same", "Becomes double"],
+"a": 2,
+"sol": "Law of conservation of mass applies to all changes."
+},
+{
+"q": "Change in the 'state' of matter is a ________ change.",
+"o": ["Physical", "Chemical", "Permanent", "Irreversible"],
+"a": 0,
+"sol": "Melting, freezing, boiling are all physical processes."
+},
+{
+"q": "Which of these is an example of an irreversible physical change?",
+"o": ["Tearing a piece of paper", "Melting wax", "Blowing a balloon", "Freezing water"],
+"a": 0,
+"sol": "The chemical nature of paper is same, but you can't 'un-tear' it easily."
+},
+{
+"q": "Magnesium Oxide + Water → Magnesium Hydroxide. This is a ________ change.",
+"o": ["Physical", "Chemical", "Slow", "Reversible"],
+"a": 1,
+"sol": "A chemical reaction occurs to form a new compound."
+},
+{
+"q": "What color is Magnesium Oxide?",
+"o": ["Black", "White", "Blue", "Green"],
+"a": 1,
+"sol": "It appears as a white powdery ash."
+},
+{
+"q": "The solution of Magnesium hydroxide turns ________ litmus blue.",
+"o": ["Blue", "Red", "Yellow", "Green"],
+"a": 1,
+"sol": "Red litmus turns blue in the presence of a base."
+},
+{
+"q": "Which of these changes is non-periodic?",
+"o": ["Heartbeat", "Rotation of Earth", "Volcanic eruption", "Phases of Moon"],
+"a": 2,
+"sol": "Volcanoes do not erupt at fixed, repeating times."
+},
+{
+"q": "When vinegar is added to baking soda, we hear a ________ sound.",
+"o": ["Popping", "Hissing (Effervescence)", "Ringing", "Explosive"],
+"a": 1,
+"sol": "The rapid release of CO2 bubbles causes the hissing sound."
+},
+{
+"q": "Which metal is present in Copper Sulfate?",
+"o": ["Iron", "Copper", "Zinc", "Magnesium"],
+"a": 1,
+"sol": "The name itself specifies the presence of Copper (Cu)."
+},
+{
+"q": "Breaking of a glass tumbler is a ________ change.",
+"o": ["Chemical", "Physical", "Reversible", "Periodic"],
+"a": 1,
+"sol": "No new substance is formed, only the size and shape change."
+},
+{
+"q": "Freezing of water to ice is a ________ change.",
+"o": ["Chemical", "Physical", "Irreversible", "Slow"],
+"a": 1,
+"sol": "It's a reversible change in the state of matter."
+},
+{
+"q": "Crystallization is used for getting ________ crystals of a substance.",
+"o": ["Pure", "Dirty", "Powdered", "Small"],
+"a": 0,
+"sol": "It allows the solid to form pure, regular shapes."
+},
+{
+"q": "Which of these is a chemical change occurring in nature?",
+"o": ["Evaporation of sea water", "Photosynthesis", "Formation of dew", "Melting of glaciers"],
+"a": 1,
+"sol": "Photosynthesis is a complex chemical reaction in plants."
+},
+{
+"q": "Rusting can be prevented by using ________ steel.",
+"o": ["Ordinary", "Stainless", "Carbon", "Mild"],
+"a": 1,
+"sol": "Stainless steel contains elements that prevent oxidation."
+},
+{
+"q": "Which of these involves evolution of a gas?",
+"o": ["Dissolving salt in water", "Reaction of baking soda with vinegar", "Melting of butter", "Breaking a pencil"],
+"a": 1,
+"sol": "Carbon dioxide gas is evolved during this reaction."
+},
+{
+"q": "Which of these is an irreversible change?",
+"o": ["Water to steam", "Ice to water", "Cow dung to biogas", "Stretching a spring"],
+"a": 2,
+"sol": "Biogas production is a chemical change that cannot be reversed."
+},
+{
+"q": "What is the nature of the change 'Milk to Curd'?",
+"o": ["Physical", "Chemical", "Fast", "Reversible"],
+"a": 1,
+"sol": "Bacteria change the chemical structure of milk into curd."
+},
+{
+"q": "In which change is there a permanent change in color?",
+"o": ["Heating an iron rod", "Painting a wall", "Ripening of a tomato", "Wetting a cloth"],
+"a": 2,
+"sol": "Ripening involves chemical changes that change color permanently."
+},
+{
+"q": "The sound of 'pop' occurs when ________ gas is burnt.",
+"o": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+"a": 2,
+"sol": "Hydrogen gas is highly flammable and burns with a pop sound."
+},
+{
+"q": "Is the rotation of the Earth a physical or chemical change?",
+"o": ["Physical", "Chemical", "Biological", "None of these"],
+"a": 0,
+"sol": "It is a physical movement/change in position."
+},
+{
+"q": "Boiling of an egg is a ________ change.",
+"o": ["Physical", "Chemical", "Fast", "Reversible"],
+"a": 1,
+"sol": "Heat denatures the proteins, forming a new solid structure."
+},
+{
+"q": "Which of these is a desirable physical change?",
+"o": ["Drying of wet clothes", "Breaking a glass", "Rusting of a car", "Burning of a forest"],
+"a": 0,
+"sol": "Drying clothes by evaporation is a useful physical change."
+},
+{
+"q": "A chemical change is also called a ________.",
+"o": ["Chemical reaction", "Physical mix", "Periodic cycle", "Temporary state"],
+"a": 0,
+"sol": "The two terms are often used interchangeably to describe the process."
+}
+]
