@@ -1,0 +1,152 @@
+[
+{
+"q": "What type of object does not allow any light to pass through it?",
+"o": ["Transparent", "Opaque", "Translucent", "Luminous"],
+"a": 1,
+"sol": "Opaque objects block light completely, creating a dark area called a shadow behind them."
+},
+{
+"q": "Which of the following is a natural source of light?",
+"o": ["Electric bulb", "Moon", "Sun", "Mirror"],
+"a": 2,
+"sol": "The Sun is a primary natural source of light; the Moon only reflects sunlight and doesn't produce its own."
+},
+{
+"q": "A shadow is formed when an ________ object comes in the path of light.",
+"o": ["Opaque", "Transparent", "Luminous", "Smooth"],
+"a": 0,
+"sol": "Shadows occur because light travels in straight lines and cannot pass through opaque materials."
+},
+{
+"q": "What is the phenomenon called when light bounces off a surface?",
+"o": ["Refraction", "Absorption", "Reflection", "Transmission"],
+"a": 2,
+"sol": "Reflection is the process where a surface (like a mirror) sends back the light that falls on it."
+},
+{
+"q": "Which device uses the principle of reflection to see objects that are out of direct line of sight?",
+"o": ["Microscope", "Periscope", "Telescope", "Magnifying glass"],
+"a": 1,
+"sol": "A periscope uses two mirrors placed at angles to reflect light and allow the user to see over obstacles."
+},
+{
+"q": "In a pinhole camera, the image formed is always:",
+"o": ["Erect and small", "Inverted and real", "Erect and large", "Virtual and upright"],
+"a": 1,
+"sol": "Because light travels in straight lines, the rays from the top of an object reach the bottom of the screen in a pinhole camera, creating an inverted image."
+},
+{
+"q": "What describes a 'translucent' object?",
+"o": ["Allows all light to pass", "Allows no light to pass", "Allows light to pass partially", "Reflects all light"],
+"a": 2,
+"sol": "Translucent objects, like butter paper or frosted glass, allow some light through but we cannot see clearly through them."
+},
+{
+"q": "The color of a shadow is always:",
+"o": ["Same as the object", "White", "Black/Dark", "Red"],
+"a": 2,
+"sol": "A shadow is simply the absence of light, so it appears dark regardless of the object's color."
+},
+{
+"q": "Which of the following is non-luminous?",
+"o": ["Star", "Glow-worm", "Burning candle", "Earth"],
+"a": 3,
+"sol": "The Earth does not emit its own light; it reflects the light of the Sun."
+},
+{
+"q": "The size of a shadow depends on:",
+"o": ["Distance between light source and object", "Distance between object and screen", "Size of the light source", "All of the above"],
+"a": 3,
+"sol": "The geometry of the light, the object, and the screen determines how large or small the shadow will appear."
+},
+{
+"q": "Light travels in a ________ line.",
+"o": ["Curved", "Straight", "Zig-zag", "Circular"],
+"a": 1,
+"sol": "This property is known as the rectilinear propagation of light."
+},
+{
+"q": "A plane mirror forms an image that is:",
+"o": ["Laterally inverted", "Upside down", "Blurred", "Always smaller"],
+"a": 0,
+"sol": "Lateral inversion means the left side of the object appears as the right side in the mirror image."
+},
+{
+"q": "To see a shadow, we need a source of light, an opaque object, and a ________.",
+"o": ["Mirror", "Lens", "Screen", "Glass"],
+"a": 2,
+"sol": "A screen (like a wall or the ground) is necessary for the shadow to be cast and visible."
+},
+{
+"q": "Which material is transparent?",
+"o": ["Wood", "Clear water", "Cardboard", "Stone"],
+"a": 1,
+"sol": "Clear water allows light to pass through it almost completely, making it transparent."
+},
+{
+"q": "Shadows are longest during:",
+"o": ["Noon", "Early morning and late evening", "Midnight", "They are always the same"],
+"a": 1,
+"sol": "When the sun is low on the horizon, the angle of light creates longer shadows."
+},
+{
+"q": "An image is different from a shadow because an image shows:",
+"o": ["Only shape", "Color and details", "Only darkness", "Nothing"],
+"a": 1,
+"sol": "Images are formed by reflection or refraction and show the actual colors and details of the object."
+},
+{
+"q": "What happens when light falls on a highly polished surface?",
+"o": ["It gets absorbed", "It passes through", "It gets reflected", "It vanishes"],
+"a": 2,
+"sol": "Polished surfaces like mirrors provide regular reflection."
+},
+{
+"q": "The Moon is visible to us because it:",
+"o": ["Has its own light", "Reflects sunlight", "Is a star", "Is transparent"],
+"a": 1,
+"sol": "The Moon acts like a giant reflector for the Sun's light."
+},
+{
+"q": "Which of these is a translucent material?",
+"o": ["Air", "Glass", "Oily paper", "Steel"],
+"a": 2,
+"sol": "Oil makes paper translucent, allowing some light to pass through in a scattered way."
+},
+{
+"q": "What is a 'Beam' of light?",
+"o": ["A single ray", "A collection of many rays", "A dark spot", "A type of mirror"],
+"a": 1,
+"sol": "A beam is a bundle of many individual rays of light traveling together."
+},
+{
+"q": "Eclipse is a natural phenomenon based on the formation of:",
+"o": ["Reflection", "Refraction", "Shadows", "Rainbows"],
+"a": 2,
+"sol": "Eclipses occur when one celestial body (like the Earth or Moon) casts a shadow on another."
+},
+{
+"q": "If you move an object closer to the light source, the shadow on a distant screen will:",
+"o": ["Become smaller", "Become larger", "Stay the same", "Disappear"],
+"a": 1,
+"sol": "Moving the object closer to the source blocks more of the light 'cone', creating a larger shadow."
+},
+{
+"q": "Which surface will give a clear reflection?",
+"o": ["Rough wall", "Still water in a lake", "Piece of cloth", "Sand"],
+"a": 1,
+"sol": "Smooth, still water acts like a plane mirror, producing a clear image."
+},
+{
+"q": "The property of light to travel in straight lines can be demonstrated by:",
+"o": ["Using a bent pipe", "Using a straight pipe", "Looking at a mirror", "Using a lens"],
+"a": 1,
+"sol": "You can only see a candle flame through a straight pipe; if the pipe is bent, the light is blocked."
+},
+{
+"q": "Opaque objects create ________ shadows.",
+"o": ["Faint", "No", "Clear and dark", "Colored"],
+"a": 2,
+"sol": "Since no light passes through, the area behind the object is completely devoid of light."
+}
+]
