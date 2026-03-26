@@ -1,0 +1,601 @@
+{
+"q": "Moving air is called:",
+"o": ["Storm", "Wind", "Cyclone", "Thunder"],
+"a": 1,
+"sol": "Air in motion is defined as wind."
+},
+{
+"q": "What happens to the pressure of air when its speed increases?",
+"o": ["Increases", "Remains same", "Decreases", "Becomes zero"],
+"a": 2,
+"sol": "High-speed winds are accompanied by reduced air pressure (Bernoulli's principle)."
+},
+{
+"q": "Air moves from a region of ________ pressure to a region of ________ pressure.",
+"o": ["Low, High", "High, Low", "Low, Zero", "High, High"],
+"a": 1,
+"sol": "Wind always flows from high-pressure areas to low-pressure areas."
+},
+{
+"q": "On heating, air ________ and becomes ________.",
+"o": ["Contracts, Heavier", "Expands, Lighter", "Expands, Heavier", "Contracts, Lighter"],
+"a": 1,
+"sol": "Heat causes air molecules to move apart, making the air less dense and lighter."
+},
+{
+"q": "Which air is lighter and rises up?",
+"o": ["Cold air", "Humid air", "Warm air", "Dry air"],
+"a": 2,
+"sol": "Warm air is less dense than cold air, so it rises."
+},
+{
+"q": "A dark funnel-shaped cloud that reaches from the sky to the ground is called a:",
+"o": ["Cyclone", "Typhoon", "Tornado", "Hurricane"],
+"a": 2,
+"sol": "This is the classic physical description of a tornado."
+},
+{
+"q": "The center of a cyclone is a calm area called the:",
+"o": ["Head", "Heart", "Eye", "Core"],
+"a": 2,
+"sol": "The 'eye' of a cyclone is a region of low pressure and calm weather."
+},
+{
+"q": "In the American continent, a cyclone is known as a:",
+"o": ["Typhoon", "Hurricane", "Tornado", "Monsoon"],
+"a": 1,
+"sol": "Cyclones in the Atlantic and Northeast Pacific are called hurricanes."
+},
+{
+"q": "In Philippines and Japan, a cyclone is called a:",
+"o": ["Hurricane", "Tornado", "Typhoon", "Willy-Willy"],
+"a": 2,
+"sol": "Typhoon is the regional name used in the Northwest Pacific."
+},
+{
+"q": "Which instrument is used to measure wind speed?",
+"o": ["Barometer", "Thermometer", "Anemometer", "Hygrometer"],
+"a": 2,
+"sol": "An anemometer measures the velocity or speed of the wind."
+},
+{
+"q": "Uneven heating on the Earth is the main cause of:",
+"o": ["Earthquakes", "Wind circulation", "Tsunamis", "Volcanoes"],
+"a": 1,
+"sol": "Differences in temperature create pressure differences, leading to wind."
+},
+{
+"q": "The word 'monsoon' is derived from the Arabic word 'mausim', which means:",
+"o": ["Rain", "Wind", "Season", "Cloud"],
+"a": 2,
+"sol": "Mausim means season, referring to the seasonal reversal of winds."
+},
+{
+"q": "Near the equator, the sun heats the Earth the most, causing the air to:",
+"o": ["Sink", "Rise", "Freeze", "Stop moving"],
+"a": 1,
+"sol": "Intense heat at the equator causes air to warm up and rise rapidly."
+},
+{
+"q": "Thunderstorms develop in areas that are:",
+"o": ["Cold and Dry", "Hot and Humid", "Cold and Humid", "Hot and Dry"],
+"a": 1,
+"sol": "Heat and moisture are the primary 'fuel' for thunderstorms."
+},
+{
+"q": "During a thunderstorm, lightning is produced by:",
+"o": ["Wind friction", "Electric discharge between clouds", "Sunlight", "Falling rain"],
+"a": 1,
+"sol": "Lightning is a massive spark of static electricity in the atmosphere."
+},
+{
+"q": "Increased wind speed is accompanied by:",
+"o": ["Increased air pressure", "Reduced air pressure", "No change in pressure", "Static electricity"],
+"a": 1,
+"sol": "Fast-moving air creates a low-pressure zone."
+},
+{
+"q": "The wind direction is measured by a:",
+"o": ["Wind Vane", "Speedometer", "Barometer", "Rain Gauge"],
+"a": 0,
+"sol": "A wind vane (or weather cock) points in the direction the wind is blowing from."
+},
+{
+"q": "Which of the following is true about warm air?",
+"o": ["It occupies less space", "It is heavier than cold air", "It is lighter than cold air", "It always moves downwards"],
+"a": 2,
+"sol": "Warm air expands and has lower density."
+},
+{
+"q": "What causes the 'Eye' of the cyclone to be calm?",
+"o": ["High pressure", "Low pressure and sinking air", "Very high wind speed", "Heavy rain"],
+"a": 1,
+"sol": "The eye is a core of low pressure where air gently sinks, preventing cloud formation."
+},
+{
+"q": "A violent tornado can travel at speeds of about:",
+"o": ["50 km/h", "100 km/h", "300 km/h", "10 km/h"],
+"a": 2,
+"sol": "Severe tornadoes can reach speeds exceeding 300 km/h."
+},
+{
+"q": "The wind blowing from the ocean towards the land in summer is called:",
+"o": ["Trade wind", "Monsoon wind", "Polar wind", "Cyclone"],
+"a": 1,
+"sol": "Summer monsoons carry moisture from the sea to the land."
+},
+{
+"q": "In winter, the winds blow from:",
+"o": ["Ocean to Land", "Land to Ocean", "North to South only", "Equator to Poles"],
+"a": 1,
+"sol": "Winter monsoons are typically dry winds blowing from the cooler land toward the ocean."
+},
+{
+"q": "Which of the following is NOT a safety measure during a cyclone?",
+"o": ["Stay away from power lines", "Go out for a walk in the rain", "Keep drinking water stored", "Listen to radio warnings"],
+"a": 1,
+"sol": "Going out during a cyclone is extremely dangerous due to flying debris and high winds."
+},
+{
+"q": "A cyclone watch or alert is issued ________ hours in advance.",
+"o": ["12", "48", "72", "6"],
+"a": 1,
+"sol": "Standard cyclone alerts are issued 48 hours before the expected commencement of adverse weather."
+},
+{
+"q": "The diameter of the eye of a cyclone varies from:",
+"o": ["1 to 2 km", "10 to 30 km", "100 to 200 km", "500 to 1000 km"],
+"a": 1,
+"sol": "The eye is typically 10-30 kilometers wide."
+},
+{
+"q": "Which of the following helps in the formation of a cyclone?",
+"o": ["Low temperature", "High wind speed and humidity", "Dry air", "Stable air pressure"],
+"a": 1,
+"sol": "Heat from the ocean and moisture fuel the rotating storm system."
+},
+{
+"q": "The most destructive part of a cyclone is the:",
+"o": ["Eye", "Eye wall", "Tail", "Outer bands"],
+"a": 1,
+"sol": "The eye wall has the highest wind speeds and heaviest rainfall."
+},
+{
+"q": "When water vapor changes back to liquid (rain), it ________ heat.",
+"o": ["Absorbs", "Releases", "Destroys", "Stores"],
+"a": 1,
+"sol": "Latent heat is released during condensation, which fuels the cyclone."
+},
+{
+"q": "What should you do if you are in a car during a thunderstorm?",
+"o": ["Get out and stand under a tree", "Stay inside the car", "Climb on top of the car", "Stand in a pool of water"],
+"a": 1,
+"sol": "A car acts as a Faraday cage, keeping you safe from lightning."
+},
+{
+"q": "Coastal areas are more prone to:",
+"o": ["Earthquakes", "Cyclones", "Tornadoes", "Landslides"],
+"a": 1,
+"sol": "Cyclones form over warm oceans and hit the coastlines first."
+},
+{
+"q": "Pressure difference is created in nature by:",
+"o": ["Man-made machines", "Uneven heating", "The Moon", "Birds flying"],
+"a": 1,
+"sol": "Natural pressure gradients are primarily temperature-driven."
+},
+{
+"q": "If you are in water during lightning, you should:",
+"o": ["Stay there", "Swim faster", "Get out and go inside a building", "Hide under a boat"],
+"a": 2,
+"sol": "Water conducts electricity; getting out is the safest option."
+},
+{
+"q": "The falling water droplets along with rising warm air create:",
+"o": ["Cyclone", "Thunderstorm", "Tornado", "Rainbow"],
+"a": 1,
+"sol": "The interaction of rising air and falling rain produces lightning and thunder."
+},
+{
+"q": "Wind speed is high during:",
+"o": ["Breeze", "Gale", "Cyclone", "Drought"],
+"a": 2,
+"sol": "Cyclones involve extreme wind velocities."
+},
+{
+"q": "Which factor does NOT contribute to the development of a cyclone?",
+"o": ["Wind speed", "Temperature", "Humidity", "Soil type"],
+"a": 3,
+"sol": "Atmospheric conditions matter, not the ground composition."
+},
+{
+"q": "Why do flags flutter when the wind blows?",
+"o": ["Due to gravity", "Due to air pressure exerted on the flag", "Due to flag's weight", "Due to colors"],
+"a": 1,
+"sol": "Air exerts force/pressure on objects it moves against."
+},
+{
+"q": "Anemometer comes from the Greek word 'anemos', which means:",
+"o": ["Speed", "Wind", "Circle", "Sky"],
+"a": 1,
+"sol": "Anemos is the Greek word for wind."
+},
+{
+"q": "Air ________ on heating.",
+"o": ["Contracts", "Freezes", "Expands", "Liquefies"],
+"a": 2,
+"sol": "Expansion is a fundamental thermal property of gases."
+},
+{
+"q": "Smoke rises up because:",
+"o": ["It is heavier than air", "It is lighter than cold air", "It is pushed by gravity", "It is made of wood"],
+"a": 1,
+"sol": "Smoke is warm, therefore lighter and buoyant."
+},
+{
+"q": "High speed winds can blow away the roofs of weak buildings because:",
+"o": ["They pull the roof up", "They create low pressure above the roof", "They create high pressure above the roof", "The roof is too heavy"],
+"a": 1,
+"sol": "Low pressure above the roof and high pressure inside the house create an upward lift."
+},
+{
+"q": "The 'Eye' of a cyclone has ________ pressure.",
+"o": ["Very High", "Moderate", "Very Low", "Fluctuating"],
+"a": 2,
+"sol": "The eye is the lowest pressure point of the entire storm system."
+},
+{
+"q": "Winds at the poles blow towards the ________ degree latitude.",
+"o": ["0", "30", "60", "90"],
+"a": 2,
+"sol": "Cold polar air moves toward warmer 60-degree latitudes."
+},
+{
+"q": "Thunderstorms are most frequent in ________ areas.",
+"o": ["Polar", "Tropical", "Desert", "Temperate"],
+"a": 1,
+"sol": "Tropical climates provide the necessary heat and moisture."
+},
+{
+"q": "What is the primary danger of a cyclone hitting the coast?",
+"o": ["Earthquake", "High sea waves (Storm surge)", "Snowfall", "Volcanic eruption"],
+"a": 1,
+"sol": "Low pressure lifts the sea surface, causing devastating waves."
+},
+{
+"q": "A 'Cyclone Warning' is issued ________ hours in advance.",
+"o": ["6", "12", "24", "48"],
+"a": 2,
+"sol": "Warnings are generally issued 24 hours before the storm makes landfall."
+},
+{
+"q": "Which of these is used by the government to track cyclones?",
+"o": ["Microscopes", "Satellites and Radars", "Telescopes", "Thermometers"],
+"a": 1,
+"sol": "Remote sensing technology is vital for weather forecasting."
+},
+{
+"q": "In a cyclone, air ________ the center.",
+"o": ["Moves away from", "Spirals towards", "Stops at", "Falls into"],
+"a": 1,
+"sol": "Air spirals inward toward the central low pressure."
+},
+{
+"q": "The sound of thunder is produced by:",
+"o": ["Clouds hitting each other", "Rapid expansion of air heated by lightning", "Rain hitting the ground", "Wind speed"],
+"a": 1,
+"sol": "Lightning heats air to 30,000°C instantly, causing an explosive shockwave."
+},
+{
+"q": "Which part of India is more vulnerable to cyclones?",
+"o": ["West coast", "East coast", "Central India", "Himalayas"],
+"a": 1,
+"sol": "The Bay of Bengal (East coast) sees more frequent and intense cyclones than the Arabian Sea."
+},
+{
+"q": "Tornadoes in India are:",
+"o": ["Very common", "Not very frequent", "Non-existent", "Daily occurrences"],
+"a": 1,
+"sol": "Tornadoes occur in India but are much rarer than cyclones."
+},
+{
+"q": "What should be avoided during a thunderstorm?",
+"o": ["Using an umbrella with a metal handle", "Staying indoors", "Sitting in a car", "Lying on the floor"],
+"a": 0,
+"sol": "Metal handles can conduct lightning directly to the user."
+},
+{
+"q": "The wind speed in the eye of a cyclone is:",
+"o": ["Maximum", "Zero or very low", "Average", "Increasing"],
+"a": 1,
+"sol": "The eye is famously the 'calm' center of the storm."
+},
+{
+"q": "Air pressure ________ as the altitude increases.",
+"o": ["Increases", "Remains constant", "Decreases", "First increases then decreases"],
+"a": 2,
+"sol": "Fewer air molecules exist at higher elevations."
+},
+{
+"q": "Warm air is ________ than cold air.",
+"o": ["Heavier", "Lighter", "Denser", "Faster"],
+"a": 1,
+"sol": "Heat reduces the density of air."
+},
+{
+"q": "The direction of wind is from ________ to ________ pressure.",
+"o": ["Low, High", "High, Low", "North, South", "East, West"],
+"a": 1,
+"sol": "Pressure gradients drive the flow of air."
+},
+{
+"q": "Which phenomenon is associated with heavy rain, lightning, and thunder?",
+"o": ["Breeze", "Thunderstorm", "Drought", "Heatwave"],
+"a": 1,
+"sol": "These are the three defining characteristics of a thunderstorm."
+},
+{
+"q": "Cyclones can be ________ of kilometers in diameter.",
+"o": ["Tens", "Hundreds", "Thousands", "Millions"],
+"a": 1,
+"sol": "Large cyclones typically span several hundred kilometers."
+},
+{
+"q": "A cyclone is a ________ pressure system.",
+"o": ["High", "Low", "Neutral", "Constant"],
+"a": 1,
+"sol": "The defining feature of a cyclone is its low-pressure core."
+},
+{
+"q": "What is the speed of wind during a calm day?",
+"o": ["Above 100 km/h", "Below 5 km/h", "Exactly 50 km/h", "Zero"],
+"a": 1,
+"sol": "Calm conditions imply very low wind speeds."
+},
+{
+"q": "The movement of air is caused by ________ heating of the Earth.",
+"o": ["Even", "Uneven", "Excessive", "Slow"],
+"a": 1,
+"sol": "Uneven heating creates the temperature/pressure differences needed for wind."
+},
+{
+"q": "What provides the energy for a cyclone?",
+"o": ["The Moon's gravity", "Heat from condensed water vapor", "Wind speed", "Rotation of Earth"],
+"a": 1,
+"sol": "Latent heat of condensation is the primary energy source."
+},
+{
+"q": "In the Southern Hemisphere, cyclones rotate ________.",
+"o": ["Clockwise", "Counter-clockwise", "Upwards", "Downwards"],
+"a": 0,
+"sol": "Due to the Coriolis effect, the rotation is clockwise in the South."
+},
+{
+"q": "In the Northern Hemisphere, cyclones rotate ________.",
+"o": ["Clockwise", "Counter-clockwise", "Side-to-side", "In a straight line"],
+"a": 1,
+"sol": "The Coriolis effect causes counter-clockwise rotation in the North."
+},
+{
+"q": "A wind speed of 150 km/h is characteristic of a ________.",
+"o": ["Light breeze", "Strong cyclone", "Tornado only", "Monsoon"],
+"a": 1,
+"sol": "Cyclones often feature wind speeds in this range."
+},
+{
+"q": "The 'Eye' of a cyclone is a region of ________.",
+"o": ["Intense rain", "Intense lightning", "Clear sky and light winds", "Strongest winds"],
+"a": 2,
+"sol": "Sinking air in the eye suppresses clouds and rain."
+},
+{
+"q": "When air moves at high speed over a paper, the paper ________.",
+"o": ["Moves down", "Lifts up", "Stays still", "Catches fire"],
+"a": 1,
+"sol": "The fast air reduces pressure above the paper, causing it to lift."
+},
+{
+"q": "Self-help is the best help. This is true for:",
+"o": ["Earthquakes", "Cyclones", "Both", "Neither"],
+"a": 2,
+"sol": "Community preparedness is essential for all natural disasters."
+},
+{
+"q": "Which instrument helps to know the direction of the wind?",
+"o": ["Wind vane", "Anemometer", "Thermometer", "Hygrometer"],
+"a": 0,
+"sol": "Wind vanes align with the wind's path."
+},
+{
+"q": "Air pressure is measured in:",
+"o": ["Newtons", "Pascals", "Watts", "Joules"],
+"a": 1,
+"sol": "Pascal is the standard unit for pressure."
+},
+{
+"q": "The word 'Hurricane' is used in:",
+"o": ["India", "America", "Japan", "China"],
+"a": 1,
+"sol": "It is the regional name used in the Americas."
+},
+{
+"q": "What is the shape of a tornado?",
+"o": ["Square", "Funnel", "Circular", "Line"],
+"a": 1,
+"sol": "Tornadoes are characterized by their funnel-like appearance."
+},
+{
+"q": "High wind speed is dangerous because it can:",
+"o": ["Make us feel cold", "Uproot trees and electric poles", "Change the color of sky", "Stop the rain"],
+"a": 1,
+"sol": "The kinetic energy of fast-moving air can cause physical destruction."
+},
+{
+"q": "Cyclone is also called ________ in the Philippines.",
+"o": ["Tornado", "Typhoon", "Hurricane", "Monsoon"],
+"a": 1,
+"sol": "Typhoon is the term used in that region."
+},
+{
+"q": "Thunderstorms are caused by ________.",
+"o": ["Falling snow", "Rising warm moisture-laden air", "Earth's rotation", "Moon's light"],
+"a": 1,
+"sol": "Convection of warm moist air is the starting point."
+},
+{
+"q": "To avoid a cyclone, people should move to ________.",
+"o": ["The beach", "Cyclone shelters or higher ground", "The basement", "Under a tree"],
+"a": 1,
+"sol": "Shelters are designed to withstand high winds and flooding."
+},
+{
+"q": "During a cyclone, we should store enough ________.",
+"o": ["Ice", "Food and drinking water", "Sand", "Paper"],
+"a": 1,
+"sol": "Utility failures often make fresh water and food scarce."
+},
+{
+"q": "The pressure ________ the eye of the cyclone is very low.",
+"o": ["Outside", "Inside", "Above", "Below"],
+"a": 1,
+"sol": "The interior core has the minimum pressure."
+},
+{
+"q": "Wind speeds are ________ near the equator.",
+"o": ["Very low", "Moderate", "Very high", "Zero"],
+"a": 1,
+"sol": "While hot, the equator is often a region of lighter winds (Doldrums)."
+},
+{
+"q": "A tornado reaches from ________ to the ________.",
+"o": ["Sea, Sky", "Sky, Ground", "Ground, Underground", "East, West"],
+"a": 1,
+"sol": "It is an atmospheric column connecting a cloud to the earth."
+},
+{
+"q": "The eyewall of a cyclone has ________.",
+"o": ["No clouds", "Light rain", "Strongest winds and heavy rain", "Coldest air"],
+"a": 2,
+"sol": "The eyewall is the most violent part of the storm."
+},
+{
+"q": "The change of state from vapor to liquid ________ the atmosphere.",
+"o": ["Cools", "Heats", "Freezes", "Dries"],
+"a": 1,
+"sol": "Condensation releases latent heat into the surrounding air."
+},
+{
+"q": "Monsoon winds carry ________.",
+"o": ["Dust", "Water vapor/Rain", "Snow", "Smoke"],
+"a": 1,
+"sol": "The moisture they carry is the source of the monsoon rains."
+},
+{
+"q": "In a thunderstorm, rising air and falling water droplets create ________.",
+"o": ["Static electricity", "Gravity", "Magnetism", "Rainbows"],
+"a": 0,
+"sol": "This motion separates charges, leading to lightning."
+},
+{
+"q": "Satellites provide ________ for cyclone management.",
+"o": ["Early warnings", "Food", "Shelter", "Money"],
+"a": 0,
+"sol": "Visual tracking allows for timely evacuations."
+},
+{
+"q": "What is the speed of a 'Super Cyclone'?",
+"o": ["Below 50 km/h", "Above 225 km/h", "Exactly 100 km/h", "10 km/h"],
+"a": 1,
+"sol": "Super cyclones are classified by their extreme wind speeds."
+},
+{
+"q": "If you are outdoors during a storm, do not take shelter under a ________.",
+"o": ["Small building", "Isolated tall tree", "Car", "Bridge"],
+"a": 1,
+"sol": "Tall, isolated objects are prime targets for lightning strikes."
+},
+{
+"q": "Expansion of air on heating causes it to become ________.",
+"o": ["Heavier", "Denser", "Lighter", "Smaller"],
+"a": 2,
+"sol": "Volume increases while mass stays same, so density decreases."
+},
+{
+"q": "High speed winds over a roof create ________.",
+"o": ["Suction/Lift", "Downward force", "Static friction", "Magnetism"],
+"a": 0,
+"sol": "The pressure difference creates an upward lift (suction)."
+},
+{
+"q": "The center of a cyclone is ________.",
+"o": ["A cloudless eye", "A wall of clouds", "A tornado", "A waterfall"],
+"a": 0,
+"sol": "The eye is typically free of clouds due to sinking air."
+},
+{
+"q": "Tornadoes can form ________ a cyclone.",
+"o": ["Inside", "Outside", "Above", "Below"],
+"a": 0,
+"sol": "The unstable conditions in a cyclone can spawn tornadoes."
+},
+{
+"q": "The wind speed is measured in ________.",
+"o": ["m/s or km/h", "kg", "m²", "Pascal"],
+"a": 0,
+"sol": "Velocity units are used for wind speed."
+},
+{
+"q": "Which of the following is a natural hazard?",
+"o": ["Cooking", "Cyclone", "Driving", "Reading"],
+"a": 1,
+"sol": "A cyclone is a dangerous natural event."
+},
+{
+"q": "The rotation of a cyclone is caused by ________.",
+"o": ["Gravity", "Earth's rotation (Coriolis effect)", "The Sun", "Ocean waves"],
+"a": 1,
+"sol": "The Coriolis effect deflects moving air into a spiral."
+},
+{
+"q": "Which coast of India is less vulnerable to cyclones?",
+"o": ["East Coast", "West Coast", "South Coast", "None"],
+"a": 1,
+"sol": "The West Coast (Arabian Sea side) is relatively less vulnerable than the East Coast."
+},
+{
+"q": "Heavy rainfall during a cyclone can cause ________.",
+"o": ["Drought", "Floods", "Earthquakes", "Tsunamis"],
+"a": 1,
+"sol": "Excessive rain quickly leads to flooding in low-lying areas."
+},
+{
+"q": "In a cyclone, the air ________.",
+"o": ["Rises at the center", "Sinks at the center (eye)", "Stops moving", "Turns into ice"],
+"a": 1,
+"sol": "While air rises in the eyewall, it gently sinks in the eye itself."
+},
+{
+"q": "What should you not touch during a cyclone?",
+"o": ["Wet switches and fallen power lines", "Dry wood", "Books", "Your clothes"],
+"a": 0,
+"sol": "Wet conditions increase the risk of electrocution."
+},
+{
+"q": "When air is heated, it ________ more space.",
+"o": ["Needs less", "Occupies more", "Takes zero", "Shrinks into"],
+"a": 1,
+"sol": "Heating causes expansion."
+},
+{
+"q": "Pressure is force per unit ________.",
+"o": ["Mass", "Volume", "Area", "Time"],
+"a": 2,
+"sol": "P = F/A."
+},
+{
+"q": "Wind is generated due to ________ on the earth.",
+"o": ["Even heating", "Uneven heating", "No heating", "Moonlight"],
+"a": 1,
+"sol": "Temperature differences are the fundamental engine of wind."
+}
+]
