@@ -1,0 +1,152 @@
+[
+{
+"q": "Which plant tissue is responsible for the translocation of synthesized food (sucrose) from leaves to other parts?",
+"o": ["Xylem", "Phloem", "Parenchyma", "Collenchyma"],
+"a": 1,
+"sol": "Phloem is the specialized vascular tissue that transports organic nutrients, particularly sugars, produced during photosynthesis."
+},
+{
+"q": "During photosynthesis, the oxygen gas released as a byproduct comes from the splitting of which molecule?",
+"o": ["Carbon Dioxide", "Glucose", "Chlorophyll", "Water"],
+"a": 3,
+"sol": "Photolysis involves the splitting of water molecules (H2O) into hydrogen ions, electrons, and oxygen gas."
+},
+{
+"q": "What is the primary function of the tiny pores called 'stomata' found on the surface of leaves?",
+"o": ["Storage of starch", "Gaseous exchange and transpiration", "Absorption of minerals", "Mechanical support"],
+"a": 1,
+"sol": "Stomata allow for the entry of CO2 and exit of O2, and are also the main sites for water loss via transpiration."
+},
+{
+"q": "The upward movement of water and minerals from roots to leaves is primarily driven by which phenomenon?",
+"o": ["Transpiration pull", "Photosynthesis", "Phloem pressure", "Respiration"],
+"a": 0,
+"sol": "Transpiration pull creates a negative pressure (suction) that lifts the water column through the xylem vessels."
+},
+{
+"q": "In which cellular organelle does the process of photosynthesis take place?",
+"o": ["Mitochondria", "Nucleus", "Chloroplast", "Vacuole"],
+"a": 2,
+"sol": "Chloroplasts contain chlorophyll, which captures light energy to convert CO2 and water into glucose."
+},
+{
+"q": "Which of the following is NOT required for the process of photosynthesis?",
+"o": ["Sunlight", "Water", "Oxygen", "Carbon dioxide"],
+"a": 2,
+"sol": "Oxygen is a product of photosynthesis; the plant requires CO2, H2O, and light to initiate the process."
+},
+{
+"q": "Plants store their excess glucose in the form of which complex carbohydrate?",
+"o": ["Glycogen", "Starch", "Cellulose", "Sucrose"],
+"a": 1,
+"sol": "Plants convert excess glucose into starch for long-term energy storage in roots and seeds."
+},
+{
+"q": "Desert plants (CAM plants) differ from normal plants because they:",
+"o": ["Open stomata during the day", "Open stomata at night", "Do not perform photosynthesis", "Do not have roots"],
+"a": 1,
+"sol": "To prevent water loss in heat, desert plants open stomata at night to take in CO2 and store it as an intermediate acid."
+},
+{
+"q": "The opening and closing of the stomatal pore is a function of which specific cells?",
+"o": ["Epidermal cells", "Xylem vessels", "Guard cells", "Mesophyll cells"],
+"a": 2,
+"sol": "Guard cells swell (turgid) to open the pore and shrink (flaccid) to close it by regulating water movement."
+},
+{
+"q": "Which component of the vascular bundle consists of dead cells at maturity and acts like a hollow pipe?",
+"o": ["Xylem", "Phloem", "Sieve tubes", "Companion cells"],
+"a": 0,
+"sol": "Xylem tracheids and vessels are dead, lignified cells that provide a continuous path for water transport."
+},
+{
+"q": "What happens to the rate of transpiration when the surrounding humidity is very high?",
+"o": ["It increases", "It stays the same", "It decreases", "It stops completely"],
+"a": 2,
+"sol": "High humidity reduces the concentration gradient of water vapor between the leaf and air, slowing down evaporation."
+},
+{
+"q": "Translocation in phloem is an 'active' process. What does this mean?",
+"o": ["It happens by gravity", "It requires energy in the form of ATP", "It only moves downwards", "It occurs without any force"],
+"a": 1,
+"sol": "Loading of sugar into phloem requires energy (ATP) to move molecules against a concentration gradient."
+},
+{
+"q": "Identify the chemical equation that correctly represents photosynthesis:",
+"o": ["6CO2 + 6H2O -> C6H12O6 + 6O2", "C6H12O6 + 6O2 -> 6CO2 + 6H2O", "6CO2 + 6O2 -> C6H12O6 + 6H2O", "H2O + O2 -> Glucose + CO2"],
+"a": 0,
+"sol": "The standard balanced equation shows 6 molecules of CO2 and water forming one molecule of glucose and 6 of oxygen."
+},
+{
+"q": "What is the function of root hairs in a plant?",
+"o": ["Anchoring the plant to the ground", "Performing photosynthesis", "Increasing surface area for water absorption", "Protecting the root tip"],
+"a": 2,
+"sol": "Root hairs provide a massive surface area to maximize the absorption of water and minerals from the soil via osmosis."
+},
+{
+"q": "At night, since photosynthesis is not occurring, what is the major gas exchange activity in plants?",
+"o": ["Oxygen release", "Carbon dioxide release", "Nitrogen fixation", "No gas exchange"],
+"a": 1,
+"sol": "At night, plants only perform respiration, taking in Oxygen and releasing Carbon Dioxide."
+},
+{
+"q": "Which part of the plant is commonly known as the 'Food Factory'?",
+"o": ["Root", "Stem", "Leaf", "Flower"],
+"a": 2,
+"sol": "Leaves contain the highest concentration of chloroplasts where food is synthesized."
+},
+{
+"q": "Gaseous exchange in woody stems of old trees takes place through:",
+"o": ["Stomata", "Lenticels", "Xylem", "Casparian strips"],
+"a": 1,
+"sol": "Lenticels are small, lens-shaped openings in the bark of woody stems that allow gas exchange."
+},
+{
+"q": "Which ions play a crucial role in the movement of water into guard cells to open stomata?",
+"o": ["Calcium ions", "Iron ions", "Potassium ions", "Magnesium ions"],
+"a": 2,
+"sol": "The accumulation of Potassium ions (K+) in guard cells lowers their water potential, causing water to enter by osmosis."
+},
+{
+"q": "The movement of food in phloem is:",
+"o": ["Always downward", "Always upward", "Bidirectional", "Unidirectional"],
+"a": 2,
+"sol": "Phloem can move nutrients both upwards (to growing buds/fruits) and downwards (to roots for storage)."
+},
+{
+"q": "What prevents the collapse of xylem vessels under the high tension of the transpiration pull?",
+"o": ["Cytoplasm", "Cellulose only", "Lignin", "Air pressure"],
+"a": 2,
+"sol": "Lignin is a strong, waterproof substance that reinforces the cell walls of xylem, preventing collapse."
+},
+{
+"q": "In which form is nitrogen usually absorbed by plants from the soil?",
+"o": ["Atmospheric N2 gas", "Nitrates and Nitrites", "Amino acids", "Urea only"],
+"a": 1,
+"sol": "Plants cannot use N2 gas directly; they absorb nitrogen in inorganic forms like nitrates or nitrites."
+},
+{
+"q": "The loss of water in the form of droplets from the margins of leaves in some herbaceous plants is called:",
+"o": ["Transpiration", "Evaporation", "Guttation", "Excretion"],
+"a": 2,
+"sol": "Guttation occurs due to root pressure when transpiration is low and soil moisture is high."
+},
+{
+"q": "What is the role of Magnesium in plants?",
+"o": ["Transport of water", "Core component of Chlorophyll", "Opening of stomata", "Root growth"],
+"a": 1,
+"sol": "Magnesium is the central atom in the chlorophyll molecule, essential for absorbing light."
+},
+{
+"q": "Autotrophic nutrition refers to:",
+"o": ["Obtaining food from others", "Organisms making their own food", "Breaking down dead matter", "Parasitic behavior"],
+"a": 1,
+"sol": "Autotrophs (like plants) use simple inorganic substances to synthesize complex organic food."
+},
+{
+"q": "Which force is mainly responsible for water movement in small plants or during the night?",
+"o": ["Root Pressure", "Transpiration pull", "Magnetic force", "Atmospheric pressure"],
+"a": 0,
+"sol": "When transpiration is low, root pressure (generated by active transport of ions) helps push water up the stem."
+}
+]
