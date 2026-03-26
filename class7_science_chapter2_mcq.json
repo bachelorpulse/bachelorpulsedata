@@ -1,0 +1,602 @@
+[
+{
+"q": "Which of these substances tastes sour?",
+"o": ["Baking soda", "Lemon juice", "Soap solution", "Common salt"],
+"a": 1,
+"sol": "Sour taste is a characteristic property of acidic substances like lemon juice."
+},
+{
+"q": "The term 'Acid' comes from the Latin word 'Acere', which means:",
+"o": ["Sweet", "Bitter", "Sour", "Salty"],
+"a": 2,
+"sol": "Acere means sour, which is why sour substances are called acids."
+},
+{
+"q": "What is the nature of a substance that tastes bitter and feels soapy to touch?",
+"o": ["Acidic", "Neutral", "Basic", "Salty"],
+"a": 2,
+"sol": "Bases are generally bitter in taste and have a slippery or soapy feel."
+},
+{
+"q": "Which of the following is a natural indicator?",
+"o": ["Methyl orange", "Phenolphthalein", "Turmeric", "None of these"],
+"a": 2,
+"sol": "Turmeric is a natural substance used to test if a solution is acidic or basic."
+},
+{
+"q": "Litmus is extracted from which organism?",
+"o": ["Fungi", "Algae", "Lichens", "Bacteria"],
+"a": 2,
+"sol": "Litmus, a very common indicator, is obtained from lichens."
+},
+{
+"q": "What color does blue litmus turn when added to an acidic solution?",
+"o": ["Green", "Yellow", "Red", "No change"],
+"a": 2,
+"sol": "Acids turn blue litmus paper red."
+},
+{
+"q": "If a solution turns red litmus blue, its nature is:",
+"o": ["Acidic", "Basic", "Neutral", "Pure water"],
+"a": 1,
+"sol": "Basic substances have the property of turning red litmus blue."
+},
+{
+"q": "Distilled water is:",
+"o": ["Acidic", "Basic", "Neutral", "Saline"],
+"a": 2,
+"sol": "Pure or distilled water does not change the color of litmus, making it neutral."
+},
+{
+"q": "Which acid is present in curd?",
+"o": ["Citric acid", "Lactic acid", "Acetic acid", "Oxalic acid"],
+"a": 1,
+"sol": "Curd contains lactic acid produced by bacteria."
+},
+{
+"q": "Vinegar contains which of these acids?",
+"o": ["Formic acid", "Ascorbic acid", "Acetic acid", "Tartaric acid"],
+"a": 2,
+"sol": "Acetic acid is the main component of vinegar."
+},
+{
+"q": "Ant's sting contains which acid?",
+"o": ["Hydrochloric acid", "Formic acid", "Sulfuric acid", "Nitric acid"],
+"a": 1,
+"sol": "Ants inject formic acid into the skin when they bite/sting."
+},
+{
+"q": "Citrus fruits like oranges and lemons contain:",
+"o": ["Tartaric acid", "Oxalic acid", "Citric acid", "Lactic acid"],
+"a": 2,
+"sol": "Citrus fruits are rich in citric acid."
+},
+{
+"q": "Which of these is found in Window Cleaner?",
+"o": ["Calcium hydroxide", "Ammonium hydroxide", "Sodium hydroxide", "Magnesium hydroxide"],
+"a": 1,
+"sol": "Ammonium hydroxide is commonly used in household window cleaning solutions."
+},
+{
+"q": "The base found in Lime Water is:",
+"o": ["Potassium hydroxide", "Sodium hydroxide", "Calcium hydroxide", "Magnesium hydroxide"],
+"a": 2,
+"sol": "Lime water is a solution of calcium hydroxide."
+},
+{
+"q": "Milk of Magnesia is used as an antacid. It contains:",
+"o": ["Magnesium hydroxide", "Calcium oxide", "Sodium carbonate", "Citric acid"],
+"a": 0,
+"sol": "Magnesium hydroxide helps neutralize excess stomach acid."
+},
+{
+"q": "What color does turmeric paper turn in a basic solution?",
+"o": ["Yellow", "Red", "Blue", "Green"],
+"a": 1,
+"sol": "Turmeric remains yellow in acid but turns reddish-brown/red in base."
+},
+{
+"q": "China rose indicator turns acidic solutions to:",
+"o": ["Light green", "Dark pink (Magenta)", "Blue", "Colorless"],
+"a": 1,
+"sol": "China rose turns dark pink in acids and green in bases."
+},
+{
+"q": "In a basic solution, China rose indicator turns:",
+"o": ["Magenta", "Green", "Red", "Yellow"],
+"a": 1,
+"sol": "Base + China Rose = Green color."
+},
+{
+"q": "When an acid and a base are mixed in right amounts, they form:",
+"o": ["Only Water", "Only Salt", "Salt and Water", "A stronger acid"],
+"a": 2,
+"sol": "This is called a neutralisation reaction, producing salt and water."
+},
+{
+"q": "The reaction between an acid and a base is known as:",
+"o": ["Crystallisation", "Neutralisation", "Oxidation", "Fermentation"],
+"a": 1,
+"sol": "Neutralisation is the process where acid and base cancel each other's effect."
+},
+{
+"q": "Heat is always ________ in a neutralisation reaction.",
+"o": ["Absorbed", "Evolved (Produced)", "Destroyed", "Not involved"],
+"a": 1,
+"sol": "Neutralisation is an exothermic reaction, meaning it produces heat."
+},
+{
+"q": "Which indicator is synthetic (man-made)?",
+"o": ["Litmus", "Turmeric", "Phenolphthalein", "China Rose"],
+"a": 2,
+"sol": "Phenolphthalein is a laboratory-made chemical indicator."
+},
+{
+"q": "In an acidic solution, Phenolphthalein remains:",
+"o": ["Pink", "Colorless", "Red", "Blue"],
+"a": 1,
+"sol": "Phenolphthalein is colorless in acidic and neutral solutions."
+},
+{
+"q": "In a basic solution, Phenolphthalein turns:",
+"o": ["Yellow", "Colorless", "Pink", "Orange"],
+"a": 2,
+"sol": "Basic solutions turn phenolphthalein pink."
+},
+{
+"q": "Excessive use of chemical fertilizers makes the soil:",
+"o": ["Basic", "Neutral", "Acidic", "Fertile"],
+"a": 2,
+"sol": "Chemical fertilizers often increase the acidity of the soil."
+},
+{
+"q": "If the soil is too acidic, it is treated with:",
+"o": ["Organic matter", "Quick lime (Calcium oxide)", "Vinegar", "Lemon juice"],
+"a": 1,
+"sol": "Bases like quick lime or slaked lime are used to treat acidic soil."
+},
+{
+"q": "Organic matter (compost) is added to soil when it is too:",
+"o": ["Acidic", "Basic", "Dry", "Wet"],
+"a": 1,
+"sol": "Organic matter releases acids which neutralize the basic nature of the soil."
+},
+{
+"q": "Factory wastes are often acidic. Before discharging into water bodies, they are treated with:",
+"o": ["Acidic substances", "Basic substances", "Salt", "Water"],
+"a": 1,
+"sol": "Bases are added to neutralize the harmful acids in factory waste."
+},
+{
+"q": "The effect of an ant sting can be neutralized by rubbing:",
+"o": ["Lemon juice", "Moist baking soda", "Vinegar", "Formic acid"],
+"a": 1,
+"sol": "Baking soda (a base) neutralizes the formic acid from the sting."
+},
+{
+"q": "Our stomach produces which acid to help digest food?",
+"o": ["Sulfuric acid", "Nitric acid", "Hydrochloric acid", "Acetic acid"],
+"a": 2,
+"sol": "HCl (Hydrochloric acid) is produced in the stomach for digestion."
+},
+{
+"q": "Indigestion caused by too much acid in the stomach is called:",
+"o": ["Acidity", "Neutrality", "Basicity", "Salinity"],
+"a": 0,
+"sol": "Excessive HCl leads to a painful condition known as acidity."
+},
+{
+"q": "Calamine solution contains:",
+"o": ["Sodium carbonate", "Zinc carbonate", "Magnesium hydroxide", "Calcium chloride"],
+"a": 1,
+"sol": "Zinc carbonate is a mild base used to treat skin irritations from stings."
+},
+{
+"q": "Salt formed during neutralisation can be:",
+"o": ["Acidic", "Basic", "Neutral", "Any of the above"],
+"a": 3,
+"sol": "Depending on the strength of acid and base used, the resulting salt can vary in nature."
+},
+{
+"q": "Which of the following does not change the color of either red or blue litmus?",
+"o": ["Lemonade", "Sugar solution", "Baking soda solution", "Vinegar"],
+"a": 1,
+"sol": "Sugar solution is neutral, so it has no effect on litmus."
+},
+{
+"q": "Tartaric acid is found in:",
+"o": ["Grapes and Unripe mangoes", "Apples", "Tomatoes", "Tea"],
+"a": 0,
+"sol": "Tartaric acid gives the characteristic tang to grapes and tamarind."
+},
+{
+"q": "Amla is a rich source of Vitamin C, which is also called:",
+"o": ["Citric acid", "Oxalic acid", "Ascorbic acid", "Formic acid"],
+"a": 2,
+"sol": "Vitamin C is chemically known as Ascorbic acid."
+},
+{
+"q": "Oxalic acid is commonly found in:",
+"o": ["Spinach", "Tamarind", "Ant sting", "Vinegar"],
+"a": 0,
+"sol": "Spinach contains oxalic acid."
+},
+{
+"q": "What is the common name of Sodium Hydrogen Carbonate?",
+"o": ["Common Salt", "Baking Soda", "Washing Soda", "Quick Lime"],
+"a": 1,
+"sol": "Baking soda is chemically Sodium Hydrogen Carbonate (a base)."
+},
+{
+"q": "Which of these will turn red litmus blue?",
+"o": ["Orange juice", "Soap solution", "Vinegar", "Curd"],
+"a": 1,
+"sol": "Soap is basic, so it turns red litmus blue."
+},
+{
+"q": "A neutral substance is one which is:",
+"o": ["Both acidic and basic", "Neither acidic nor basic", "Highly corrosive", "Tasteless"],
+"a": 1,
+"sol": "Neutral substances have balanced properties and don't affect indicators like litmus."
+},
+{
+"q": "Acid rain is caused by which of these gases?",
+"o": ["Carbon dioxide", "Sulphur dioxide", "Nitrogen dioxide", "All of these"],
+"a": 3,
+"sol": "These gases dissolve in rain to form carbonic, sulphuric, and nitric acids."
+},
+{
+"q": "Acid rain can damage:",
+"o": ["Buildings", "Historical monuments", "Plants and animals", "All of these"],
+"a": 3,
+"sol": "Acid rain is highly corrosive and harmful to both living and non-living things."
+},
+{
+"q": "Blue litmus paper is dipped in a solution. It remains blue. What is the nature of the solution?",
+"o": ["Only Basic", "Only Neutral", "Either Basic or Neutral", "Acidic"],
+"a": 2,
+"sol": "Acids turn blue litmus red. If it stays blue, the solution is not acidic."
+},
+{
+"q": "What happens when you add an acid to a base?",
+"o": ["They explode", "They neutralize each other", "The mixture becomes very acidic", "Nothing happens"],
+"a": 1,
+"sol": "They cancel out each other's chemical properties."
+},
+{
+"q": "Which of these is used to test a substance?",
+"o": ["Indicator", "Insulator", "Inhibitor", "Integrator"],
+"a": 0,
+"sol": "Indicators change color to tell us the nature of a substance."
+},
+{
+"q": "The solution of which substance in water is called 'Lime Water'?",
+"o": ["Lemon", "Calcium hydroxide", "Sodium chloride", "Baking soda"],
+"a": 1,
+"sol": "Lime water is Ca(OH)2 solution."
+},
+{
+"q": "Which of these acids is mineral (man-made/strong) acid?",
+"o": ["Citric acid", "Hydrochloric acid", "Acetic acid", "Lactic acid"],
+"a": 1,
+"sol": "HCl is a strong mineral acid, unlike the organic acids found in food."
+},
+{
+"q": "Baking soda is used to treat ant stings because it is a:",
+"o": ["Strong acid", "Weak base", "Neutral salt", "Strong base"],
+"a": 1,
+"sol": "It's a mild base that is safe for skin and neutralizes the acid."
+},
+{
+"q": "Which of these will feel slippery like soap?",
+"o": ["Vinegar", "Tamarind juice", "Baking soda solution", "Lemonade"],
+"a": 2,
+"sol": "Baking soda is basic, and bases feel slippery."
+},
+{
+"q": "When we have acidity in the stomach, we take 'Antacids'. These are:",
+"o": ["Acidic", "Basic", "Neutral", "Spicy"],
+"a": 1,
+"sol": "Antacids are bases that neutralize the excess acid in the stomach."
+},
+{
+"q": "What is the color of Litmus in distilled water?",
+"o": ["Blue", "Red", "Mauve (Purple)", "Colorless"],
+"a": 2,
+"sol": "In neutral water, litmus has a mauve or purple color."
+},
+{
+"q": "Magnesium hydroxide is found in:",
+"o": ["Window cleaner", "Soap", "Milk of magnesia", "Lime water"],
+"a": 2,
+"sol": "Milk of magnesia is a suspension of magnesium hydroxide."
+},
+{
+"q": "Which of the following will not change the color of turmeric?",
+"o": ["Soap solution", "Lemon juice", "Lime water", "Baking soda solution"],
+"a": 1,
+"sol": "Turmeric only changes color (to red) in basic solutions. Lemon juice is acidic."
+},
+{
+"q": "If you drop soap solution on a turmeric stain on a white shirt, the stain turns:",
+"o": ["Blue", "Red", "Green", "White"],
+"a": 1,
+"sol": "Soap is basic, and it turns the yellow turmeric red."
+},
+{
+"q": "Which of these is a neutralisation reaction in daily life?",
+"o": ["Digestion", "Treating an ant sting", "Burning wood", "Photosynthesis"],
+"a": 1,
+"sol": "Applying base to an acid sting is a classic example."
+},
+{
+"q": "Sodium hydroxide + Hydrochloric acid gives:",
+"o": ["Sodium chloride + Water", "Sodium carbonate + Water", "Hydrogen gas", "No reaction"],
+"a": 0,
+"sol": "NaOH + HCl -> NaCl (Salt) + H2O (Water)."
+},
+{
+"q": "The salts of which acid are called 'Acetates'?",
+"o": ["Citric acid", "Acetic acid", "Formic acid", "Oxalic acid"],
+"a": 1,
+"sol": "Acetic acid forms acetate salts."
+},
+{
+"q": "Tamarind contains:",
+"o": ["Acetic acid", "Tartaric acid", "Lactic acid", "Citric acid"],
+"a": 1,
+"sol": "Tartaric acid gives tamarind its sour taste."
+},
+{
+"q": "Which of these is a base?",
+"o": ["Curd", "Vinegar", "Sodium hydroxide", "Sugar"],
+"a": 2,
+"sol": "Sodium hydroxide (Caustic soda) is a strong base."
+},
+{
+"q": "A liquid is found to turn blue litmus red. It is likely:",
+"o": ["Soap", "Baking soda", "Orange juice", "Salt water"],
+"a": 2,
+"sol": "Orange juice is acidic, which turns blue litmus red."
+},
+{
+"q": "Potassium hydroxide is used in making:",
+"o": ["Vinegar", "Liquid Soaps", "Pickles", "Curd"],
+"a": 1,
+"sol": "KOH is a base used in the production of soft/liquid soaps."
+},
+{
+"q": "Neutralisation of soil is important for:",
+"o": ["Plant growth", "Making soil red", "Killing all insects", "Increasing water"],
+"a": 0,
+"sol": "Plants do not grow well if the soil is too acidic or too basic."
+},
+{
+"q": "The gas that turns lime water milky is:",
+"o": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+"a": 2,
+"sol": "CO2 reacts with lime water to form calcium carbonate (milky appearance)."
+},
+{
+"q": "Acids are ________ in nature.",
+"o": ["Non-corrosive", "Corrosive", "Slippery", "Sweet"],
+"a": 1,
+"sol": "Strong acids can burn skin and damage surfaces."
+},
+{
+"q": "Which of these is an organic acid?",
+"o": ["Sulfuric acid", "Nitric acid", "Citric acid", "Hydrochloric acid"],
+"a": 2,
+"sol": "Organic acids occur naturally in plants and animals."
+},
+{
+"q": "Salt water is generally:",
+"o": ["Acidic", "Basic", "Neutral", "Gaseous"],
+"a": 2,
+"sol": "Common salt (NaCl) solution is neutral."
+},
+{
+"q": "Sodium hydroxide is also known as:",
+"o": ["Baking soda", "Slaked lime", "Caustic soda", "Table salt"],
+"a": 2,
+"sol": "It is a very strong and corrosive base."
+},
+{
+"q": "What is the indicator in the 'Litmus Paper'?",
+"o": ["Turmeric", "Lichen dye", "Rose petal", "Chemical dye"],
+"a": 1,
+"sol": "Litmus is a natural dye from lichens."
+},
+{
+"q": "To test the nature of a solid substance using paper indicators, we should first:",
+"o": ["Heat it", "Make its solution in water", "Dry it", "Freeze it"],
+"a": 1,
+"sol": "Indicators work by reacting with ions in a liquid/solution form."
+},
+{
+"q": "Which color is produced when Phenolphthalein is added to Lime water?",
+"o": ["No change", "Pink", "Red", "Yellow"],
+"a": 1,
+"sol": "Lime water is basic, so it turns phenolphthalein pink."
+},
+{
+"q": "The reaction between Vinegar and Baking Soda produces which gas?",
+"o": ["Hydrogen", "Oxygen", "Carbon dioxide", "Nitrogen"],
+"a": 2,
+"sol": "Acid (vinegar) + Carbonate (baking soda) -> CO2 gas + salt + water."
+},
+{
+"q": "Which of these acids is present in apples?",
+"o": ["Malic acid", "Citric acid", "Formic acid", "Lactic acid"],
+"a": 0,
+"sol": "Apples primarily contain malic acid."
+},
+{
+"q": "Acids found in food are generally:",
+"o": ["Strong acids", "Weak acids", "Bases", "Dangerous"],
+"a": 1,
+"sol": "Weak acids like citric or acetic acid are safe to consume in small amounts."
+},
+{
+"q": "Which of the following is used to remove acidity of the soil?",
+"o": ["Slaked lime", "Organic manure", "Vinegar", "Nitric acid"],
+"a": 0,
+"sol": "Slaked lime (a base) neutralizes soil acidity."
+},
+{
+"q": "When China rose indicator is added to soap solution, it turns:",
+"o": ["Magenta", "Green", "Colorless", "Blue"],
+"a": 1,
+"sol": "Soap is basic, so China rose turns green."
+},
+{
+"q": "If you touch a base with your fingers, it feels:",
+"o": ["Rough", "Sticky", "Slippery", "Prickly"],
+"a": 2,
+"sol": "The 'soapy' or slippery feel is a physical property of bases."
+},
+{
+"q": "Which of these is used as a test for Carbon Dioxide?",
+"o": ["Litmus paper", "Lime water", "Turmeric", "Phenolphthalein"],
+"a": 1,
+"sol": "Lime water turns milky in the presence of CO2."
+},
+{
+"q": "Which of these is a salt?",
+"o": ["Hydrochloric acid", "Sodium hydroxide", "Sodium chloride", "Lemon juice"],
+"a": 2,
+"sol": "Sodium chloride (Common salt) is formed from the neutralisation of HCl and NaOH."
+},
+{
+"q": "Neutralisation reaction is used to treat:",
+"o": ["Stomach ache (indigestion)", "Ant bites", "Factory waste", "All of these"],
+"a": 3,
+"sol": "Neutralisation has many practical applications in daily life."
+},
+{
+"q": "What is the pH nature of an acidic substance?",
+"o": ["Below 7", "Exactly 7", "Above 7", "Zero"],
+"a": 0,
+"sol": "Acids have a pH less than 7."
+},
+{
+"q": "Which gas is evolved when an acid reacts with a metal?",
+"o": ["Carbon dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+"a": 2,
+"sol": "Metals react with acids to produce salt and hydrogen gas."
+},
+{
+"q": "Bases turn phenolphthalein ________.",
+"o": ["Blue", "Colorless", "Pink", "Yellow"],
+"a": 2,
+"sol": "Pink is the characteristic color of phenolphthalein in base."
+},
+{
+"q": "What happens to the temperature of the reaction mixture during neutralisation?",
+"o": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+"a": 1,
+"sol": "It's an exothermic reaction, so the temperature rises."
+},
+{
+"q": "Which of these is a weak base?",
+"o": ["Sodium hydroxide", "Potassium hydroxide", "Ammonium hydroxide", "None of these"],
+"a": 2,
+"sol": "Ammonium hydroxide is a common weak base used in cleaners."
+},
+{
+"q": "Curd is sour due to the presence of:",
+"o": ["Citric acid", "Lactic acid", "Acetic acid", "Tartaric acid"],
+"a": 1,
+"sol": "Lactic acid gives curd its sourness."
+},
+{
+"q": "Which of the following does not contain an acid?",
+"o": ["Lemon", "Vinegar", "Soap", "Curd"],
+"a": 2,
+"sol": "Soap is basic, not acidic."
+},
+{
+"q": "What color is a neutral solution in China rose indicator?",
+"o": ["Green", "Magenta", "No change/Light pink", "Blue"],
+"a": 2,
+"sol": "China rose doesn't show a strong color change in neutral solutions."
+},
+{
+"q": "When a drop of lemon juice is put on blue litmus paper, it turns:",
+"o": ["Red", "Blue", "Green", "Yellow"],
+"a": 0,
+"sol": "Lemon juice is acidic, turning blue litmus red."
+},
+{
+"q": "The substances used to test whether a substance is acidic or basic are called:",
+"o": ["Reactants", "Products", "Indicators", "Catalysts"],
+"a": 2,
+"sol": "Indicators change their color based on the pH of the substance."
+},
+{
+"q": "Which acid is found in spinach?",
+"o": ["Acetic acid", "Citric acid", "Oxalic acid", "Formic acid"],
+"a": 2,
+"sol": "Spinach is a source of oxalic acid."
+},
+{
+"q": "Which of these is a neutralisation reaction?",
+"o": ["NaOH + HCl", "Mg + O2", "C + O2", "Fe + H2O"],
+"a": 0,
+"sol": "Base (NaOH) + Acid (HCl) is neutralisation."
+},
+{
+"q": "If we mix an equal amount of strong acid and strong base, the resulting solution is:",
+"o": ["Strongly acidic", "Strongly basic", "Neutral", "Corrosive"],
+"a": 2,
+"sol": "They completely neutralize each other to form a neutral solution."
+},
+{
+"q": "Acids ________ red litmus paper.",
+"o": ["Turn blue", "Turn yellow", "Do not change", "Turn green"],
+"a": 2,
+"sol": "Acids turn blue litmus red, but they have no effect on red litmus."
+},
+{
+"q": "Bases ________ blue litmus paper.",
+"o": ["Turn red", "Turn yellow", "Do not change", "Turn pink"],
+"a": 2,
+"sol": "Bases turn red litmus blue, but they have no effect on blue litmus."
+},
+{
+"q": "Which of these is used as a food preservative?",
+"o": ["Vinegar", "Lime water", "Milk of magnesia", "Soap"],
+"a": 0,
+"sol": "Acetic acid in vinegar prevents spoilage of pickles and other foods."
+},
+{
+"q": "Ascorbic acid is commonly known as:",
+"o": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+"a": 2,
+"sol": "Vitamin C is essential for immunity and skin health."
+},
+{
+"q": "A solution that turns turmeric red is:",
+"o": ["Acidic", "Basic", "Neutral", "Water"],
+"a": 1,
+"sol": "Only basic solutions turn yellow turmeric into a reddish color."
+},
+{
+"q": "Salt is produced by the reaction of:",
+"o": ["Two acids", "Two bases", "An acid and a base", "An acid and water"],
+"a": 2,
+"sol": "Neutralisation is the fundamental reaction to produce salts."
+},
+{
+"q": "Which of these is a property of an acid?",
+"o": ["Bitter taste", "Soapy feel", "Sour taste", "Turns red litmus blue"],
+"a": 2,
+"sol": "Acids are sour and turn blue litmus red."
+},
+{
+"q": "Why should we not taste unknown chemicals in a lab?",
+"o": ["They might be salty", "They can be poisonous or corrosive", "They might be sweet", "They are expensive"],
+"a": 1,
+"sol": "Safety is paramount; many laboratory acids and bases are dangerous."
+}
+]
