@@ -1,0 +1,602 @@
+[
+{
+"q": "Which planet is known as the 'Blue Planet' due to the presence of water?",
+"o": ["Mars", "Venus", "Earth", "Neptune"],
+"a": 2,
+"sol": "Earth appears blue from space because about 71% of its surface is covered by water."
+},
+{
+"q": "The Earth is the ________ planet from the Sun.",
+"o": ["Second", "Third", "Fourth", "First"],
+"a": 1,
+"sol": "Earth follows Mercury and Venus in the solar system's order."
+},
+{
+"q": "Which gas is most abundant in Earth's atmosphere?",
+"o": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+"a": 2,
+"sol": "Nitrogen makes up approximately 78% of the Earth's atmosphere."
+},
+{
+"q": "The protection layer that filters harmful UV radiation is:",
+"o": ["The Ozone layer", "The Exosphere", "The Mantle", "The Hydrosphere"],
+"a": 0,
+"sol": "The ozone layer in the stratosphere absorbs most of the Sun's harmful ultraviolet radiation."
+},
+{
+"q": "What is the primary reason Earth can sustain life unlike its neighbors?",
+"o": ["Presence of liquid water", "Its distance from the Sun", "Suitable atmosphere", "All of the above"],
+"a": 3,
+"sol": "Liquid water, moderate temperature, and a protective atmosphere are all essential for life."
+},
+{
+"q": "The 'Goldilocks Zone' refers to:",
+"o": ["The center of the Earth", "The habitable zone around a star", "The peak of Mount Everest", "The depths of the ocean"],
+"a": 1,
+"sol": "It is the region where temperatures are 'just right' for liquid water to exist on a planet's surface."
+},
+{
+"q": "Earth's natural satellite is:",
+"o": ["Titan", "Phobos", "The Moon", "Europa"],
+"a": 2,
+"sol": "The Moon is Earth's only permanent natural satellite."
+},
+{
+"q": "The spinning of the Earth on its own axis is called:",
+"o": ["Revolution", "Rotation", "Evolution", "Orbiting"],
+"a": 1,
+"sol": "Rotation causes day and night and takes about 24 hours."
+},
+{
+"q": "How long does it take for Earth to complete one revolution around the Sun?",
+"o": ["24 hours", "30 days", "365.25 days", "12 hours"],
+"a": 2,
+"sol": "One revolution defines a year and causes the change of seasons."
+},
+{
+"q": "Which layer of the Earth is the hottest?",
+"o": ["Crust", "Mantle", "Outer Core", "Inner Core"],
+"a": 3,
+"sol": "The inner core is a solid ball of iron and nickel with temperatures reaching up to 5,200°C."
+},
+{
+"q": "The percentage of oxygen in Earth's atmosphere is approximately:",
+"o": ["78%", "21%", "0.03%", "1%"],
+"a": 1,
+"sol": "Oxygen is the second most abundant gas, vital for the respiration of living organisms."
+},
+{
+"q": "The Earth is slightly flattened at the poles; this shape is called a:",
+"o": ["Perfect sphere", "Cube", "Geoid", "Cylinder"],
+"a": 2,
+"sol": "A Geoid shape describes Earth's unique 'Earth-shaped' appearance."
+},
+{
+"q": "Which of these is NOT a terrestrial planet?",
+"o": ["Mars", "Jupiter", "Earth", "Mercury"],
+"a": 1,
+"sol": "Jupiter is a gas giant, whereas terrestrial planets are rocky."
+},
+{
+"q": "The blanket of air that surrounds the Earth is the:",
+"o": ["Biosphere", "Lithosphere", "Atmosphere", "Hydrosphere"],
+"a": 2,
+"sol": "The atmosphere provides the air we breathe and regulates temperature."
+},
+{
+"q": "What keeps the Earth's atmosphere in place?",
+"o": ["Magnetism", "Gravity", "Solar wind", "The Moon"],
+"a": 1,
+"sol": "Earth's gravitational pull prevents the atmospheric gases from escaping into space."
+},
+{
+"q": "The rigid outer part of the Earth, consisting of the crust and upper mantle, is the:",
+"o": ["Hydrosphere", "Asthenosphere", "Lithosphere", "Mesosphere"],
+"a": 2,
+"sol": "The lithosphere includes the landmasses and the ocean floor."
+},
+{
+"q": "The Earth's magnetic field is generated in the:",
+"o": ["Crust", "Atmosphere", "Outer Core", "Mantle"],
+"a": 2,
+"sol": "The movement of liquid iron in the outer core creates the magnetic field."
+},
+{
+"q": "What is the average surface temperature of the Earth?",
+"o": ["-50°C", "15°C", "100°C", "0°C"],
+"a": 1,
+"sol": "The greenhouse effect helps maintain a global average of about 15°C (59°F)."
+},
+{
+"q": "Which gas is used by plants for photosynthesis?",
+"o": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+"a": 2,
+"sol": "Plants absorb CO2 to create food and release oxygen."
+},
+{
+"q": "The 'Greenhouse Effect' primarily involves which gas?",
+"o": ["Argon", "Carbon dioxide", "Oxygen", "Hydrogen"],
+"a": 1,
+"sol": "CO2 traps heat, preventing it from escaping back into space."
+},
+{
+"q": "What protects the Earth from harmful solar winds?",
+"o": ["The Moon", "The Magnetosphere", "The Oceans", "The Clouds"],
+"a": 1,
+"sol": "The Earth's magnetic field (magnetosphere) deflects most of the solar wind."
+},
+{
+"q": "The most abundant element in Earth's crust is:",
+"o": ["Iron", "Silicon", "Oxygen", "Aluminum"],
+"a": 2,
+"sol": "Oxygen makes up about 46.6% of the Earth's crust by weight."
+},
+{
+"q": "The tilt of Earth's axis is approximately ________ degrees.",
+"o": ["90", "45", "23.5", "0"],
+"a": 2,
+"sol": "This tilt is responsible for the different seasons as Earth orbits the Sun."
+},
+{
+"q": "Which part of Earth is composed of 71% water?",
+"o": ["The Atmosphere", "The Lithosphere", "The Hydrosphere", "The Biosphere"],
+"a": 2,
+"sol": "The hydrosphere includes oceans, lakes, rivers, and underground water."
+},
+{
+"q": "Biosphere is the narrow zone where ________ interact.",
+"o": ["Land and Water only", "Air and Water only", "Land, Air, and Water", "Rocks and Lava"],
+"a": 2,
+"sol": "The biosphere is where life exists, supported by the other three spheres."
+},
+{
+"q": "The process by which water changes from liquid to gas is:",
+"o": ["Precipitation", "Condensation", "Evaporation", "Freezing"],
+"a": 2,
+"sol": "Evaporation is a key part of the water cycle, driven by solar heat."
+},
+{
+"q": "Earth is the ________ densest planet in the solar system.",
+"o": ["Least", "Second", "Most", "Third"],
+"a": 2,
+"sol": "Earth has the highest density of all planets due to its metallic core and rocky composition."
+},
+{
+"q": "Which of these is a biotic component of Earth?",
+"o": ["Rocks", "Plants", "Sunlight", "Water"],
+"a": 1,
+"sol": "Biotic components are living things."
+},
+{
+"q": "The movement of tectonic plates occurs in the:",
+"o": ["Atmosphere", "Inner Core", "Lithosphere", "Exosphere"],
+"a": 2,
+"sol": "Plates move on the semi-liquid asthenosphere beneath the lithosphere."
+},
+{
+"q": "What is the primary source of energy for the Earth?",
+"o": ["The Moon", "Volcanoes", "The Sun", "Electricity"],
+"a": 2,
+"sol": "The Sun provides the light and heat necessary for life and weather."
+},
+{
+"q": "Which gas protects us from the Sun's infrared rays?",
+"o": ["Ozone", "Water Vapor", "Oxygen", "Nitrogen"],
+"a": 1,
+"sol": "Water vapor and CO2 are the main absorbers of infrared (heat) radiation."
+},
+{
+"q": "The Earth's orbit is ________ in shape.",
+"o": ["Perfectly circular", "Elliptical", "Square", "Spiral"],
+"a": 1,
+"sol": "An elliptical orbit means Earth's distance from the Sun varies slightly."
+},
+{
+"q": "The day on which the Sun is directly over the Equator is called:",
+"o": ["Solstice", "Equinox", "Eclipse", "Aphelion"],
+"a": 1,
+"sol": "An equinox occurs twice a year when day and night are of equal length."
+},
+{
+"q": "Which layer of the atmosphere is where weather occurs?",
+"o": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+"a": 1,
+"sol": "The troposphere is the lowest layer and contains most of the atmosphere's mass."
+},
+{
+"q": "Liquid water is found on Earth because of its:",
+"o": ["High gravity", "Distance from the Sun", "Magnetic field", "Rotation speed"],
+"a": 1,
+"sol": "Earth's position allows for a temperature range where water doesn't entirely freeze or boil."
+},
+{
+"q": "Which element makes up the majority of the Earth's core?",
+"o": ["Silicon", "Magnesium", "Iron", "Oxygen"],
+"a": 2,
+"sol": "The core is primarily iron and nickel."
+},
+{
+"q": "Earth's gravity is ________ than the Moon's gravity.",
+"o": ["Lighter", "Six times stronger", "Equal", "Ten times weaker"],
+"a": 1,
+"sol": "Earth's larger mass creates a stronger gravitational pull."
+},
+{
+"q": "The thickest layer of the Earth is the:",
+"o": ["Crust", "Mantle", "Inner Core", "Outer Core"],
+"a": 1,
+"sol": "The mantle makes up about 84% of Earth's total volume."
+},
+{
+"q": "Day and night are caused by Earth's:",
+"o": ["Revolution", "Axis tilt", "Rotation", "Distance from the Moon"],
+"a": 2,
+"sol": "As Earth rotates, different parts face the Sun."
+},
+{
+"q": "Which planet is often called Earth's 'sister planet' due to its similar size?",
+"o": ["Mars", "Mercury", "Venus", "Neptune"],
+"a": 2,
+"sol": "Venus is similar in size and mass but has a very different atmosphere."
+},
+{
+"q": "The term 'Unique Planet' is given to Earth because:",
+"o": ["It has a moon", "It supports life", "It is round", "It has volcanoes"],
+"a": 1,
+"sol": "As far as we know, Earth is the only planet that hosts living organisms."
+},
+{
+"q": "The study of the Earth's physical structure and substance is:",
+"o": ["Biology", "Geology", "Astronomy", "Meteorology"],
+"a": 1,
+"sol": "Geology deals with the solid Earth and the processes by which it changes."
+},
+{
+"q": "What prevents Earth from becoming a frozen desert like Mars?",
+"o": ["Its large size", "The Greenhouse Effect", "The Moon's reflection", "Asteroid impacts"],
+"a": 1,
+"sol": "Greenhouse gases trap heat to keep the planet warm enough for life."
+},
+{
+"q": "Leap years have ________ days.",
+"o": ["364", "365", "366", "360"],
+"a": 2,
+"sol": "An extra day is added in February every four years to account for the 0.25 day in revolution."
+},
+{
+"q": "The highest point on the Earth's surface is:",
+"o": ["Mount K2", "Mount Everest", "Mount Kilimanjaro", "Mount Fuji"],
+"a": 1,
+"sol": "Mount Everest is 8,848 meters above sea level."
+},
+{
+"q": "The deepest point in the Earth's oceans is the:",
+"o": ["Java Trench", "Mariana Trench", "Dead Sea", "Bermuda Triangle"],
+"a": 1,
+"sol": "The Challenger Deep in the Mariana Trench is about 11,000 meters deep."
+},
+{
+"q": "What gas do humans exhale as a waste product of respiration?",
+"o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Methane"],
+"a": 2,
+"sol": "We breathe in oxygen and release CO2."
+},
+{
+"q": "The cycle that moves water around the planet is the:",
+"o": ["Nitrogen cycle", "Hydrological cycle", "Carbon cycle", "Rock cycle"],
+"a": 1,
+"sol": "Also known as the water cycle, it involves evaporation, condensation, and precipitation."
+},
+{
+"q": "Which of the following is an abiotic component?",
+"o": ["Bacteria", "Fungi", "Air", "Insects"],
+"a": 2,
+"sol": "Air is a non-living (abiotic) physical factor."
+},
+{
+"q": "Seasons on Earth are primarily caused by:",
+"o": ["Rotation", "The Moon", "Axial tilt and Revolution", "Ocean currents"],
+"a": 2,
+"sol": "The tilt ensures different hemispheres receive different amounts of sunlight throughout the year."
+},
+{
+"q": "Earth is approximately ________ billion years old.",
+"o": ["1", "4.5", "10", "2"],
+"a": 1,
+"sol": "Scientists estimate Earth's age using radiometric dating of meteorites and rocks."
+},
+{
+"q": "The 'Atmosphere' is divided into layers based on:",
+"o": ["Color", "Temperature changes", "Wind speed", "Amount of birds"],
+"a": 1,
+"sol": "Each layer has a distinct temperature profile."
+},
+{
+"q": "Life is possible on Earth because it is in the ________ of the solar system.",
+"o": ["Center", "Habitable zone", "Outer edge", "Dark side"],
+"a": 1,
+"sol": "The habitable zone is where liquid water can exist."
+},
+{
+"q": "Which layer is broken into tectonic plates?",
+"o": ["Core", "Crust", "Mantle", "Lithosphere"],
+"a": 3,
+"sol": "The lithosphere (crust + top mantle) is divided into large plates."
+},
+{
+"q": "The burning of meteors usually occurs in the:",
+"o": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+"a": 2,
+"sol": "The mesosphere is the coldest layer where most meteors burn up upon entry."
+},
+{
+"q": "Which force prevents humans from flying off the spinning Earth?",
+"o": ["Friction", "Gravity", "Magnetic force", "Buoyancy"],
+"a": 1,
+"sol": "Gravity pulls everything toward the center of the planet."
+},
+{
+"q": "Which gas is vital for the growth of plants but cannot be used directly from the air?",
+"o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+"a": 1,
+"sol": "Plants need 'fixed' nitrogen from the soil, provided by bacteria."
+},
+{
+"q": "What would happen if the Earth stopped rotating?",
+"o": ["Nothing", "One side would be frozen, the other burning hot", "Everything would float", "Earth would explode"],
+"a": 1,
+"sol": "Rotation distributes heat; without it, temperature extremes would be deadly."
+},
+{
+"q": "The 'Crust' of the Earth is mostly made of:",
+"o": ["Liquid metal", "Solid rock", "Ice", "Gas"],
+"a": 1,
+"sol": "The crust is the thin, rocky outer layer."
+},
+{
+"q": "Earth's orbit around the Sun is also called its ________ path.",
+"o": ["Rotary", "Revolutionary", "Orbital", "Stationary"],
+"a": 2,
+"sol": "The path Earth follows is its orbit."
+},
+{
+"q": "During which month is Earth closest to the Sun (Perihelion)?",
+"o": ["July", "January", "March", "September"],
+"a": 1,
+"sol": "Counter-intuitively for the Northern Hemisphere, Earth is closest in early January."
+},
+{
+"q": "The primary role of the Ozone layer is to block:",
+"o": ["Oxygen", "UV rays", "Heat", "Visible light"],
+"a": 1,
+"sol": "UV radiation can damage DNA and cause biological harm."
+},
+{
+"q": "The 'Hydrosphere' includes water in which states?",
+"o": ["Liquid only", "Solid only", "Gas only", "Solid, Liquid, and Gas"],
+"a": 3,
+"sol": "It includes ice caps (solid), oceans (liquid), and water vapor (gas)."
+},
+{
+"q": "How much of Earth's water is freshwater?",
+"o": ["97%", "50%", "3%", "10%"],
+"a": 2,
+"sol": "Only about 3% is freshwater, and most of that is locked in glaciers."
+},
+{
+"q": "What is the name of the supercontinent that existed millions of years ago?",
+"o": ["Atlantis", "Pangaea", "Eurasia", "Gondwana"],
+"a": 1,
+"sol": "Pangaea later broke apart into the continents we see today."
+},
+{
+"q": "Which gas is a major contributor to the depletion of the ozone layer?",
+"o": ["CO2", "CFCs", "Nitrogen", "Helium"],
+"a": 1,
+"sol": "Chlorofluorocarbons were once common in fridges and aerosols."
+},
+{
+"q": "The Earth's core is primarily made of iron and ________.",
+"o": ["Copper", "Nickel", "Gold", "Lead"],
+"a": 1,
+"sol": "The core is often called the 'NiFe' layer (Nickel + Iron)."
+},
+{
+"q": "What is the outermost layer of the atmosphere?",
+"o": ["Stratosphere", "Troposphere", "Exosphere", "Mesosphere"],
+"a": 2,
+"sol": "The exosphere gradually fades into outer space."
+},
+{
+"q": "Earth is the only planet in the solar system with ________ water on its surface.",
+"o": ["Frozen", "Liquid", "Vaporized", "Boiling"],
+"a": 1,
+"sol": "While others have ice or vapor, Earth has vast liquid oceans."
+},
+{
+"q": "The 'Biosphere' depends on energy from:",
+"o": ["The Core", "The Sun", "Moonlight", "Wind"],
+"a": 1,
+"sol": "Solar energy is the base of almost all life-supporting food chains."
+},
+{
+"q": "What is the main cause of global warming?",
+"o": ["Planting trees", "Excessive greenhouse gases", "Solar flares", "Ocean tides"],
+"a": 1,
+"sol": "Increased CO2 and methane from human activity trap too much heat."
+},
+{
+"q": "The line that divides Earth into Northern and Southern Hemispheres is:",
+"o": ["Prime Meridian", "Equator", "Tropic of Cancer", "Arctic Circle"],
+"a": 1,
+"sol": "The Equator is the 0° latitude line."
+},
+{
+"q": "Which layer contains the 'Ionosphere'?",
+"o": ["Troposphere", "Stratosphere", "Thermosphere", "Crust"],
+"a": 2,
+"sol": "The thermosphere contains ionized particles that help in radio communication."
+},
+{
+"q": "Plants are called ________ because they produce their own food.",
+"o": ["Consumers", "Heterotrophs", "Autotrophs", "Decomposers"],
+"a": 2,
+"sol": "Autotrophs use sunlight to synthesize nutrients."
+},
+{
+"q": "The process of nitrogen being returned to the soil by bacteria is part of:",
+"o": ["Water cycle", "Nitrogen cycle", "Rock cycle", "Oxygen cycle"],
+"a": 1,
+"sol": "The nitrogen cycle recycles nitrogen through the air, soil, and organisms."
+},
+{
+"q": "Earth's magnetic poles ________ exactly match its geographic poles.",
+"o": ["Do", "Do not", "Always", "Used to"],
+"a": 1,
+"sol": "Magnetic North and Geographic North are in different locations."
+},
+{
+"q": "Which of these gases is a 'trace gas' in the atmosphere?",
+"o": ["Nitrogen", "Oxygen", "Argon", "Hydrogen"],
+"a": 2,
+"sol": "Argon makes up less than 1% of the atmosphere."
+},
+{
+"q": "The 'Crust' is thicker under the ________.",
+"o": ["Oceans", "Continents", "Poles", "Equator"],
+"a": 1,
+"sol": "Continental crust is much thicker (30-50km) than oceanic crust (5-10km)."
+},
+{
+"q": "Volcanic eruptions release which greenhouse gas?",
+"o": ["Oxygen", "Carbon dioxide", "Helium", "Neon"],
+"a": 1,
+"sol": "Volcanoes naturally release CO2, among other gases."
+},
+{
+"q": "The 'Equinox' happens how many times a year?",
+"o": ["Once", "Twice", "Four times", "Every month"],
+"a": 1,
+"sol": "It happens in March (Spring) and September (Autumn)."
+},
+{
+"q": "The layer above the Troposphere is the:",
+"o": ["Mesosphere", "Exosphere", "Stratosphere", "Thermosphere"],
+"a": 2,
+"sol": "The stratosphere contains the ozone layer."
+},
+{
+"q": "Earth's 'Albedo' refers to its ability to:",
+"o": ["Support life", "Reflect sunlight", "Generate heat", "Attract the Moon"],
+"a": 1,
+"sol": "Albedo is the measure of reflectivity of a surface, like ice or clouds."
+},
+{
+"q": "Which is the thinnest layer of the Earth?",
+"o": ["Mantle", "Core", "Crust", "Atmosphere"],
+"a": 2,
+"sol": "The crust is like the skin of an apple compared to the rest of the Earth."
+},
+{
+"q": "What happens to air pressure as you go higher into the atmosphere?",
+"o": ["It increases", "It stays the same", "It decreases", "It fluctuates wildly"],
+"a": 2,
+"sol": "There are fewer air molecules as you move further from the Earth's surface."
+},
+{
+"q": "Sustainable development means meeting needs without:",
+"o": ["Spending money", "Compromising future generations", "Using technology", "Using water"],
+"a": 1,
+"sol": "It focuses on preserving resources for the future."
+},
+{
+"q": "Which planet has a runaway greenhouse effect making it hotter than Mercury?",
+"o": ["Mars", "Jupiter", "Venus", "Saturn"],
+"a": 2,
+"sol": "Venus has a thick CO2 atmosphere that traps extreme heat."
+},
+{
+"q": "The Earth is roughly ________ miles in circumference.",
+"o": ["1,000", "24,901", "100,000", "5,000"],
+"a": 1,
+"sol": "The circumference at the equator is about 40,075 kilometers (24,901 miles)."
+},
+{
+"q": "Which gas was NOT present in Earth's very first atmosphere?",
+"o": ["Hydrogen", "Helium", "Oxygen", "Methane"],
+"a": 2,
+"sol": "Free oxygen was only produced later by cyanobacteria through photosynthesis."
+},
+{
+"q": "Tides are primarily caused by the gravitational pull of:",
+"o": ["The Sun", "The Moon", "Mars", "The Core"],
+"a": 1,
+"sol": "The Moon's gravity pulls on Earth's oceans, creating high and low tides."
+},
+{
+"q": "Which zone is found deep in the ocean where no light reaches?",
+"o": ["Photic zone", "Aphotic zone", "Surface zone", "Coastal zone"],
+"a": 1,
+"sol": "'A-photic' means 'without light'."
+},
+{
+"q": "The Earth's axis is an ________ line.",
+"o": ["Physical", "Imaginary", "Visible", "Straight"],
+"a": 1,
+"sol": "The axis is a conceptual line used to describe rotation."
+},
+{
+"q": "What protects life from cosmic rays?",
+"o": ["The Sun", "The Atmosphere and Magnetosphere", "The Moon", "The Oceans"],
+"a": 1,
+"sol": "Both the air and the magnetic field act as shields."
+},
+{
+"q": "The biosphere is the ________ zone of the Earth.",
+"o": ["Largest", "Narrowest", "Coldest", "Highest"],
+"a": 1,
+"sol": "Life only exists in a very thin layer relative to the planet's size."
+},
+{
+"q": "Which of these can cause rapid changes to Earth's surface?",
+"o": ["Erosion", "Earthquakes", "Weathering", "Deposition"],
+"a": 1,
+"sol": "Earthquakes and volcanoes cause sudden, dramatic shifts."
+},
+{
+"q": "The prefix 'Hydro' in Hydrosphere means:",
+"o": ["Air", "Rock", "Water", "Life"],
+"a": 2,
+"sol": "Greek 'hydro' means water."
+},
+{
+"q": "Nitrogen fixation is mainly done by:",
+"o": ["Rain", "Bacteria", "Plants", "Humans"],
+"a": 1,
+"sol": "Certain bacteria convert atmospheric nitrogen into nitrates."
+},
+{
+"q": "The 'Greenhouse Effect' is naturally ________ for Earth.",
+"o": ["Bad", "Harmful", "Essential", "Illegal"],
+"a": 2,
+"sol": "Without it, Earth would be a frozen ball of ice."
+},
+{
+"q": "A year on Earth is approximately ________ months.",
+"o": ["10", "12", "14", "6"],
+"a": 1,
+"sol": "Based on the time taken to orbit the Sun."
+},
+{
+"q": "The lithosphere 'floats' on the ________ layer.",
+"o": ["Atmosphere", "Asthenosphere", "Inner Core", "Ocean"],
+"a": 1,
+"sol": "The asthenosphere is the ductile part of the upper mantle."
+},
+{
+"q": "Conservation of Earth's resources is important for:",
+"o": ["Money", "Biodiversity and survival", "Space travel", "Mining"],
+"a": 1,
+"sol": "Protecting Earth ensures that life can continue to thrive in balance."
+}
+]
