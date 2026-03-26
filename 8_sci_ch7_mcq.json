@@ -1,0 +1,602 @@
+[
+{
+"q": "The smallest unit of matter that can exist independently is called a/an:",
+"o": ["Atom", "Molecule", "Ion", "Proton"],
+"a": 1,
+"sol": "A molecule is the smallest particle of an element or compound that can exist independently."
+},
+{
+"q": "Which state of matter has a definite shape and a definite volume?",
+"o": ["Liquid", "Gas", "Solid", "Plasma"],
+"a": 2,
+"sol": "Solids have a rigid structure, giving them a fixed shape and volume."
+},
+{
+"q": "The space between the particles of matter is known as:",
+"o": ["Intermolecular space", "Intermolecular force", "Vacuum", "Atomic gap"],
+"a": 0,
+"sol": "The gaps between molecules are called intermolecular spaces."
+},
+{
+"q": "Which state of matter has the maximum intermolecular force of attraction?",
+"o": ["Gas", "Liquid", "Solid", "Vapor"],
+"a": 2,
+"sol": "In solids, particles are very close and strongly attracted to each other."
+},
+{
+"q": "The process of a solid changing directly into a gas is called:",
+"o": ["Evaporation", "Sublimation", "Condensation", "Fusion"],
+"a": 1,
+"sol": "Sublimation is the direct transition from solid to gas without becoming a liquid."
+},
+{
+"q": "Matter is made up of very tiny particles called:",
+"o": ["Cells", "Molecules", "Tissues", "Dust"],
+"a": 1,
+"sol": "Matter consists of minute particles known as atoms or molecules."
+},
+{
+"q": "Which of the following describes the movement of particles in a gas?",
+"o": ["Vibrate in fixed positions", "Slide over each other", "Move randomly at high speeds", "Do not move at all"],
+"a": 2,
+"sol": "Gas particles have high kinetic energy and move freely in all directions."
+},
+{
+"q": "The force of attraction between similar molecules is called:",
+"o": ["Adhesion", "Cohesion", "Gravity", "Friction"],
+"a": 1,
+"sol": "Cohesion is the force of attraction between molecules of the same substance."
+},
+{
+"q": "Kinetic energy of molecules ________ with an increase in temperature.",
+"o": ["Decreases", "Increases", "Remains constant", "Becomes zero"],
+"a": 1,
+"sol": "Heating provides energy to molecules, causing them to move faster."
+},
+{
+"q": "Which of these is highly compressible?",
+"o": ["Solid", "Liquid", "Gas", "Metal"],
+"a": 2,
+"sol": "Gases have large intermolecular spaces, allowing them to be easily compressed."
+},
+{
+"q": "The temperature at which a liquid changes into a solid is its:",
+"o": ["Boiling point", "Melting point", "Freezing point", "Evaporation point"],
+"a": 2,
+"sol": "Freezing point is the temperature of transition from liquid to solid."
+},
+{
+"q": "Molecules in a liquid:",
+"o": ["Are tightly packed", "Have no force of attraction", "Can slide over one another", "Are far apart"],
+"a": 2,
+"sol": "Liquid molecules have enough energy to move around but stay within the bulk."
+},
+{
+"q": "The intermolecular space is minimum in:",
+"o": ["Liquids", "Gases", "Solids", "Vapors"],
+"a": 2,
+"sol": "Solids are closely packed, leaving very little space between particles."
+},
+{
+"q": "Which of the following is NOT matter?",
+"o": ["Air", "Water", "Light", "Soil"],
+"a": 2,
+"sol": "Light is energy, not matter, as it lacks mass and does not occupy space."
+},
+{
+"q": "Brownian motion refers to:",
+"o": ["Movement of solids", "Zig-zag movement of particles", "Linear movement", "Circular movement"],
+"a": 1,
+"sol": "Brownian motion is the random, erratic movement of microscopic particles."
+},
+{
+"q": "The force of attraction between different types of molecules is called:",
+"o": ["Cohesion", "Adhesion", "Repulsion", "Tension"],
+"a": 1,
+"sol": "Adhesion is the attraction between molecules of different substances."
+},
+{
+"q": "What happens to the intermolecular space when a liquid evaporates?",
+"o": ["It decreases", "It increases", "It stays the same", "It disappears"],
+"a": 1,
+"sol": "Molecules move further apart as they turn into gas."
+},
+{
+"q": "Which of these substances undergoes sublimation?",
+"o": ["Iron", "Ice", "Camphor", "Gold"],
+"a": 2,
+"sol": "Camphor turns directly into vapor upon heating."
+},
+{
+"q": "Fluids include:",
+"o": ["Only solids", "Only liquids", "Liquids and gases", "Solids and liquids"],
+"a": 2,
+"sol": "Any substance that can flow (liquids and gases) is a fluid."
+},
+{
+"q": "Diffusion is fastest in:",
+"o": ["Solids", "Liquids", "Gases", "Vacuum"],
+"a": 2,
+"sol": "High speed and large spaces in gases allow for rapid mixing."
+},
+{
+"q": "The boiling point of water is:",
+"o": ["0°C", "50°C", "100°C", "212°C"],
+"a": 2,
+"sol": "Water boils at 100 degrees Celsius at standard atmospheric pressure."
+},
+{
+"q": "During melting, the temperature of a substance:",
+"o": ["Increases", "Decreases", "Remains constant", "Fluctuates"],
+"a": 2,
+"sol": "The temperature stays the same until the entire solid has melted (latent heat)."
+},
+{
+"q": "Which of the following has a fixed volume but no fixed shape?",
+"o": ["Oxygen", "Milk", "Salt", "Wood"],
+"a": 1,
+"sol": "Milk (a liquid) takes the shape of its container but maintains its volume."
+},
+{
+"q": "Molecules of a gas exert ________ on the walls of the container.",
+"o": ["Friction", "Pressure", "Gravity", "Heat"],
+"a": 1,
+"sol": "Collisions of gas molecules against walls result in pressure."
+},
+{
+"q": "Change of state from gas to liquid is called:",
+"o": ["Vaporization", "Solidification", "Condensation", "Deposition"],
+"a": 2,
+"sol": "Condensation is the process of cooling gas into liquid."
+},
+{
+"q": "Which is an example of a molecule of an element?",
+"o": ["H2O", "CO2", "O2", "NaCl"],
+"a": 2,
+"sol": "O2 consists of only one type of atom (Oxygen)."
+},
+{
+"q": "Solids generally have ________ density.",
+"o": ["Low", "High", "Zero", "Variable"],
+"a": 1,
+"sol": "Close packing of molecules makes solids dense."
+},
+{
+"q": "The intermolecular force in gases is:",
+"o": ["Very strong", "Negligible", "Medium", "Maximum"],
+"a": 1,
+"sol": "Gases have very weak attractive forces between particles."
+},
+{
+"q": "Liquids have ________ rates of diffusion compared to solids.",
+"o": ["Higher", "Lower", "Equal", "Zero"],
+"a": 0,
+"sol": "Particles move more freely in liquids than in solids."
+},
+{
+"q": "Dry ice is:",
+"o": ["Frozen water", "Solid Carbon dioxide", "Solid Oxygen", "Liquid Nitrogen"],
+"a": 1,
+"sol": "Solid CO2 is called dry ice because it sublimes without melting."
+},
+{
+"q": "Atoms combine to form:",
+"o": ["Protons", "Molecules", "Nuclei", "Electrons"],
+"a": 1,
+"sol": "Molecules are groups of two or more atoms held together."
+},
+{
+"q": "Which of the following is most easily compressed?",
+"o": ["A block of wood", "Water in a bottle", "Air in a balloon", "A piece of iron"],
+"a": 2,
+"sol": "Air is a gas and has high compressibility."
+},
+{
+"q": "The kinetic energy of molecules is highest in:",
+"o": ["Ice at 0°C", "Water at 50°C", "Steam at 100°C", "Iron at 100°C"],
+"a": 2,
+"sol": "Steam (gas) has higher energy than liquid or solid at the same or lower temps."
+},
+{
+"q": "Liquids can flow because:",
+"o": ["Molecules are far apart", "Molecules can move past each other", "They have no weight", "They are made of atoms"],
+"a": 1,
+"sol": "Weaker intermolecular forces in liquids allow particles to glide."
+},
+{
+"q": "Conversion of liquid into vapor below its boiling point is:",
+"o": ["Boiling", "Evaporation", "Sublimation", "Melting"],
+"a": 1,
+"sol": "Evaporation happens at the surface at any temperature below boiling."
+},
+{
+"q": "Which state of matter has no definite shape and no definite volume?",
+"o": ["Solid", "Liquid", "Gas", "Metal"],
+"a": 2,
+"sol": "Gases expand to fill any container shape and size."
+},
+{
+"q": "The symbol 'H' represents an:",
+"o": ["Atom of Hydrogen", "Molecule of Hydrogen", "Atom of Helium", "Ion of Hydrogen"],
+"a": 0,
+"sol": "Single letters usually represent individual atoms of an element."
+},
+{
+"q": "When a solid melts, its molecules:",
+"o": ["Stop moving", "Gain kinetic energy", "Lose kinetic energy", "Become heavier"],
+"a": 1,
+"sol": "Absorbed heat increases the energy of the particles."
+},
+{
+"q": "The smell of perfume spreads in a room due to:",
+"o": ["Evaporation", "Diffusion", "Effusion", "Gravity"],
+"a": 1,
+"sol": "Diffusion is the movement of particles from high to low concentration."
+},
+{
+"q": "Intermolecular force is also known as:",
+"o": ["Gravitational force", "Cohesive/Adhesive force", "Magnetic force", "Nuclear force"],
+"a": 1,
+"sol": "These are the forces holding molecules together."
+},
+{
+"q": "Which of the following is a characteristic of solids?",
+"o": ["Highly compressible", "Can be easily deformed", "High density", "Fills the container"],
+"a": 2,
+"sol": "High molecular packing results in high density."
+},
+{
+"q": "Gas molecules move in ________ path until they collide.",
+"o": ["Circular", "Curved", "Straight", "Zig-zag"],
+"a": 2,
+"sol": "Molecules travel in straight lines between collisions."
+},
+{
+"q": "Which state has the least kinetic energy?",
+"o": ["Solid", "Liquid", "Gas", "Vapor"],
+"a": 0,
+"sol": "Solid particles only vibrate in fixed positions."
+},
+{
+"q": "Water exists in ________ states.",
+"o": ["One", "Two", "Three", "Four"],
+"a": 2,
+"sol": "Water exists as ice (solid), water (liquid), and steam (gas)."
+},
+{
+"q": "An atom is ________.",
+"o": ["Visible to naked eye", "The building block of matter", "Always unstable", "A type of liquid"],
+"a": 1,
+"sol": "All matter is built from atoms."
+},
+{
+"q": "The movement of molecules in solids is ________.",
+"o": ["Translatory", "Rotatory", "Vibratory", "Random"],
+"a": 2,
+"sol": "Solids vibrate about a mean position."
+},
+{
+"q": "Which of these will occupy the entire space of a container?",
+"o": ["10ml Water", "10g Sugar", "10g Oxygen", "10g Ice"],
+"a": 2,
+"sol": "Gases like Oxygen expand to fill the entire available volume."
+},
+{
+"q": "The melting point of ice is:",
+"o": ["100°C", "0°C", "-10°C", "32°C"],
+"a": 1,
+"sol": "Ice melts at 0 degrees Celsius."
+},
+{
+"q": "Which of the following describes a liquid?",
+"o": ["Rigid", "Non-fluid", "Fixed volume", "Compressible"],
+"a": 2,
+"sol": "Liquids have a constant volume but take the container's shape."
+},
+{
+"q": "Force of attraction is ________ in gases.",
+"o": ["Strongest", "Weakest", "Variable", "Infinite"],
+"a": 1,
+"sol": "Gases have the weakest attractive forces among common states."
+},
+{
+"q": "Matter occupies ________ and has ________.",
+"o": ["Space, Mass", "Space, Speed", "Mass, Temperature", "Volume, Color"],
+"a": 0,
+"sol": "Definition of matter: anything with mass and volume."
+},
+{
+"q": "Naphthalene balls disappear after some time due to:",
+"o": ["Melting", "Evaporation", "Sublimation", "Freezing"],
+"a": 2,
+"sol": "Naphthalene sublimes directly into gas."
+},
+{
+"q": "A pure substance made of only one kind of atom is an:",
+"o": ["Compound", "Mixture", "Element", "Solution"],
+"a": 2,
+"sol": "Elements consist of identical atoms."
+},
+{
+"q": "The chemical formula for water is:",
+"o": ["HO2", "H2O", "H2O2", "HO"],
+"a": 1,
+"sol": "Water consists of two hydrogen atoms and one oxygen atom."
+},
+{
+"q": "Molecules of a liquid move ________ than molecules of a solid.",
+"o": ["Slower", "Faster", "At the same speed", "None of these"],
+"a": 1,
+"sol": "Liquids have higher kinetic energy than solids."
+},
+{
+"q": "Surface tension is a property of:",
+"o": ["Solids", "Liquids", "Gases", "All of these"],
+"a": 1,
+"sol": "Surface tension arises from cohesive forces in liquids."
+},
+{
+"q": "Which state of matter is rigid?",
+"o": ["Gas", "Liquid", "Solid", "Plasma"],
+"a": 2,
+"sol": "Solids maintain their shape due to rigidity."
+},
+{
+"q": "Solubility of a solid in a liquid generally ________ with temperature.",
+"o": ["Decreases", "Increases", "Stays same", "Becomes zero"],
+"a": 1,
+"sol": "Higher temperature usually allows more solid to dissolve."
+},
+{
+"q": "Everything in the universe is made of:",
+"o": ["Plastic", "Matter", "Only water", "Electricity"],
+"a": 1,
+"sol": "Matter and energy make up the universe."
+},
+{
+"q": "Gases can be ________ easily.",
+"o": ["Melted", "Compressed", "Solidified", "Broken"],
+"a": 1,
+"sol": "Compression is a key property of gases."
+},
+{
+"q": "A compound is made of ________ elements.",
+"o": ["Two or more", "Only one", "No", "Three"],
+"a": 0,
+"sol": "Compounds consist of different atoms chemically bonded."
+},
+{
+"q": "Molecules are always in ________ motion.",
+"o": ["Static", "Continuous", "Slow", "Stopping"],
+"a": 1,
+"sol": "Particles of matter never stop moving."
+},
+{
+"q": "Density is calculated as ________.",
+"o": ["Mass x Volume", "Volume / Mass", "Mass / Volume", "Mass + Volume"],
+"a": 2,
+"sol": "Density = Mass per unit Volume."
+},
+{
+"q": "The process of a gas changing to a solid is:",
+"o": ["Sublimation", "Deposition", "Melting", "Evaporation"],
+"a": 1,
+"sol": "Deposition is the reverse of sublimation."
+},
+{
+"q": "Solids do not ________.",
+"o": ["Have mass", "Diffuse easily", "Vibrate", "Exist at room temp"],
+"a": 1,
+"sol": "Due to strong forces, solid particles do not mix/diffuse easily."
+},
+{
+"q": "Intermolecular space in liquids is ________ than in solids.",
+"o": ["Smaller", "Greater", "Equal", "None"],
+"a": 1,
+"sol": "Liquids are less tightly packed than solids."
+},
+{
+"q": "Rate of evaporation increases with ________.",
+"o": ["Humidity", "Surface Area", "Lower temperature", "Less wind"],
+"a": 1,
+"sol": "More surface area allows more molecules to escape."
+},
+{
+"q": "Air is a ________.",
+"o": ["Compound", "Element", "Mixture", "Pure substance"],
+"a": 2,
+"sol": "Air contains various gases like N2, O2, CO2 mixed physically."
+},
+{
+"q": "Which of these is a monoatomic molecule?",
+"o": ["Oxygen", "Nitrogen", "Helium", "Chlorine"],
+"a": 2,
+"sol": "Noble gases like Helium exist as single atoms."
+},
+{
+"q": "Which state has the most space between molecules?",
+"o": ["Solid", "Liquid", "Gas", "All same"],
+"a": 2,
+"sol": "Gases have the largest intermolecular distances."
+},
+{
+"q": "Iodine crystals on heating show ________.",
+"o": ["Melting", "Sublimation", "Freezing", "No change"],
+"a": 1,
+"sol": "Iodine is a classic example of a sublimable solid."
+},
+{
+"q": "Atomicity of Oxygen (O2) is ________.",
+"o": ["1", "2", "3", "4"],
+"a": 1,
+"sol": "Oxygen gas contains two atoms per molecule."
+},
+{
+"q": "Solidification is also called ________.",
+"o": ["Melting", "Freezing", "Evaporation", "Condensation"],
+"a": 1,
+"sol": "Turning liquid to solid is freezing."
+},
+{
+"q": "Which factor does NOT affect the state of matter?",
+"o": ["Temperature", "Pressure", "Color", "Kinetic energy"],
+"a": 2,
+"sol": "Color is an optical property, not a physical driver of state."
+},
+{
+"q": "A gas has ________ boundary.",
+"o": ["Definite", "No definite", "Rigid", "Circular"],
+"a": 1,
+"sol": "Gases spread out and have no surfaces."
+},
+{
+"q": "Diffusion occurs from ________ concentration to ________ concentration.",
+"o": ["Low, High", "High, Low", "Medium, High", "Equal, Equal"],
+"a": 1,
+"sol": "Particles spread out from where they are crowded."
+},
+{
+"q": "In which state is the movement of particles most restricted?",
+"o": ["Solid", "Liquid", "Gas", "Vapor"],
+"a": 0,
+"sol": "Strong forces keep solid particles in fixed spots."
+},
+{
+"q": "Which of the following is an example of adhesion?",
+"o": ["Water sticking to glass", "Mercury forming drops", "Ice cubes sticking", "Steel being strong"],
+"a": 0,
+"sol": "Attraction between water and glass (different materials) is adhesion."
+},
+{
+"q": "Which state of matter can expand the most?",
+"o": ["Solid", "Liquid", "Gas", "Iron"],
+"a": 2,
+"sol": "Gases expand to fill any volume available."
+},
+{
+"q": "The amount of matter in an object is its ________.",
+"o": ["Weight", "Volume", "Mass", "Density"],
+"a": 2,
+"sol": "Mass is the measure of the quantity of matter."
+},
+{
+"q": "Force of attraction is ________ in solids.",
+"o": ["Maximum", "Minimum", "Zero", "Negligible"],
+"a": 0,
+"sol": "Solids have the strongest cohesive forces."
+},
+{
+"q": "Which state of matter has the highest density?",
+"o": ["Solid", "Liquid", "Gas", "Plasma"],
+"a": 0,
+"sol": "Generally, solids are the densest state for a substance."
+},
+{
+"q": "Boiling is a ________ phenomenon.",
+"o": ["Surface", "Bulk", "Slow", "Subtle"],
+"a": 1,
+"sol": "Boiling involves the whole mass of the liquid."
+},
+{
+"q": "Molecules of a gas are ________.",
+"o": ["In fixed positions", "Far apart and move fast", "Very close", "Lighter than atoms"],
+"a": 1,
+"sol": "High speed and large distances characterize gas particles."
+},
+{
+"q": "Substances like sponge are solids but can be compressed because of ________.",
+"o": ["Molecules being far", "Air trapped in pores", "Liquid nature", "Elasticity only"],
+"a": 1,
+"sol": "The air inside the holes is what gets compressed."
+},
+{
+"q": "Liquids have a ________ shape.",
+"o": ["Fixed", "Indefinite", "Circular", "Square"],
+"a": 1,
+"sol": "Liquids flow to match the container."
+},
+{
+"q": "On cooling, the kinetic energy of molecules ________.",
+"o": ["Increases", "Decreases", "Stays same", "Doubles"],
+"a": 1,
+"sol": "Removing heat slows down the particles."
+},
+{
+"q": "The symbol for Gold is ________.",
+"o": ["Gd", "Au", "Ag", "Fe"],
+"a": 1,
+"sol": "Au comes from the Latin word 'Aurum'."
+},
+{
+"q": "One example of a diatomic gas is ________.",
+"o": ["Argon", "Nitrogen (N2)", "Methane", "Water vapor"],
+"a": 1,
+"sol": "Nitrogen exists as pairs of atoms."
+},
+{
+"q": "Particles of matter have ________ between them.",
+"o": ["Nothing", "Spaces", "Wires", "Glue"],
+"a": 1,
+"sol": "There are intermolecular spaces in all matter."
+},
+{
+"q": "The change from liquid to gas at a fixed temperature is ________.",
+"o": ["Evaporation", "Boiling", "Melting", "Condensation"],
+"a": 1,
+"sol": "Boiling occurs at a specific temperature (Boiling Point)."
+},
+{
+"q": "A molecule made of three atoms of the same element is ________.",
+"o": ["Water", "Carbon dioxide", "Ozone (O3)", "Salt"],
+"a": 2,
+"sol": "Ozone is triatomic."
+},
+{
+"q": "Liquids exert pressure in ________ directions.",
+"o": ["Only downward", "Only upward", "All", "Only sideward"],
+"a": 2,
+"sol": "Fluids exert pressure uniformly in all directions."
+},
+{
+"q": "Solids have ________ compressibility.",
+"o": ["High", "Negligible", "Medium", "Infinite"],
+"a": 1,
+"sol": "Solids are almost impossible to compress further."
+},
+{
+"q": "Intermolecular force ________ as distance increases.",
+"o": ["Increases", "Decreases", "Remains same", "Disappears"],
+"a": 1,
+"sol": "Attractive forces weaken when particles move apart."
+},
+{
+"q": "Which is a chemical change?",
+"o": ["Melting ice", "Burning wood", "Boiling water", "Breaking glass"],
+"a": 1,
+"sol": "Burning creates new substances, unlike physical changes."
+},
+{
+"q": "Molecules of a solid ________.",
+"o": ["Translate", "Vibrate only", "Fly away", "Rotate freely"],
+"a": 1,
+"sol": "Particles are fixed but vibrate."
+},
+{
+"q": "Kinetic theory explains the ________ of matter.",
+"o": ["Color", "Behavior/States", "Cost", "Age"],
+"a": 1,
+"sol": "It describes how particle motion determines physical state."
+},
+{
+"q": "Matter is made of ________.",
+"o": ["Cells", "Particles", "Energy only", "Vacuum"],
+"a": 1,
+"sol": "Matter has a particulate nature."
+},
+{
+"q": "Evaporation causes ________.",
+"o": ["Heating", "Cooling", "Melting", "Solidification"],
+"a": 1,
+"sol": "Escaping high-energy molecules leave the rest cooler."
+}
+]
