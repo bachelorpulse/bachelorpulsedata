@@ -1,0 +1,152 @@
+[
+{
+"q": "Which of these causes the phenomenon of day and night on Earth?",
+"o": ["Revolution", "Rotation", "Gravity", "Atmosphere"],
+"a": 1,
+"sol": "The Earth rotates on its axis once every 24 hours, causing different parts to face the Sun."
+},
+{
+"q": "The Moon completes one revolution around the Earth in approximately how many days?",
+"o": ["365 days", "24 days", "27.3 days", "15 days"],
+"a": 2,
+"sol": "It takes about 27.3 days for the Moon to orbit the Earth, which is roughly a month."
+},
+{
+"q": "What is the imaginary line on which the Earth rotates called?",
+"o": ["Equator", "Orbit", "Axis", "Tropic of Cancer"],
+"a": 2,
+"sol": "The axis is an imaginary line passing through the North and South poles."
+},
+{
+"q": "A solar eclipse occurs when ________ comes between the Sun and the Earth.",
+"o": ["The Moon", "Mars", "Jupiter", "A Comet"],
+"a": 0,
+"sol": "During a solar eclipse, the Moon blocks the sunlight from reaching parts of the Earth."
+},
+{
+"q": "Which planet is known as the 'Blue Planet'?",
+"o": ["Mars", "Venus", "Earth", "Neptune"],
+"a": 2,
+"sol": "Earth is called the Blue Planet because nearly 71% of its surface is covered by water."
+},
+{
+"q": "The changing shapes of the visible part of the Moon are called:",
+"o": ["Moon Cycles", "Lunar Shadows", "Phases of the Moon", "Orbital Shifts"],
+"a": 2,
+"sol": "Phases occur because we see different amounts of the Moon's illuminated side as it orbits Earth."
+},
+{
+"q": "What is the primary cause of seasons on Earth?",
+"o": ["Distance from Sun", "Earth's tilted axis", "Moon's gravity", "Ocean currents"],
+"a": 1,
+"sol": "The 23.5-degree tilt of Earth's axis as it revolves around the Sun creates seasonal changes."
+},
+{
+"q": "The Earth's path around the Sun is called its:",
+"o": ["Axis", "Rotation", "Orbit", "Belt"],
+"a": 2,
+"sol": "An orbit is the fixed path followed by a celestial body under the influence of gravity."
+},
+{
+"q": "Which of these is the largest object in our solar system?",
+"o": ["Earth", "Jupiter", "The Sun", "The Moon"],
+"a": 2,
+"sol": "The Sun contains more than 99% of the total mass of the entire solar system."
+},
+{
+"q": "When the Moon is between the Earth and the Sun, we see a:",
+"o": ["Full Moon", "New Moon", "Gibbous Moon", "Crescent Moon"],
+"a": 1,
+"sol": "At New Moon, the side of the Moon facing Earth is dark because it is not receiving direct sunlight."
+},
+{
+"q": "What is the force that keeps the planets in orbit around the Sun?",
+"o": ["Magnetism", "Friction", "Gravity", "Static Electricity"],
+"a": 2,
+"sol": "The Sun's massive gravitational pull keeps all planets, including Earth, in their orbits."
+},
+{
+"q": "A leap year has 366 days because Earth takes ________ to orbit the Sun.",
+"o": ["365 days", "365 and 1/4 days", "364 days", "360 days"],
+"a": 1,
+"sol": "The extra quarter day adds up to one full day every four years."
+},
+{
+"q": "The dark, flat areas on the Moon's surface are called:",
+"o": ["Craters", "Mountains", "Maria (Seas)", "Valleys"],
+"a": 2,
+"sol": "Early astronomers thought these dark volcanic plains were actual seas of water."
+},
+{
+"q": "Which layer of the Earth do we live on?",
+"o": ["Mantle", "Outer Core", "Inner Core", "Crust"],
+"a": 3,
+"sol": "The crust is the thin, outermost rocky shell of the Earth."
+},
+{
+"q": "A lunar eclipse can only happen during which moon phase?",
+"o": ["New Moon", "First Quarter", "Full Moon", "Third Quarter"],
+"a": 2,
+"sol": "A lunar eclipse occurs when Earth is directly between the Sun and a Full Moon."
+},
+{
+"q": "What protects the Earth from harmful solar radiation?",
+"o": ["The Moon", "Atmosphere", "Clouds", "Ice caps"],
+"a": 1,
+"sol": "The atmosphere, specifically the ozone layer, filters out dangerous UV rays."
+},
+{
+"q": "The time taken for one complete revolution of Earth is:",
+"o": ["24 hours", "30 days", "365.25 days", "100 days"],
+"a": 2,
+"sol": "One revolution around the Sun defines a solar year."
+},
+{
+"q": "Tides in the Earth's oceans are primarily caused by:",
+"o": ["Wind", "Earth's rotation", "Moon's gravity", "Underwater volcanoes"],
+"a": 2,
+"sol": "The Moon's gravitational pull creates a 'bulge' in the oceans, leading to high and low tides."
+},
+{
+"q": "The Sun is actually a:",
+"o": ["Planet", "Moon", "Star", "Asteroid"],
+"a": 2,
+"sol": "The Sun is a medium-sized star made of hot, glowing gases."
+},
+{
+"q": "What are the bowl-shaped holes on the Moon's surface called?",
+"o": ["Pits", "Craters", "Vents", "Tunnels"],
+"a": 1,
+"sol": "Craters are formed by the impact of meteoroids hitting the Moon's surface."
+},
+{
+"q": "Which part of the Earth receives direct sunlight all year round?",
+"o": ["North Pole", "South Pole", "Equator", "Antarctica"],
+"a": 2,
+"sol": "The Equator is the middle belt of the Earth and receives consistent solar energy."
+},
+{
+"q": "How many planets are there in our solar system?",
+"o": ["7", "8", "9", "10"],
+"a": 1,
+"sol": "There are eight recognized planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+},
+{
+"q": "The Sun rises in the East and sets in the West because Earth rotates from:",
+"o": ["North to South", "East to West", "West to East", "South to North"],
+"a": 2,
+"sol": "The counter-clockwise (West to East) rotation makes the Sun appear to move across the sky."
+},
+{
+"q": "The outermost part of the Sun's atmosphere seen during a total eclipse is the:",
+"o": ["Core", "Photosphere", "Corona", "Crust"],
+"a": 2,
+"sol": "The Corona appears as a pearly white glow around the dark silhouette of the Moon."
+},
+{
+"q": "There is no sound on the Moon because it lacks:",
+"o": ["Gravity", "Light", "Atmosphere", "Water"],
+"a": 2,
+"sol": "Sound needs a medium like air to travel; without an atmosphere, the Moon is silent."
+}
+]
