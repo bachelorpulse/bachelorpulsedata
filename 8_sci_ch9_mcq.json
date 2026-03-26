@@ -1,0 +1,602 @@
+[
+{
+"q": "The component of a solution that is present in the larger amount is called the:",
+"o": ["Solute", "Solvent", "Precipitate", "Residue"],
+"a": 1,
+"sol": "The solvent is the medium in which the solute dissolves."
+},
+{
+"q": "Which of the following is known as the 'Universal Solvent'?",
+"o": ["Alcohol", "Benzene", "Water", "Petrol"],
+"a": 2,
+"sol": "Water can dissolve more substances than any other liquid."
+},
+{
+"q": "A solution in which no more solute can be dissolved at a given temperature is:",
+"o": ["Unsaturated", "Saturated", "Supersaturated", "Dilute"],
+"a": 1,
+"sol": "Saturated solutions have reached their maximum capacity for solute at that temperature."
+},
+{
+"q": "A mixture of salt and water is an example of a:",
+"o": ["Heterogeneous mixture", "Homogeneous mixture", "Compound", "Suspension"],
+"a": 1,
+"sol": "Solutions are homogeneous because the particles are uniformly distributed."
+},
+{
+"q": "The process of dissolving a solute in a solvent is a:",
+"o": ["Chemical change", "Physical change", "Biological change", "Nuclear change"],
+"a": 1,
+"sol": "Dissolving involves breaking intermolecular forces, not atomic bonds."
+},
+{
+"q": "Which of these increases the rate of dissolving of a solid in a liquid?",
+"o": ["Cooling", "Stirring", "Using larger crystals", "Decreasing surface area"],
+"a": 1,
+"sol": "Stirring brings fresh solvent in contact with the solute faster."
+},
+{
+"q": "Solubility of most solids in water ________ with an increase in temperature.",
+"o": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+"a": 1,
+"sol": "Higher kinetic energy helps break the solute-solute bonds."
+},
+{
+"q": "Air is a solution of:",
+"o": ["Liquid in gas", "Solid in gas", "Gas in gas", "Gas in liquid"],
+"a": 2,
+"sol": "Nitrogen acts as the solvent for other gases in air."
+},
+{
+"q": "Tincture of iodine is a solution of iodine in:",
+"o": ["Water", "Ether", "Alcohol", "Chloroform"],
+"a": 2,
+"sol": "Iodine is dissolved in ethyl alcohol to make tincture."
+},
+{
+"q": "A solution that contains a small amount of solute compared to the solvent is:",
+"o": ["Concentrated", "Dilute", "Saturated", "Supersaturated"],
+"a": 1,
+"sol": "Dilute solutions have a low solute-to-solvent ratio."
+},
+{
+"q": "The solubility of gases in liquids ________ with an increase in temperature.",
+"o": ["Increases", "Decreases", "Remains constant", "Doubles"],
+"a": 1,
+"sol": "Gases escape from the liquid as kinetic energy increases."
+},
+{
+"q": "Soft drinks like soda water contain ________ as the solute.",
+"o": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+"a": 1,
+"sol": "CO2 is dissolved under pressure in soda water."
+},
+{
+"q": "A heterogeneous mixture in which solute particles do not dissolve but remain suspended is a:",
+"o": ["Solution", "Suspension", "Alloy", "Compound"],
+"a": 1,
+"sol": "Suspensions have large particles that eventually settle down."
+},
+{
+"q": "Which of the following is an example of a solid-in-solid solution?",
+"o": ["Sugar in water", "Brass", "Mist", "Smoke"],
+"a": 1,
+"sol": "Alloys like brass are homogeneous mixtures of solids."
+},
+{
+"q": "The path of light becomes visible when passed through a ________.",
+"o": ["True solution", "Colloid", "Pure water", "Salt solution"],
+"a": 1,
+"sol": "The Tyndall effect occurs in colloids and suspensions."
+},
+{
+"q": "Solubility is usually expressed as the mass of solute in ________ g of solvent.",
+"o": ["10", "100", "500", "1000"],
+"a": 1,
+"sol": "Solubility is defined per 100g of solvent at a specific temperature."
+},
+{
+"q": "Which of these is a non-aqueous solvent?",
+"o": ["Distilled water", "Benzene", "Rain water", "Tap water"],
+"a": 1,
+"sol": "Non-aqueous solvents do not contain water."
+},
+{
+"q": "Milk is an example of a:",
+"o": ["True solution", "Suspension", "Colloid", "Element"],
+"a": 2,
+"sol": "Milk is an emulsion (a type of colloid)."
+},
+{
+"q": "When a saturated solution is cooled, what happens?",
+"o": ["More solute dissolves", "Solute precipitates out", "Volume increases", "Color changes"],
+"a": 1,
+"sol": "Solubility decreases with cooling, causing excess solute to crystallize."
+},
+{
+"q": "Which of the following will show Tyndall effect?",
+"o": ["Copper sulfate solution", "Starch solution", "Common salt solution", "Sugar solution"],
+"a": 1,
+"sol": "Starch forms a colloidal solution which scatters light."
+},
+{
+"q": "The solute in an aqueous solution of sugar is:",
+"o": ["Water", "Sugar", "Both", "None"],
+"a": 1,
+"sol": "Sugar is the substance being dissolved."
+},
+{
+"q": "A true solution is ________.",
+"o": ["Translucent", "Opaque", "Transparent", "Cloudy"],
+"a": 2,
+"sol": "True solutions allow light to pass through without scattering."
+},
+{
+"q": "Which factor affects the solubility of a gas in a liquid?",
+"o": ["Pressure", "Light", "Surface area", "Container shape"],
+"a": 0,
+"sol": "According to Henry's Law, solubility of a gas increases with pressure."
+},
+{
+"q": "A mixture of chalk powder and water is a:",
+"o": ["Colloid", "Solution", "Suspension", "Alloy"],
+"a": 2,
+"sol": "Chalk does not dissolve and its particles are visible to the naked eye."
+},
+{
+"q": "Which of the following is an example of a gas-in-liquid solution?",
+"o": ["Air", "Oxygen dissolved in water", "Clouds", "Dust in air"],
+"a": 1,
+"sol": "Fish depend on the oxygen gas dissolved in the liquid water."
+},
+{
+"q": "A solution that contains more solute than it would normally hold at that temperature is:",
+"o": ["Saturated", "Unsaturated", "Supersaturated", "Dilute"],
+"a": 2,
+"sol": "Supersaturated solutions are unstable and occur under special conditions."
+},
+{
+"q": "In a solution of copper sulfate in water, copper sulfate is the:",
+"o": ["Solvent", "Solute", "Suspension", "Emulsion"],
+"a": 1,
+"sol": "It is the solid substance being dissolved."
+},
+{
+"q": "Which of the following can be separated by filtration?",
+"o": ["Salt solution", "Sugar solution", "Chalk in water", "Alcohol in water"],
+"a": 2,
+"sol": "Only suspensions (like chalk in water) have particles large enough for filtration."
+},
+{
+"q": "Hydrated salts contain ________.",
+"o": ["Air", "Water of crystallization", "Dust", "Oil"],
+"a": 1,
+"sol": "Water of crystallization is chemically combined in the crystal structure."
+},
+{
+"q": "A liquid that dissolves other substances is a:",
+"o": ["Solute", "Solvent", "Solid", "Gas"],
+"a": 1,
+"sol": "Solvents provide the medium for dissolution."
+},
+{
+"q": "Powdered sugar dissolves ________ than sugar cubes.",
+"o": ["Slower", "At the same rate", "Faster", "Not at all"],
+"a": 2,
+"sol": "Increased surface area increases the rate of dissolution."
+},
+{
+"q": "Which substance is an example of an efflorescent substance?",
+"o": ["Common salt", "Washing soda", "Iron", "Gold"],
+"a": 1,
+"sol": "Efflorescent substances lose water of crystallization to the atmosphere."
+},
+{
+"q": "Hygroscopic substances ________ moisture from the air.",
+"o": ["Release", "Absorb", "Reflect", "Ignore"],
+"a": 1,
+"sol": "Hygroscopic materials pull water vapor from the environment."
+},
+{
+"q": "The maximum amount of solute that can be dissolved in 100g of water is its ________.",
+"o": ["Concentration", "Molarity", "Solubility", "Density"],
+"a": 2,
+"sol": "Solubility is the capacity limit of a solvent."
+},
+{
+"q": "An example of a liquid-in-liquid solution is:",
+"o": ["Alcohol in water", "Sugar in water", "Salt in water", "Sand in water"],
+"a": 0,
+"sol": "Alcohol and water are miscible liquids."
+},
+{
+"q": "Which of these is a characteristic of a colloid?",
+"o": ["Particles settle on standing", "Particles pass through filter paper", "Particles are visible to the naked eye", "It is always transparent"],
+"a": 1,
+"sol": "Colloidal particles are small enough to pass through regular filters but scatter light."
+},
+{
+"q": "The process by which crystals are formed from a hot saturated solution is:",
+"o": ["Evaporation", "Crystallization", "Distillation", "Sublimation"],
+"a": 1,
+"sol": "Crystallization occurs as the solubility drops during cooling."
+},
+{
+"q": "Which of the following is a deliquescent substance?",
+"o": ["Copper sulfate", "Caustic soda (NaOH)", "Sand", "Carbon"],
+"a": 1,
+"sol": "Deliquescent substances absorb so much water they turn into solutions."
+},
+{
+"q": "In a soda bottle, solubility of CO2 increases when:",
+"o": ["Bottle is opened", "Pressure is increased", "Temperature is increased", "Volume is increased"],
+"a": 1,
+"sol": "Pressure forces more gas molecules into the liquid phase."
+},
+{
+"q": "Which of these is an example of an emulsion?",
+"o": ["Milk", "Shaving cream", "Jelly", "Fog"],
+"a": 0,
+"sol": "An emulsion is a liquid-in-liquid colloid."
+},
+{
+"q": "Blood is considered a ________.",
+"o": ["True solution", "Colloid", "Pure compound", "Element"],
+"a": 1,
+"sol": "Blood has components like cells and proteins suspended in plasma (colloid)."
+},
+{
+"q": "Distilled water is a ________.",
+"o": ["Mixture", "Pure substance", "Solution", "Suspension"],
+"a": 1,
+"sol": "It contains only H2O molecules without dissolved minerals."
+},
+{
+"q": "The solute particles in a true solution have a diameter ________.",
+"o": ["Greater than 100 nm", "Between 1 and 100 nm", "Less than 1 nm", "Greater than 1000 nm"],
+"a": 2,
+"sol": "True solution particles are at the molecular or ionic level (<1 nm)."
+},
+{
+"q": "Common salt becomes wet during the rainy season because it contains impurities like ________.",
+"o": ["Sand", "Magnesium chloride", "Calcium carbonate", "Sulfur"],
+"a": 1,
+"sol": "Magnesium chloride is deliquescent and absorbs moisture."
+},
+{
+"q": "The scattering of light by colloidal particles is called ________.",
+"o": ["Reflection", "Refraction", "Tyndall Effect", "Dispersion"],
+"a": 2,
+"sol": "This effect makes the beam of light visible."
+},
+{
+"q": "If you add a crystal of solute to a supersaturated solution, ________.",
+"o": ["Nothing happens", "The crystal dissolves", "Excess solute crystallizes out", "The solution boils"],
+"a": 2,
+"sol": "The extra solute quickly settles around the 'seed' crystal."
+},
+{
+"q": "Which of the following is a homogeneous mixture?",
+"o": ["Stained glass", "Oil in water", "Muddy water", "Air with dust"],
+"a": 0,
+"sol": "Alloys and stained glass are solid solutions (homogeneous)."
+},
+{
+"q": "Washing soda is also known as ________.",
+"o": ["Sodium chloride", "Sodium carbonate decahydrate", "Sodium bicarbonate", "Calcium chloride"],
+"a": 1,
+"sol": "Na2CO3.10H2O is the hydrated form."
+},
+{
+"q": "Which of these is used as a dehydrating agent in desiccators?",
+"o": ["Salt", "Sugar", "Anhydrous Calcium Chloride", "Water"],
+"a": 2,
+"sol": "Anhydrous CaCl2 absorbs moisture and keeps the air dry."
+},
+{
+"q": "A solution of a solid in a gas is represented by ________.",
+"o": ["Mist", "Smoke", "Clouds", "Sponge"],
+"a": 1,
+"sol": "Smoke consists of solid carbon/ash particles in air."
+},
+{
+"q": "Solubility of NaCl in water at 20°C is approximately ________ g.",
+"o": ["10", "36", "100", "200"],
+"a": 1,
+"sol": "Salt is quite soluble, roughly 36g per 100g of water."
+},
+{
+"q": "Which will dissolve fastest?",
+"o": ["Whole salt in cold water", "Whole salt in hot water", "Crushed salt in cold water", "Crushed salt in hot water"],
+"a": 3,
+"sol": "Both high temperature and high surface area maximize the rate."
+},
+{
+"q": "A mixture of kerosene and water can be separated using ________.",
+"o": ["Filter paper", "Separating funnel", "Distillation flask", "Magnet"],
+"a": 1,
+"sol": "They are immiscible liquids with different densities."
+},
+{
+"q": "What happens to the level of water when sugar is dissolved in it?",
+"o": ["It rises significantly", "It remains almost the same", "It goes down", "It doubles"],
+"a": 1,
+"sol": "Sugar molecules fit into the intermolecular spaces of water."
+},
+{
+"q": "The gas that is most soluble in water is ________.",
+"o": ["Nitrogen", "Oxygen", "Ammonia", "Hydrogen"],
+"a": 2,
+"sol": "Ammonia is highly soluble in water due to its polar nature."
+},
+{
+"q": "Which of the following is an anhydrous salt?",
+"o": ["Epsom salt", "Blue vitriol", "Common salt", "Glauber's salt"],
+"a": 2,
+"sol": "NaCl (common salt) does not typically have water of crystallization."
+},
+{
+"q": "The formula of Blue Vitriol is ________.",
+"o": ["FeSO4.7H2O", "CuSO4.5H2O", "ZnSO4.7H2O", "MgSO4.7H2O"],
+"a": 1,
+"sol": "Copper sulfate pentahydrate is blue."
+},
+{
+"q": "An unsaturated solution is one which ________.",
+"o": ["Cannot dissolve more solute", "Can dissolve more solute", "Has excess solute at bottom", "Is colored blue"],
+"a": 1,
+"sol": "It has not reached its saturation limit yet."
+},
+{
+"q": "The color of anhydrous copper sulfate is ________.",
+"o": ["Blue", "Green", "White", "Black"],
+"a": 2,
+"sol": "It turns white when the water of crystallization is removed."
+},
+{
+"q": "Which of these is a solution of a gas in a solid?",
+"o": ["Pumice stone", "Soda water", "Air", "Mercury in gold"],
+"a": 0,
+"sol": "Pumice has air trapped inside a solid volcanic rock."
+},
+{
+"q": "A colloidal solution consists of ________.",
+"o": ["Solute and Solvent", "Dispersed phase and Dispersion medium", "Solid and Gas only", "Pure water"],
+"a": 1,
+"sol": "These are the terms used for components of a colloid."
+},
+{
+"q": "The process of heating a hydrated salt to remove its water is called ________.",
+"o": ["Melting", "Dehydration", "Condensation", "Hydration"],
+"a": 1,
+"sol": "Removing water is dehydration."
+},
+{
+"q": "Stirring increases the ________ of dissolving.",
+"o": ["Amount", "Rate", "Solubility", "Concentration"],
+"a": 1,
+"sol": "It makes the process faster but doesn't change the final capacity."
+},
+{
+"q": "Sea water is a ________ solution.",
+"o": ["Dilute", "Concentrated", "Pure", "Saturated"],
+"a": 1,
+"sol": "It contains a significant amount of various dissolved salts."
+},
+{
+"q": "Which of these is NOT a solution?",
+"o": ["Alloy", "Air", "Soil", "Sugar syrup"],
+"a": 2,
+"sol": "Soil is a heterogeneous mixture, not a solution."
+},
+{
+"q": "A suspension is ________.",
+"o": ["Homogeneous", "Heterogeneous", "Pure", "Transparent"],
+"a": 1,
+"sol": "The particles are large and can be seen separately."
+},
+{
+"q": "On increasing temperature, the solubility of calcium hydroxide in water ________.",
+"o": ["Increases", "Decreases", "Stays same", "Becomes infinite"],
+"a": 1,
+"sol": "Some substances like lime (calcium hydroxide) show decreased solubility with heat."
+},
+{
+"q": "Cloud is an example of ________.",
+"o": ["Liquid in gas", "Solid in gas", "Gas in liquid", "Solid in liquid"],
+"a": 0,
+"sol": "Clouds are tiny water droplets suspended in air."
+},
+{
+"q": "An example of a liquid-in-solid colloid is ________.",
+"o": ["Milk", "Jelly", "Smoke", "Fog"],
+"a": 1,
+"sol": "Jelly is a liquid trapped in a solid framework."
+},
+{
+"q": "Which substance loses its 'water of crystallization' on exposure to dry air?",
+"o": ["Sugar", "Common salt", "Glauber's salt", "Sand"],
+"a": 2,
+"sol": "It is an efflorescent salt."
+},
+{
+"q": "Water that contains dissolved salts of calcium and magnesium is called ________ water.",
+"o": ["Soft", "Hard", "Heavy", "Distilled"],
+"a": 1,
+"sol": "Hardness is caused by these specific minerals."
+},
+{
+"q": "A saturated solution of sugar becomes ________ when heated.",
+"o": ["More saturated", "Supersaturated", "Unsaturated", "A suspension"],
+"a": 2,
+"sol": "Heat increases solubility, making the current amount 'less than the new limit'."
+},
+{
+"q": "Which of the following is immiscible in water?",
+"o": ["Sugar", "Alcohol", "Oil", "Salt"],
+"a": 2,
+"sol": "Oil and water do not mix."
+},
+{
+"q": "The solubility of a solid depends on ________.",
+"o": ["Pressure", "Nature of solute and solvent", "Container volume", "Light"],
+"a": 1,
+"sol": "The chemical compatibility determines how much dissolves."
+},
+{
+"q": "Fog is a colloid of ________.",
+"o": ["Solid in gas", "Liquid in gas", "Gas in liquid", "Solid in liquid"],
+"a": 1,
+"sol": "Fog consists of water droplets in air."
+},
+{
+"q": "Carbon disulfide is a solvent for ________.",
+"o": ["Sugar", "Sulfur", "Salt", "Starch"],
+"a": 1,
+"sol": "Sulfur dissolves readily in CS2."
+},
+{
+"q": "When light passes through a true solution, it ________.",
+"o": ["Scatters", "Does not scatter", "Changes color", "Reflects back"],
+"a": 1,
+"sol": "Particles are too small to scatter light."
+},
+{
+"q": "The mass of salt in a 10% salt solution of 100g is ________.",
+"o": ["1g", "10g", "90g", "100g"],
+"a": 1,
+"sol": "10% of 100g is 10g."
+},
+{
+"q": "Solubility curves show the relationship between ________.",
+"o": ["Solubility and Pressure", "Solubility and Temperature", "Time and Temperature", "Mass and Volume"],
+"a": 1,
+"sol": "They graph how solubility changes as temperature rises or falls."
+},
+{
+"q": "The formula for Epsom salt is ________.",
+"o": ["MgSO4.7H2O", "CuSO4.5H2O", "FeSO4.7H2O", "CaSO4.2H2O"],
+"a": 0,
+"sol": "Magnesium sulfate heptahydrate is Epsom salt."
+},
+{
+"q": "Which of these will settle down if left undisturbed?",
+"o": ["Milk", "Salt solution", "Muddy water", "Air"],
+"a": 2,
+"sol": "Suspensions like muddy water are unstable."
+},
+{
+"q": "Alcohol and water are ________ liquids.",
+"o": ["Immiscible", "Miscible", "Insoluble", "Metallic"],
+"a": 1,
+"sol": "They mix in all proportions."
+},
+{
+"q": "The solution used in a car battery is ________.",
+"o": ["Nitric acid", "Hydrochloric acid", "Sulfuric acid", "Acetic acid"],
+"a": 2,
+"sol": "Lead-acid batteries use sulfuric acid."
+},
+{
+"q": "Which of the following is NOT a property of a true solution?",
+"o": ["Homogeneous", "Particles visible with microscope", "Transparent", "Stable"],
+"a": 1,
+"sol": "Particles are too small even for powerful optical microscopes."
+},
+{
+"q": "If we evaporate a solution of salt, what is left in the dish?",
+"o": ["Water", "Salt", "Both", "Nothing"],
+"a": 1,
+"sol": "The non-volatile solute remains behind."
+},
+{
+"q": "A solution of iodine in carbon tetrachloride is ________ in color.",
+"o": ["Blue", "Purple", "Colorless", "Yellow"],
+"a": 1,
+"sol": "Iodine gives a violet/purple color in non-polar solvents."
+},
+{
+"q": "Can we separate sugar from water by filtration?",
+"o": ["Yes", "No", "Only if sugar is brown", "Only if water is hot"],
+"a": 1,
+"sol": "Sugar molecules pass through the filter paper along with water."
+},
+{
+"q": "Which of these is a gas-in-gas solution?",
+"o": ["Smoke", "Cloud", "Air", "Soda"],
+"a": 2,
+"sol": "Air is a mixture of nitrogen, oxygen, etc."
+},
+{
+"q": "Substances that do not dissolve in water are ________.",
+"o": ["Soluble", "Insoluble", "Miscible", "Hygroscopic"],
+"a": 1,
+"sol": "Definition of insolubility."
+},
+{
+"q": "The taste of soda water is ________ due to dissolved CO2.",
+"o": ["Sweet", "Salty", "Acidic/Sour", "Bitter"],
+"a": 2,
+"sol": "CO2 reacts with water to form weak carbonic acid."
+},
+{
+"q": "Which of these is used to preserve fish by reducing water activity?",
+"o": ["Sugar", "Salt", "Baking soda", "Starch"],
+"a": 1,
+"sol": "Salting draws water out of the fish (osmosis)."
+},
+{
+"q": "White vitriol is ________.",
+"o": ["FeSO4.7H2O", "ZnSO4.7H2O", "CuSO4.5H2O", "MgSO4.7H2O"],
+"a": 1,
+"sol": "Zinc sulfate heptahydrate."
+},
+{
+"q": "What is the dispersion medium in 'Mist'?",
+"o": ["Water", "Air/Gas", "Dust", "Ice"],
+"a": 1,
+"sol": "Mist consists of liquid droplets (dispersed phase) in air."
+},
+{
+"q": "Green vitriol is ________.",
+"o": ["CuSO4.5H2O", "FeSO4.7H2O", "ZnSO4.7H2O", "Na2CO3.10H2O"],
+"a": 1,
+"sol": "Ferrous sulfate heptahydrate."
+},
+{
+"q": "A mixture of sulfur and iron filings is ________.",
+"o": ["A solution", "A compound", "A heterogeneous mixture", "A colloid"],
+"a": 2,
+"sol": "The components can be seen separately and separated with a magnet."
+},
+{
+"q": "Which of the following describes solubility?",
+"o": ["Amount of solvent in solute", "Amount of solute in a fixed amount of solvent", "Rate of dissolving", "Color of the solution"],
+"a": 1,
+"sol": "It defines the concentration at the saturation point."
+},
+{
+"q": "In an unsaturated solution, we can ________.",
+"o": ["Add more solute to dissolve it", "Add more solvent to make it saturated", "Filter out the solute", "Cool it to dissolve more"],
+"a": 0,
+"sol": "Unsaturated means it's below the capacity limit."
+},
+{
+"q": "Common salt becomes deliquescent if it contains ________.",
+"o": ["Potassium chloride", "Calcium chloride", "Sand", "Clay"],
+"a": 1,
+"sol": "CaCl2 is a common deliquescent impurity."
+},
+{
+"q": "The process of getting pure salt from sea water is ________.",
+"o": ["Distillation", "Evaporation followed by crystallization", "Filtration", "Decantation"],
+"a": 1,
+"sol": "Evaporation concentrates the brine, and crystallization yields pure salt."
+},
+{
+"q": "Colloidal particles are ________ than true solution particles.",
+"o": ["Smaller", "Larger", "Same size", "Invisible"],
+"a": 1,
+"sol": "True solution particles are < 1nm; Colloids are 1nm to 100nm."
+}
+]
