@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the primary definition of health according to the WHO?",
+"o": ["Absence of disease only", "Physical fitness only", "Complete physical, mental, and social well-being", "Having a lot of money"],
+"a": 2,
+"sol": "Health is not just the absence of illness but a state of total well-being across three dimensions."
+},
+{
+"q": "Which of these is a non-communicable disease?",
+"o": ["Diabetes", "Cholera", "Common Cold", "Tuberculosis"],
+"a": 0,
+"sol": "Diabetes is a metabolic disorder and cannot be spread from one person to another."
+},
+{
+"q": "Vitamins and minerals are also known as:",
+"o": ["Energy-giving foods", "Body-building foods", "Protective foods", "Roughage"],
+"a": 2,
+"sol": "They protect our body against various diseases and maintain immunity."
+},
+{
+"q": "A diet that contains all nutrients in the right proportion is called a:",
+"o": ["Heavy diet", "Balanced diet", "Slimming diet", "Liquid diet"],
+"a": 1,
+"sol": "A balanced diet ensures the body gets everything it needs to function correctly."
+},
+{
+"q": "Night blindness is caused by the deficiency of:",
+"o": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin B12"],
+"a": 2,
+"sol": "Vitamin A is essential for maintaining healthy eyesight."
+},
+{
+"q": "Which disease is caused by the deficiency of Vitamin C?",
+"o": ["Rickets", "Scurvy", "Beriberi", "Anaemia"],
+"a": 1,
+"sol": "Scurvy leads to bleeding gums and slow wound healing."
+},
+{
+"q": "Goitre is caused by the deficiency of:",
+"o": ["Iron", "Calcium", "Iodine", "Phosphorus"],
+"a": 2,
+"sol": "Iodine is required for the proper functioning of the thyroid gland."
+},
+{
+"q": "Which of the following is a symptom of Anaemia?",
+"o": ["Swelling in the neck", "Pale skin and tiredness", "Bleeding gums", "Weak bones"],
+"a": 1,
+"sol": "Anaemia is a lack of iron, which reduces oxygen transport in the blood, leading to fatigue."
+},
+{
+"q": "Proteins are essentially required for:",
+"o": ["Instant energy", "Growth and repair of tissues", "Maintaining body temperature", "Storage of fat"],
+"a": 1,
+"sol": "Proteins are the building blocks of the body."
+},
+{
+"q": "Kwashiorkor is a disease caused by the deficiency of:",
+"o": ["Carbohydrates", "Fats", "Proteins", "Minerals"],
+"a": 2,
+"sol": "Severe protein deficiency in children leads to Kwashiorkor."
+},
+{
+"q": "Which of these is an example of 'Social Health'?",
+"o": ["Running 5 kilometers", "Having good relations with neighbors", "Thinking positively", "Eating green vegetables"],
+"a": 1,
+"sol": "Social health refers to the ability to interact and maintain relationships within a community."
+},
+{
+"q": "Vaccination is a method of:",
+"o": ["Secondary treatment", "Curing a genetic disorder", "Acquired immunity/Prevention", "First aid"],
+"a": 2,
+"sol": "Vaccines help the body build immunity against specific pathogens."
+},
+{
+"q": "Rickets affects which part of the body?",
+"o": ["Eyes", "Skin", "Bones", "Blood"],
+"a": 2,
+"sol": "Rickets, caused by Vitamin D deficiency, leads to soft and weak bones."
+},
+{
+"q": "Which mineral is necessary for strong teeth and bones?",
+"o": ["Iron", "Calcium", "Sodium", "Potassium"],
+"a": 1,
+"sol": "Calcium provides the structural strength for the skeletal system."
+},
+{
+"q": "Malaria is transmitted by:",
+"o": ["Contaminated water", "Anopheles mosquito", "Housefly", "Infected food"],
+"a": 1,
+"sol": "The female Anopheles mosquito acts as a vector for the malaria parasite."
+},
+{
+"q": "What is the full form of AIDS?",
+"o": ["Auto Immune Disease Symptoms", "Acquired Immuno Deficiency Syndrome", "Active Immune Deficiency State", "All Immune Disease System"],
+"a": 1,
+"sol": "AIDS is caused by the HIV virus which attacks the immune system."
+},
+{
+"q": "Which of these helps in the easy passage of stools and prevents constipation?",
+"o": ["Fats", "Water", "Roughage/Fiber", "Sugar"],
+"a": 2,
+"sol": "Roughage adds bulk to the food and aids digestion."
+},
+{
+"q": "ORS (Oral Rehydration Solution) is given to patients suffering from:",
+"o": ["Headache", "Malaria", "Diarrhoea/Dehydration", "Scurvy"],
+"a": 2,
+"sol": "ORS restores lost salts and water in the body."
+},
+{
+"q": "Obesity is mainly caused by the excessive intake of:",
+"o": ["Proteins", "Vitamins", "Fats and Carbohydrates", "Minerals"],
+"a": 2,
+"sol": "Excess energy stored as fat leads to being overweight."
+},
+{
+"q": "Which organ is primarily affected by Tuberculosis (TB)?",
+"o": ["Heart", "Lungs", "Kidneys", "Liver"],
+"a": 1,
+"sol": "TB is a bacterial infection that usually attacks the lungs."
+},
+{
+"q": "Mental health involves:",
+"o": ["Muscle strength", "Emotional and psychological well-being", "Blood pressure", "Height"],
+"a": 1,
+"sol": "Mental health is about how we think, feel, and act."
+},
+{
+"q": "The main source of Vitamin D is:",
+"o": ["Citrus fruits", "Green leafy vegetables", "Sunlight", "Pulses"],
+"a": 2,
+"sol": "The skin synthesizes Vitamin D when exposed to UV rays from the sun."
+},
+{
+"q": "Communicable diseases are also called:",
+"o": ["Genetic diseases", "Infectious diseases", "Deficiency diseases", "Chronic diseases"],
+"a": 1,
+"sol": "They are caused by pathogens and can spread between individuals."
+},
+{
+"q": "Which of these is a lifestyle disease?",
+"o": ["Hypertension", "Typhoid", "Cholera", "Smallpox"],
+"a": 0,
+"sol": "Hypertension (high blood pressure) is often linked to stress and poor lifestyle habits."
+},
+{
+"q": "Personal hygiene includes:",
+"o": ["Cleaning the neighborhood", "Bathing regularly and clipping nails", "Planting trees", "Paying taxes"],
+"a": 1,
+"sol": "Personal hygiene refers to the cleanliness of one's own body."
+},
+{
+"q": "Beriberi is caused by the deficiency of:",
+"o": ["Vitamin A", "Vitamin B1", "Vitamin K", "Vitamin E"],
+"a": 1,
+"sol": "Vitamin B1 deficiency leads to Beriberi, affecting the nervous system."
+},
+{
+"q": "An immediate help given to an injured person is called:",
+"o": ["Surgery", "Vaccination", "First Aid", "Diagnosis"],
+"a": 2,
+"sol": "First aid is the initial care given before professional medical help arrives."
+},
+{
+"q": "Which of the following is an energy-giving nutrient?",
+"o": ["Minerals", "Vitamins", "Carbohydrates", "Roughage"],
+"a": 2,
+"sol": "Carbohydrates are the primary source of fuel for the body."
+},
+{
+"q": "Which disease is prevented by the BCG vaccine?",
+"o": ["Polio", "Tuberculosis", "Measles", "Mumps"],
+"a": 1,
+"sol": "BCG (Bacille Calmette-Guérin) is the vaccine for TB."
+},
+{
+"q": "What is the percentage of water in the human body?",
+"o": ["10-20%", "30-40%", "60-70%", "90-100%"],
+"a": 2,
+"sol": "The human body is predominantly made of water, essential for all biological processes."
+},
+{
+"q": "Excessive bleeding from a wound may indicate a deficiency of:",
+"o": ["Vitamin A", "Vitamin D", "Vitamin K", "Vitamin E"],
+"a": 2,
+"sol": "Vitamin K is essential for blood clotting."
+},
+{
+"q": "Cholera is spread through:",
+"o": ["Air", "Mosquito bite", "Contaminated food and water", "Direct contact"],
+"a": 2,
+"sol": "Cholera bacteria are usually found in water or food contaminated by feces."
+},
+{
+"q": "The lack of which nutrient causes Marasmus in infants?",
+"o": ["Vitamins", "Both proteins and carbohydrates", "Only fats", "Only minerals"],
+"a": 1,
+"sol": "Marasmus is a form of severe malnutrition characterized by energy deficiency."
+},
+{
+"q": "Which of these helps in maintaining body temperature?",
+"o": ["Vitamins", "Roughage", "Water", "Iron"],
+"a": 2,
+"sol": "Water helps regulate temperature through perspiration."
+},
+{
+"q": "A person with a 'BMI' over 30 is considered:",
+"o": ["Underweight", "Healthy", "Obese", "Athletic"],
+"a": 2,
+"sol": "Body Mass Index (BMI) is a measure of body fat based on height and weight."
+},
+{
+"q": "Which of these is a fungal infection?",
+"o": ["Typhoid", "Ringworm", "Dengue", "Malaria"],
+"a": 1,
+"sol": "Ringworm is a common skin disease caused by fungi."
+},
+{
+"q": "Jaundice primarily affects which organ?",
+"o": ["Lungs", "Kidneys", "Liver", "Brain"],
+"a": 2,
+"sol": "Jaundice is caused by the buildup of bilirubin due to liver dysfunction."
+},
+{
+"q": "What should be used to clean a wound?",
+"o": ["Dirty cloth", "Antiseptic solution", "Oil", "Mud"],
+"a": 1,
+"sol": "Antiseptics kill germs and prevent infection in open wounds."
+},
+{
+"q": "Which food group is rich in proteins?",
+"o": ["Rice and Potato", "Pulses, Eggs, and Meat", "Butter and Ghee", "Fruits and Vegetables"],
+"a": 1,
+"sol": "Animal products and legumes are the best sources of protein."
+},
+{
+"q": "The 'silent killer' often refers to which condition?",
+"o": ["Common Cold", "High Blood Pressure (Hypertension)", "Fever", "Cough"],
+"a": 1,
+"sol": "It often has no symptoms but can lead to heart attacks and strokes."
+},
+{
+"q": "Which of these is a way to maintain good mental health?",
+"o": ["Isolating oneself", "Regular exercise and meditation", "Sleeping only 2 hours", "Eating junk food"],
+"a": 1,
+"sol": "Physical activity and mindfulness reduce stress and improve mood."
+},
+{
+"q": "Deficiency of iron leads to:",
+"o": ["Scurvy", "Anaemia", "Goitre", "Beriberi"],
+"a": 1,
+"sol": "Iron is needed to make hemoglobin in red blood cells."
+},
+{
+"q": "Pasteurization of milk is done to:",
+"o": ["Make it taste better", "Increase its fat content", "Kill harmful microbes", "Change its color"],
+"a": 2,
+"sol": "Heating milk kills bacteria that cause spoilage and disease."
+},
+{
+"q": "A sedentary lifestyle leads to:",
+"o": ["Increased fitness", "Health problems like obesity and heart disease", "Better mental health", "Longevity"],
+"a": 1,
+"sol": "Lack of physical activity is a major risk factor for chronic diseases."
+},
+{
+"q": "What is the main function of white blood cells?",
+"o": ["Transport oxygen", "Clot blood", "Fight infections", "Produce energy"],
+"a": 2,
+"sol": "WBCs are the soldiers of the body's immune system."
+},
+{
+"q": "Which of these is a symptom of Marasmus?",
+"o": ["Swollen belly", "Thin limbs and prominent ribs", "Bleeding gums", "Night blindness"],
+"a": 1,
+"sol": "Marasmus involves severe wasting of muscle and fat."
+},
+{
+"q": "To prevent tooth decay, one should:",
+"o": ["Eat more chocolates", "Brush teeth twice a day", "Drink less water", "Avoid fruits"],
+"a": 1,
+"sol": "Brushing removes plaque and food particles that feed bacteria."
+},
+{
+"q": "Which vitamin helps in the absorption of Calcium?",
+"o": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+"a": 3,
+"sol": "Without Vitamin D, the body cannot effectively use calcium for bones."
+},
+{
+"q": "Typhoid is caused by which microorganism?",
+"o": ["Virus", "Fungi", "Bacteria", "Protozoa"],
+"a": 2,
+"sol": "Salmonella typhi is the bacterium responsible for typhoid."
+},
+{
+"q": "What does 'physical health' mean?",
+"o": ["Having many friends", "The body functioning at its best", "Being rich", "Always being happy"],
+"a": 1,
+"sol": "Physical health relates to the mechanical and biological state of the body."
+},
+{
+"q": "Pulse Polio program aims to eradicate:",
+"o": ["Cancer", "Polio", "AIDS", "Malaria"],
+"a": 1,
+"sol": "It is a mass immunization campaign to protect children from the polio virus."
+},
+{
+"q": "Which of these is a source of Vitamin C?",
+"o": ["Milk", "Wheat", "Orange and Lemon", "Meat"],
+"a": 2,
+"sol": "Citrus fruits are the richest sources of Vitamin C."
+},
+{
+"q": "The process of taking in food and using it for growth is:",
+"o": ["Digestion", "Nutrition", "Excretion", "Respiration"],
+"a": 1,
+"sol": "Nutrition encompasses the intake and utilization of nutrients."
+},
+{
+"q": "How many glasses of water should an average person drink daily?",
+"o": ["1-2", "4-5", "8-10", "15-20"],
+"a": 2,
+"sol": "Staying hydrated is crucial for organ function and digestion."
+},
+{
+"q": "Community health includes:",
+"o": ["Individual bathing", "Waste disposal and clean water supply for all", "Buying a new car", "Watching TV"],
+"a": 1,
+"sol": "Community health focuses on the environmental factors affecting a group."
+},
+{
+"q": "An example of a fat-soluble vitamin is:",
+"o": ["Vitamin C", "Vitamin B", "Vitamin A", "Both A and B"],
+"a": 2,
+"sol": "Vitamins A, D, E, and K are fat-soluble; B and C are water-soluble."
+},
+{
+"q": "Which mineral is found in green leafy vegetables like spinach?",
+"o": ["Iodine", "Iron", "Gold", "Silver"],
+"a": 1,
+"sol": "Spinach is a well-known source of iron."
+},
+{
+"q": "Which disease is caused by contaminated water?",
+"o": ["Tuberculosis", "Measles", "Dysentery", "Malaria"],
+"a": 2,
+"sol": "Dysentery involves intestinal inflammation spread by dirty water."
+},
+{
+"q": "The main role of carbohydrates in our body is to:",
+"o": ["Build muscles", "Provide energy", "Repair cells", "Stop bleeding"],
+"a": 1,
+"sol": "They are the body's preferred source of energy."
+},
+{
+"q": "Protein energy malnutrition (PEM) results in:",
+"o": ["Scurvy", "Marasmus and Kwashiorkor", "Night blindness", "Goitre"],
+"a": 1,
+"sol": "PEM is the umbrella term for severe protein/calorie deficiencies."
+},
+{
+"q": "A person suffering from diabetes should avoid:",
+"o": ["Water", "Sugar and sweets", "Vegetables", "Proteins"],
+"a": 1,
+"sol": "Diabetics need to manage their blood glucose levels by limiting sugar."
+},
+{
+"q": "Which part of the egg is richest in protein?",
+"o": ["Yolk (Yellow part)", "Albumen (White part)", "Shell", "All are equal"],
+"a": 1,
+"sol": "The egg white consists almost entirely of protein and water."
+},
+{
+"q": "Social well-being means:",
+"o": ["Being able to solve math problems", "Living in harmony with others", "Being a fast runner", "Eating alone"],
+"a": 1,
+"sol": "It involves social support and positive community interaction."
+},
+{
+"q": "Which of these is a rich source of Calcium?",
+"o": ["Bread", "Milk", "Rice", "Sugar"],
+"a": 1,
+"sol": "Dairy products are excellent sources of calcium."
+},
+{
+"q": "A symptom of Scurvy is:",
+"o": ["Bending of legs", "Swelling of thyroid", "Bleeding of gums", "Coughing blood"],
+"a": 2,
+"sol": "Vitamin C is vital for collagen, which keeps gums healthy."
+},
+{
+"q": "Dengue is spread by which mosquito?",
+"o": ["Anopheles", "Aedes", "Culex", "None of these"],
+"a": 1,
+"sol": "Aedes aegypti is the carrier for the dengue virus."
+},
+{
+"q": "Which nutrient provides the most energy per gram?",
+"o": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+"a": 2,
+"sol": "Fats are the most energy-dense nutrient."
+},
+{
+"q": "Smoking causes major damage to which organ?",
+"o": ["Stomach", "Lungs", "Kidneys", "Bones"],
+"a": 1,
+"sol": "Smoking is the leading cause of lung cancer and COPD."
+},
+{
+"q": "The iodine test is used to detect the presence of:",
+"o": ["Proteins", "Starch", "Fats", "Vitamins"],
+"a": 1,
+"sol": "Iodine turns blue-black in the presence of starch."
+},
+{
+"q": "Which of these is a biotic factor affecting health?",
+"o": ["Temperature", "Bacteria", "Pollution", "Altitude"],
+"a": 1,
+"sol": "Biotic factors are living organisms that can cause disease."
+},
+{
+"q": "Washing hands before meals prevents:",
+"o": ["Broken bones", "Ingestion of germs", "Sunburn", "Eye strain"],
+"a": 1,
+"sol": "Handwashing is the most effective way to prevent fecal-oral infections."
+},
+{
+"q": "What is the primary source of energy for the brain?",
+"o": ["Proteins", "Glucose (Carbohydrates)", "Fats", "Vitamins"],
+"a": 1,
+"sol": "The brain relies almost exclusively on glucose for energy."
+},
+{
+"q": "Which of the following is not a deficiency disease?",
+"o": ["Scurvy", "Malaria", "Anaemia", "Rickets"],
+"a": 1,
+"sol": "Malaria is an infectious disease caused by a parasite, not a lack of nutrients."
+},
+{
+"q": "Iodized salt helps prevent:",
+"o": ["Diabetes", "Goitre", "Obesity", "Night blindness"],
+"a": 1,
+"sol": "It ensures the thyroid gland has enough iodine to function."
+},
+{
+"q": "Which of these is a symptom of Kwashiorkor?",
+"o": ["Bent bones", "Swollen stomach and ankles", "Pale skin", "Thick skin"],
+"a": 1,
+"sol": "Edema (swelling) is a classic sign of protein deficiency."
+},
+{
+"q": "Healthy mind lives in a healthy ______.",
+"o": ["House", "Body", "City", "Environment"],
+"a": 1,
+"sol": "Physical and mental health are deeply interconnected."
+},
+{
+"q": "The virus that causes COVID-19 is spread mainly through:",
+"o": ["Water", "Respiratory droplets", "Mosquitoes", "Soil"],
+"a": 1,
+"sol": "Droplets from coughing or sneezing are the primary transmission mode."
+},
+{
+"q": "Deficiency of Vitamin D in adults is called:",
+"o": ["Rickets", "Osteomalacia", "Anaemia", "Goitre"],
+"a": 1,
+"sol": "Osteomalacia is the softening of bones in adults."
+},
+{
+"q": "Which food should be eaten sparingly?",
+"o": ["Fruits", "Vegetables", "Junk food (High fat/sugar)", "Pulses"],
+"a": 2,
+"sol": "High-calorie, low-nutrient foods should be limited."
+},
+{
+"q": "What helps in the formation of hemoglobin?",
+"o": ["Calcium", "Iron", "Iodine", "Magnesium"],
+"a": 1,
+"sol": "Iron is the central atom in the hemoglobin molecule."
+},
+{
+"q": "Which of these is essential for normal growth in children?",
+"o": ["A balanced diet", "Eating only rice", "Watching lots of cartoons", "Skipping breakfast"],
+"a": 0,
+"sol": "Children need all nutrients to grow physically and mentally."
+},
+{
+"q": "Environmental health involves:",
+"o": ["Only personal bathing", "Keeping surroundings clean", "Buying new clothes", "Studying for exams"],
+"a": 1,
+"sol": "A clean environment reduces the breeding ground for pathogens."
+},
+{
+"q": "Common cold is caused by:",
+"o": ["Bacteria", "Virus", "Fungi", "Protozoa"],
+"a": 1,
+"sol": "Rhinoviruses and others are responsible for the common cold."
+},
+{
+"q": "Which of these is a 'body-building' food?",
+"o": ["Sugar", "Butter", "Fish", "Papaya"],
+"a": 2,
+"sol": "Fish is high in protein, which builds and repairs the body."
+},
+{
+"q": "An imbalance in nutrition can lead to:",
+"o": ["Better immunity", "Malnutrition", "Perfect health", "Increased height"],
+"a": 1,
+"sol": "Both over-nutrition and under-nutrition are forms of malnutrition."
+},
+{
+"q": "What is the role of Vitamin K?",
+"o": ["Improve eyesight", "Help in blood clotting", "Strengthen bones", "Boost energy"],
+"a": 1,
+"sol": "It is necessary for the synthesis of proteins that cause blood to clot."
+},
+{
+"q": "Which of these should be checked before buying packed food?",
+"o": ["Color of the packet", "Expiry date", "Brand name only", "Weight only"],
+"a": 1,
+"sol": "Consuming expired food can lead to food poisoning."
+},
+{
+"q": "Excessive intake of salt is linked to:",
+"o": ["Low blood pressure", "High blood pressure", "Diabetes", "Anaemia"],
+"a": 1,
+"sol": "High sodium intake increases the risk of hypertension."
+},
+{
+"q": "Which organ filters waste from the blood?",
+"o": ["Heart", "Lungs", "Kidneys", "Stomach"],
+"a": 2,
+"sol": "Kidneys remove toxins and excess water to form urine."
+},
+{
+"q": "Sleep is necessary for the body to:",
+"o": ["Increase hunger", "Rest and recover", "Lose weight", "Become taller instantly"],
+"a": 1,
+"sol": "Sleep allows for tissue repair and cognitive consolidation."
+},
+{
+"q": "Which of these is a symptom of dehydration?",
+"o": ["Excessive sweating", "Extreme thirst and dry mouth", "High energy", "Cold skin"],
+"a": 1,
+"sol": "Lack of water causes the body to signal for replacement."
+},
+{
+"q": "Which of these is a rich source of Vitamin A?",
+"o": ["Carrot", "Bread", "Salt", "Potatoes"],
+"a": 0,
+"sol": "Carrots are high in beta-carotene, which the body converts to Vitamin A."
+},
+{
+"q": "What is 'Public Health'?",
+"o": ["Individual's fitness", "Science of protecting and improving health of communities", "Eating in a restaurant", "Playing in a park"],
+"a": 1,
+"sol": "Public health deals with the health of populations rather than individuals."
+},
+{
+"q": "Which of these is not a nutrient?",
+"o": ["Proteins", "Fats", "Roughage", "Minerals"],
+"a": 2,
+"sol": "Roughage is not a nutrient as it is not absorbed, but it is essential for digestion."
+},
+{
+"q": "The ability of the body to resist diseases is called:",
+"o": ["Vaccination", "Immunity", "Metabolism", "Circulation"],
+"a": 1,
+"sol": "Immunity is the body's natural defense against pathogens."
+},
+{
+"q": "Beri-beri primarily affects the:",
+"o": ["Bones", "Digestive system", "Nervous system", "Skin"],
+"a": 2,
+"sol": "Vitamin B1 deficiency causes damage to the nerves."
+},
+{
+"q": "Which of these should be avoided for healthy teeth?",
+"o": ["Milk", "Sticky sweets and sugary drinks", "Apples", "Carrots"],
+"a": 1,
+"sol": "Sugar fuels bacteria that produce acid, causing cavities."
+},
+{
+"q": "A symptom of iodine deficiency is:",
+"o": ["Weak bones", "Bleeding gums", "Swelling in the neck region", "Night blindness"],
+"a": 2,
+"sol": "This swelling is called a goitre."
+},
+{
+"q": "Which nutrient acts as a fuel for our body?",
+"o": ["Vitamins", "Carbohydrates", "Water", "Roughage"],
+"a": 1,
+"sol": "Carbohydrates provide the chemical energy needed for movement and life."
+},
+{
+"q": "What is the best way to avoid communicable diseases?",
+"o": ["Avoiding all people", "Good hygiene and timely vaccination", "Eating only meat", "Sleeping all day"],
+"a": 1,
+"sol": "Prevention through hygiene and immunity is the most effective strategy."
+}
+]
