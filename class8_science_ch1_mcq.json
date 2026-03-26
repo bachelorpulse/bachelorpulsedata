@@ -1,122 +1,602 @@
 [
 {
-"q": "What is the first step typically taken in a scientific investigation?",
-"o": ["Drawing a conclusion", "Conducting an experiment", "Making an observation", "Analyzing data"],
-"a": 2,
-"sol": "Science begins with observing the world around us, which leads to asking questions."
-},
-{
-"q": "A 'Hypothesis' is best described as:",
-"o": ["A proven fact", "An educated guess or prediction", "A final report", "A laboratory tool"],
+"q": "What is the primary purpose of a scientific investigation?",
+"o": ["To prove opinions", "To answer questions about the natural world", "To win awards", "To memorize facts"],
 "a": 1,
-"sol": "A hypothesis is a testable statement that predicts the outcome of an experiment."
+"sol": "Science aims to explain how the natural world works through evidence."
 },
 {
-"q": "In an experiment, the factor that a scientist purposely changes is the:",
-"o": ["Dependent variable", "Controlled variable", "Constant", "Independent variable"],
+"q": "Which of these is a testable hypothesis?",
+"o": ["Blue is the best color.", "Dogs are better than cats.", "Plants grow taller with more sunlight.", "Science is fun."],
+"a": 2,
+"sol": "A hypothesis must be measurable and testable."
+},
+{
+"q": "In an experiment, the variable that is kept the same is called the:",
+"o": ["Independent variable", "Dependent variable", "Controlled variable", "Changing variable"],
+"a": 2,
+"sol": "Controlled variables ensure a fair test by keeping conditions constant."
+},
+{
+"q": "The factor you change on purpose is the:",
+"o": ["Independent variable", "Dependent variable", "Control group", "Constant"],
+"a": 0,
+"sol": "The independent variable is the 'input' or the thing being tested."
+},
+{
+"q": "What tool measures the mass of an object?",
+"o": ["Ruler", "Graduated cylinder", "Thermometer", "Electronic balance"],
 "a": 3,
-"sol": "The independent variable is the one being tested or manipulated by the researcher."
+"sol": "A balance measures mass, usually in grams."
 },
 {
-"q": "Which variable is measured or observed as a result of the experiment?",
-"o": ["Dependent variable", "Independent variable", "Fixed variable", "Safety variable"],
+"q": "Data involving descriptions like color or texture is:",
+"o": ["Quantitative", "Qualitative", "Numerical", "Statistical"],
+"a": 1,
+"sol": "Qualitative data describes qualities rather than quantities."
+},
+{
+"q": "Which SI unit is used for temperature?",
+"o": ["Fahrenheit", "Celsius", "Kelvin", "Joule"],
+"a": 2,
+"sol": "Kelvin is the standard SI unit, though Celsius is common in labs."
+},
+{
+"q": "A prediction is usually written in which format?",
+"o": ["I think... because...", "If... then... because...", "Why does...?", "The result is..."],
+"a": 1,
+"sol": "The 'If-Then' format helps clearly define the expected cause and effect."
+},
+{
+"q": "What do you call a statement that describes a repetitive pattern in nature?",
+"o": ["Scientific Theory", "Scientific Law", "Hypothesis", "Observation"],
+"a": 1,
+"sol": "A law describes 'what' happens every time under certain conditions."
+},
+{
+"q": "Why do scientists publish their results?",
+"o": ["To hide their secrets", "To allow others to replicate and verify", "To make money", "To end all science"],
+"a": 1,
+"sol": "Peer review and replication are vital for scientific accuracy."
+},
+{
+"q": "A student measures 50ml of water. This is an example of:",
+"o": ["Qualitative data", "Inference", "Quantitative data", "Opinion"],
+"a": 2,
+"sol": "Quantitative data involves numbers and measurements."
+},
+{
+"q": "Which piece of equipment protects your eyes?",
+"o": ["Lab coat", "Gloves", "Safety Goggles", "Mask"],
+"a": 2,
+"sol": "Goggles prevent chemicals or glass from hitting the eyes."
+},
+{
+"q": "What should you do if you break a glass beaker?",
+"o": ["Hide it", "Pick it up with your hands", "Tell the teacher immediately", "Throw it in the regular bin"],
+"a": 2,
+"sol": "Safety first: always inform the instructor about breakages."
+},
+{
+"q": "An 'Inference' is:",
+"o": ["A fact seen with eyes", "An explanation based on evidence/prior knowledge", "A random guess", "The title of a book"],
+"a": 1,
+"sol": "Inference goes beyond observation to interpret meaning."
+},
+{
+"q": "Which variable goes on the vertical Y-axis?",
+"o": ["Independent", "Dependent", "Controlled", "Constant"],
+"a": 1,
+"sol": "The Dependent variable (outcome) is plotted on the Y-axis."
+},
+{
+"q": "What is the base SI unit for length?",
+"o": ["Centimeter", "Kilometer", "Inch", "Meter"],
+"a": 3,
+"sol": "The meter (m) is the standard SI unit for length."
+},
+{
+"q": "To 'Waft' means to:",
+"o": ["Drink a chemical", "Wave vapors toward your nose", "Heat a liquid quickly", "Mix two acids"],
+"a": 1,
+"sol": "Wafting is the safe way to smell chemicals."
+},
+{
+"q": "A 'Control Group' is necessary because it:",
+"o": ["Makes the experiment more complex", "Provides a baseline for comparison", "Uses up extra materials", "Saves time"],
+"a": 1,
+"sol": "It shows what happens without the independent variable applied."
+},
+{
+"q": "Science cannot answer questions about:",
+"o": ["Gravity", "Morals/Values", "Electricity", "Bacteria"],
+"a": 1,
+"sol": "Science deals with objective evidence, not subjective values or opinions."
+},
+{
+"q": "A theory can be changed if:",
+"o": ["People don't like it", "New evidence contradicts it", "A famous person says so", "It becomes too old"],
+"a": 1,
+"sol": "Scientific knowledge is durable but open to change with new evidence."
+},
+{
+"q": "What is 0.005 meters in millimeters?",
+"o": ["50 mm", "0.5 mm", "5 mm", "500 mm"],
+"a": 2,
+"sol": "1 meter = 1000 mm, so 0.005 * 1000 = 5."
+},
+{
+"q": "Which tool is best for observing cells?",
+"o": ["Magnifying glass", "Telescope", "Microscope", "Binoculars"],
+"a": 2,
+"sol": "Microscopes allow us to see microscopic structures."
+},
+{
+"q": "The curve at the surface of a liquid in a cylinder is the:",
+"o": ["Crescent", "Meniscus", "Arch", "Bubble"],
+"a": 1,
+"sol": "Always read the volume at the bottom of the meniscus."
+},
+{
+"q": "When should you read the lab procedure?",
+"o": ["While doing the lab", "After the lab is finished", "Before starting the lab", "Never"],
+"a": 2,
+"sol": "Reading beforehand prevents accidents and mistakes."
+},
+{
+"q": "If you are testing how music affects plant growth, the 'music type' is the:",
+"o": ["Dependent variable", "Constant", "Independent variable", "Observation"],
+"a": 2,
+"sol": "The music is the thing you are changing/testing."
+},
+{
+"q": "A 'Model' in science is used to:",
+"o": ["Look pretty", "Represent things too small, big, or complex", "Replace the real thing forever", "Sell products"],
+"a": 1,
+"sol": "Models help visualize and study complex systems."
+},
+{
+"q": "Volume is measured in:",
+"o": ["Grams", "Liters or cubic centimeters", "Meters", "Seconds"],
+"a": 1,
+"sol": "Liters (L) or milliliters (mL) are standard for liquid volume."
+},
+{
+"q": "Which of the following is an observation?",
+"o": ["The sky is blue.", "It will rain later.", "The dog is hungry.", "The plant is sad."],
 "a": 0,
-"sol": "The dependent variable 'depends' on the changes made to the independent variable."
+"sol": "Observations are direct sensory data."
 },
 {
-"q": "Why is it important to have 'controlled variables' in a fair test?",
-"o": ["To make the experiment faster", "To ensure results are due to the independent variable only", "To use less equipment", "To make the data look better"],
+"q": "A hypothesis becomes a theory when:",
+"o": ["One person agrees with it", "It is tested and supported many times", "It is written in a book", "It is 100 years old"],
 "a": 1,
-"sol": "Control variables keep everything else constant so we know exactly what caused the change."
+"sol": "Theories are well-supported explanations."
 },
 {
-"q": "Which piece of laboratory equipment is used to measure the volume of a liquid accurately?",
-"o": ["Beaker", "Test tube", "Graduated cylinder", "Petri dish"],
+"q": "What is the last step of the scientific method?",
+"o": ["Experiment", "Hypothesis", "Communicate results", "Analysis"],
 "a": 2,
-"sol": "A graduated cylinder has precise markings (graduations) for measuring liquid volume."
+"sol": "Sharing findings is essential for the growth of science."
 },
 {
-"q": "What should you do immediately if a chemical spills on your hand in the lab?",
-"o": ["Wait for it to dry", "Wash it with plenty of water and tell the teacher", "Wipe it with a paper towel", "Ignore it if it doesn't burn"],
+"q": "Density is calculated as:",
+"o": ["Mass + Volume", "Mass / Volume", "Volume / Mass", "Mass * Volume"],
 "a": 1,
-"sol": "Safety protocols require immediate rinsing and informing the instructor of any spills."
+"sol": "Density = Mass divided by Volume."
 },
 {
-"q": "A scientific theory is different from a law because a theory:",
-"o": ["Is just a guess", "Explains 'why' something happens", "Is always shorter", "Cannot be changed"],
+"q": "How many millimeters are in a centimeter?",
+"o": ["100", "10", "1000", "1"],
 "a": 1,
-"sol": "Laws describe 'what' happens (often mathematically), while theories provide the explanation 'why'."
+"sol": "There are 10 millimeters in 1 centimeter."
 },
 {
-"q": "Which of the following is 'Qualitative' data?",
-"o": ["The plant grew 5 cm", "The liquid turned bright blue", "The mass is 10 grams", "The temperature is 30°C"],
+"q": "A 'Fair Test' means:",
+"o": ["Everyone wins", "Only one independent variable is changed", "No variables are changed", "The teacher does it"],
 "a": 1,
-"sol": "Qualitative data describes qualities or characteristics (like color) rather than numbers."
+"sol": "Changing only one thing ensures you know what caused the result."
 },
 {
-"q": "The process of repeating an experiment to verify results is called:",
-"o": ["Rotation", "Replication", "Retraction", "Reduction"],
+"q": "Which of these is NOT a branch of science?",
+"o": ["Biology", "Physics", "Astrology", "Chemistry"],
+"a": 2,
+"sol": "Astrology is a pseudoscience; Astronomy is the actual science."
+},
+{
+"q": "If data is 'outlier' data, it means it is:",
+"o": ["The most common result", "Very different from the rest", "The average", "Perfectly accurate"],
 "a": 1,
-"sol": "Replication ensures that the findings are consistent and not just a one-time accident."
+"sol": "Outliers are data points that don't fit the general trend."
 },
 {
-"q": "When graphing data, the independent variable is usually placed on the:",
-"o": ["Y-axis (vertical)", "X-axis (horizontal)", "Legend", "Title"],
+"q": "Which tool is used to measure time?",
+"o": ["Beaker", "Stopwatch", "Protractor", "Scale"],
 "a": 1,
-"sol": "Standard scientific practice puts the independent variable on the X-axis."
+"sol": "Stopwatches measure time in seconds or minutes."
 },
 {
-"q": "What is the purpose of a 'Control Group' in an experiment?",
-"o": ["To provide a basis for comparison", "To be the group that gets the most medicine", "To perform the experiment faster", "To store the equipment"],
+"q": "In a line graph, time is usually the:",
+"o": ["Dependent variable", "Independent variable", "Constant", "Result"],
+"a": 1,
+"sol": "Time is usually independent as it progresses regardless of the experiment."
+},
+{
+"q": "To calculate the average, you:",
+"o": ["Subtract all numbers", "Add all numbers and divide by the count", "Find the largest number", "Multiply all numbers"],
+"a": 1,
+"sol": "The mean (average) is the sum divided by the number of items."
+},
+{
+"q": "What do you use to hold a hot test tube?",
+"o": ["Your fingers", "Test tube holder", "Tape", "A piece of paper"],
+"a": 1,
+"sol": "A metal test tube holder prevents burns."
+},
+{
+"q": "Which of these is a safety hazard?",
+"o": ["Tying back long hair", "Wearing closed-toe shoes", "Eating in the lab", "Cleaning the desk"],
+"a": 2,
+"sol": "Chemicals could contaminate food in a lab."
+},
+{
+"q": "Bias can be reduced by using:",
+"o": ["Small sample sizes", "Double-blind studies", "Only one data point", "Opinions"],
+"a": 1,
+"sol": "Blind studies prevent expectations from affecting results."
+},
+{
+"q": "When writing a lab report, the 'Materials' section lists:",
+"o": ["What you did", "What you used", "What happened", "What you learned"],
+"a": 1,
+"sol": "Materials include all tools and chemicals."
+},
+{
+"q": "A bar graph is best for:",
+"o": ["Showing change over time", "Comparing different categories", "Showing parts of a whole", "Listing names"],
+"a": 1,
+"sol": "Bar graphs compare distinct groups."
+},
+{
+"q": "1000 grams is equal to:",
+"o": ["1 milligram", "1 centigram", "1 kilogram", "1 ton"],
+"a": 2,
+"sol": "Kilo means thousand."
+},
+{
+"q": "The scientific method is a:",
+"o": ["Linear list that never changes", "Cycle of steps for investigation", "Secret code", "Book title"],
+"a": 1,
+"sol": "It is an iterative process of questioning and testing."
+},
+{
+"q": "A fire extinguisher is used to:",
+"o": ["Light a fire", "Put out a fire", "Cool down a person", "Clean a spill"],
+"a": 1,
+"sol": "Standard lab safety equipment for emergencies."
+},
+{
+"q": "What happens to a hypothesis if an experiment fails?",
+"o": ["It is automatically a law", "It is rejected or revised", "Science stops", "It is hidden"],
+"a": 1,
+"sol": "Failure is part of learning; hypotheses are updated based on data."
+},
+{
+"q": "What should you use to wash your eyes if chemicals splash in them?",
+"o": ["A towel", "Eyewash station", "Soap", "Alcohol"],
+"a": 1,
+"sol": "Rinse for 15-20 minutes at an eyewash station."
+},
+{
+"q": "Which is an example of a constant?",
+"o": ["The amount of water given to all plants", "The height the plant grows", "The type of music played", "The final conclusion"],
 "a": 0,
-"sol": "The control group does not receive the experimental treatment and shows what happens normally."
+"sol": "Constants are kept the same for all groups."
 },
 {
-"q": "Which unit is used in the SI system to measure mass?",
-"o": ["Liter", "Meter", "Kilogram", "Second"],
+"q": "Who is a scientist?",
+"o": ["Only men in lab coats", "Only people in universities", "Anyone who uses the scientific method to explore", "Only inventors"],
 "a": 2,
-"sol": "The kilogram (kg) is the base unit for mass in the International System of Units."
+"sol": "Science is a way of thinking available to everyone."
 },
 {
-"q": "If your experimental data does not support your hypothesis, you should:",
-"o": ["Change the data", "Throw away the experiment", "Refine the hypothesis and retest", "Stop doing science"],
+"q": "To measure the volume of an irregular solid, use:",
+"o": ["A ruler", "Water displacement in a cylinder", "A scale", "A thermometer"],
+"a": 1,
+"sol": "The volume of water pushed out equals the object's volume."
+},
+{
+"q": "Which of these is a quantitative observation?",
+"o": ["The rock is heavy.", "The rock has a mass of 5kg.", "The rock is gray.", "The rock is rough."],
+"a": 1,
+"sol": "It uses a number and a unit."
+},
+{
+"q": "A pie chart shows:",
+"o": ["Comparison of categories", "Parts of a whole (percentages)", "Change over time", "A list of tools"],
+"a": 1,
+"sol": "Pie charts represent parts of 100%."
+},
+{
+"q": "When heating a test tube, point the opening:",
+"o": ["At yourself", "At your partner", "Away from everyone", "At the floor"],
 "a": 2,
-"sol": "Falsified hypotheses are valuable; they lead to new questions and better understanding."
+"sol": "This prevents splashes from hitting anyone."
 },
 {
-"q": "Which tool would a scientist use to see objects too small for the naked eye?",
-"o": ["Telescope", "Microscope", "Periscope", "Stethoscope"],
+"q": "The study of the physical world is:",
+"o": ["Social Science", "Natural Science", "History", "Literature"],
 "a": 1,
-"sol": "Microscopes magnify small biological or physical samples."
+"sol": "Natural science covers biology, chemistry, and physics."
 },
 {
-"q": "What is 'Inference'?",
-"o": ["Directly seeing a fact", "A logical conclusion based on observations", "Measuring something with a ruler", "Cleaning the lab"],
+"q": "A centimeter is what fraction of a meter?",
+"o": ["1/10", "1/100", "1/1000", "1/2"],
 "a": 1,
-"sol": "Inference is interpreting what you observe (e.g., observing wet ground and inferring it rained)."
+"sol": "Centi- means hundredth."
 },
 {
-"q": "Safety goggles are primarily worn to protect your eyes from:",
-"o": ["Bright lights", "Dust only", "Chemical splashes and flying debris", "Looking at the Sun"],
+"q": "Why is 'Replication' important?",
+"o": ["To make the lab longer", "To ensure results weren't a fluke", "To use more paper", "To prove the teacher wrong"],
+"a": 1,
+"sol": "Repeating experiments confirms the reliability of data."
+},
+{
+"q": "A 'Law' in science tells you:",
+"o": ["Why things happen", "What will happen under certain conditions", "Opinions of the public", "Nothing important"],
+"a": 1,
+"sol": "Laws describe consistent patterns (like gravity)."
+},
+{
+"q": "Standardized units are important because:",
+"o": ["They are hard to learn", "They allow scientists to share data globally", "They are only for math", "They change every year"],
+"a": 1,
+"sol": "Universal units allow for clear communication across borders."
+},
+{
+"q": "Which is a characteristic of a good scientist?",
+"o": ["Ignores data", "Skepticism and curiosity", "Knows everything already", "Never changes their mind"],
+"a": 1,
+"sol": "Scientists must be curious and question existing ideas."
+},
+{
+"q": "What is 100 degrees Celsius in the Kelvin scale?",
+"o": ["0 K", "100 K", "373.15 K", "273.15 K"],
 "a": 2,
-"sol": "Goggles are essential for preventing chemical burns or physical injury during experiments."
+"sol": "K = C + 273.15."
 },
 {
-"q": "A 'Bias' in science is:",
-"o": ["A type of error in measurement", "A prejudice in favor of one result", "A mathematical formula", "A lab safety rule"],
+"q": "An experiment that tests only one variable at a time is:",
+"o": ["Unfair", "Controlled", "Random", "Biased"],
 "a": 1,
-"sol": "Scientists must try to avoid bias to ensure their results are objective and fair."
+"sol": "Controlled experiments isolate the cause."
 },
 {
-"q": "When smelling a chemical in a lab, you should:",
-"o": ["Inhale deeply", "Waft the vapors toward your nose", "Put your nose inside the beaker", "Ask a friend to smell it first"],
+"q": "To measure very small volumes of liquid, use a:",
+"o": ["Bucket", "Pipette", "Beaker", "Flask"],
 "a": 1,
-"sol": "Wafting protects your lungs and nose from potentially irritating or toxic fumes."
+"sol": "Pipettes are designed for precise, small amounts."
 },
 {
-"q": "The summary at the end of an investigation that explains the results is the:",
-"o": ["Introduction", "Procedure", "Conclusion", "Abstract"],
+"q": "Which of these is an inference about a 'broken window'?",
+"o": ["There is glass on the floor.", "The window is open.", "Someone threw a ball through it.", "The frame is made of wood."],
 "a": 2,
-"sol": "The conclusion links the data back to the original hypothesis."
+"sol": "You didn't see it happen, but you are explaining the cause."
+},
+{
+"q": "Scientific knowledge is 'tentative,' meaning it:",
+"o": ["Is always wrong", "Is subject to change with new evidence", "Is absolute truth", "Is a secret"],
+"a": 1,
+"sol": "As we learn more, our explanations evolve."
+},
+{
+"q": "What is the prefix for 'one million'?",
+"o": ["Kilo", "Mega", "Giga", "Milli"],
+"a": 1,
+"sol": "Mega represents 1,000,000."
+},
+{
+"q": "Which of these is a biotic factor (living)?",
+"o": ["Rock", "Water", "Bacteria", "Air"],
+"a": 2,
+"sol": "Bacteria are living organisms studied in science."
+},
+{
+"q": "The 'SI' in SI units stands for:",
+"o": ["Science International", "Systeme International", "Standard International", "Simple International"],
+"a": 1,
+"sol": "It's a French name for the international metric system."
+},
+{
+"q": "Where should you dispose of chemicals after a lab?",
+"o": ["In the sink", "In the trash can", "As directed by the teacher", "Outside"],
+"a": 2,
+"sol": "Some chemicals require special disposal to protect the environment."
+},
+{
+"q": "A line graph showing a downward slope indicates:",
+"o": ["An increase", "A decrease", "No change", "A mistake"],
+"a": 1,
+"sol": "Downward slopes represent a negative correlation or decrease."
+},
+{
+"q": "How many meters are in a kilometer?",
+"o": ["10", "100", "1000", "10000"],
+"a": 2,
+"sol": "Kilo means 1000."
+},
+{
+"q": "A hypothesis is often based on:",
+"o": ["A dream", "Prior knowledge and observations", "A coin flip", "A story"],
+"a": 1,
+"sol": "It is an educated guess."
+},
+{
+"q": "What is the purpose of an 'Abstract' in a report?",
+"o": ["To provide a long history", "To give a brief summary of the whole study", "To list the bibliography", "To thank the parents"],
+"a": 1,
+"sol": "Abstracts allow readers to quickly understand the main point."
+},
+{
+"q": "Which tool is used to measure an angle?",
+"o": ["Ruler", "Protractor", "Compass", "Calculator"],
+"a": 1,
+"sol": "Protractors measure degrees in an angle."
+},
+{
+"q": "A 'Variable' is:",
+"o": ["Something that never changes", "Something that can change in an experiment", "A type of glass", "A math symbol only"],
+"a": 1,
+"sol": "Variables are factors that can vary."
+},
+{
+"q": "The 'mean' of 2, 4, 6 is:",
+"o": ["2", "4", "6", "12"],
+"a": 1,
+"sol": "(2+4+6)/3 = 4."
+},
+{
+"q": "If you spill an acid, you should neutralize it with:",
+"o": ["More acid", "A base (like baking soda)", "Water only", "Oil"],
+"a": 1,
+"sol": "Bases neutralize acids safely."
+},
+{
+"q": "Which of these is a 'Physical Science'?",
+"o": ["Biology", "Chemistry", "Botany", "Zoology"],
+"a": 1,
+"sol": "Chemistry and Physics are Physical Sciences."
+},
+{
+"q": "Reliable data is data that is:",
+"o": ["Consistent across multiple trials", "Guessed correctly", "Found on the internet", "Colorful"],
+"a": 0,
+"sol": "Reliability means getting the same result repeatedly."
+},
+{
+"q": "The first step in using a balance is to:",
+"o": ["Put the object on", "Zero/Tare the balance", "Turn it off", "Clean it with soap"],
+"a": 1,
+"sol": "Taring ensures you start at zero."
+},
+{
+"q": "What is the prefix for 0.001?",
+"o": ["Centi", "Milli", "Kilo", "Deci"],
+"a": 1,
+"sol": "Milli means thousandth."
+},
+{
+"q": "Scientific ethics are important to:",
+"o": ["Prevent cheating and harm", "Make science slower", "Follow the law only", "Get more money"],
+"a": 0,
+"sol": "Ethics ensure honesty and safety for subjects and researchers."
+},
+{
+"q": "What is a 'Primary Source'?",
+"o": ["A textbook", "The original research paper", "A news article", "A Wikipedia page"],
+"a": 1,
+"sol": "Primary sources come directly from the researchers."
+},
+{
+"q": "The study of living things is:",
+"o": ["Geology", "Physics", "Biology", "Meteorology"],
+"a": 2,
+"sol": "Bio- means life."
+},
+{
+"q": "Which of these shows a 'Direct Relationship'?",
+"o": ["As one variable increases, the other decreases", "As one variable increases, the other increases", "As one increases, the other stays the same", "Both variables are zero"],
+"a": 1,
+"sol": "They move in the same direction."
+},
+{
+"q": "Standard deviation measures:",
+"o": ["The average", "How spread out the data is", "The highest value", "The lowest value"],
+"a": 1,
+"sol": "It shows data variability."
+},
+{
+"q": "Science uses 'Evidence' which must be:",
+"o": ["Secret", "Observable and measurable", "Based on feelings", "A rumor"],
+"a": 1,
+"sol": "Scientific evidence must be verifiable."
+},
+{
+"q": "A prototype is a:",
+"o": ["Final product", "Working model for testing", "Drawing", "Failed experiment"],
+"a": 1,
+"sol": "Prototypes help test designs before full production."
+},
+{
+"q": "Which is an example of 'Technology'?",
+"o": ["A wild tree", "The law of gravity", "A heart rate monitor", "A rain cloud"],
+"a": 2,
+"sol": "Technology is the application of science for practical use."
+},
+{
+"q": "To measure the weight of an object (force), use a:",
+"o": ["Balance", "Spring Scale", "Ruler", "Compass"],
+"a": 1,
+"sol": "Spring scales measure Newtons (weight/force)."
+},
+{
+"q": "A 'Qualitative' observation of a plant would be:",
+"o": ["It has 5 leaves.", "It is 10cm tall.", "Its leaves are dark green.", "It weighs 20g."],
+"a": 2,
+"sol": "Green is a description of quality."
+},
+{
+"q": "The metric system is based on powers of:",
+"o": ["2", "5", "10", "12"],
+"a": 2,
+"sol": "Everything is in tens, hundreds, thousands, etc."
+},
+{
+"q": "When creating a data table, the independent variable goes in the:",
+"o": ["Last column", "First column", "Title", "Footer"],
+"a": 1,
+"sol": "Conventionally, IV is on the left, DV is on the right."
+},
+{
+"q": "Science is 'universal' because:",
+"o": ["It only works in Space", "The laws of nature are the same everywhere", "Everyone speaks the same language", "It never changes"],
+"a": 1,
+"sol": "Physics/Chemistry work the same in London as they do on Mars."
+},
+{
+"q": "A 'Correlation' between two things means:",
+"o": ["One definitely caused the other", "They happen together, but one might not cause the other", "They never happen together", "They are opposites"],
+"a": 1,
+"sol": "Correlation does not always equal causation."
+},
+{
+"q": "What is 'Skepticism'?",
+"o": ["Believing everything immediately", "Doubting claims until evidence is provided", "Being mean to other scientists", "Ignoring facts"],
+"a": 1,
+"sol": "Skepticism requires proof before acceptance."
+},
+{
+"q": "The study of the atmosphere and weather is:",
+"o": ["Geology", "Astronomy", "Meteorology", "Ecology"],
+"a": 2,
+"sol": "Meteorology deals with the atmosphere."
+},
+{
+"q": "Which is safer to wear in a lab?",
+"o": ["Flip-flops", "Sneakers", "High heels", "Loose sandals"],
+"a": 1,
+"sol": "Closed shoes protect feet from spills."
+},
+{
+"q": "If a lab burner produces a yellow flame, you should:",
+"o": ["Ignore it", "Adjust the air intake for more oxygen", "Blow on it", "Pour water on it"],
+"a": 1,
+"sol": "Yellow flame means incomplete combustion (needs more air)."
+},
+{
+"q": "A good conclusion should always:",
+"o": ["Introduce a new topic", "Address the original hypothesis", "Be 10 pages long", "Use only big words"],
+"a": 1,
+"sol": "It must state if the hypothesis was supported or not."
 }
 ]
