@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the study of the past called?",
+"o": ["Geography", "History", "Civics", "Economics"],
+"a": 1,
+"sol": "History is the chronological study of past events based on available evidence."
+},
+{
+"q": "The word 'History' comes from the Greek word 'Historia' which means:",
+"o": ["Future", "Inquiry or Knowledge", "Story", "Mystery"],
+"a": 1,
+"sol": "Historia literally means learning or knowing by inquiry."
+},
+{
+"q": "What do we call the period of time before writing was invented?",
+"o": ["History", "Modern Period", "Pre-history", "Medieval Period"],
+"a": 2,
+"sol": "Pre-history is the time for which no written records exist."
+},
+{
+"q": "Handwritten records of the past are known as:",
+"o": ["Inscriptions", "Manuscripts", "Artifacts", "Monuments"],
+"a": 1,
+"sol": "Manuscripts are documents written by hand (Manu means hand)."
+},
+{
+"q": "On which material were ancient manuscripts commonly written?",
+"o": ["Paper", "Palm leaves and Birch bark", "Plastic", "Metal sheets"],
+"a": 1,
+"sol": "Before paper, people used palm leaves or the bark of birch trees to write."
+},
+{
+"q": "The study of inscriptions is called:",
+"o": ["Numismatics", "Archaeology", "Epigraphy", "Anthropology"],
+"a": 2,
+"sol": "Epigraphy is the specific study and interpretation of inscriptions."
+},
+{
+"q": "What is the study of coins called?",
+"o": ["Philately", "Numismatics", "Epigraphy", "Calligraphy"],
+"a": 1,
+"sol": "Numismatics involves the study or collection of currency, including coins."
+},
+{
+"q": "Which of these is an example of an archaeological source?",
+"o": ["Religious books", "Coins and Pottery", "Travelogues", "Biographies"],
+"a": 1,
+"sol": "Archaeological sources include physical remains like coins, pots, and buildings."
+},
+{
+"q": "What does BC stand for in history?",
+"o": ["Before Christ", "Between Centuries", "Before Century", "Below Common"],
+"a": 0,
+"sol": "BC stands for Before Christ, used for years before the birth of Jesus."
+},
+{
+"q": "In the modern timeline, what has replaced AD?",
+"o": ["BC", "BCE", "CE", "BP"],
+"a": 2,
+"sol": "CE stands for Common Era, which is used instead of AD (Anno Domini)."
+},
+{
+"q": "What is the meaning of the Latin phrase 'Anno Domini'?",
+"o": ["After Death", "In the year of the Lord", "Ancient Days", "Always Done"],
+"a": 1,
+"sol": "Anno Domini refers to the years following the birth of Christ."
+},
+{
+"q": "Which of these is a secular (non-religious) literary source?",
+"o": ["The Ramayana", "The Vedas", "Arthashastra by Chanakya", "The Puranas"],
+"a": 2,
+"sol": "Arthashastra is a book on politics and administration, making it secular."
+},
+{
+"q": "Who is known as the 'Father of History'?",
+"o": ["Aristotle", "Herodotus", "Plato", "Socrates"],
+"a": 1,
+"sol": "Herodotus was the first historian to systematically collect and arrange historical materials."
+},
+{
+"q": "Archaeologists use which method to determine the age of fossils?",
+"o": ["Carbon-14 dating", "Water testing", "Weight measurement", "Solar dating"],
+"a": 0,
+"sol": "Radiocarbon dating measures the decay of carbon isotopes to date organic materials."
+},
+{
+"q": "Inscriptions are usually found on which surfaces?",
+"o": ["Cloth", "Hard surfaces like stone or metal", "Water", "Air"],
+"a": 1,
+"sol": "Inscriptions are writings engraved on hard surfaces for durability."
+},
+{
+"q": "Which of these is a religious literary source?",
+"o": ["Indica", "The Tripitakas", "Harshacharita", "Abhigyan Shakuntalam"],
+"a": 1,
+"sol": "The Tripitakas are sacred Buddhist scriptures."
+},
+{
+"q": "What are 'monuments' in history?",
+"o": ["Old books", "Historical buildings and structures", "New coins", "Maps"],
+"a": 1,
+"sol": "Monuments like temples, forts, and palaces provide information about the past."
+},
+{
+"q": "The period between pre-history and history is often called:",
+"o": ["Ancient history", "Proto-history", "Medieval history", "Modern history"],
+"a": 1,
+"sol": "Proto-history is the period where writing exists but hasn't been deciphered yet."
+},
+{
+"q": "Which Chinese traveler visited India to study Buddhism?",
+"o": ["Columbus", "Fa-Hien", "Vasco da Gama", "Marco Polo"],
+"a": 1,
+"sol": "Fa-Hien and Xuanzang were famous Chinese monks who visited India."
+},
+{
+"q": "Megasthenes wrote which famous book about India?",
+"o": ["Arthashastra", "Indica", "Geographia", "Akbarnama"],
+"a": 1,
+"sol": "Indica describes the administration and society during the Mauryan period."
+},
+{
+"q": "A person who studies the past using physical remains is an:",
+"o": ["Astronomer", "Archaeologist", "Biologist", "Geologist"],
+"a": 1,
+"sol": "Archaeologists excavate sites to find artifacts from the past."
+},
+{
+"q": "What does BCE stand for?",
+"o": ["Before Common Era", "Before Christ Era", "Below Century Era", "Basic Common Era"],
+"a": 0,
+"sol": "BCE is the secular alternative to BC."
+},
+{
+"q": "Why is the study of history important?",
+"o": ["To know about the future", "To learn from past mistakes and successes", "To memorize dates", "To find treasure"],
+"a": 1,
+"sol": "History helps us understand how society evolved and helps shape a better future."
+},
+{
+"q": "The Ashokan pillars are an example of:",
+"o": ["Manuscripts", "Inscriptions", "Oral history", "Travelogues"],
+"a": 1,
+"sol": "Ashoka used stone pillars to engrave his messages (Dhamma) for the people."
+},
+{
+"q": "What information can coins give us?",
+"o": ["Economic condition of a kingdom", "Names of kings", "Extent of trade", "All of these"],
+"a": 3,
+"sol": "Coins provide dates, portraits of rulers, and show the wealth of a period."
+},
+{
+"q": "Excavation means:",
+"o": ["Writing a book", "Digging up the earth to find remains", "Painting a wall", "Flying a plane"],
+"a": 1,
+"sol": "Excavation is the systematic digging of sites by archaeologists."
+},
+{
+"q": "The 'Rosetta Stone' helped historians understand which language?",
+"o": ["Sanskrit", "Hieroglyphics (Egyptian)", "Latin", "Greek"],
+"a": 1,
+"sol": "It contained the same text in three scripts, allowing for decipherment."
+},
+{
+"q": "Which century does the year 1750 AD belong to?",
+"o": ["17th Century", "18th Century", "19th Century", "16th Century"],
+"a": 1,
+"sol": "Years from 1701 to 1800 belong to the 18th century."
+},
+{
+"q": "Oral sources of history include:",
+"o": ["Coins", "Legends, myths, and folk songs", "Pottery", "Seals"],
+"a": 1,
+"sol": "Oral traditions are stories passed down by word of mouth through generations."
+},
+{
+"q": "Which of these scripts was used in ancient India?",
+"o": ["Brahmi", "Roman", "Arabic", "Cyrillic"],
+"a": 0,
+"sol": "Brahmi is one of the oldest scripts, the ancestor of most modern Indian scripts."
+},
+{
+"q": "The process of reading and understanding ancient scripts is called:",
+"o": ["Excavation", "Decipherment", "Translation", "Inscription"],
+"a": 1,
+"sol": "Decipherment is the key to unlocking the meaning of dead languages."
+},
+{
+"q": "Where are manuscripts preserved today?",
+"o": ["Playgrounds", "Museums and Archives", "Jungles", "Cinemas"],
+"a": 1,
+"sol": "Special institutions called archives and museums protect fragile historical documents."
+},
+{
+"q": "A 'Timeline' helps in arranging events in ____ order.",
+"o": ["Random", "Chronological (Time-based)", "Alphabetical", "Reverse"],
+"a": 1,
+"sol": "Chronology is the arrangement of events from earliest to latest."
+},
+{
+"q": "Which period comes after the Ancient period in Indian history?",
+"o": ["Pre-historic", "Medieval", "Modern", "Stone Age"],
+"a": 1,
+"sol": "History is broadly divided into Ancient, Medieval, and Modern periods."
+},
+{
+"q": "Literary sources include:",
+"o": ["Bones", "Written records like books", "Burnt grains", "Tools"],
+"a": 1,
+"sol": "Anything written by people in the past is a literary source."
+},
+{
+"q": "Who wrote the 'Rajatarangini'?",
+"o": ["Kalhana", "Banabhatta", "Bilhana", "Kautilya"],
+"a": 0,
+"sol": "Rajatarangini is a famous historical account of the kings of Kashmir."
+},
+{
+"q": "What are 'Artifacts'?",
+"o": ["Natural rocks", "Objects made by humans in the past", "Clouds", "Rivers"],
+"a": 1,
+"sol": "Tools, jewelry, and pottery made by ancient humans are artifacts."
+},
+{
+"q": "The study of human history through excavation of sites is:",
+"o": ["Psychology", "Archaeology", "Zoology", "Botany"],
+"a": 1,
+"sol": "Archaeology is the primary method for studying pre-history."
+},
+{
+"q": "Which of these is a religious text of the Sikhs?",
+"o": ["The Bible", "Guru Granth Sahib", "The Quran", "Zend Avesta"],
+"a": 1,
+"sol": "The Guru Granth Sahib is the holy book of Sikhism."
+},
+{
+"q": "What is the timeline of the Harappan Civilization known as?",
+"o": ["History", "Pre-history", "Proto-history", "Post-history"],
+"a": 2,
+"sol": "Since their script is not yet deciphered, it falls under proto-history."
+},
+{
+"q": "BCE and CE scales are based on whose birth?",
+"o": ["Ashoka", "Jesus Christ", "Mahavira", "Gautama Buddha"],
+"a": 1,
+"sol": "The Gregorian calendar used globally is centered on the birth of Christ."
+},
+{
+"q": "What do we call the remains of plants or animals turned into stone?",
+"o": ["Artifacts", "Fossils", "Monuments", "Sculptures"],
+"a": 1,
+"sol": "Fossils are preserved traces of living organisms from the past."
+},
+{
+"q": "Which source is considered more reliable by historians?",
+"o": ["Rumors", "Primary sources (eye-witness/direct evidence)", "Secondary sources", "Fiction"],
+"a": 1,
+"sol": "Primary sources like diaries or inscriptions provide direct evidence."
+},
+{
+"q": "The 'Vedas' were originally composed in which language?",
+"o": ["Hindi", "Sanskrit", "Tamil", "Prakrit"],
+"a": 1,
+"sol": "Vedas are the oldest literary works in Sanskrit."
+},
+{
+"q": "If an event happened 2000 years before AD 1, it is written as:",
+"o": ["2000 AD", "2000 BC", "0 BC", "4000 AD"],
+"a": 1,
+"sol": "Years before the common era are counted backward."
+},
+{
+"q": "A traveler who writes about his journey is a:",
+"o": ["Historian", "Chronicler", "Foreign traveler/Traveloguist", "Poet"],
+"a": 2,
+"sol": "Travelogues provide a unique outsider's perspective on history."
+},
+{
+"q": "In which city is the National Archives of India located?",
+"o": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+"a": 1,
+"sol": "The National Archives in Delhi houses millions of historical documents."
+},
+{
+"q": "What did early humans use to express themselves on cave walls?",
+"o": ["Pens", "Cave paintings", "Computers", "Typewriters"],
+"a": 1,
+"sol": "Bhimbetka caves in India are famous for prehistoric paintings."
+},
+{
+"q": "The 'Puranas' contain stories about:",
+"o": ["Science", "Gods and Kings", "Cooking", "Space"],
+"a": 1,
+"sol": "Puranas are ancient Indian texts containing mythology and genealogy."
+},
+{
+"q": "Which of these is NOT a source of history?",
+"o": ["Literature", "Archaeology", "Future predictions", "Oral traditions"],
+"a": 2,
+"sol": "History deals with the past, not with predictions of the future."
+},
+{
+"q": "A 'Century' consists of how many years?",
+"o": ["10", "50", "100", "1000"],
+"a": 2,
+"sol": "100 years make one century."
+},
+{
+"q": "A 'Millennium' consists of how many years?",
+"o": ["100", "500", "1000", "2000"],
+"a": 2,
+"sol": "1000 years make one millennium."
+},
+{
+"q": "Which source of history is likely to get destroyed easily?",
+"o": ["Inscriptions on rock", "Manuscripts on palm leaves", "Coins of gold", "Iron pillars"],
+"a": 1,
+"sol": "Organic materials like leaves rot or get eaten by insects over time."
+},
+{
+"q": "The study of the family tree and history of families is:",
+"o": ["Geology", "Genealogy", "Geometry", "Geography"],
+"a": 1,
+"sol": "Genealogy helps trace ancestors through generations."
+},
+{
+"q": "What is 'Cuneiform'?",
+"o": ["An ancient Indian script", "An ancient Mesopotamian script", "A type of coin", "A building style"],
+"a": 1,
+"sol": "Cuneiform is the wedge-shaped script used in Sumeria."
+},
+{
+"q": "Who wrote 'Harshacharita'?",
+"o": ["Harsha", "Banabhatta", "Xuanzang", "Kalidasa"],
+"a": 1,
+"sol": "Banabhatta was the court poet of King Harshavardhana."
+},
+{
+"q": "Historians use 'Evidence' to:",
+"o": ["Change the past", "Reconstruct the past", "Make up stories", "Ignore facts"],
+"a": 1,
+"sol": "History is like a puzzle where evidence helps piece together the truth."
+},
+{
+"q": "Archaeologists often use a 'Grid' system to:",
+"o": ["Measure temperature", "Systematically record the location of artifacts", "Plant trees", "Build houses"],
+"a": 1,
+"sol": "The grid helps in keeping an exact record of where every item was found."
+},
+{
+"q": "In the timeline, 'Circa' or 'c.' means:",
+"o": ["Exactly", "Approximately", "Never", "Before"],
+"a": 1,
+"sol": "Circa is used when the exact date of an event is unknown."
+},
+{
+"q": "Which source provides information about the diet of ancient people?",
+"o": ["Inscriptions", "Grains found at sites", "Songs", "Paintings"],
+"a": 1,
+"sol": "Archaeological finds of charred grains or animal bones reveal eating habits."
+},
+{
+"q": "The Sanchi Stupa is a major source for studying:",
+"o": ["Islam", "Buddhism", "Jainism", "Hinduism"],
+"a": 1,
+"sol": "Stupas are Buddhist commemorative monuments."
+},
+{
+"q": "What was the main purpose of royal inscriptions?",
+"o": ["To tell jokes", "To record victories and orders", "To draw cartoons", "To hide secrets"],
+"a": 1,
+"sol": "Kings used inscriptions to publicize their laws and achievements."
+},
+{
+"q": "Which civilization used Hieroglyphics?",
+"o": ["Indus Valley", "Egyptian", "Chinese", "Mesopotamian"],
+"a": 1,
+"sol": "Egyptians used pictures and symbols (hieroglyphs) for writing."
+},
+{
+"q": "The 'Jataka Tales' are stories about the previous lives of:",
+"o": ["Lord Rama", "Lord Buddha", "Ashoka", "Akbar"],
+"a": 1,
+"sol": "Jataka tales are popular Buddhist moral stories."
+},
+{
+"q": "What does a historian do?",
+"o": ["Digs in the ground", "Interprets sources to write history", "Sells old coins", "Builds museums"],
+"a": 1,
+"sol": "Historians analyze the 'evidence' provided by archaeologists and literature."
+},
+{
+"q": "Which of these is a secondary source of history?",
+"o": ["An original diary", "A textbook written in 2024", "An ancient coin", "A palace"],
+"a": 1,
+"sol": "Secondary sources analyze or summarize primary evidence."
+},
+{
+"q": "The 'Epic' Mahabharata was written by:",
+"o": ["Valmiki", "Vyasa", "Tulsidas", "Kalidasa"],
+"a": 1,
+"sol": "Sage Vyasa is credited with the composition of the Mahabharata."
+},
+{
+"q": "What is the shape of most ancient seals from the Indus Valley?",
+"o": ["Circular", "Rectangular or Square", "Triangular", "Heart-shaped"],
+"a": 1,
+"sol": "Seals were mostly square or rectangular and made of steatite."
+},
+{
+"q": "The Ashoka Lion Capital found at Sarnath is an:",
+"o": ["Artifact", "Inscription", "Manuscript", "Oral myth"],
+"a": 0,
+"sol": "It is a physical sculpture/artifact that is now India's national emblem."
+},
+{
+"q": "How do we know about the trade between India and Rome?",
+"o": ["Indian coins in Rome", "Roman coins found in India", "Phone records", "Videos"],
+"a": 1,
+"sol": "Discovery of Roman gold coins in South India proves ancient trade links."
+},
+{
+"q": "The 'Sangam Literature' belongs to which region?",
+"o": ["North India", "South India (Tamil)", "East India", "West India"],
+"a": 1,
+"sol": "Sangam literature is the earliest known literature of South India."
+},
+{
+"q": "Which of these is a biography of King Harshavardhana?",
+"o": ["Indica", "Harshacharita", "Arthashastra", "Panchatantra"],
+"a": 1,
+"sol": "Harshacharita describes the life and reign of Harsha."
+},
+{
+"q": "What is the main language of ancient Buddhist texts?",
+"o": ["Sanskrit", "Pali", "Persian", "English"],
+"a": 1,
+"sol": "Pali was the language of the common people during Buddha's time."
+},
+{
+"q": "The period for which we have no written records is called ____.",
+"o": ["History", "Ancient", "Prehistory", "Modern"],
+"a": 2,
+"sol": "Prehistory is known only through archaeological finds."
+},
+{
+"q": "Archaeology is like a detective work because:",
+"o": ["They catch criminals", "They find clues to solve the mystery of the past", "They wear uniforms", "They carry guns"],
+"a": 1,
+"sol": "Archaeologists use broken objects to understand how people lived."
+},
+{
+"q": "Which metal was the first to be used by humans?",
+"o": ["Iron", "Copper", "Gold", "Silver"],
+"a": 1,
+"sol": "The transition from stone to copper is known as the Chalcolithic age."
+},
+{
+"q": "What did early humans use to hunt animals?",
+"o": ["Rifles", "Stone tools", "Lasers", "Electricity"],
+"a": 1,
+"sol": "Prehistory is divided into Stone Ages based on the types of tools used."
+},
+{
+"q": "The study of bones helps archaeologists know about:",
+"o": ["The height of people", "The diseases they had", "The animals they hunted", "All of these"],
+"a": 3,
+"sol": "Osteology (study of bones) provides vital clues about ancient life."
+},
+{
+"q": "What is 'Dhamma' as mentioned in Ashoka's inscriptions?",
+"o": ["A type of food", "Moral code of conduct", "A dance form", "A weapon"],
+"a": 1,
+"sol": "Dhamma was Ashoka's policy of non-violence and social harmony."
+},
+{
+"q": "Why were manuscripts expensive in ancient times?",
+"o": ["Because they were gold", "Because they were handmade and materials were scarce", "Because they were sold by weight", "They were free"],
+"a": 1,
+"sol": "Copying manuscripts was a labor-intensive job done by scribes."
+},
+{
+"q": "Which event divides BC and AD?",
+"o": ["Birth of Buddha", "Birth of Christ", "End of World War", "Invention of Wheel"],
+"a": 1,
+"sol": "The birth of Jesus Christ is the zero point for our current calendar system."
+},
+{
+"q": "The invention of ____ marked the beginning of History.",
+"o": ["Fire", "Writing", "Wheel", "Iron"],
+"a": 1,
+"sol": "History begins when people start leaving written records."
+},
+{
+"q": "If you are in 100 BCE, 50 years later it will be:",
+"o": ["150 BCE", "50 BCE", "100 CE", "0 CE"],
+"a": 1,
+"sol": "In BCE/BC, we count downwards as we move forward in time."
+},
+{
+"q": "Which of these is a primary source for studying the Mughals?",
+"o": ["History textbook", "The Taj Mahal", "A movie about Akbar", "A storybook"],
+"a": 1,
+"sol": "The Taj Mahal is a direct physical monument (primary source) from that era."
+},
+{
+"q": "Paintings inside the Ajanta Caves primarily depict:",
+"o": ["Sports", "Life of Buddha and Jataka tales", "Space travel", "War with aliens"],
+"a": 1,
+"sol": "Ajanta is famous for its Buddhist rock-cut cave monuments."
+},
+{
+"q": "Ancient pottery found during excavation helps in:",
+"o": ["Cooking food now", "Dating the site and knowing about lifestyle", "Playing games", "Drinking water"],
+"a": 1,
+"sol": "Pottery styles changed over time, helping date the layer of earth where they were found."
+},
+{
+"q": "The 'Panchatantra' stories were originally written to:",
+"o": ["Teach morals to princes", "Scare children", "Teach cooking", "Promote trade"],
+"a": 1,
+"sol": "Panchatantra is a collection of animal fables with moral lessons."
+},
+{
+"q": "A 'Decade' is a period of:",
+"o": ["1 year", "10 years", "100 years", "1000 years"],
+"a": 1,
+"sol": "A decade is 10 years."
+},
+{
+"q": "Which script is read from right to left?",
+"o": ["Brahmi", "Kharosthi", "Devanagari", "Tamil"],
+"a": 1,
+"sol": "Kharosthi was an ancient script used in Northwest India/Pakistan."
+},
+{
+"q": "In ancient times, a 'Scribe' was a person who:",
+"o": ["Hunted animals", "Copied out documents", "Made pottery", "Was a soldier"],
+"a": 1,
+"sol": "Scribes were essential before the invention of the printing press."
+},
+{
+"q": "History helps us develop a sense of:",
+"o": ["Confusion", "Identity and Heritage", "Boredom", "Forgetfulness"],
+"a": 1,
+"sol": "Knowing our past helps us understand who we are."
+},
+{
+"q": "The 'Iron Pillar' of Mehrauli is famous because:",
+"o": ["It is very short", "It hasn't rusted in 1600 years", "It is made of gold", "It is broken"],
+"a": 1,
+"sol": "It shows the advanced metallurgical skills of ancient Indians."
+},
+{
+"q": "Which source of history is most likely to be biased?",
+"o": ["Coins", "Biographies written by court poets", "Pottery", "Fossils"],
+"a": 1,
+"sol": "Court poets often praised their kings excessively to please them."
+},
+{
+"q": "What is the full form of AD?",
+"o": ["After Death", "Anno Domini", "Ancient Days", "Anno Decade"],
+"a": 1,
+"sol": "It means 'In the year of our Lord' in Latin."
+},
+{
+"q": "Which of these is a religious source of Jainism?",
+"o": ["The Vedas", "Angas", "The Tripitakas", "The Bible"],
+"a": 1,
+"sol": "The 12 Angas are the main scriptures of Jainism."
+},
+{
+"q": "Archaeologists use 'Levels' or 'Strata' to:",
+"o": ["Exercise", "Determine which objects are older", "Build towers", "Organize books"],
+"a": 1,
+"sol": "Law of Superposition states that deeper layers are generally older."
+},
+{
+"q": "The first step in reconstructing history is:",
+"o": ["Writing a summary", "Collecting sources/evidence", "Watching a movie", "Asking friends"],
+"a": 1,
+"sol": "Evidence collection is the foundation of historical research."
+},
+{
+"q": "What were 'Seals' used for in ancient trade?",
+"o": ["As money", "To stamp and secure goods", "To play games", "To decorate houses"],
+"a": 1,
+"sol": "Seals ensured that goods reached the destination without being tampered with."
+},
+{
+"q": "The 'Ramayana' was written by:",
+"o": ["Vyasa", "Valmiki", "Kalidasa", "Tulsidas"],
+"a": 1,
+"sol": "Sage Valmiki wrote the original Sanskrit Ramayana."
+},
+{
+"q": "History is not just about kings, but also about:",
+"o": ["Ordinary people and their lives", "Farmers and traders", "Evolution of ideas", "All of these"],
+"a": 3,
+"sol": "Modern history tries to capture the life of every section of society."
+}
+]
