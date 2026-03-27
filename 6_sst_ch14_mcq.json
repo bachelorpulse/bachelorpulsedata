@@ -1,0 +1,602 @@
+[
+{
+"q": "Which sector includes activities that produce food directly from nature?",
+"o": ["Secondary Sector", "Primary Sector", "Service Sector", "Information Sector"],
+"a": 1,
+"sol": "Primary sector activities involve extracting or harvesting natural resources."
+},
+{
+"q": "What is the primary motive behind most economic activities?",
+"o": ["Sleeping", "Earning a livelihood", "Watching TV", "Walking"],
+"a": 1,
+"sol": "People engage in economic activities to earn income and sustain their lives."
+},
+{
+"q": "Which of these is a 'Service' rather than a 'Good'?",
+"o": ["A loaf of bread", "A new bicycle", "A haircut from a barber", "A pair of shoes"],
+"a": 2,
+"sol": "Services are intangible actions performed for others."
+},
+{
+"q": "Fishing is an example of which economic sector?",
+"o": ["Tertiary", "Quaternary", "Secondary", "Primary"],
+"a": 3,
+"sol": "Fishing depends directly on natural water resources."
+},
+{
+"q": "What happens in a factory?",
+"o": ["Raw materials are turned into finished goods", "Crops are harvested", "People go for a swim", "Doctors perform surgery"],
+"a": 0,
+"sol": "Manufacturing (Secondary sector) involves processing raw materials."
+},
+{
+"q": "Which professional helps in the transport of goods?",
+"o": ["A Truck Driver", "A Baker", "A Farmer", "A Potter"],
+"a": 0,
+"sol": "Transportation is an essential service in the tertiary sector."
+},
+{
+"q": "A person who buys goods from a wholesaler and sells them to consumers is a:",
+"o": ["Manufacturer", "Retailer", "Farmer", "Miner"],
+"a": 1,
+"sol": "Retailers sell small quantities of goods directly to the public."
+},
+{
+"q": "Agriculture is the main occupation in:",
+"o": ["Metropolitan cities", "Villages", "Outer space", "Deserts"],
+"a": 1,
+"sol": "Rural economies are heavily based on primary activities like farming."
+},
+{
+"q": "Which of these is an example of the Secondary Sector?",
+"o": ["Teaching students", "Making furniture from wood", "Mining coal", "Banking"],
+"a": 1,
+"sol": "The secondary sector adds value to raw materials (wood) by processing them (furniture)."
+},
+{
+"q": "Doctors, lawyers, and teachers belong to the:",
+"o": ["Primary Sector", "Secondary Sector", "Tertiary Sector", "None of these"],
+"a": 2,
+"sol": "They provide professional services to society."
+},
+{
+"q": "What are 'Goods'?",
+"o": ["Physical items that can be seen and touched", "Spells and magic", "Only digital files", "Abstract thoughts"],
+"a": 0,
+"sol": "Goods are tangible products like food, clothes, and gadgets."
+},
+{
+"q": "An example of a 'Market' is:",
+"o": ["A weekly haat in a village", "An online shopping app", "A large mall", "All of the above"],
+"a": 3,
+"sol": "A market is any place or platform where buyers and sellers exchange goods/services."
+},
+{
+"q": "Mining involves extracting:",
+"o": ["Clouds", "Minerals from the earth", "Vegetables", "Fish"],
+"a": 1,
+"sol": "Mining is a primary activity that provides raw materials for industry."
+},
+{
+"q": "Why do we need a transport system for economic activities?",
+"o": ["To look at the roads", "To move goods from production sites to markets", "To make more noise", "To waste fuel"],
+"a": 1,
+"sol": "Connectivity is vital for trade and distribution."
+},
+{
+"q": "Which sector provides support to both Primary and Secondary sectors?",
+"o": ["Tertiary Sector", "No sector does this", "Farming Sector", "Industrial Sector"],
+"a": 0,
+"sol": "The service sector facilitates production and distribution."
+},
+{
+"q": "Dairy farming is based on:",
+"o": ["Rearing animals for milk", "Growing wheat", "Baking cakes", "Making plastic"],
+"a": 0,
+"sol": "Livestock rearing is a key primary economic activity."
+},
+{
+"q": "What is 'Trade'?",
+"o": ["Eating food", "Buying and selling of goods and services", "Building houses", "Singing songs"],
+"a": 1,
+"sol": "Trade is the exchange of value between two parties."
+},
+{
+"q": "A person who works in a bank is part of the:",
+"o": ["Primary sector", "Service sector", "Manufacturing sector", "Forestry sector"],
+"a": 1,
+"sol": "Banking is a financial service."
+},
+{
+"q": "Raw materials for the textile industry come from:",
+"o": ["Computers", "Agriculture (Cotton)", "Steel plants", "Banks"],
+"a": 1,
+"sol": "Cotton farming is the primary activity that feeds the textile industry."
+},
+{
+"q": "Which of these is a 'Human Resource'?",
+"o": ["Iron ore", "A skilled worker", "A river", "A forest"],
+"a": 1,
+"sol": "Human labor, skills, and knowledge are essential economic resources."
+},
+{
+"q": "What is a 'Wholesaler'?",
+"o": ["Someone who sells one pencil at a time", "Someone who buys goods in bulk from producers", "A farmer", "A consumer"],
+"a": 1,
+"sol": "Wholesalers act as middlemen between producers and retailers."
+},
+{
+"q": "Money used to start a business is often called:",
+"o": ["Paper", "Capital", "Debt only", "Luxury"],
+"a": 1,
+"sol": "Capital is the investment required for economic production."
+},
+{
+"q": "Which activity is dominant in urban areas?",
+"o": ["Hunting", "Services and Manufacturing", "Shifting cultivation", "Gathering wood"],
+"a": 1,
+"sol": "Cities are hubs for trade, offices, and factories."
+},
+{
+"q": "Forestry includes:",
+"o": ["Collecting timber and honey", "Building ships", "Banking", "Teaching"],
+"a": 0,
+"sol": "Collecting forest produce is a primary activity."
+},
+{
+"q": "What is 'Production'?",
+"o": ["Buying a phone", "The process of creating goods and services", "Going to sleep", "Taking a loan"],
+"a": 1,
+"sol": "Production converts inputs into useful outputs."
+},
+{
+"q": "An IT professional working in a software company is in the:",
+"o": ["Service sector", "Primary sector", "Agricultural sector", "Mining sector"],
+"a": 0,
+"sol": "Information Technology is a major part of the modern service economy."
+},
+{
+"q": "Which of these is an 'Interdependent' relationship?",
+"o": ["A farmer needing a tractor from a factory", "A factory needing wheat from a farmer", "Both A and B", "Neither A nor B"],
+"a": 2,
+"sol": "All sectors of the economy depend on each other to function."
+},
+{
+"q": "What do we call a person who uses goods or services?",
+"o": ["Producer", "Retailer", "Consumer", "Wholesaler"],
+"a": 2,
+"sol": "Consumers are the end-users of economic output."
+},
+{
+"q": "Poultry farming refers to:",
+"o": ["Growing flowers", "Raising birds for meat or eggs", "Catching wild fish", "Mining gold"],
+"a": 1,
+"sol": "Poultry is a common primary sector activity."
+},
+{
+"q": "The shift from manual labor to machines is called:",
+"o": ["Industrialization", "Farming", "Education", "Migration"],
+"a": 0,
+"sol": "Industrialization moved the economy toward the secondary sector."
+},
+{
+"q": "Which activity involves curing people of illnesses?",
+"o": ["Legal service", "Medical service", "Education service", "Banking service"],
+"a": 1,
+"sol": "Healthcare is a vital service activity."
+},
+{
+"q": "A 'Haat' is usually held:",
+"o": ["Every day for 24 hours", "Once a week on a specific day", "Only once a year", "In a permanent mall"],
+"a": 1,
+"sol": "Weekly markets (haats) are common in rural and semi-urban India."
+},
+{
+"q": "Communication services include:",
+"o": ["Postal services and Internet", "Growing apples", "Building cars", "Fishing"],
+"a": 0,
+"sol": "Communication helps in the exchange of information."
+},
+{
+"q": "Which of these is a finished product?",
+"o": ["Raw cotton", "A stitched shirt", "Iron ore", "Wheat grain"],
+"a": 1,
+"sol": "A shirt is a product ready for consumer use."
+},
+{
+"q": "Livelihood refers to:",
+"o": ["A hobby", "Means of earning money to meet basic needs", "Playing sports", "Travelling for fun"],
+"a": 1,
+"sol": "A livelihood is how one supports their life financially."
+},
+{
+"q": "What is the role of insurance in the economy?",
+"o": ["To provide food", "To provide financial protection against risk", "To build roads", "To teach history"],
+"a": 1,
+"sol": "Insurance is a tertiary sector activity that manages risks."
+},
+{
+"q": "Which sector is also known as the 'Industrial Sector'?",
+"o": ["Primary", "Secondary", "Tertiary", "Service"],
+"a": 1,
+"sol": "Industries process goods, which is the core of the secondary sector."
+},
+{
+"q": "A street cobbler provides a:",
+"o": ["Primary product", "Service", "Raw material", "None of these"],
+"a": 1,
+"sol": "Repairing shoes is a service."
+},
+{
+"q": "Barter system means:",
+"o": ["Exchanging money for goods", "Exchanging goods for other goods without money", "Stealing goods", "Not trading at all"],
+"a": 1,
+"sol": "Before money, people swapped items directly."
+},
+{
+"q": "Why is the service sector growing so fast?",
+"o": ["Because people don't eat anymore", "Increase in demand for healthcare, IT, and travel", "Farming is now illegal", "Factories are closing"],
+"a": 1,
+"sol": "Modern lifestyles demand more specialized services."
+},
+{
+"q": "Quarrying is an activity related to:",
+"o": ["Primary sector", "Tertiary sector", "Secondary sector", "Only forests"],
+"a": 0,
+"sol": "Quarrying involves extracting stones or minerals from near the surface."
+},
+{
+"q": "A tailor turning cloth into a suit is part of the:",
+"o": ["Primary sector", "Secondary sector", "Tertiary sector", "Agricultural sector"],
+"a": 1,
+"sol": "Tailoring is a form of manufacturing/processing."
+},
+{
+"q": "What is 'Income'?",
+"o": ["Money spent on snacks", "Money received for work or through investments", "A type of loan", "The price of a ticket"],
+"a": 1,
+"sol": "Income is the reward for participating in economic activities."
+},
+{
+"q": "Which of these is a major challenge for small farmers?",
+"o": ["Too much land", "Lack of credit (loans) and irrigation", "Too many tractors", "No crops to grow"],
+"a": 1,
+"sol": "Small farmers often struggle with funding and resources."
+},
+{
+"q": "Advertising belongs to which sector?",
+"o": ["Primary", "Secondary", "Tertiary", "Mining"],
+"a": 2,
+"sol": "Advertising is a marketing service."
+},
+{
+"q": "The primary sector is the foundation because:",
+"o": ["It provides raw materials for all other activities", "It is the most expensive", "It has the most computers", "It is only done in cities"],
+"a": 0,
+"sol": "Without natural resources, industry and services cannot exist."
+},
+{
+"q": "A 'Bazaar' typically sells:",
+"o": ["Only one item", "A wide variety of goods", "Only air", "Nothing"],
+"a": 1,
+"sol": "Bazaars are diverse marketplaces."
+},
+{
+"q": "Tourism is an economic activity in the:",
+"o": ["Secondary sector", "Tertiary sector", "Primary sector", "Industrial sector"],
+"a": 1,
+"sol": "Tourism provides experiences and hospitality services."
+},
+{
+"q": "What is 'Consumption'?",
+"o": ["Making a chair", "Using a product to satisfy a want", "Selling a car", "Fixing a pipe"],
+"a": 1,
+"sol": "Consumption is the act of using goods/services."
+},
+{
+"q": "Which job involves a lot of 'Knowledge-based' work?",
+"o": ["Digging a hole", "Software development", "Lifting boxes", "Cutting grass"],
+"a": 1,
+"sol": "The modern economy values 'intellectual' services."
+},
+{
+"q": "A potter making clay pots is in the:",
+"o": ["Secondary sector", "Primary sector", "Service sector", "Trade sector"],
+"a": 0,
+"sol": "Crafting products from raw material (clay) is a secondary activity."
+},
+{
+"q": "What is an 'Export'?",
+"o": ["Buying goods from another country", "Selling goods to another country", "Eating food at home", "Hiding goods"],
+"a": 1,
+"sol": "Exports bring foreign currency into a country."
+},
+{
+"q": "What is an 'Import'?",
+"o": ["Selling goods", "Buying goods from abroad", "Building a school", "Farming"],
+"a": 1,
+"sol": "Imports are goods brought into a country from elsewhere."
+},
+{
+"q": "The main economic activity in coastal regions is usually:",
+"o": ["Mining", "Fishing", "Forestry", "Wheat farming"],
+"a": 1,
+"sol": "Geography often determines the primary economic activity."
+},
+{
+"q": "Why do people move from villages to cities for work?",
+"o": ["For better jobs and facilities", "To see more traffic", "To avoid fresh air", "To sleep in malls"],
+"a": 0,
+"sol": "Urbanization is driven by the search for better livelihoods."
+},
+{
+"q": "A shepherd rearing sheep for wool is in the:",
+"o": ["Primary sector", "Tertiary sector", "Secondary sector", "Manufacturing sector"],
+"a": 0,
+"sol": "Animal husbandry is a primary activity."
+},
+{
+"q": "Modern banking helps the economy by:",
+"o": ["Providing loans for investment", "Keeping money safe", "Facilitating easy payments", "All of the above"],
+"a": 3,
+"sol": "Banks are the backbone of financial services."
+},
+{
+"q": "Which of these is a non-economic activity?",
+"o": ["A teacher teaching in school for salary", "A mother cooking for her family at home", "A chef cooking in a restaurant", "A farmer selling grain"],
+"a": 1,
+"sol": "Non-economic activities are done for love or duty, not for profit."
+},
+{
+"q": "What is the goal of an entrepreneur?",
+"o": ["To lose money", "To organize production and take risks for profit", "To avoid work", "To be a consumer only"],
+"a": 1,
+"sol": "Entrepreneurs drive economic growth through innovation."
+},
+{
+"q": "If a factory closes, it affects the farmers who supplied raw materials. This shows:",
+"o": ["Independence", "Interdependence", "Competition", "Nothing"],
+"a": 1,
+"sol": "Sectors are linked in a chain; failure in one affects others."
+},
+{
+"q": "What is 'Labour'?",
+"o": ["Machines only", "Physical and mental effort of humans in production", "A type of plant", "Resting"],
+"a": 1,
+"sol": "Human labor is an essential input for any economy."
+},
+{
+"q": "Which sector is also called the 'Agricultural and Related Sector'?",
+"o": ["Secondary", "Primary", "Tertiary", "Service"],
+"a": 1,
+"sol": "Agriculture is the biggest part of the primary sector."
+},
+{
+"q": "A pharmacist selling medicine is part of:",
+"o": ["Agriculture", "Manufacturing", "Trade/Service sector", "Mining"],
+"a": 2,
+"sol": "Retail and distribution of medicine is a service."
+},
+{
+"q": "What is 'Technology' in economic terms?",
+"o": ["Just phones", "Tools and methods used to produce goods more efficiently", "Something that makes work harder", "A magic trick"],
+"a": 1,
+"sol": "Tech improves productivity and reduces costs."
+},
+{
+"q": "A fruit seller in a weekly market is a:",
+"o": ["Wholesaler", "Retailer", "Manufacturer", "Producer"],
+"a": 1,
+"sol": "They sell directly to the final consumer."
+},
+{
+"q": "Which of these helps in 'Storage' of crops?",
+"o": ["Warehouses", "Roads", "Schools", "Playgrounds"],
+"a": 0,
+"sol": "Warehousing is a service that prevents spoilage."
+},
+{
+"q": "What is a 'Startup'?",
+"o": ["A very old company", "A newly established business", "A game", "Ending a job"],
+"a": 1,
+"sol": "Startups are often innovative new ventures."
+},
+{
+"q": "A pilot flying a plane is providing a:",
+"o": ["Good", "Service", "Primary resource", "Secondary resource"],
+"a": 1,
+"sol": "Air travel is a transportation service."
+},
+{
+"q": "Money that a consumer pays for a good is its:",
+"o": ["Weight", "Price", "Color", "Size"],
+"a": 1,
+"sol": "Price is the monetary value of a product."
+},
+{
+"q": "Why is education an economic activity?",
+"o": ["It charges fees and provides employment to teachers", "It develops human skills for the future economy", "Both A and B", "Neither A nor B"],
+"a": 2,
+"sol": "Education is a service that builds human capital."
+},
+{
+"q": "Which of these is a renewable natural resource used in the primary sector?",
+"o": ["Coal", "Sunlight/Soil", "Petrol", "Iron"],
+"a": 1,
+"sol": "Agriculture depends on renewable resources like soil and water."
+},
+{
+"q": "What is 'Digital Economy'?",
+"o": ["Trading using paper only", "Economic activities through the internet and digital tech", "Not using money at all", "Only selling computers"],
+"a": 1,
+"sol": "Online payments and e-commerce are parts of the digital economy."
+},
+{
+"q": "Which professional manages the accounts of a company?",
+"o": ["Architect", "Accountant", "Surgeon", "Farmer"],
+"a": 1,
+"sol": "Accountancy is a professional financial service."
+},
+{
+"q": "A gardener taking care of a park is a:",
+"o": ["Service provider", "Manufacturer", "Miner", "Wholesaler"],
+"a": 0,
+"sol": "Maintenance of green spaces is a service."
+},
+{
+"q": "What is 'Supply'?",
+"o": ["What people want to buy", "The amount of goods available for sale", "Eating a meal", "Building a wall"],
+"a": 1,
+"sol": "Supply is the quantity of products sellers offer at a price."
+},
+{
+"q": "Which activity is part of the 'Food Processing' industry?",
+"o": ["Growing tomatoes", "Making tomato ketchup in a factory", "Selling tomatoes", "Eating tomatoes"],
+"a": 1,
+"sol": "Processing raw food into products is a secondary activity."
+},
+{
+"q": "What is the result of 'Division of Labour'?",
+"o": ["Everyone does the same job", "Each person specializes in one part of the production", "Work becomes slower", "No one works"],
+"a": 1,
+"sol": "Specialization increases efficiency and speed."
+},
+{
+"q": "Economic growth leads to:",
+"o": ["Fewer jobs", "Higher standard of living and better infrastructure", "Less money", "Closing of markets"],
+"a": 1,
+"sol": "Growth increases the overall wealth of a society."
+},
+{
+"q": "A courier service helps in:",
+"o": ["Growing trees", "Delivering documents and packages", "Mining gold", "Manufacturing steel"],
+"a": 1,
+"sol": "Logistics and courier services are tertiary activities."
+},
+{
+"q": "Which of these is a 'Natural Resource'?",
+"o": ["A building", "A river", "A car", "A computer"],
+"a": 1,
+"sol": "Natural resources are gifts of nature used in production."
+},
+{
+"q": "What is 'Profit'?",
+"o": ["Losing money", "Total revenue minus total cost", "Giving money away", "A type of fruit"],
+"a": 1,
+"sol": "Profit is the gain from business operations."
+},
+{
+"q": "An electrician fixing wires is part of the:",
+"o": ["Service sector", "Primary sector", "Agricultural sector", "Mining sector"],
+"a": 0,
+"sol": "Technical repair is a service."
+},
+{
+"q": "E-commerce stands for:",
+"o": ["Easy commerce", "Electronic commerce", "Extra commerce", "Early commerce"],
+"a": 1,
+"sol": "It refers to buying/selling over the internet."
+},
+{
+"q": "Which sector is most common in a developed economy?",
+"o": ["Primary", "Secondary", "Tertiary", "None"],
+"a": 2,
+"sol": "Developed nations usually have a very large service sector."
+},
+{
+"q": "What is 'Credit'?",
+"o": ["A gift", "An agreement to receive money/goods now and pay later", "Paying cash immediately", "Stealing"],
+"a": 1,
+"sol": "Credit/Loans are essential for expanding businesses."
+},
+{
+"q": "Which of these is an example of a 'Public Service'?",
+"o": ["Private tuition", "Government Hospitals and Schools", "Buying a toy", "Eating at a luxury hotel"],
+"a": 1,
+"sol": "Public services are provided by the state for all citizens."
+},
+{
+"q": "A person who designs clothes is a:",
+"o": ["Fashion Designer", "Plumber", "Miner", "Farmer"],
+"a": 0,
+"sol": "Design is a creative professional service."
+},
+{
+"q": "If demand for a product is very high but supply is low, the price usually:",
+"o": ["Decreases", "Increases", "Stays the same", "Becomes zero"],
+"a": 1,
+"sol": "Scarcity often leads to higher prices."
+},
+{
+"q": "What is 'Infrastructure'?",
+"o": ["Just flowers", "Basic structures like roads, power, and water supply", "Only mobile phones", "Internal thoughts"],
+"a": 1,
+"sol": "Good infrastructure is necessary for economic activities."
+},
+{
+"q": "Which activity is related to 'Animal Husbandry'?",
+"o": ["Mining iron", "Rearing goats and cows", "Teaching math", "Driving a bus"],
+"a": 1,
+"sol": "Raising animals is a primary economic activity."
+},
+{
+"q": "A person working in a hotel as a waiter is in the:",
+"o": ["Primary sector", "Secondary sector", "Tertiary sector", "Forestry sector"],
+"a": 2,
+"sol": "Hospitality is a major service industry."
+},
+{
+"q": "What is 'Wealth'?",
+"o": ["Only cash", "Total value of assets owned", "Being poor", "Boredom"],
+"a": 1,
+"sol": "Wealth includes property, money, and investments."
+},
+{
+"q": "Which of these is a 'Non-renewable' resource?",
+"o": ["Wind", "Coal", "Water", "Sunlight"],
+"a": 1,
+"sol": "Once used, coal cannot be replaced easily."
+},
+{
+"q": "An 'Industry' is a group of businesses that:",
+"o": ["Do nothing", "Produce a similar product or service", "Are all in different countries", "Only sell ice cream"],
+"a": 1,
+"sol": "For example, the 'Automobile Industry' includes all car manufacturers."
+},
+{
+"q": "What is 'Globalisation'?",
+"o": ["Closing borders", "Increasing connection between world economies", "Not trading", "Living on the moon"],
+"a": 1,
+"sol": "It allows goods and services to move globally."
+},
+{
+"q": "A person who cleans the streets is part of:",
+"o": ["Primary sector", "Secondary sector", "Sanitation services (Tertiary)", "Forestry"],
+"a": 2,
+"sol": "Sanitation is a critical community service."
+},
+{
+"q": "Why is 'Skill Development' important?",
+"o": ["To be more useful and earn a better livelihood", "To waste time", "To avoid work", "To stay at home"],
+"a": 0,
+"sol": "Skills make individuals more productive in the economy."
+},
+{
+"q": "What is 'Sustainability' in economic activities?",
+"o": ["Using all resources today", "Meeting today's needs without compromising future generations", "Stopping all work", "Using only plastic"],
+"a": 1,
+"sol": "Sustainable growth protects the environment."
+},
+{
+"q": "Which of these is a 'Direct Service'?",
+"o": ["Making a brick", "A doctor examining a patient", "Mining iron", "Farming wheat"],
+"a": 1,
+"sol": "Direct services involve personal interaction for a specific need."
+},
+{
+"q": "All economic activities together form the:",
+"o": ["Atmosphere", "Economy", "Biosphere", "Galaxy"],
+"a": 1,
+"sol": "The economy is the system of production, distribution, and consumption."
+}
+]
