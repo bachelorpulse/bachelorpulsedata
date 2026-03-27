@@ -1,0 +1,602 @@
+[
+{
+"q": "What is a collection of numbers gathered to give some information called?",
+"o": ["Bar graph", "Tally mark", "Data", "Pictograph"],
+"a": 2,
+"sol": "Data is the basic term for information collected for analysis."
+},
+{
+"q": "The representation of data using pictures is known as:",
+"o": ["Pictograph", "Histogram", "Tally chart", "Bar diagram"],
+"a": 0,
+"sol": "Pictographs use symbols or pictures to represent quantities."
+},
+{
+"q": "In a tally mark, the fifth mark is usually drawn as a:",
+"o": ["Vertical line", "Horizontal line", "Cross line (diagonal) over four lines", "Circle"],
+"a": 2,
+"sol": "A diagonal line represents the 5th item to make counting easier."
+},
+{
+"q": "A symbol [X] represents 10 students. How many symbols represent 50 students?",
+"o": ["5", "10", "50", "2"],
+"a": 0,
+"sol": "50 divided by 10 equals 5 symbols."
+},
+{
+"q": "The width of all bars in a bar graph must be:",
+"o": ["Variable", "Equal", "Increasing", "Decreasing"],
+"a": 1,
+"sol": "Uniform width is necessary for an accurate bar graph."
+},
+{
+"q": "What do we call the numerical information collected for a specific purpose?",
+"o": ["Raw Data", "Final Data", "Sorted Data", "Grouped Data"],
+"a": 0,
+"sol": "Initially collected data without processing is called raw data."
+},
+{
+"q": "In a bar graph, the space between two consecutive bars should be:",
+"o": ["Double", "Zero", "Uniform", "Random"],
+"a": 2,
+"sol": "Equal spacing ensures visual clarity and correctness."
+},
+{
+"q": "If one star symbol represents 5 cars, what does 4.5 star symbols represent?",
+"o": ["20 cars", "22.5 cars", "25 cars", "15 cars"],
+"a": 1,
+"sol": "4.5 multiplied by 5 equals 22.5."
+},
+{
+"q": "Arranging data in a systematic order (ascending or descending) is called:",
+"o": ["Collection", "Arraying", "Presentation", "Interpretation"],
+"a": 1,
+"sol": "An array is a systematic arrangement of data."
+},
+{
+"q": "Which graph uses horizontal or vertical bars to represent data?",
+"o": ["Pictograph", "Bar Graph", "Tally Table", "Pie Chart"],
+"a": 1,
+"sol": "Bar graphs use bars of uniform width."
+},
+{
+"q": "What is the frequency of a data point?",
+"o": ["The total sum", "The number of times it occurs", "The average", "The highest value"],
+"a": 1,
+"sol": "Frequency refers to the repetition of a specific observation."
+},
+{
+"q": "A tally mark |||| represents which number?",
+"o": ["3", "5", "4", "2"],
+"a": 2,
+"sol": "Each vertical line represents one unit."
+},
+{
+"q": "If a bar graph has a scale of 1 unit = 100 kg, how long is a bar for 450 kg?",
+"o": ["4 units", "4.5 units", "5 units", "45 units"],
+"a": 1,
+"sol": "450 / 100 = 4.5 units."
+},
+{
+"q": "Data represented using segments of a circle is called:",
+"o": ["Bar chart", "Pictograph", "Pie chart", "Line graph"],
+"a": 2,
+"sol": "Pie charts use circular segments or sectors."
+},
+{
+"q": "What is the difference between the highest and lowest observations called?",
+"o": ["Mean", "Median", "Mode", "Range"],
+"a": 3,
+"sol": "Range = Maximum value - Minimum value."
+},
+{
+"q": "If a tally group has 4 vertical lines and 1 diagonal line, it equals:",
+"o": ["4", "6", "10", "5"],
+"a": 3,
+"sol": "The 5th line crosses the previous four to form a set of 5."
+},
+{
+"q": "Which data presentation is best for comparing discrete categories?",
+"o": ["Bar Graph", "Tally Marks", "Raw list", "None"],
+"a": 0,
+"sol": "Bar graphs are excellent for categorical comparisons."
+},
+{
+"q": "In a pictograph, if a 'Book' icon = 2 books, how many icons for 11 books?",
+"o": ["5", "5.5", "6", "11"],
+"a": 1,
+"sol": "11 / 2 = 5.5 symbols."
+},
+{
+"q": "The vertical line in a bar graph is usually the:",
+"o": ["X-axis", "Y-axis", "Z-axis", "Base-axis"],
+"a": 1,
+"sol": "Standard graphs use Y-axis for the vertical scale."
+},
+{
+"q": "Data collected by the investigator himself is called:",
+"o": ["Secondary data", "Primary data", "Third-party data", "Old data"],
+"a": 1,
+"sol": "Primary data is collected directly from the source."
+},
+{
+"q": "What is the title of a graph meant for?",
+"o": ["Decoration", "To describe what the graph is about", "To list the scale", "To name the axes"],
+"a": 1,
+"sol": "Titles provide context to the data being presented."
+},
+{
+"q": "If 'O' = 4 fruits, what does 'OOO' represent?",
+"o": ["8 fruits", "16 fruits", "12 fruits", "4 fruits"],
+"a": 2,
+"sol": "3 multiplied by 4 equals 12."
+},
+{
+"q": "Which of the following is NOT a method of data presentation?",
+"o": ["Bar Graph", "Pictograph", "Eating the data", "Tally Chart"],
+"a": 2,
+"sol": "Data handling involves recording and organizing, not consumption."
+},
+{
+"q": "The scale on a graph helps to:",
+"o": ["Make it colorful", "Measure the height of the paper", "Represent large numbers easily", "Draw straight lines"],
+"a": 2,
+"sol": "Scale compresses large values into manageable units."
+},
+{
+"q": "What is 'Interpretation of Data'?",
+"o": ["Drawing pictures", "Deleting data", "Understanding and drawing conclusions", "Changing numbers"],
+"a": 2,
+"sol": "Interpretation means analyzing the organized data to get answers."
+},
+{
+"q": "Tally marks are used to find:",
+"o": ["Range", "Frequency", "Average", "Scale"],
+"a": 1,
+"sol": "They are used to count how many times an observation repeats."
+},
+{
+"q": "If 1 unit = 5 units, a bar of 7 units represents:",
+"o": ["12", "35", "2", "7"],
+"a": 1,
+"sol": "7 * 5 = 35."
+},
+{
+"q": "Pictographs are usually:",
+"o": ["Hard to understand", "Time consuming to draw", "Only for scientists", "Not used in schools"],
+"a": 1,
+"sol": "Drawing symbols for large data sets can be tedious."
+},
+{
+"q": "A collection of facts, such as measurements or statistics, is:",
+"o": ["Opinion", "Data", "Fiction", "Story"],
+"a": 1,
+"sol": "Factual information is categorized as data."
+},
+{
+"q": "Horizontal bar graphs have bars along the:",
+"o": ["Vertical axis", "Horizontal axis", "Diagonal axis", "Center"],
+"a": 1,
+"sol": "The length of the bar is measured along the horizontal X-axis."
+},
+{
+"q": "In a bar graph, heights of the bars represent:",
+"o": ["Weight", "Values/Frequency", "Color", "Names"],
+"a": 1,
+"sol": "Height corresponds to the numerical value on the scale."
+},
+{
+"q": "To count 13 using tally marks, we need:",
+"o": ["Three groups of 5", "Two groups of 5 and 3 single lines", "13 dots", "One group of 10 and 3 lines"],
+"a": 1,
+"sol": "Each group of 5 is marked with a slash; 5+5+3=13."
+},
+{
+"q": "Observation 5, 5, 7, 7, 7, 8. What is the frequency of 7?",
+"o": ["2", "6", "3", "5"],
+"a": 2,
+"sol": "7 appears three times."
+},
+{
+"q": "If a scale is 1 unit = 50 people, how many people do 3 units represent?",
+"o": ["150", "100", "50", "200"],
+"a": 0,
+"sol": "3 multiplied by 50 equals 150."
+},
+{
+"q": "Which is more accurate for large numbers?",
+"o": ["Simple count", "Pictograph", "Bar Graph with scale", "Tally marks"],
+"a": 2,
+"sol": "Bar graphs with defined scales handle large magnitudes effectively."
+},
+{
+"q": "The first step in data handling is:",
+"o": ["Drawing a graph", "Interpreting", "Collection of data", "Deleting data"],
+"a": 2,
+"sol": "You must have data before you can organize it."
+},
+{
+"q": "In a pictograph, half a symbol represents:",
+"o": ["Double value", "Zero value", "Half the value of a full symbol", "One tenth"],
+"a": 2,
+"sol": "Standard convention for partial symbols."
+},
+{
+"q": "Bar graphs can be drawn:",
+"o": ["Only vertically", "Only horizontally", "Both vertically and horizontally", "Only diagonally"],
+"a": 2,
+"sol": "Orientation can be adjusted based on preference."
+},
+{
+"q": "What is 'Organization of Data'?",
+"o": ["Collecting data", "Cleaning the desk", "Putting data in a table or array", "Throwing data away"],
+"a": 2,
+"sol": "Grouping and tabulating data makes it readable."
+},
+{
+"q": "The symbol used in a pictograph must be:",
+"o": ["Changing every time", "Relevant and easy to draw", "Complex and detailed", "A photograph"],
+"a": 1,
+"sol": "Simple, relevant symbols make the graph clear."
+},
+{
+"q": "A tally mark group with a slash represents:",
+"o": ["10", "1", "5", "4"],
+"a": 2,
+"sol": "Repeat conceptual reinforcement."
+},
+{
+"q": "A table showing frequencies is called a:",
+"o": ["Frequency Distribution Table", "Time Table", "Multiplication Table", "Food Chart"],
+"a": 0,
+"sol": "This is the technical name for a tally-based data table."
+},
+{
+"q": "If 1 apple icon = 10 apples, then 35 apples are shown by:",
+"o": ["3 icons", "4 icons", "3.5 icons", "35 icons"],
+"a": 2,
+"sol": "35 / 10 = 3.5 symbols."
+},
+{
+"q": "Bar graphs help in:",
+"o": ["Quick comparison of data", "Adding numbers", "Multiplying values", "Calculating HCF"],
+"a": 0,
+"sol": "Visual height differences make comparison instant."
+},
+{
+"q": "Data obtained from a newspaper is:",
+"o": ["Primary data", "Secondary data", "Invalid data", "Fake data"],
+"a": 1,
+"sol": "Since you didn't collect it yourself, it's secondary."
+},
+{
+"q": "What is an individual entry in a data set called?",
+"o": ["Variable", "Observation", "Scale", "Frequency"],
+"a": 1,
+"sol": "Each item collected is an observation."
+},
+{
+"q": "If the range is 20 and the lowest value is 5, the highest value is:",
+"o": ["15", "25", "20", "10"],
+"a": 1,
+"sol": "Range + Lowest = Highest (20 + 5 = 25)."
+},
+{
+"q": "Which axis is the horizontal axis?",
+"o": ["Y-axis", "Z-axis", "X-axis", "P-axis"],
+"a": 2,
+"sol": "X-axis is horizontal; Y-axis is vertical."
+},
+{
+"q": "A tally mark with 2 lines stands for:",
+"o": ["One", "Two", "Three", "Four"],
+"a": 1,
+"sol": "Basic counting."
+},
+{
+"q": "Which data is more reliable?",
+"o": ["Primary", "Secondary", "Both same", "None"],
+"a": 0,
+"sol": "Primary data is more reliable as the investigator knows the source."
+},
+{
+"q": "What is the frequency of 'Red' if the marks are [Group of 5], [Group of 5], ||?",
+"o": ["10", "12", "7", "2"],
+"a": 1,
+"sol": "5 + 5 + 2 = 12."
+},
+{
+"q": "Labels on the axes describe:",
+"o": ["The colors used", "The person who drew it", "What the data represents", "The date"],
+"a": 2,
+"sol": "Labels identify the categories and quantities."
+},
+{
+"q": "If scale is 1 unit = 20 students, a bar for 10 students will be:",
+"o": ["Half a unit", "2 units", "10 units", "1 unit"],
+"a": 0,
+"sol": "10 / 20 = 0.5 units."
+},
+{
+"q": "Every pictograph must have a ____ to explain symbols.",
+"o": ["Lock", "Key/Legend", "Color", "Door"],
+"a": 1,
+"sol": "The key defines the numerical value of each symbol."
+},
+{
+"q": "Grouping data into categories is called:",
+"o": ["Classification", "Calculation", "Multiplication", "Subtraction"],
+"a": 0,
+"sol": "Classification organizes diverse data into groups."
+},
+{
+"q": "Data is plural. What is the singular form?",
+"o": ["Datu", "Datum", "Date", "Dati"],
+"a": 1,
+"sol": "Datum is the singular of data."
+},
+{
+"q": "Height of bars in a bar graph is _____ to the frequency.",
+"o": ["Equal", "Proportional", "Opposite", "Not related"],
+"a": 1,
+"sol": "Higher values result in taller bars."
+},
+{
+"q": "Can we represent negative data in a bar graph?",
+"o": ["Yes", "No", "Only if it is zero", "Only in circles"],
+"a": 0,
+"sol": "Bars can go below the X-axis for negative values."
+},
+{
+"q": "Representing 8 using tally marks:",
+"o": ["||||||||", "Group of 5 + |||", "Group of 5 + ||", "Group of 4 + Group of 4"],
+"a": 1,
+"sol": "5 + 3 = 8."
+},
+{
+"q": "In a bar graph, if categories are on X-axis, it is a:",
+"o": ["Vertical bar graph", "Horizontal bar graph", "Circle graph", "Dot plot"],
+"a": 0,
+"sol": "The bars rise vertically from the X-axis."
+},
+{
+"q": "Numerical data means information in the form of:",
+"o": ["Pictures", "Numbers", "Words", "Sounds"],
+"a": 1,
+"sol": "Numerical data strictly uses digits and values."
+},
+{
+"q": "Why do we use graphs instead of lists?",
+"o": ["Harder to read", "To save paper", "Easier to see patterns", "To use pencils"],
+"a": 2,
+"sol": "Visuals reveal trends and comparisons faster than tables."
+},
+{
+"q": "If 1 bulb = 2 hours, 5 bulbs = ?",
+"o": ["5 hours", "7 hours", "10 hours", "2 hours"],
+"a": 2,
+"sol": "5 * 2 = 10."
+},
+{
+"q": "Scale 1 unit = 10 units. Bar length 8 units. Value?",
+"o": ["18", "2", "80", "8"],
+"a": 2,
+"sol": "8 * 10 = 80."
+},
+{
+"q": "The collection of information is the ___ stage.",
+"o": ["Last", "Middle", "First", "Second"],
+"a": 2,
+"sol": "Data collection is the prerequisite."
+},
+{
+"q": "Frequency table uses:",
+"o": ["Colors", "Tally marks", "Stories", "Erasers"],
+"a": 1,
+"sol": "Tally marks are the standard method for frequency tables."
+},
+{
+"q": "If 1 face = 100 people, then 2.5 faces = ?",
+"o": ["200", "250", "300", "150"],
+"a": 1,
+"sol": "2.5 * 100 = 250."
+},
+{
+"q": "Sorting data in ascending order helps in finding:",
+"o": ["Total sum only", "Max and Min values easily", "Color", "Nothing"],
+"a": 1,
+"sol": "The first and last items represent Min and Max."
+},
+{
+"q": "Data can be represented by:",
+"o": ["Tables", "Graphs", "Charts", "All of these"],
+"a": 3,
+"sol": "Multiple formats exist for data presentation."
+},
+{
+"q": "A graph is a ____ representation of data.",
+"o": ["Written", "Oral", "Visual", "Calculated"],
+"a": 2,
+"sol": "Graphs are purely visual tools."
+},
+{
+"q": "Scale is chosen based on:",
+"o": ["Color of paper", "Range of data", "Number of pens", "Height of the student"],
+"a": 1,
+"sol": "Scale depends on how large or small the data values are."
+},
+{
+"q": "Each tally mark represents _____ value.",
+"o": ["5", "10", "1", "0"],
+"a": 2,
+"sol": "A single line equals one unit."
+},
+{
+"q": "Information in a newspaper about weather is:",
+"o": ["Data", "Rumor", "Raw", "None"],
+"a": 0,
+"sol": "It provides specific information/data."
+},
+{
+"q": "Bar graphs are also called:",
+"o": ["Line charts", "Column charts", "Round charts", "Empty charts"],
+"a": 1,
+"sol": "Vertical bar graphs are often called column charts."
+},
+{
+"q": "In pictograph, if 'Sun' = 30 days, 'Half Sun' = ?",
+"o": ["10 days", "15 days", "60 days", "5 days"],
+"a": 1,
+"sol": "30 / 2 = 15."
+},
+{
+"q": "If a bar graph scale is 1 unit = 5, then a bar of 3 units is:",
+"o": ["8", "2", "15", "1"],
+"a": 2,
+"sol": "3 * 5 = 15."
+},
+{
+"q": "Finding the total number of observations from a frequency table:",
+"o": ["Add all frequencies", "Subtract frequencies", "Only look at first one", "Multiply frequencies"],
+"a": 0,
+"sol": "The sum of frequencies equals the total observations."
+},
+{
+"q": "Vertical axis is the:",
+"o": ["X-axis", "Y-axis", "Ground", "Sky"],
+"a": 1,
+"sol": "Y-axis is the standard vertical axis."
+},
+{
+"q": "Observation with the highest frequency is the:",
+"o": ["Range", "Median", "Mode", "Mean"],
+"a": 2,
+"sol": "Mode is the most frequently occurring value."
+},
+{
+"q": "To represent 4 in tally marks:",
+"o": ["||", "||||", "Group of 5", "|"],
+"a": 1,
+"sol": "Four vertical lines."
+},
+{
+"q": "The 'Legend' in a pictograph:",
+"o": ["Is a myth", "Tells what each picture stands for", "Is the name of the drawer", "Is unnecessary"],
+"a": 1,
+"sol": "Legend or Key defines the symbols."
+},
+{
+"q": "Data handling is used in:",
+"o": ["Cricket scores", "Weather reports", "School results", "All of these"],
+"a": 3,
+"sol": "It has universal applications."
+},
+{
+"q": "If frequency of 'A' is 10 and 'B' is 5, how much taller is bar A?",
+"o": ["Same", "Double", "Half", "Triple"],
+"a": 1,
+"sol": "10 is twice 5."
+},
+{
+"q": "Bar charts are useful to find ____ at a glance.",
+"o": ["Square roots", "Trends and maximums", "Spelling errors", "Prime numbers"],
+"a": 1,
+"sol": "Visual peaks show the maximums instantly."
+},
+{
+"q": "In a bar graph, labels are on:",
+"o": ["Only X-axis", "Only Y-axis", "Both axes", "Neither"],
+"a": 2,
+"sol": "Both axes need labels for clarity."
+},
+{
+"q": "If one square = 4 units, then 16 units are:",
+"o": ["2 squares", "4 squares", "8 squares", "1 square"],
+"a": 1,
+"sol": "16 / 4 = 4."
+},
+{
+"q": "Scale 1:10 means 1 unit represents:",
+"o": ["1", "10", "100", "0.1"],
+"a": 1,
+"sol": "Definition of 1 to 10 scale."
+},
+{
+"q": "Tally marks are always drawn in groups of:",
+"o": ["2", "10", "5", "3"],
+"a": 2,
+"sol": "5 is the standard grouping size."
+},
+{
+"q": "Frequency of '6' in [6, 2, 6, 6, 4] is:",
+"o": ["1", "2", "3", "5"],
+"a": 2,
+"sol": "6 appears 3 times."
+},
+{
+"q": "Raw data is usually:",
+"o": ["Organized", "Unorganized", "Invalid", "A graph"],
+"a": 1,
+"sol": "Raw data is in its original, jumbled form."
+},
+{
+"q": "X-axis and Y-axis are ____ to each other.",
+"o": ["Parallel", "Perpendicular", "Opposite", "Curved"],
+"a": 1,
+"sol": "They meet at a 90-degree angle."
+},
+{
+"q": "If a bar graph is very tall, we should:",
+"o": ["Get a bigger paper", "Change the scale", "Cut the bar", "Delete data"],
+"a": 1,
+"sol": "Adjusting scale makes large data fit on a page."
+},
+{
+"q": "What is the frequency of '10' if tally is [Group of 5]?",
+"o": ["5", "10", "1", "0"],
+"a": 0,
+"sol": "The group equals 5."
+},
+{
+"q": "Pictographs use ____ for representation.",
+"o": ["Numbers", "Icons/Symbols", "Dots", "Lines"],
+"a": 1,
+"sol": "Icons are the core of pictographs."
+},
+{
+"q": "Highest value - Lowest value = ?",
+"o": ["Mean", "Sum", "Range", "Mode"],
+"a": 2,
+"sol": "Definition of range."
+},
+{
+"q": "Are gaps between bars in a bar graph essential?",
+"o": ["No", "Yes", "Only for colors", "Sometimes"],
+"a": 1,
+"sol": "Gaps distinguish separate categories."
+},
+{
+"q": "Can one symbol represent 1000 items?",
+"o": ["No", "Yes", "Only in books", "Never"],
+"a": 1,
+"sol": "Scale allows any representation."
+},
+{
+"q": "The point where X and Y axes meet is:",
+"o": ["Zero", "Origin", "Start", "Center"],
+"a": 1,
+"sol": "The origin (0,0)."
+},
+{
+"q": "Drawing a pictograph requires a:",
+"o": ["Calculated scale", "Chosen symbol", "Both", "None"],
+"a": 2,
+"sol": "You need a symbol and a value for it."
+},
+{
+"q": "Data handling helps in making _____.",
+"o": ["Confusion", "Decisions", "Noise", "Mistakes"],
+"a": 1,
+"sol": "Organized information leads to better decision making."
+}
+]
