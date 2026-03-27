@@ -1,0 +1,602 @@
+
+{
+"q": "What is the next number in the pattern: 2, 4, 6, 8, ...?",
+"o": ["9", "10", "12", "14"],
+"a": 1,
+"sol": "The pattern adds 2 to each previous number (8 + 2 = 10)."
+},
+{
+"q": "Identify the missing number: 5, 10, 15, __, 25.",
+"o": ["18", "22", "20", "30"],
+"a": 2,
+"sol": "This is a skip counting pattern of 5."
+},
+{
+"q": "In the sequence 1, 3, 9, 27, ..., what is the rule?",
+"o": ["Add 2", "Multiply by 3", "Subtract 5", "Divide by 3"],
+"a": 1,
+"sol": "Each term is multiplied by 3 to get the next term."
+},
+{
+"q": "What comes next in the pattern: 100, 90, 80, 70, ...?",
+"o": ["60", "50", "65", "75"],
+"a": 0,
+"sol": "The rule is to subtract 10 from the previous number."
+},
+{
+"q": "Which number completes the pattern: 1, 4, 9, 16, __?",
+"o": ["20", "36", "24", "25"],
+"a": 3,
+"sol": "These are square numbers (1x1, 2x2, 3x3, 4x4, 5x5 = 25)."
+},
+{
+"q": "If 'n' represents the position of a term, and the rule is 2n + 1, what is the 5th term?",
+"o": ["10", "11", "9", "12"],
+"a": 1,
+"sol": "Substitute n=5: (2 * 5) + 1 = 11."
+},
+{
+"q": "Complete the sequence: 1, 1, 2, 3, 5, 8, __.",
+"o": ["10", "11", "13", "15"],
+"a": 2,
+"sol": "This is the Fibonacci sequence where each number is the sum of the two preceding ones (5 + 8 = 13)."
+},
+{
+"q": "What is the 10th term in the pattern of even numbers starting from 2?",
+"o": ["18", "20", "22", "10"],
+"a": 1,
+"sol": "The nth even number is 2n. For n=10, 2 * 10 = 20."
+},
+{
+"q": "Find the missing term: 0.5, 1.0, 1.5, 2.0, __.",
+"o": ["3.0", "2.1", "2.5", "2.2"],
+"a": 2,
+"sol": "The pattern adds 0.5 at each step."
+},
+{
+"q": "In the pattern A, B, A, B, ..., what is the 51st letter?",
+"o": ["B", "A", "C", "D"],
+"a": 1,
+"sol": "Odd positions are 'A' and even positions are 'B'. 51 is odd."
+},
+{
+"q": "If a pattern of triangles is 3, 6, 9, 12, ..., how many matchsticks are needed for the 7th figure?",
+"o": ["15", "18", "24", "21"],
+"a": 3,
+"sol": "The rule is 3n. For n=7, 3 * 7 = 21."
+},
+{
+"q": "Which of these is a decreasing pattern?",
+"o": ["1, 2, 3, 4", "10, 20, 30", "50, 45, 40", "2, 4, 8, 16"],
+"a": 2,
+"sol": "Decreasing patterns go from higher values to lower values."
+},
+{
+"q": "What is the missing value in the table? (x: 1, 2, 3) (y: 4, 8, ?)",
+"o": ["10", "16", "12", "9"],
+"a": 2,
+"sol": "The rule is y = 4x. For x=3, y = 4 * 3 = 12."
+},
+{
+"q": "Complete the pattern: 1, 8, 27, 64, __.",
+"o": ["100", "81", "125", "150"],
+"a": 2,
+"sol": "These are cubes: 1^3, 2^3, 3^3, 4^3, 5^3 = 125."
+},
+{
+"q": "What is the sum of the first 5 odd numbers (1+3+5+7+9)?",
+"o": ["20", "25", "30", "15"],
+"a": 1,
+"sol": "The sum of the first 'n' odd numbers is always n^2. 5^2 = 25."
+},
+{
+"q": "Identify the rule for: 7, 14, 21, 28.",
+"o": ["Add 7", "Add 6", "Multiply by 7", "Subtract 7"],
+"a": 0,
+"sol": "Each term increases by 7."
+},
+{
+"q": "What is the next term: Z, Y, X, W, ...?",
+"o": ["U", "V", "T", "S"],
+"a": 1,
+"sol": "Alphabetical order in reverse."
+},
+{
+"q": "Find the missing number: 2, 6, 12, 20, __.",
+"o": ["28", "32", "30", "26"],
+"a": 2,
+"sol": "The difference increases: +4, +6, +8, then +10. 20 + 10 = 30."
+},
+{
+"q": "What is the 100th term in the sequence 5, 10, 15, 20...?",
+"o": ["100", "500", "505", "495"],
+"a": 1,
+"sol": "The rule is 5n. 5 * 100 = 500."
+},
+{
+"q": "Which expression describes: 3, 5, 7, 9...?",
+"o": ["n + 2", "2n + 1", "3n", "2n - 1"],
+"a": 1,
+"sol": "When n=1, 2(1)+1=3; when n=2, 2(2)+1=5."
+},
+{
+"q": "What is the next number: 1, 2, 4, 7, 11, ...?",
+"o": ["15", "16", "17", "18"],
+"a": 1,
+"sol": "Differences are +1, +2, +3, +4, so next is +5. 11 + 5 = 16."
+},
+{
+"q": "If the rule is 'Divide by 2', what comes after 16, 8, 4, ...?",
+"o": ["2", "1", "0", "4"],
+"a": 0,
+"sol": "4 divided by 2 is 2."
+},
+{
+"q": "Find the constant difference in: 13, 26, 39, 52.",
+"o": ["10", "12", "13", "14"],
+"a": 2,
+"sol": "Subtracting consecutive terms: 26 - 13 = 13."
+},
+{
+"q": "What is the next shape pattern: Circle, Square, Triangle, Circle, Square, ...?",
+"o": ["Square", "Triangle", "Circle", "Rectangle"],
+"a": 1,
+"sol": "The pattern cycles through Circle, Square, Triangle."
+},
+{
+"q": "In a sequence 10, 20, 30, 40, what is the 15th term?",
+"o": ["140", "150", "160", "155"],
+"a": 1,
+"sol": "Rule is 10n. 10 * 15 = 150."
+},
+{
+"q": "Find the missing number: 81, 72, 63, __, 45.",
+"o": ["56", "54", "50", "60"],
+"a": 1,
+"sol": "The pattern subtracts 9 each time."
+},
+{
+"q": "Which number is a multiple of both 3 and 4 in the pattern 12, 24, 36, ...?",
+"o": ["40", "48", "50", "30"],
+"a": 1,
+"sol": "Multiples of 12 (LCM of 3 and 4) follow this pattern. 12 * 4 = 48."
+},
+{
+"q": "What is the next term in: 1, 3, 6, 10, 15, ...?",
+"o": ["20", "21", "25", "18"],
+"a": 1,
+"sol": "These are triangular numbers. Add n to the previous term. 15 + 6 = 21."
+},
+{
+"q": "Identify the missing number: 1000, 500, 250, __.",
+"o": ["100", "150", "125", "200"],
+"a": 2,
+"sol": "Each term is halved (divided by 2)."
+},
+{
+"q": "What is the rule for the pattern: 4, 8, 12, 16?",
+"o": ["Add 4", "Multiply by 2", "Subtract 4", "Multiply by 4"],
+"a": 0,
+"sol": "Each step adds 4."
+},
+{
+"q": "If n=4, what is the value of 3n - 2?",
+"o": ["10", "14", "12", "8"],
+"a": 0,
+"sol": "3(4) - 2 = 12 - 2 = 10."
+},
+{
+"q": "What is the next term: 11, 22, 33, 44, ...?",
+"o": ["55", "66", "50", "45"],
+"a": 0,
+"sol": "Multiples of 11."
+},
+{
+"q": "Find the missing number in the sequence: 2, 5, 8, 11, __.",
+"o": ["13", "14", "15", "12"],
+"a": 1,
+"sol": "The difference is +3. 11 + 3 = 14."
+},
+{
+"q": "In the pattern 2, 4, 8, 16, ..., what is the 6th term?",
+"o": ["32", "64", "48", "128"],
+"a": 1,
+"sol": "Term 5 is 32, Term 6 is 32 * 2 = 64."
+},
+{
+"q": "Which of the following is an arithmetic pattern (constant addition)?",
+"o": ["1, 2, 4, 8", "1, 3, 9, 27", "2, 4, 6, 8", "1, 4, 9, 16"],
+"a": 2,
+"sol": "2, 4, 6, 8 adds a constant 2."
+},
+{
+"q": "What comes next: 99, 88, 77, 66, ...?",
+"o": ["55", "44", "60", "50"],
+"a": 0,
+"sol": "Subtract 11 each time."
+},
+{
+"q": "Find the missing number: 1, 2, 3, 5, 8, 13, __.",
+"o": ["21", "20", "18", "15"],
+"a": 0,
+"sol": "Fibonacci sequence: 8 + 13 = 21."
+},
+{
+"q": "What is the 5th term if the rule is n^2 + 1?",
+"o": ["25", "27", "26", "24"],
+"a": 2,
+"sol": "5^2 + 1 = 25 + 1 = 26."
+},
+{
+"q": "Complete the pattern: 3, 6, 12, 24, __.",
+"o": ["30", "36", "48", "40"],
+"a": 2,
+"sol": "Multiply by 2 each time."
+},
+{
+"q": "Identify the missing number: 10, 17, 24, 31, __.",
+"o": ["37", "38", "40", "35"],
+"a": 1,
+"sol": "Difference is +7. 31 + 7 = 38."
+},
+{
+"q": "If a pattern follows the rule 'Subtract 3', and starts at 20, what is the 4th term?",
+"o": ["14", "11", "17", "8"],
+"a": 1,
+"sol": "20, 17, 14, 11."
+},
+{
+"q": "What is the 10th term of: 1, 2, 3, 4...?",
+"o": ["11", "9", "10", "12"],
+"a": 2,
+"sol": "The rule is just n."
+},
+{
+"q": "Which number fits: 6, 12, 18, 24, __?",
+"o": ["28", "32", "30", "36"],
+"a": 2,
+"sol": "Multiples of 6."
+},
+{
+"q": "What is the rule for: 1, 5, 9, 13?",
+"o": ["Add 4", "Add 5", "Multiply by 4", "Subtract 4"],
+"a": 0,
+"sol": "5-1=4, 9-5=4, 13-9=4."
+},
+{
+"q": "Next term in: 1/2, 1/4, 1/8, ...?",
+"o": ["1/10", "1/12", "1/16", "1/20"],
+"a": 2,
+"sol": "Denominator doubles each time."
+},
+{
+"q": "Find the missing number: 121, 110, 99, 88, __.",
+"o": ["77", "66", "80", "70"],
+"a": 0,
+"sol": "Subtracting 11."
+},
+{
+"q": "What is the rule for: 2, 4, 8, 16, 32?",
+"o": ["Add 2", "Multiply by 2", "Add 4", "Subtract 2"],
+"a": 1,
+"sol": "Geometric progression with ratio 2."
+},
+{
+"q": "If n is the term number, find the 3rd term for 5n - 1.",
+"o": ["14", "15", "16", "13"],
+"a": 0,
+"sol": "5(3) - 1 = 14."
+},
+{
+"q": "Complete the pattern: 15, 30, 45, 60, __.",
+"o": ["70", "75", "80", "90"],
+"a": 1,
+"sol": "Multiples of 15."
+},
+{
+"q": "What is the 100th term of odd numbers (1, 3, 5...)?",
+"o": ["201", "199", "200", "101"],
+"a": 1,
+"sol": "Rule is 2n - 1. 2(100) - 1 = 199."
+},
+{
+"q": "Next term: 0, 3, 8, 15, 24, ...?",
+"o": ["33", "34", "35", "36"],
+"a": 2,
+"sol": "The rule is n^2 - 1. For n=6, 6^2 - 1 = 35."
+},
+{
+"q": "Find the missing number: 1, 10, 100, __, 10000.",
+"o": ["500", "200", "1000", "110"],
+"a": 2,
+"sol": "Powers of 10."
+},
+{
+"q": "Rule for the sequence: 100, 95, 90, 85?",
+"o": ["Add 5", "Subtract 5", "Multiply by 5", "Divide by 5"],
+"a": 1,
+"sol": "Each term decreases by 5."
+},
+{
+"q": "What is the next number: 50, 48, 46, 44, ...?",
+"o": ["40", "43", "42", "41"],
+"a": 2,
+"sol": "Subtracting 2."
+},
+{
+"q": "If the pattern is 1, 3, 1, 3, 1..., what is the 20th term?",
+"o": ["1", "3", "0", "4"],
+"a": 1,
+"sol": "Even positions are 3."
+},
+{
+"q": "Find the missing number: 4, 9, 14, __, 24.",
+"o": ["18", "19", "20", "21"],
+"a": 1,
+"sol": "Adding 5 each time."
+},
+{
+"q": "What is the rule for: 2, 6, 18, 54?",
+"o": ["Add 4", "Multiply by 3", "Multiply by 2", "Subtract 4"],
+"a": 1,
+"sol": "6/2 = 3, 18/6 = 3."
+},
+{
+"q": "Identify the missing number: 1, 4, 7, 10, __.",
+"o": ["11", "12", "13", "14"],
+"a": 2,
+"sol": "Common difference is 3."
+},
+{
+"q": "Next term: 10, 12, 15, 19, ...?",
+"o": ["23", "24", "25", "22"],
+"a": 1,
+"sol": "Increments of +2, +3, +4, so next is +5. 19 + 5 = 24."
+},
+{
+"q": "Find the missing number: 144, 121, 100, __, 64.",
+"o": ["90", "85", "81", "80"],
+"a": 2,
+"sol": "Square numbers in descending order: 12^2, 11^2, 10^2, 9^2=81."
+},
+{
+"q": "What is the 5th term of 4n + 2?",
+"o": ["20", "22", "18", "24"],
+"a": 1,
+"sol": "4(5) + 2 = 22."
+},
+{
+"q": "Rule for: 1, 2, 4, 7, 11?",
+"o": ["Add n", "Add n-1", "Multiply by 2", "Add 2"],
+"a": 0,
+"sol": "Add 1, then 2, then 3..."
+},
+{
+"q": "What comes next: A1, B2, C3, D4, ...?",
+"o": ["E4", "F6", "E5", "D5"],
+"a": 2,
+"sol": "Letter and its numerical position."
+},
+{
+"q": "Missing number: 7, 11, 15, __, 23.",
+"o": ["18", "19", "20", "21"],
+"a": 1,
+"sol": "Common difference is 4."
+},
+{
+"q": "What is the 8th term of the sequence 3, 6, 9...?",
+"o": ["21", "24", "27", "30"],
+"a": 1,
+"sol": "3 * 8 = 24."
+},
+{
+"q": "Rule for: 5, 11, 17, 23?",
+"o": ["Add 6", "Add 5", "Multiply by 2", "Subtract 6"],
+"a": 0,
+"sol": "11-5=6, 17-11=6."
+},
+{
+"q": "Next term: 2, 3, 5, 7, 11, ...?",
+"o": ["12", "13", "14", "15"],
+"a": 1,
+"sol": "Sequence of prime numbers."
+},
+{
+"q": "Missing number: 60, 54, 48, __, 36.",
+"o": ["44", "42", "40", "38"],
+"a": 1,
+"sol": "Subtract 6."
+},
+{
+"q": "Rule for: 1, 10, 19, 28?",
+"o": ["Add 8", "Add 9", "Multiply by 10", "Subtract 9"],
+"a": 1,
+"sol": "Common difference is 9."
+},
+{
+"q": "Next term: 1, 4, 1, 4, 1, ...?",
+"o": ["1", "4", "2", "3"],
+"a": 1,
+"sol": "Alternating pattern."
+},
+{
+"q": "What is the 10th triangular number?",
+"o": ["45", "55", "50", "60"],
+"a": 1,
+"sol": "Formula n(n+1)/2. 10(11)/2 = 55."
+},
+{
+"q": "Missing term: 1/3, 2/3, 1, 4/3, __.",
+"o": ["5/3", "2", "6/3", "3/2"],
+"a": 0,
+"sol": "Adding 1/3 each time."
+},
+{
+"q": "Rule for: 128, 64, 32, 16?",
+"o": ["Subtract 64", "Divide by 2", "Subtract 16", "Divide by 4"],
+"a": 1,
+"sol": "Geometric series with r=0.5."
+},
+{
+"q": "What is the 6th term of n^3?",
+"o": ["125", "216", "100", "150"],
+"a": 1,
+"sol": "6 * 6 * 6 = 216."
+},
+{
+"q": "Next term: 5, 8, 11, 14, ...?",
+"o": ["16", "17", "18", "19"],
+"a": 1,
+"sol": "Add 3."
+},
+{
+"q": "Missing term: 2, 5, 10, 17, __.",
+"o": ["24", "25", "26", "27"],
+"a": 2,
+"sol": "Rule is n^2 + 1. 5^2 + 1 = 26."
+},
+{
+"q": "Rule for: 40, 37, 34, 31?",
+"o": ["Subtract 3", "Subtract 4", "Divide by 2", "Add 3"],
+"a": 0,
+"sol": "Decreasing by 3."
+},
+{
+"q": "Next term: 1, 3, 7, 15, ...?",
+"o": ["25", "30", "31", "32"],
+"a": 2,
+"sol": "Rule is 2n + 1 or add 2, 4, 8... 15 + 16 = 31."
+},
+{
+"q": "What is the 4th term of 10n + 5?",
+"o": ["35", "45", "55", "25"],
+"a": 1,
+"sol": "10(4) + 5 = 45."
+},
+{
+"q": "Missing number: 0, 7, 26, __, 124.",
+"o": ["50", "60", "63", "80"],
+"a": 2,
+"sol": "Rule is n^3 - 1. 4^3 - 1 = 63."
+},
+{
+"q": "Next term: 100, 81, 64, 49, ...?",
+"o": ["40", "36", "35", "30"],
+"a": 1,
+"sol": "Descending squares: 10^2, 9^2, 8^2, 7^2, 6^2."
+},
+{
+"q": "Rule for: 0.1, 0.2, 0.3, 0.4?",
+"o": ["Add 0.1", "Add 1", "Multiply by 2", "Subtract 0.1"],
+"a": 0,
+"sol": "Constant addition of 0.1."
+},
+{
+"q": "Missing number: 3, 9, 27, __, 243.",
+"o": ["54", "60", "81", "100"],
+"a": 2,
+"sol": "Powers of 3."
+},
+{
+"q": "What is the 7th term of 2n - 5?",
+"o": ["7", "9", "11", "5"],
+"a": 1,
+"sol": "2(7) - 5 = 14 - 5 = 9."
+},
+{
+"q": "Next term: 10, 20, 40, 80, ...?",
+"o": ["100", "120", "160", "200"],
+"a": 2,
+"sol": "Multiplying by 2."
+},
+{
+"q": "Rule for: 100, 90, 80, 70?",
+"o": ["Subtract 10", "Add 10", "Divide by 10", "Subtract 5"],
+"a": 0,
+"sol": "Arithmetic sequence with d = -10."
+},
+{
+"q": "Missing number: 1, 4, 9, __, 25.",
+"o": ["12", "15", "16", "20"],
+"a": 2,
+"sol": "Square numbers."
+},
+{
+"q": "What is the sum of the first 4 even numbers (2+4+6+8)?",
+"o": ["18", "20", "22", "16"],
+"a": 1,
+"sol": "Formula n(n+1) = 4(5) = 20."
+},
+{
+"q": "Next term: 4, 7, 10, 13, ...?",
+"o": ["15", "16", "17", "18"],
+"a": 1,
+"sol": "Add 3."
+},
+{
+"q": "Rule for: 1, 6, 11, 16?",
+"o": ["Add 5", "Multiply by 6", "Add 4", "Subtract 5"],
+"a": 0,
+"sol": "Common difference is 5."
+},
+{
+"q": "Missing term: 1, 8, 15, 22, __.",
+"o": ["28", "29", "30", "27"],
+"a": 1,
+"sol": "Adding 7."
+},
+{
+"q": "What is the 10th term of 3n + 1?",
+"o": ["30", "31", "29", "33"],
+"a": 1,
+"sol": "3(10) + 1 = 31."
+},
+{
+"q": "Next term: 2, 6, 12, 20, 30, ...?",
+"o": ["40", "42", "44", "38"],
+"a": 1,
+"sol": "Rule is n(n+1). 6(7) = 42."
+},
+{
+"q": "Missing term: 1, 0, 1, 0, __.",
+"o": ["0", "1", "2", "-1"],
+"a": 1,
+"sol": "Alternating binary pattern."
+},
+{
+"q": "Rule for: 5, 10, 20, 40?",
+"o": ["Add 5", "Multiply by 2", "Add 10", "Multiply by 5"],
+"a": 1,
+"sol": "Ratio is 2."
+},
+{
+"q": "What is the 5th cube number?",
+"o": ["100", "125", "150", "121"],
+"a": 1,
+"sol": "5 * 5 * 5 = 125."
+},
+{
+"q": "Next term: 100, 99, 97, 94, 90, ...?",
+"o": ["84", "85", "86", "87"],
+"a": 1,
+"sol": "Subtracting 1, 2, 3, 4, then 5. 90 - 5 = 85."
+},
+{
+"q": "Rule for: 2, 4, 6, 8?",
+"o": ["Multiply by 2", "Add 2", "Power of 2", "Add 4"],
+"a": 1,
+"sol": "Arithmetic sequence with d=2."
+},
+{
+"q": "Missing term: 12, 24, 36, __, 60.",
+"o": ["40", "44", "48", "50"],
+"a": 2,
+"sol": "Multiples of 12."
+},
+{
+"q": "What is the 20th term of the sequence 2, 4, 6...?",
+"o": ["20", "40", "38", "42"],
+"a": 1,
+"sol": "2 * 20 = 40."
+}
+]
