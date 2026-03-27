@@ -1,0 +1,602 @@
+[
+{
+"q": "The imaginary line that divides the Earth into the Northern and Southern Hemispheres is called the:",
+"o": ["Prime Meridian", "Equator", "Tropic of Cancer", "Arctic Circle"],
+"a": 1,
+"sol": "The Equator is the 0-degree latitude that divides the Earth into two equal halves."
+},
+{
+"q": "What is the value of the Prime Meridian?",
+"o": ["90°", "180°", "0°", "23.5°"],
+"a": 2,
+"sol": "The Prime Meridian is the starting point for measuring longitudes and is marked as 0°."
+},
+{
+"q": "Which of the following is also known as a Parallel of Latitude?",
+"o": ["Meridian", "Equator", "Longitude", "Grid"],
+"a": 1,
+"sol": "All lines parallel to the equator are called parallels of latitude."
+},
+{
+"q": "The total number of longitudes is:",
+"o": ["180", "90", "360", "361"],
+"a": 2,
+"sol": "There are 180 longitudes to the east and 180 to the west, totaling 360."
+},
+{
+"q": "In which hemisphere does India lie?",
+"o": ["Southern and Western", "Northern and Eastern", "Southern and Eastern", "Northern and Western"],
+"a": 1,
+"sol": "India is located entirely in the Northern Hemisphere and Eastern Hemisphere."
+},
+{
+"q": "The distance between degrees of latitude is approximately:",
+"o": ["111 km", "150 km", "60 km", "5 km"],
+"a": 0,
+"sol": "Each degree of latitude is roughly 111 kilometers apart."
+},
+{
+"q": "The Tropic of Cancer is located at:",
+"o": ["23.5° S", "66.5° N", "0°", "23.5° N"],
+"a": 3,
+"sol": "The Tropic of Cancer is the significant latitude in the Northern Hemisphere at 23.5°."
+},
+{
+"q": "What is the network of parallels and meridians called?",
+"o": ["Map", "Globe", "Grid", "Axis"],
+"a": 2,
+"sol": "A grid is a system of intersecting lines used to locate any place on Earth."
+},
+{
+"q": "The time difference between Greenwich and India (IST) is:",
+"o": ["5 hours", "6 hours 30 mins", "5 hours 30 mins", "4 hours"],
+"a": 2,
+"sol": "Indian Standard Time is 5 hours and 30 minutes ahead of GMT."
+},
+{
+"q": "Which line passes through Greenwich, London?",
+"o": ["Equator", "International Date Line", "Prime Meridian", "Tropic of Capricorn"],
+"a": 2,
+"sol": "The 0° longitude passes through the Royal Observatory at Greenwich."
+},
+{
+"q": "The 180° meridian is also known as the:",
+"o": ["Prime Meridian", "International Date Line", "Equator", "North Pole"],
+"a": 1,
+"sol": "The 180° East and 180° West meridians are the same line, serving as the International Date Line."
+},
+{
+"q": "What happens to the length of parallels as we move from the Equator to the Poles?",
+"o": ["It increases", "It remains same", "It decreases", "It becomes double"],
+"a": 2,
+"sol": "The circles of latitude get smaller toward the poles, which are just points."
+},
+{
+"q": "The Earth rotates 1° in approximately ___ minutes.",
+"o": ["15", "60", "4", "10"],
+"a": 2,
+"sol": "The Earth takes 4 minutes to rotate through one degree of longitude (360 degrees in 24 hours)."
+},
+{
+"q": "Which of the following is the largest circle on Earth?",
+"o": ["Arctic Circle", "Tropic of Cancer", "Equator", "Prime Meridian"],
+"a": 2,
+"sol": "The Equator is the only Great Circle among the parallels of latitude."
+},
+{
+"q": "The Frigid Zone lies near the:",
+"o": ["Equator", "Poles", "Tropics", "Deserts"],
+"a": 1,
+"sol": "The areas between the Arctic/Antarctic circles and the poles are the coldest zones."
+},
+{
+"q": "The Antarctic Circle is located in the:",
+"o": ["Northern Hemisphere", "Southern Hemisphere", "Eastern Hemisphere", "Western Hemisphere"],
+"a": 1,
+"sol": "The Antarctic Circle is at 66.5° South latitude."
+},
+{
+"q": "Lines of longitude are also called:",
+"o": ["Parallels", "Zones", "Meridians", "Degrees"],
+"a": 2,
+"sol": "Meridians are the semi-circles that run from the North Pole to the South Pole."
+},
+{
+"q": "The zone between the Tropic of Cancer and the Tropic of Capricorn is the:",
+"o": ["Torrid Zone", "Temperate Zone", "Frigid Zone", "None of these"],
+"a": 0,
+"sol": "The Torrid Zone receives maximum heat as the sun is directly overhead at least once a year."
+},
+{
+"q": "A globe is a true model of the:",
+"o": ["Solar System", "Moon", "Earth", "Universe"],
+"a": 2,
+"sol": "A globe is a three-dimensional miniature representation of the Earth."
+},
+{
+"q": "To locate a place accurately, we need to know its:",
+"o": ["Latitude only", "Longitude only", "Both Latitude and Longitude", "Distance from home"],
+"a": 2,
+"sol": "The intersection of a specific latitude and longitude pinpoint a location."
+},
+{
+"q": "The standard meridian of India is:",
+"o": ["82.5° E", "88.5° E", "75° E", "0°"],
+"a": 0,
+"sol": "The 82°30' E longitude is taken as the standard time for the whole country of India."
+},
+{
+"q": "How many time zones is the Earth divided into?",
+"o": ["12", "360", "24", "180"],
+"a": 2,
+"sol": "The world is divided into 24 time zones, each representing one hour of rotation."
+},
+{
+"q": "Places to the East of Greenwich are ___ in time.",
+"o": ["Behind", "Ahead", "Same", "Opposite"],
+"a": 1,
+"sol": "As the Earth rotates from West to East, Eastern places see the sun earlier."
+},
+{
+"q": "The North Pole is located at:",
+"o": ["0°", "180°", "90° S", "90° N"],
+"a": 3,
+"sol": "The North Pole is the northernmost point at 90 degrees latitude."
+},
+{
+"q": "Which line is at 66.5° North?",
+"o": ["Antarctic Circle", "Arctic Circle", "Tropic of Cancer", "Equator"],
+"a": 1,
+"sol": "The Arctic Circle marks the southern limit of the area where the sun doesn't set on the summer solstice."
+},
+{
+"q": "Longitudes meet at the:",
+"o": ["Equator", "Poles", "Tropics", "Center of Earth"],
+"a": 1,
+"sol": "All meridians of longitude converge at the North and South Poles."
+},
+{
+"q": "Which zone has a moderate climate?",
+"o": ["Torrid Zone", "Frigid Zone", "Temperate Zone", "Equatorial Zone"],
+"a": 2,
+"sol": "The Temperate Zones lie between the tropics and the polar circles, neither too hot nor too cold."
+},
+{
+"q": "The distance between longitudes is maximum at the:",
+"o": ["Poles", "Equator", "Tropic of Cancer", "Arctic Circle"],
+"a": 1,
+"sol": "Meridians are furthest apart at the Equator and get closer as they move toward the poles."
+},
+{
+"q": "What is the shape of the Earth?",
+"o": ["Perfect Sphere", "Circle", "Geoid", "Square"],
+"a": 2,
+"sol": "The Earth is slightly flattened at the poles and bulged at the equator, a shape called a Geoid."
+},
+{
+"q": "If it is 12 noon at Greenwich, what is the time at 15° East?",
+"o": ["11 AM", "1 PM", "2 PM", "12:15 PM"],
+"a": 1,
+"sol": "15° * 4 mins = 60 mins (1 hour). Since it is East, it is 1 hour ahead."
+},
+{
+"q": "The Antarctic Circle is at:",
+"o": ["23.5° S", "66.5° S", "90° S", "0°"],
+"a": 1,
+"sol": "66.5 degrees South is the Antarctic Circle."
+},
+{
+"q": "Local time is determined by the position of the ___ in the sky.",
+"o": ["Moon", "Stars", "Sun", "Clouds"],
+"a": 2,
+"sol": "When the sun is at the highest point in the sky, it is mid-day or 12 noon local time."
+},
+{
+"q": "The total number of latitudes is usually counted as:",
+"o": ["180", "181", "360", "90"],
+"a": 1,
+"sol": "90 North + 90 South + 1 Equator = 181 parallels."
+},
+{
+"q": "Which country has the maximum number of time zones?",
+"o": ["India", "USA", "Russia", "China"],
+"a": 2,
+"sol": "Due to its vast longitudinal extent, Russia has 11 time zones."
+},
+{
+"q": "Meridians of longitude are ___ in length.",
+"o": ["Unequal", "Equal", "Increasing", "Decreasing"],
+"a": 1,
+"sol": "Unlike parallels, all meridians are equal semi-circles from pole to pole."
+},
+{
+"q": "The Tropic of Capricorn is at:",
+"o": ["23.5° N", "0°", "23.5° S", "66.5° S"],
+"a": 2,
+"sol": "23.5 degrees South is the Tropic of Capricorn."
+},
+{
+"q": "The axis of the Earth is a/an:",
+"o": ["Real line", "Imaginary line", "Straight vertical line", "Line on the surface"],
+"a": 1,
+"sol": "The axis is an imaginary line around which the Earth rotates."
+},
+{
+"q": "Degrees of longitude are further divided into:",
+"o": ["Seconds", "Hours", "Minutes", "Kilometers"],
+"a": 2,
+"sol": "Each degree is divided into 60 minutes, and each minute into 60 seconds."
+},
+{
+"q": "Which line divides the Earth into Eastern and Western Hemispheres?",
+"o": ["Equator", "Tropic of Cancer", "Prime Meridian", "Arctic Circle"],
+"a": 2,
+"sol": "The Prime Meridian (0°) and the 180° meridian divide the Earth into East and West."
+},
+{
+"q": "Sun rays fall vertically on the Equator on:",
+"o": ["21st June", "22nd December", "21st March", "All of these"],
+"a": 2,
+"sol": "Sun rays are vertical at the Equator during Equinoxes (March 21 and Sept 23)."
+},
+{
+"q": "GMT stands for:",
+"o": ["General Meridian Time", "Greenwich Mean Time", "Global Map Timing", "Great Meridian Tool"],
+"a": 1,
+"sol": "It is the mean solar time at the Royal Observatory in Greenwich."
+},
+{
+"q": "Parallels of latitude are ___ to each other.",
+"o": ["Perpendicular", "Intersecting", "Parallel", "Converging"],
+"a": 2,
+"sol": "They are circles that never meet."
+},
+{
+"q": "Which zone receives the least amount of heat?",
+"o": ["Torrid Zone", "Temperate Zone", "Frigid Zone", "Equatorial Zone"],
+"a": 2,
+"sol": "Because of the extreme slanting rays of the sun, the Frigid Zone is very cold."
+},
+{
+"q": "A map showing the whole world on a flat surface is called a:",
+"o": ["Globe", "Plan", "World Map", "Sketch"],
+"a": 2,
+"sol": "Maps represent the Earth's surface or part of it on a flat sheet."
+},
+{
+"q": "What is the angle of inclination of the Earth's axis with its orbital plane?",
+"o": ["23.5°", "90°", "66.5°", "0°"],
+"a": 2,
+"sol": "The axis makes an angle of 66.5° with the orbital plane (and 23.5° with the vertical)."
+},
+{
+"q": "If it is 8 PM in India, what is the time in London?",
+"o": ["1:30 AM", "2:30 PM", "3:30 PM", "12 midnight"],
+"a": 1,
+"sol": "London is 5.5 hours behind India. 8:00 PM - 5:30 = 2:30 PM."
+},
+{
+"q": "All parallels of latitude are ___.",
+"o": ["Semi-circles", "Full circles", "Straight lines", "Points"],
+"a": 1,
+"sol": "Parallels are complete circles around the Earth, except for the poles."
+},
+{
+"q": "The distance between longitudes at the poles is:",
+"o": ["111 km", "0 km", "60 km", "Infinite"],
+"a": 1,
+"sol": "Longitudes meet at a single point at the poles, so distance is zero."
+},
+{
+"q": "Which direction is 'East' on a standard map?",
+"o": ["Up", "Down", "Left", "Right"],
+"a": 3,
+"sol": "Generally, North is up, South is down, West is left, and East is right."
+},
+{
+"q": "The word 'Longitude' comes from the Latin word 'Longitudo' meaning:",
+"o": ["Width", "Length", "Height", "Depth"],
+"a": 1,
+"sol": "It refers to the angular distance measured east or west."
+},
+{
+"q": "Which circle passes through the Southern part of Africa, Australia, and South America?",
+"o": ["Equator", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+"a": 2,
+"sol": "The Tropic of Capricorn passes through these landmasses."
+},
+{
+"q": "How many degrees does the Earth rotate in one hour?",
+"o": ["360°", "180°", "15°", "4°"],
+"a": 2,
+"sol": "360 degrees / 24 hours = 15 degrees per hour."
+},
+{
+"q": "The time of a place depends on its:",
+"o": ["Latitude", "Longitude", "Altitude", "Distance from Equator"],
+"a": 1,
+"sol": "Longitudes are used to calculate time differences globally."
+},
+{
+"q": "The Arctic Circle is in which hemisphere?",
+"o": ["Northern", "Southern", "Eastern", "Western"],
+"a": 0,
+"sol": "It is at 66.5° North."
+},
+{
+"q": "What is the 0° latitude called?",
+"o": ["Prime Meridian", "Equator", "North Pole", "Center line"],
+"a": 1,
+"sol": "The Equator is the reference line for all latitudes."
+},
+{
+"q": "Longitudes to the West of Prime Meridian are marked with the letter:",
+"o": ["E", "N", "S", "W"],
+"a": 3,
+"sol": "W stands for West."
+},
+{
+"q": "The sun rises first in the ___ part of India.",
+"o": ["Western", "Northern", "Eastern", "Southern"],
+"a": 2,
+"sol": "Arunachal Pradesh in the East sees the sun about 2 hours before Gujarat in the West."
+},
+{
+"q": "When the sun is overhead at the Prime Meridian, all places along it have:",
+"o": ["Midnight", "Mid-day", "Sunrise", "Sunset"],
+"a": 1,
+"sol": "It is 12 noon for all places on that meridian."
+},
+{
+"q": "The Prime Meridian is also called the ___ Meridian.",
+"o": ["Standard", "Greenwich", "Local", "Global"],
+"a": 1,
+"sol": "It is synonymous with the Greenwich Meridian."
+},
+{
+"q": "The distance from the Equator to either of the poles is ___ of a circle.",
+"o": ["Half", "One-third", "One-fourth", "One-eighth"],
+"a": 2,
+"sol": "It is 90° out of 360°, which is 1/4th."
+},
+{
+"q": "Which line is at 23.5° North?",
+"o": ["Equator", "Tropic of Cancer", "Tropic of Capricorn", "Arctic Circle"],
+"a": 1,
+"sol": "The Tropic of Cancer."
+},
+{
+"q": "Grid lines are useful for:",
+"o": ["Drawing maps", "Locating places", "Predicting weather", "Measuring mountains"],
+"a": 1,
+"sol": "The primary use of the geographic grid is navigation and location."
+},
+{
+"q": "The value of the South Pole is:",
+"o": ["0°", "180°", "90° S", "90° N"],
+"a": 2,
+"sol": "90 degrees South latitude."
+},
+{
+"q": "If it is 10 AM at 0°, what is the time at 30° West?",
+"o": ["12 Noon", "11 AM", "8 AM", "9 AM"],
+"a": 2,
+"sol": "30° = 2 hours. West is behind. 10 AM - 2 hours = 8 AM."
+},
+{
+"q": "The Earth moves from:",
+"o": ["East to West", "North to South", "West to East", "South to North"],
+"a": 2,
+"sol": "This rotation causes the sun to appear to rise in the East."
+},
+{
+"q": "How many meridians are there in the Eastern Hemisphere?",
+"o": ["90", "180", "360", "179"],
+"a": 1,
+"sol": "There are 180 degrees of longitude to the East."
+},
+{
+"q": "Which of these is NOT a heat zone of the Earth?",
+"o": ["Torrid Zone", "Temperate Zone", "Cold Zone", "Frigid Zone"],
+"a": 2,
+"sol": "The three standard zones are Torrid, Temperate, and Frigid."
+},
+{
+"q": "The interval between two consecutive longitudes is:",
+"o": ["4 minutes", "15 minutes", "1 hour", "1 degree"],
+"a": 3,
+"sol": "They are usually drawn at an interval of 1 degree."
+},
+{
+"q": "The shape of the longitudes is:",
+"o": ["Circles", "Straight lines", "Semi-circles", "Ovals"],
+"a": 2,
+"sol": "They are semi-circles running from pole to pole."
+},
+{
+"q": "The latitude of Delhi is approximately 28° N. This means it is in the:",
+"o": ["Torrid Zone", "Frigid Zone", "Northern Temperate Zone", "Southern Temperate Zone"],
+"a": 2,
+"sol": "28° N is just above the Tropic of Cancer (23.5° N), placing it in the Temperate Zone."
+},
+{
+"q": "The International Date Line roughly follows the:",
+"o": ["0° Meridian", "180° Meridian", "Equator", "90° Meridian"],
+"a": 1,
+"sol": "It is the 180 degree longitude line."
+},
+{
+"q": "Which line passes through India?",
+"o": ["Equator", "Tropic of Capricorn", "Tropic of Cancer", "Prime Meridian"],
+"a": 2,
+"sol": "The Tropic of Cancer passes through 8 Indian states."
+},
+{
+"q": "What divides the Earth into the Eastern and Western Hemispheres?",
+"o": ["Equator", "Prime Meridian", "Axis", "Orbit"],
+"a": 1,
+"sol": "The Prime Meridian is the reference line for longitude."
+},
+{
+"q": "The Earth is slightly bulged at the ___.",
+"o": ["Poles", "Center", "Equator", "North"],
+"a": 2,
+"sol": "Centrifugal force from rotation causes the equatorial bulge."
+},
+{
+"q": "Parallels are of ___ length.",
+"o": ["Equal", "Different", "Infinite", "Zero"],
+"a": 1,
+"sol": "Parallels get shorter as we move toward the poles."
+},
+{
+"q": "The latitude of the South Pole is:",
+"o": ["0°", "90° S", "180° S", "66.5° S"],
+"a": 1,
+"sol": "90 degrees South."
+},
+{
+"q": "Which zone is known as the 'Heat Surplus' zone?",
+"o": ["Frigid Zone", "Temperate Zone", "Torrid Zone", "Polar Zone"],
+"a": 2,
+"sol": "The Torrid zone receives the most solar radiation."
+},
+{
+"q": "IST stands for:",
+"o": ["Internal Standard Time", "International Solar Time", "Indian Standard Time", "Indian Solar Timing"],
+"a": 2,
+"sol": "It is the uniform time followed across India."
+},
+{
+"q": "The sun's rays are always slanting in the:",
+"o": ["Torrid Zone", "Equator", "Frigid Zone", "None of these"],
+"a": 2,
+"sol": "Because of the Earth's curvature, the polar regions never get vertical rays."
+},
+{
+"q": "The Prime Meridian passes through:",
+"o": ["France", "USA", "United Kingdom", "Russia"],
+"a": 2,
+"sol": "Greenwich is located in the UK."
+},
+{
+"q": "How many parallels are there in each hemisphere (excluding Equator)?",
+"o": ["180", "360", "90", "89"],
+"a": 2,
+"sol": "There are 90 degrees/parallels North and 90 South."
+},
+{
+"q": "Which hemisphere has the most landmass?",
+"o": ["Southern", "Northern", "Eastern", "Western"],
+"a": 1,
+"sol": "The Northern Hemisphere contains about 68% of the world's land."
+},
+{
+"q": "The local time of the Standard Meridian is used as the ___ for the whole country.",
+"o": ["Official time", "Standard time", "Global time", "Mean time"],
+"a": 1,
+"sol": "This avoids confusion of different times within the same country."
+},
+{
+"q": "A great circle is a circle whose plane passes through the ___ of the Earth.",
+"o": ["Surface", "Pole", "Center", "Crust"],
+"a": 2,
+"sol": "The Equator and all pairs of opposite meridians are great circles."
+},
+{
+"q": "The distance between two longitudes ___ as we move towards the poles.",
+"o": ["Increases", "Decreases", "Stays same", "Doubles"],
+"a": 1,
+"sol": "They converge at the poles."
+},
+{
+"q": "Which line is at 66.5° South?",
+"o": ["Arctic Circle", "Antarctic Circle", "Tropic of Capricorn", "Equator"],
+"a": 1,
+"sol": "The Antarctic Circle."
+},
+{
+"q": "Zero degree longitude is the starting point of measuring:",
+"o": ["Latitude", "Longitude", "Altitude", "Temperature"],
+"a": 1,
+"sol": "The Prime Meridian is the 0° longitude."
+},
+{
+"q": "The Earth is divided into Northern and Southern hemispheres by the ___.",
+"o": ["Axis", "Prime Meridian", "Equator", "Tropic of Cancer"],
+"a": 2,
+"sol": "The Equator is the 0° latitude."
+},
+{
+"q": "Which of these is used to define a place's position North or South of the Equator?",
+"o": ["Longitude", "Latitude", "Altitude", "Time zone"],
+"a": 1,
+"sol": "Latitude measures north-south distance."
+},
+{
+"q": "How many degrees of longitude are there in total?",
+"o": ["180°", "90°", "360°", "45°"],
+"a": 2,
+"sol": "360 degrees around the Earth."
+},
+{
+"q": "The angular distance of a place East or West of the Prime Meridian is its:",
+"o": ["Latitude", "Longitude", "Grid", "Meridian"],
+"a": 1,
+"sol": "Definition of longitude."
+},
+{
+"q": "Standard time is followed to maintain ___ in a country.",
+"o": ["Punctuality", "Uniformity", "Difference", "Speed"],
+"a": 1,
+"sol": "Uniformity of time is essential for railways, flights, and communication."
+},
+{
+"q": "The Equator passes through:",
+"o": ["India", "Brazil", "China", "Egypt"],
+"a": 1,
+"sol": "The Equator passes through South America, Africa, and Asia (Indonesia)."
+},
+{
+"q": "The area between the Arctic Circle and the North Pole is the:",
+"o": ["Torrid Zone", "North Frigid Zone", "South Frigid Zone", "North Temperate Zone"],
+"a": 1,
+"sol": "The Frigid zone in the Northern hemisphere."
+},
+{
+"q": "Parallels are measured in:",
+"o": ["Meters", "Degrees", "Liters", "Hours"],
+"a": 1,
+"sol": "Latitude and Longitude are angular measurements in degrees."
+},
+{
+"q": "The Prime Meridian and the 180° Meridian together form a:",
+"o": ["Small circle", "Great circle", "Parabola", "Straight line"],
+"a": 1,
+"sol": "They form a full circle passing through the center of the Earth."
+},
+{
+"q": "Which part of the Earth receives sun rays for 6 months continuously?",
+"o": ["Equator", "Tropics", "Poles", "Temperate Zone"],
+"a": 2,
+"sol": "Due to the tilt, poles experience 6 months of day and 6 months of night."
+},
+{
+"q": "The sun takes 1 hour to pass over ___ meridians.",
+"o": ["4", "15", "60", "1"],
+"a": 1,
+"sol": "15 degrees of longitude equal one hour of time."
+},
+{
+"q": "Latitude of a place is its ___ distance from the Equator.",
+"o": ["Linear", "Angular", "Vertical", "Horizontal"],
+"a": 1,
+"sol": "It is measured as an angle from the center of the Earth."
+},
+{
+"q": "The Southern Temperate Zone lies between:",
+"o": ["Equator and Tropic of Cancer", "Tropic of Capricorn and Antarctic Circle", "Antarctic Circle and South Pole", "Tropic of Cancer and Arctic Circle"],
+"a": 1,
+"sol": "This area is in the Southern Hemisphere."
+}
+]
