@@ -1,0 +1,602 @@
+[
+{
+"q": "Who coined the phrase 'Unity in Diversity' to describe India?",
+"o": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "B.R. Ambedkar"],
+"a": 2,
+"sol": "Jawaharlal Nehru used this phrase in his book 'The Discovery of India' to explain how India is united despite its differences."
+},
+{
+"q": "Which of these factors contributes to India's diversity?",
+"o": ["Geographical features", "Religious beliefs", "Languages spoken", "All of the above"],
+"a": 3,
+"sol": "India's diversity is a result of its geography, history, many religions, and hundreds of languages."
+},
+{
+"q": "What is the primary reason for different food habits in Punjab and Kerala?",
+"o": ["Government rules", "Climate and geography", "Modern fashion", "Lack of transport"],
+"a": 1,
+"sol": "Geography and climate determine what crops grow, which in turn influences the local diet."
+},
+{
+"q": "Laddakh is often called ______ because of its cultural links.",
+"o": ["Little Tibet", "Small Nepal", "Mini Bhutan", "Desert Rose"],
+"a": 0,
+"sol": "Ladakh is called Little Tibet due to its strong cultural and religious similarities with Tibet."
+},
+{
+"q": "The famous Pashmina shawls are primarily produced in:",
+"o": ["Tamil Nadu", "Ladakh/Kashmir", "Assam", "Gujarat"],
+"a": 1,
+"sol": "Pashmina wool is collected from goats in the high-altitude regions of Ladakh."
+},
+{
+"q": "Which state is known for its backwaters and boat races?",
+"o": ["Rajasthan", "Kerala", "Punjab", "Bihar"],
+"a": 1,
+"sol": "Kerala's geography is defined by its coastal network of lagoons and canals."
+},
+{
+"q": "Christianity was brought to India (specifically Kerala) by:",
+"o": ["Vasco da Gama", "St. Thomas", "Columbus", "Marco Polo"],
+"a": 1,
+"sol": "St. Thomas the Apostle is believed to have arrived in Kerala in 52 AD."
+},
+{
+"q": "The 'Cheenachavala' used in Kerala refers to:",
+"o": ["Chinese food", "Chinese fishing nets", "Chinese silk", "Chinese ships"],
+"a": 1,
+"sol": "The fishing nets used in Kerala look very similar to Chinese nets, showing historical trade links."
+},
+{
+"q": "Diversity can sometimes lead to ______ if not respected.",
+"o": ["Equality", "Discrimination", "Unity", "Brotherhood"],
+"a": 1,
+"sol": "When people do not respect others' differences, it can lead to unfair treatment or prejudice."
+},
+{
+"q": "How many official languages are recognized in the 8th Schedule of the Indian Constitution?",
+"o": ["15", "18", "22", "25"],
+"a": 2,
+"sol": "There are 22 major languages currently recognized by the Constitution of India."
+},
+{
+"q": "Which festival is celebrated as the harvest festival in Kerala?",
+"o": ["Baisakhi", "Onam", "Pongal", "Lohri"],
+"a": 1,
+"sol": "Onam is the biggest harvest festival of Kerala, featuring boat races and floral decorations."
+},
+{
+"q": "The term 'Diversity' in a society means:",
+"o": ["Everyone being the same", "The state of being varied or different", "Forcing people to follow one religion", "Speaking only one language"],
+"a": 1,
+"sol": "Diversity is the coexistence of different cultures, religions, and backgrounds."
+},
+{
+"q": "What is the staple food of people living in coastal areas like West Bengal?",
+"o": ["Wheat and Dal", "Fish and Rice", "Bajra and Curry", "Bread and Butter"],
+"a": 1,
+"sol": "Proximity to the sea makes fish and rice the natural diet for coastal populations."
+},
+{
+"q": "Which religion was founded in India and later spread to Tibet and China?",
+"o": ["Islam", "Buddhism", "Christianity", "Judaism"],
+"a": 1,
+"sol": "Buddhism originated in India and spread extensively across Asia via trade routes like Ladakh."
+},
+{
+"q": "The 'Unity' of India was most visible during:",
+"o": ["The Freedom Struggle", "The Mughal Empire", "The British Coronation", "Ancient wars"],
+"a": 0,
+"sol": "People from all religions and backgrounds came together to fight against British rule."
+},
+{
+"q": "Which explorer discovered the sea route to India in 1498?",
+"o": ["Ibn Batuta", "Vasco da Gama", "Magellan", "Captain Cook"],
+"a": 1,
+"sol": "Portuguese explorer Vasco da Gama reached Calicut (Kerala) by sailing around Africa."
+},
+{
+"q": "The 'Cheenachatti' in Kerala refers to:",
+"o": ["A Chinese dress", "A frying pan", "A type of dance", "A boat"],
+"a": 1,
+"sol": "It is a wok-like vessel believed to have come from China through trade."
+},
+{
+"q": "Ladakh is a ______ desert.",
+"o": ["Hot", "Cold", "Coastal", "Tropical"],
+"a": 1,
+"sol": "Being at a high altitude in the Himalayas, Ladakh receives very little rainfall and is very cold."
+},
+{
+"q": "In Ladakh, agriculture is limited because:",
+"o": ["The soil is too salty", "The region is covered in snow for a large part of the year", "There are too many trees", "People don't like farming"],
+"a": 1,
+"sol": "The harsh winter and low rainfall make farming difficult in the cold desert."
+},
+{
+"q": "Which community is responsible for the 'Kesar Saga' in Ladakh?",
+"o": ["Only Buddhists", "Only Hindus", "Both Muslims and Buddhists", "Only Christians"],
+"a": 2,
+"sol": "The Tibetan national epic, Kesar Saga, is performed and sung by both communities in Ladakh."
+},
+{
+"q": "Islam was introduced to Ladakh more than ______ years ago.",
+"o": ["100", "200", "400", "1000"],
+"a": 2,
+"sol": "There is a significant Muslim population in Ladakh due to historical trade connections."
+},
+{
+"q": "Which state is at the South-West corner of India?",
+"o": ["Tamil Nadu", "Kerala", "Karnataka", "Goa"],
+"a": 1,
+"sol": "Kerala is located on the South-Western coast, tucked between the Western Ghats and the sea."
+},
+{
+"q": "Which spice is NOT traditionally grown in the hills of Kerala?",
+"o": ["Pepper", "Cloves", "Cardamom", "Saffron"],
+"a": 3,
+"sol": "Saffron is grown in Kashmir, not Kerala."
+},
+{
+"q": "Diversity ______ our lives.",
+"o": ["Bores", "Enriches", "Destroys", "Simplifies"],
+"a": 1,
+"sol": "Different cultures and ideas make our world more vibrant and interesting."
+},
+{
+"q": "What makes Ladakh a famous trade route?",
+"o": ["Its many passes", "Its proximity to the sea", "Its huge forests", "Its large factories"],
+"a": 0,
+"sol": "Caravans traveled through Ladakh's passes to reach Central Asia (Tibet)."
+},
+{
+"q": "The song 'Don't forget the days of blood, friend' was written after:",
+"o": ["The Battle of Plassey", "The Jallianwala Bagh massacre", "The Partition", "Independence Day"],
+"a": 1,
+"sol": "The song was composed to honor those killed by British troops in Amritsar in 1919."
+},
+{
+"q": "The Indian National Flag is a symbol of:",
+"o": ["Only one religion", "Unity and Freedom", "Ancient Kings", "The British rule"],
+"a": 1,
+"sol": "The flag was used as a symbol of protest and unity against the British by all Indians."
+},
+{
+"q": "India's diversity is best described as:",
+"o": ["A source of weakness", "A source of strength", "An accident", "A burden"],
+"a": 1,
+"sol": "India's ability to stay united despite massive differences is considered its unique strength."
+},
+{
+"q": "Which of these is a religious diversity example?",
+"o": ["Speaking Hindi and Tamil", "Celebrating Eid and Diwali", "Eating Dosa and Paratha", "Wearing Saree and Jeans"],
+"a": 1,
+"sol": "Celebrating festivals of different faiths represents religious diversity."
+},
+{
+"q": "Diversity can lead to 'Inequality' when:",
+"o": ["People share their food", "Resources are not equally available to all", "People learn new languages", "We travel to new places"],
+"a": 1,
+"sol": "Inequality occurs when some groups have more wealth or opportunities than others."
+},
+{
+"q": "Which of these is an example of 'Inequality' rather than 'Diversity'?",
+"o": ["Speaking different languages", "One person being rich and another poor", "Following different religions", "Eating different cuisines"],
+"a": 1,
+"sol": "Poverty and wealth are markers of inequality, not cultural diversity."
+},
+{
+"q": "Caste system is an example of:",
+"o": ["Unity", "Inequality", "Biodiversity", "Talent"],
+"a": 1,
+"sol": "The caste system historically divided people into fixed groups with unequal rights."
+},
+{
+"q": "People migrated in ancient times primarily for:",
+"o": ["Tourism", "In search of new lands or work", "To watch movies", "To use the internet"],
+"a": 1,
+"sol": "Survival, trade, and work were the main reasons for migration."
+},
+{
+"q": "When people move to new places, their culture ______.",
+"o": ["Stops", "Mixes with the new place", "Becomes illegal", "Never changes"],
+"a": 1,
+"sol": "The mixing of old and new cultures creates a unique 'syncretic' culture."
+},
+{
+"q": "A person who is unable to read or write is called:",
+"o": ["Diverse", "Illiterate", "Unfit", "Foreigner"],
+"a": 1,
+"sol": "Lack of education is a form of social inequality."
+},
+{
+"q": "In Ladakh, the main source of water for drinking in summer is:",
+"o": ["Rain", "Melting snow", "The sea", "Hand pumps"],
+"a": 1,
+"sol": "Since it doesn't rain much, people depend on melting glaciers for water."
+},
+{
+"q": "What animal do people in Ladakh primarily keep?",
+"o": ["Camels", "Sheep, goats, and yaks", "Elephants", "Lions"],
+"a": 1,
+"sol": "These animals provide milk, meat, and wool necessary for survival in the cold."
+},
+{
+"q": "Which city is known as the 'City of Temples'?",
+"o": ["New Delhi", "Varanasi", "Mumbai", "Kolkata"],
+"a": 1,
+"sol": "Varanasi is a prime example of religious and cultural heritage in India."
+},
+{
+"q": "The Constitution of India ensures that all citizens are treated ______.",
+"o": ["Differently", "Equally", "Based on wealth", "Based on caste"],
+"a": 1,
+"sol": "Equality is a fundamental right guaranteed to every Indian."
+},
+{
+"q": "Which of the following is a 'Classical Dance' from Kerala?",
+"o": ["Bhangra", "Kathakali", "Garba", "Bihu"],
+"a": 1,
+"sol": "Kathakali is a world-renowned traditional dance-drama from Kerala."
+},
+{
+"q": "India's geographical diversity includes:",
+"o": ["Only mountains", "Only plains", "Mountains, plains, plateaus, and coasts", "Only deserts"],
+"a": 2,
+"sol": "India has a wide variety of landforms."
+},
+{
+"q": "The concept of 'Tolerance' in diversity means:",
+"o": ["Ignoring others", "Respecting and accepting different views", "Fighting for your own way", "Moving to another country"],
+"a": 1,
+"sol": "Tolerance is key to maintaining peace in a diverse society."
+},
+{
+"q": "Which state has the highest literacy rate in India?",
+"o": ["Bihar", "Kerala", "Uttar Pradesh", "Rajasthan"],
+"a": 1,
+"sol": "Kerala has consistently held the highest literacy rate, reflecting social development."
+},
+{
+"q": "What is the national anthem of India?",
+"o": ["Vande Mataram", "Jana Gana Mana", "Sare Jahan Se Achha", "Ae Mere Watan Ke Logon"],
+"a": 1,
+"sol": "Composed by Rabindranath Tagore, it is a symbol of India's unity."
+},
+{
+"q": "Diversity can be found in which of the following areas?",
+"o": ["Clothing", "Music", "Art", "All of the above"],
+"a": 3,
+"sol": "Every aspect of human life in India shows signs of diversity."
+},
+{
+"q": "Which of these is a linguistic diversity?",
+"o": ["Different skin colors", "Different languages", "Different weights", "Different heights"],
+"a": 1,
+"sol": "Linguistic refers to language."
+},
+{
+"q": "The 'Discovery of India' was written by:",
+"o": ["Mahatma Gandhi", "Jawaharlal Nehru", "Rabindranath Tagore", "Subhash Chandra Bose"],
+"a": 1,
+"sol": "He wrote this book while imprisoned in Ahmednagar Fort."
+},
+{
+"q": "An example of 'Commonality' in India is:",
+"o": ["Using the same currency", "Speaking the same language", "Having the same climate everywhere", "Following only one religion"],
+"a": 0,
+"sol": "Institutions like the Rupee unite the diverse country economically."
+},
+{
+"q": "Which community brought Judaism to Kerala?",
+"o": ["Arab traders", "Jewish traders", "Chinese traders", "British traders"],
+"a": 1,
+"sol": "Jewish people arrived in Kerala very early and built synagogues."
+},
+{
+"q": "Diversity makes a country ______.",
+"o": ["Weak and divided", "Rich in culture", "Poor and hungry", "Boring"],
+"a": 1,
+"sol": "Cultural richness is a direct benefit of a diverse population."
+},
+{
+"q": "Which state celebrates 'Baisakhi' with great enthusiasm?",
+"o": ["Kerala", "Punjab", "Assam", "Gujarat"],
+"a": 1,
+"sol": "Baisakhi is the harvest festival of Punjab."
+},
+{
+"q": "The Preamble of the Constitution declares India to be a ______ country.",
+"o": ["Monarchy", "Secular", "Communist", "Dictatorship"],
+"a": 1,
+"sol": "Secular means the state respects all religions equally."
+},
+{
+"q": "Which of these animals is common in Kerala but not in Ladakh?",
+"o": ["Yak", "Elephant", "Snow Leopard", "Pashmina Goat"],
+"a": 1,
+"sol": "Elephants are common in the tropical forests of Kerala."
+},
+{
+"q": "The term 'Syncretic' culture means:",
+"o": ["A culture with no music", "A blend of different cultural traditions", "A culture that hates others", "A dead culture"],
+"a": 1,
+"sol": "Syncretism is the fusion of different beliefs and practices."
+},
+{
+"q": "India is a ______ land.",
+"o": ["Small", "Vast", "Cold-only", "Desert-only"],
+"a": 1,
+"sol": "India is the 7th largest country in the world."
+},
+{
+"q": "Which part of India is known as the 'Orchard of India'?",
+"o": ["Rajasthan", "Himachal Pradesh/Kashmir", "Tamil Nadu", "Gujarat"],
+"a": 1,
+"sol": "The Himalayan foothills are famous for fruits like apples."
+},
+{
+"q": "Diversity is ______.",
+"o": ["A problem to solve", "A fact of life", "A modern invention", "A mistake"],
+"a": 1,
+"sol": "Differences are natural and have existed throughout history."
+},
+{
+"q": "What is the common thread that binds all Indians?",
+"o": ["The same food", "The feeling of being one nation", "The same height", "The same religion"],
+"a": 1,
+"sol": "Nationalism and shared history bind the diverse population."
+},
+{
+"q": "Which of these is a harvest festival of Tamil Nadu?",
+"o": ["Bihu", "Pongal", "Baisakhi", "Onam"],
+"a": 1,
+"sol": "Pongal is celebrated in Tamil Nadu to thank the sun god for the harvest."
+},
+{
+"q": "People in Ladakh eat meat and milk products because:",
+"o": ["Vegetables are expensive", "The climate doesn't allow many crops to grow", "They don't like fruits", "It's a religious rule"],
+"a": 1,
+"sol": "The geography dictates their diet based on available livestock."
+},
+{
+"q": "Which of these shows geographical diversity?",
+"o": ["Thar Desert vs. Himalayan Peaks", "Speaking Hindi vs. Speaking English", "Eating Pizza vs. Eating Burger", "Being tall vs. Being short"],
+"a": 0,
+"sol": "Different landforms represent geographical diversity."
+},
+{
+"q": "A democratic country like India values ______.",
+"o": ["Dictatorship", "Equality and Justice", "War", "Chaos"],
+"a": 1,
+"sol": "Democracy is built on the pillars of equality."
+},
+{
+"q": "Which of these is a nomadic community?",
+"o": ["Bankers", "Gaddi shepherds", "Software engineers", "Doctors"],
+"a": 1,
+"sol": "Gaddis and Bakarwals move with their animals based on seasons."
+},
+{
+"q": "The 'White Revolution' is related to:",
+"o": ["Salt", "Milk", "Cotton", "Eggs"],
+"a": 1,
+"sol": "It was a movement to increase milk production in India."
+},
+{
+"q": "Who wrote the national anthem 'Jana Gana Mana'?",
+"o": ["Bankim Chandra Chattopadhyay", "Rabindranath Tagore", "Sarojini Naidu", "Mahatma Gandhi"],
+"a": 1,
+"sol": "Rabindranath Tagore is the only person to have written national anthems for two countries (India and Bangladesh)."
+},
+{
+"q": "India's 'Unity in Diversity' is often compared to a ______.",
+"o": ["Single stone", "Garden with many flowers", "Plain wall", "Broken mirror"],
+"a": 1,
+"sol": "It is like a garden where many different flowers coexist beautifully."
+},
+{
+"q": "Which of these is a religious scripture of Islam?",
+"o": ["Gita", "Quran", "Bible", "Torah"],
+"a": 1,
+"sol": "The Quran is the holy book of Muslims."
+},
+{
+"q": "Which state is known for its tea gardens?",
+"o": ["Rajasthan", "Assam", "Punjab", "Bihar"],
+"a": 1,
+"sol": "Assam's climate and hilly terrain are perfect for tea cultivation."
+},
+{
+"q": "Laddakh is a Union Territory located in the ______.",
+"o": ["South", "North (Himalayas)", "East", "West"],
+"a": 1,
+"sol": "It is in the northernmost part of India."
+},
+{
+"q": "The phrase 'Vasudhaiva Kutumbakam' means:",
+"o": ["The world is my enemy", "The world is one family", "The world is big", "The world is changing"],
+"a": 1,
+"sol": "This Sanskrit phrase reflects India's inclusive worldview."
+},
+{
+"q": "Which of these describes a 'Metropolitan' city?",
+"o": ["A small village", "A large, diverse city like Mumbai", "A forest area", "A mountain top"],
+"a": 1,
+"sol": "Metros are hubs of extreme cultural and social diversity."
+},
+{
+"q": "Prejudice means to judge other people ______.",
+"o": ["Fairly", "Negatively or without knowing them", "Kindly", "Wisely"],
+"a": 1,
+"sol": "Prejudice is a barrier to celebrating diversity."
+},
+{
+"q": "Stereotypes ______ our ability to see people as individuals.",
+"o": ["Improve", "Block", "Help", "Support"],
+"a": 1,
+"sol": "Stereotypes categorize people into fixed, often wrong, images."
+},
+{
+"q": "Which of these is a national holiday celebrating unity?",
+"o": ["Sunday", "Independence Day", "Friday", "Monday"],
+"a": 1,
+"sol": "National festivals are celebrated by all Indians regardless of religion."
+},
+{
+"q": "The diverse cultures of India ______ each other.",
+"o": ["Hate", "Influence", "Ignore", "Delete"],
+"a": 1,
+"sol": "Different cultures in India have borrowed from and influenced each other for centuries."
+},
+{
+"q": "A 'Global Citizen' is someone who:",
+"o": ["Lives in space", "Identifies with the whole world", "Hates their own country", "Travels every day"],
+"a": 1,
+"sol": "Being a global citizen involves respecting all human diversity."
+},
+{
+"q": "Which of these is a festival of lights?",
+"o": ["Holi", "Diwali", "Eid", "Christmas"],
+"a": 1,
+"sol": "Diwali is widely celebrated across India."
+},
+{
+"q": "The Constitution of India was drafted under the chairmanship of:",
+"o": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Rajendra Prasad"],
+"a": 1,
+"sol": "Dr. Ambedkar is known as the Father of the Indian Constitution."
+},
+{
+"q": "Secularism ensures that the government:",
+"o": ["Follows one religion", "Treats all religions equally", "Bans all religions", "Only helps rich people"],
+"a": 1,
+"sol": "It is a key feature of Indian democracy."
+},
+{
+"q": "What is the primary occupation in rural India?",
+"o": ["IT jobs", "Agriculture", "Piloting", "Banking"],
+"a": 1,
+"sol": "Farming remains the largest occupation in villages."
+},
+{
+"q": "Laddakh was a major part of the 'Silk Route'. What was traded?",
+"o": ["Spices", "Silk, wool, and carpets", "Computers", "Petroleum"],
+"a": 1,
+"sol": "Luxury goods and textiles were moved through these high passes."
+},
+{
+"q": "Diversity in India is a result of ______.",
+"o": ["Only geography", "Only history", "Both geography and history", "Neither"],
+"a": 2,
+"sol": "Both the land's features and the arrival of different people shaped India."
+},
+{
+"q": "Which of these is a traditional dress of Punjab?",
+"o": ["Mundu", "Phulkari", "Pheran", "Saree"],
+"a": 1,
+"sol": "Phulkari is a traditional embroidery/dress style of Punjab."
+},
+{
+"q": "The 'Snake Boat Race' is a feature of which festival?",
+"o": ["Pongal", "Onam", "Bihu", "Holi"],
+"a": 1,
+"sol": "Known as Vallam Kali, it is held in Kerala during Onam."
+},
+{
+"q": "India's struggle for freedom was ______.",
+"o": ["Easy", "Massive and inclusive", "Short", "Only for kings"],
+"a": 1,
+"sol": "Millions of ordinary people participated in the movement."
+},
+{
+"q": "Which language is considered a 'Classical Language' of India?",
+"o": ["Sanskrit", "English", "French", "German"],
+"a": 0,
+"sol": "Sanskrit has a very ancient and rich literary tradition."
+},
+{
+"q": "The 'Dhokla' is a popular food item from:",
+"o": ["Kerala", "Gujarat", "Assam", "Punjab"],
+"a": 1,
+"sol": "Gujarat has a very distinct vegetarian culinary tradition."
+},
+{
+"q": "Diversity ______ to our stories.",
+"o": ["Adds flavor", "Makes no difference", "Removes logic", "Hurts"],
+"a": 0,
+"sol": "Different backgrounds provide different perspectives and stories."
+},
+{
+"q": "Which of these is an example of an 'Ascribed' identity?",
+"o": ["Being a Doctor", "The caste one is born into", "Being a Pilot", "Being a Singer"],
+"a": 1,
+"sol": "Identities given by birth are called ascribed identities."
+},
+{
+"q": "Human rights are ______.",
+"o": ["Only for some", "Universal and for everyone", "Only for rich", "Only for adults"],
+"a": 1,
+"sol": "Human rights apply regardless of diversity."
+},
+{
+"q": "The 'Pheran' is a long cloak worn in:",
+"o": ["Tamil Nadu", "Kashmir", "Gujarat", "Kerala"],
+"a": 1,
+"sol": "It is designed to keep people warm in the cold Kashmiri climate."
+},
+{
+"q": "Buddhism reached Tibet via ______.",
+"o": ["Sea route", "Ladakh", "Planes", "South India"],
+"a": 1,
+"sol": "Ladakh served as a bridge for the spread of Buddhism."
+},
+{
+"q": "Which of these shows 'Religious' diversity?",
+"o": ["Temples, Mosques, and Churches", "Tigers, Lions, and Bears", "Apples, Oranges, and Grapes", "Cars, Buses, and Trains"],
+"a": 0,
+"sol": "Different places of worship represent different faiths."
+},
+{
+"q": "Unity means ______.",
+"o": ["Standing together", "Fighting with neighbors", "Living alone", "Being identical"],
+"a": 0,
+"sol": "Unity is about solidarity despite differences."
+},
+{
+"q": "In which city did the Jallianwala Bagh massacre happen?",
+"o": ["New Delhi", "Amritsar", "Mumbai", "Kolkata"],
+"a": 1,
+"sol": "It happened in 1919 in Punjab."
+},
+{
+"q": "Which of these is a 'Folk Dance' of Assam?",
+"o": ["Ghoomar", "Bihu", "Lavani", "Bhangra"],
+"a": 1,
+"sol": "Bihu is the most famous folk dance and festival of Assam."
+},
+{
+"q": "Respecting diversity helps in ______.",
+"o": ["Starting wars", "Building a peaceful society", "Making people leave", "Stopping progress"],
+"a": 1,
+"sol": "Mutual respect is the foundation of harmony."
+},
+{
+"q": "Which of these values is essential for a diverse country?",
+"o": ["Hatred", "Empathy", "Selfishness", "Greed"],
+"a": 1,
+"sol": "Empathy helps us understand people different from us."
+},
+{
+"q": "India is located in which continent?",
+"o": ["Europe", "Asia", "Africa", "Australia"],
+"a": 1,
+"sol": "India is in South Asia."
+},
+{
+"q": "What is the best way to deal with diversity?",
+"o": ["Suppress it", "Celebrate it", "Ignore it", "Fear it"],
+"a": 1,
+"sol": "Celebrating diversity leads to growth and happiness."
+}
+]
