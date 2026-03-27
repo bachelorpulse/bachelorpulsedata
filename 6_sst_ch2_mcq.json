@@ -1,0 +1,602 @@
+[
+{
+"q": "Which is the largest continent on Earth?",
+"o": ["Africa", "Asia", "North America", "Antarctica"],
+"a": 1,
+"sol": "Asia covers about one-third of the total land area of the Earth."
+},
+{
+"q": "Which ocean is 'S' shaped?",
+"o": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"],
+"a": 2,
+"sol": "The Atlantic Ocean has an 'S' shape and is located between the Americas and Europe/Africa."
+},
+{
+"q": "Which continent is known as the 'Island Continent'?",
+"o": ["Australia", "Antarctica", "South America", "Africa"],
+"a": 0,
+"sol": "Australia is surrounded on all sides by the oceans and seas."
+},
+{
+"q": "The deepest point on Earth, Mariana Trench, is in the:",
+"o": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+"a": 3,
+"sol": "The Mariana Trench is located in the western Pacific Ocean."
+},
+{
+"q": "Which mountain range separates Europe from Asia?",
+"o": ["Himalayas", "Andes", "Urals", "Alps"],
+"a": 2,
+"sol": "The Ural Mountains are the traditional boundary between Europe and Asia."
+},
+{
+"q": "Which is the smallest continent by land area?",
+"o": ["Europe", "Australia", "Antarctica", "South America"],
+"a": 1,
+"sol": "Australia is the smallest continent in the world."
+},
+{
+"q": "The combined landmass of Europe and Asia is called:",
+"o": ["Eurasia", "Asiope", "Pangea", "Gondwana"],
+"a": 0,
+"sol": "Eurasia is the term used for the entire landmass of Europe and Asia."
+},
+{
+"q": "Which continent is home to the Amazon River?",
+"o": ["Africa", "South America", "Asia", "North America"],
+"a": 1,
+"sol": "The Amazon, the world's largest river by volume, flows through South America."
+},
+{
+"q": "The 'White Continent' refers to:",
+"o": ["Europe", "Antarctica", "North America", "Australia"],
+"a": 1,
+"sol": "Antarctica is covered in thick ice sheets throughout the year, making it look white."
+},
+{
+"q": "Which is the world's longest river?",
+"o": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+"a": 3,
+"sol": "The Nile flows through Africa and is considered the longest river."
+},
+{
+"q": "The Isthmus of Panama connects which two continents?",
+"o": ["Asia and Africa", "Europe and Asia", "North and South America", "Africa and Europe"],
+"a": 2,
+"sol": "A narrow strip of land called an isthmus connects North and South America."
+},
+{
+"q": "Which ocean is almost circular in shape?",
+"o": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+"a": 1,
+"sol": "The Pacific Ocean is the largest and is roughly circular."
+},
+{
+"q": "The Sahara Desert, the world's largest hot desert, is in:",
+"o": ["Asia", "Australia", "Africa", "South America"],
+"a": 2,
+"sol": "Africa is home to the vast Sahara Desert."
+},
+{
+"q": "Which ocean is named after a country?",
+"o": ["Atlantic", "Pacific", "Arctic", "Indian"],
+"a": 3,
+"sol": "The Indian Ocean is the only ocean named after a country (India)."
+},
+{
+"q": "The Southern Ocean surrounds which continent?",
+"o": ["Australia", "South America", "Antarctica", "Africa"],
+"a": 2,
+"sol": "The Southern Ocean encircles the continent of Antarctica."
+},
+{
+"q": "What percentage of Earth is covered by water?",
+"o": ["50%", "71%", "29%", "90%"],
+"a": 1,
+"sol": "Approximately 71% of the Earth's surface is water."
+},
+{
+"q": "The world's longest mountain range, the Andes, is in:",
+"o": ["Asia", "North America", "South America", "Europe"],
+"a": 2,
+"sol": "The Andes run along the western coast of South America."
+},
+{
+"q": "Which continent is known as the 'Dark Continent'?",
+"o": ["Antarctica", "Africa", "Asia", "Australia"],
+"a": 1,
+"sol": "Africa was once called the Dark Continent due to lack of exploration."
+},
+{
+"q": "The Bering Strait connects the Arctic Ocean with the:",
+"o": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Southern Ocean"],
+"a": 2,
+"sol": "The Bering Strait is a narrow passage between the Arctic and Pacific Oceans."
+},
+{
+"q": "Which continent is located entirely in the Southern and Eastern Hemispheres?",
+"o": ["Africa", "South America", "Australia", "Antarctica"],
+"a": 2,
+"sol": "Australia is situated completely in the Southern and Eastern hemispheres."
+},
+{
+"q": "Mount Everest, the highest peak, is located in:",
+"o": ["Africa", "Europe", "Asia", "South America"],
+"a": 2,
+"sol": "Mount Everest is part of the Himalayas in Asia."
+},
+{
+"q": "The smallest ocean is the:",
+"o": ["Indian Ocean", "Arctic Ocean", "Southern Ocean", "Atlantic Ocean"],
+"a": 1,
+"sol": "The Arctic Ocean is the smallest and shallowest of the five oceans."
+},
+{
+"q": "Which continent has the most number of countries?",
+"o": ["Asia", "Europe", "Africa", "North America"],
+"a": 2,
+"sol": "Africa has 54 recognized countries, the most of any continent."
+},
+{
+"q": "The Palk Strait separates India from:",
+"o": ["Pakistan", "Sri Lanka", "Maldives", "Bangladesh"],
+"a": 1,
+"sol": "Sri Lanka is separated from India by a narrow stretch of water called the Palk Strait."
+},
+{
+"q": "Which continent is a permanent base for many research stations but has no permanent human inhabitants?",
+"o": ["Australia", "Asia", "Antarctica", "Africa"],
+"a": 2,
+"sol": "Due to extreme cold, Antarctica only hosts scientists and researchers."
+},
+{
+"q": "What is the name of the supercontinent that existed millions of years ago?",
+"o": ["Gondwana", "Laurasia", "Pangea", "Tethys"],
+"a": 2,
+"sol": "Pangea was the single landmass before it broke into continents."
+},
+{
+"q": "The coastline of which ocean is highly indented and ideal for natural harbors?",
+"o": ["Pacific", "Indian", "Atlantic", "Arctic"],
+"a": 2,
+"sol": "The irregular coastline of the Atlantic Ocean provides many natural ports."
+},
+{
+"q": "Which continent lies between the Atlantic and Pacific Oceans in the Northern Hemisphere?",
+"o": ["South America", "Europe", "North America", "Africa"],
+"a": 2,
+"sol": "North America is bounded by these two oceans."
+},
+{
+"q": "The Arctic Ocean is connected to the Pacific by the ___ Strait.",
+"o": ["Gibraltar", "Malacca", "Bering", "Palk"],
+"a": 2,
+"sol": "The Bering Strait is the link between these two oceans."
+},
+{
+"q": "Maitri and Dakshin Gangotri are Indian research stations in:",
+"o": ["Himalayas", "Arctic Ocean", "Antarctica", "Indian Ocean"],
+"a": 2,
+"sol": "India has established these research bases in Antarctica."
+},
+{
+"q": "Which is the second largest continent?",
+"o": ["North America", "Africa", "Europe", "South America"],
+"a": 1,
+"sol": "Africa follows Asia in terms of size."
+},
+{
+"q": "The 'Plateau Continent' is a nickname for:",
+"o": ["Asia", "Australia", "Africa", "Europe"],
+"a": 2,
+"sol": "Africa is mostly composed of vast plateaus."
+},
+{
+"q": "Which continent is located in all four hemispheres?",
+"o": ["Asia", "Africa", "South America", "Europe"],
+"a": 1,
+"sol": "The Equator and the Prime Meridian both pass through Africa."
+},
+{
+"q": "The Great Barrier Reef is found off the coast of:",
+"o": ["India", "Australia", "USA", "Brazil"],
+"a": 1,
+"sol": "The largest coral reef system is located in Australia."
+},
+{
+"q": "Which ocean is frozen for most part of the year?",
+"o": ["Atlantic", "Pacific", "Arctic", "Indian"],
+"a": 2,
+"sol": "The Arctic Ocean is located around the North Pole and is mostly ice-covered."
+},
+{
+"q": "The Panama Canal was constructed through an isthmus in:",
+"o": ["Central America", "East Africa", "South Asia", "Middle East"],
+"a": 0,
+"sol": "It was built to connect the Atlantic and Pacific Oceans."
+},
+{
+"q": "Which continent has no deserts?",
+"o": ["Australia", "Africa", "Europe", "North America"],
+"a": 2,
+"sol": "Europe is the only continent without a major desert."
+},
+{
+"q": "What is the third largest ocean?",
+"o": ["Atlantic Ocean", "Southern Ocean", "Indian Ocean", "Pacific Ocean"],
+"a": 2,
+"sol": "The order is Pacific, Atlantic, Indian, Southern, Arctic."
+},
+{
+"q": "Which continent is known for the 'Big Five' safari animals?",
+"o": ["Asia", "North America", "Africa", "Australia"],
+"a": 2,
+"sol": "Africa is famous for its wildlife, including lions, elephants, and rhinos."
+},
+{
+"q": "The deepest ocean on Earth is the:",
+"o": ["Atlantic", "Pacific", "Indian", "Arctic"],
+"a": 1,
+"sol": "The Pacific Ocean has the greatest average and maximum depth."
+},
+{
+"q": "Which of these is a 'Major Domain' of the Earth?",
+"o": ["Lithosphere", "Atmosphere", "Hydrosphere", "All of these"],
+"a": 3,
+"sol": "The Earth consists of Lithosphere (land), Hydrosphere (water), and Atmosphere (air)."
+},
+{
+"q": "The continent of North America is linked to South America by a/an:",
+"o": ["Strait", "Isthmus", "Canal", "Island"],
+"a": 1,
+"sol": "An isthmus is a narrow strip of land joining two larger landmasses."
+},
+{
+"q": "Which sea is located between Europe and Africa?",
+"o": ["Red Sea", "Black Sea", "Mediterranean Sea", "Caspian Sea"],
+"a": 2,
+"sol": "The Mediterranean Sea separates these two continents."
+},
+{
+"q": "Which continent is both a continent and a country?",
+"o": ["New Zealand", "Australia", "Greenland", "Madagascar"],
+"a": 1,
+"sol": "Australia is the only country that is also a continent."
+},
+{
+"q": "The percentage of Earth's water found in oceans is about:",
+"o": ["50%", "97%", "71%", "2%"],
+"a": 1,
+"sol": "Most of Earth's water (97.2%) is salty ocean water."
+},
+{
+"q": "The world's highest plateau is the:",
+"o": ["Deccan Plateau", "Tibetan Plateau", "East African Plateau", "Colorado Plateau"],
+"a": 1,
+"sol": "The Tibetan Plateau is often called the 'Roof of the World'."
+},
+{
+"q": "Which continent is situated mostly in the Northern and Western Hemispheres?",
+"o": ["Africa", "Europe", "North America", "South America"],
+"a": 2,
+"sol": "North America is entirely in the Northern and Western hemispheres."
+},
+{
+"q": "The 'Ring of Fire' is associated with which ocean?",
+"o": ["Indian", "Atlantic", "Arctic", "Pacific"],
+"a": 3,
+"sol": "The Pacific Ocean is surrounded by a zone of frequent earthquakes and volcanoes."
+},
+{
+"q": "Which continent has the world's largest tropical rainforest?",
+"o": ["Africa", "South America", "Asia", "Australia"],
+"a": 1,
+"sol": "The Amazon rainforest is primarily in South America."
+},
+{
+"q": "How many main continents are there on Earth?",
+"o": ["5", "6", "7", "8"],
+"a": 2,
+"sol": "The seven continents are Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+},
+{
+"q": "Which mountain range is in North America?",
+"o": ["Alps", "Himalayas", "Rockies", "Andes"],
+"a": 2,
+"sol": "The Rocky Mountains are a major range in western North America."
+},
+{
+"q": "The Atlantic Ocean is bounded by North and South America on its ___ side.",
+"o": ["Eastern", "Western", "Northern", "Southern"],
+"a": 1,
+"sol": "The Americas are to the West of the Atlantic."
+},
+{
+"q": "Which continent is the most densely populated?",
+"o": ["Asia", "Europe", "Africa", "South America"],
+"a": 0,
+"sol": "Asia holds about 60% of the world's population."
+},
+{
+"q": "Greenland, the largest island, is part of which continent geographically?",
+"o": ["Europe", "North America", "Antarctica", "Asia"],
+"a": 1,
+"sol": "Geographically it is part of North America, though politically linked to Europe."
+},
+{
+"q": "Which ocean is located around the South Pole?",
+"o": ["Arctic Ocean", "Southern Ocean", "Indian Ocean", "Pacific Ocean"],
+"a": 1,
+"sol": "The Southern Ocean (also called Antarctic Ocean) surrounds the South Pole."
+},
+{
+"q": "Which continent is to the west of Asia?",
+"o": ["North America", "Europe", "Australia", "South America"],
+"a": 1,
+"sol": "Europe and Asia form a single continuous landmass, with Europe to the west."
+},
+{
+"q": "The world's largest lake (by surface area) is the:",
+"o": ["Lake Superior", "Caspian Sea", "Lake Victoria", "Lake Baikal"],
+"a": 1,
+"sol": "The Caspian Sea is technically a saline lake and the largest inland body of water."
+},
+{
+"q": "Which ocean is the busiest for trade and commerce?",
+"o": ["Pacific", "Indian", "Atlantic", "Arctic"],
+"a": 2,
+"sol": "The North Atlantic route connects the developed economies of Europe and North America."
+},
+{
+"q": "Angel Falls, the highest waterfall, is in:",
+"o": ["Africa", "Asia", "South America", "North America"],
+"a": 2,
+"sol": "It is located in Venezuela, South America."
+},
+{
+"q": "Which continent is often called the 'Cradle of Mankind'?",
+"o": ["Asia", "Africa", "Europe", "South America"],
+"a": 1,
+"sol": "Africa is where the earliest human ancestors are believed to have originated."
+},
+{
+"q": "The Suez Canal connects the Mediterranean Sea with the:",
+"o": ["Arabian Sea", "Red Sea", "Caspian Sea", "Black Sea"],
+"a": 1,
+"sol": "The Suez Canal provides a shortcut between Europe and Asia via the Red Sea."
+},
+{
+"q": "Which continent is located in the center of the world map (usually)?",
+"o": ["Asia", "Europe", "Africa", "Americas"],
+"a": 2,
+"sol": "Africa is centrally located as the Prime Meridian and Equator cross there."
+},
+{
+"q": "The Appalachian Mountains are found in:",
+"o": ["Europe", "Asia", "North America", "South America"],
+"a": 2,
+"sol": "They are an old mountain range in eastern North America."
+},
+{
+"q": "Which continent has the largest area under permanent ice?",
+"o": ["North America", "Asia", "Antarctica", "Europe"],
+"a": 2,
+"sol": "98% of Antarctica is covered by ice."
+},
+{
+"q": "The largest desert in Australia is the:",
+"o": ["Sahara", "Gobi", "Great Victoria Desert", "Thar"],
+"a": 2,
+"sol": "Australia is mostly arid, with the Great Victoria being its largest desert."
+},
+{
+"q": "Which ocean has a triangular shape?",
+"o": ["Atlantic", "Pacific", "Arctic", "Indian"],
+"a": 3,
+"sol": "The Indian Ocean is roughly triangular."
+},
+{
+"q": "The deepest trench in the Atlantic Ocean is the:",
+"o": ["Mariana Trench", "Java Trench", "Puerto Rico Trench", "None"],
+"a": 2,
+"sol": "The Puerto Rico Trench is the deepest part of the Atlantic."
+},
+{
+"q": "Which continent was the last to be discovered?",
+"o": ["Australia", "Antarctica", "South America", "North America"],
+"a": 1,
+"sol": "Antarctica was first sighted only in the 19th century."
+},
+{
+"q": "The Gobi Desert is located in:",
+"o": ["Africa", "Australia", "South America", "Asia"],
+"a": 3,
+"sol": "The Gobi is a large cold desert in China and Mongolia."
+},
+{
+"q": "Which continent is completely in the Northern Hemisphere?",
+"o": ["Africa", "South America", "North America", "Australia"],
+"a": 2,
+"sol": "North America and Europe are entirely in the Northern Hemisphere."
+},
+{
+"q": "The average depth of the oceans is about:",
+"o": ["1 km", "3.7 km", "11 km", "0.5 km"],
+"a": 1,
+"sol": "The average depth of the global ocean is approximately 3,700 meters."
+},
+{
+"q": "Which continent is separated from Asia by the Bering Strait?",
+"o": ["Africa", "Europe", "North America", "Australia"],
+"a": 2,
+"sol": "The Bering Strait lies between Russia (Asia) and Alaska (North America)."
+},
+{
+"q": "The word 'Ocean' comes from the Greek word 'Okeanos' meaning:",
+"o": ["Blue", "Salt", "Great River", "Deep"],
+"a": 2,
+"sol": "Ancient Greeks believed a great river encircled the world."
+},
+{
+"q": "Which is the most mountainous continent?",
+"o": ["Asia", "Europe", "South America", "North America"],
+"a": 0,
+"sol": "Asia contains the highest and most extensive mountain systems."
+},
+{
+"q": "The continent known for the 'Alps' is:",
+"o": ["North America", "South America", "Asia", "Europe"],
+"a": 3,
+"sol": "The Alps are the highest and most extensive mountain range system entirely in Europe."
+},
+{
+"q": "Which ocean is primarily in the Southern Hemisphere?",
+"o": ["Pacific", "Atlantic", "Southern", "Arctic"],
+"a": 2,
+"sol": "The Southern Ocean is defined as being south of 60 degrees South latitude."
+},
+{
+"q": "The world's highest navigable lake, Titicaca, is in:",
+"o": ["Africa", "Asia", "South America", "Europe"],
+"a": 2,
+"sol": "It is located in the Andes on the border of Peru and Bolivia."
+},
+{
+"q": "Which continent is almost entirely desert and scrubland?",
+"o": ["Africa", "Asia", "Australia", "North America"],
+"a": 2,
+"sol": "A large part of Australia is known as the 'Outback'."
+},
+{
+"q": "The Drake Passage separates South America from:",
+"o": ["Africa", "Antarctica", "Australia", "North America"],
+"a": 1,
+"sol": "It is the body of water between South America's Cape Horn and the South Shetland Islands of Antarctica."
+},
+{
+"q": "Which continent has the most diverse range of climates?",
+"o": ["Australia", "Asia", "Antarctica", "Europe"],
+"a": 1,
+"sol": "Asia's huge size allows it to have everything from equatorial to arctic climates."
+},
+{
+"q": "How many oceans are recognized globally?",
+"o": ["3", "4", "5", "7"],
+"a": 2,
+"sol": "The five oceans are Pacific, Atlantic, Indian, Southern, and Arctic."
+},
+{
+"q": "The largest bay in the world is:",
+"o": ["Hudson Bay", "Bay of Bengal", "Baffin Bay", "Bay of Biscay"],
+"a": 1,
+"sol": "The Bay of Bengal is the largest water body called a 'Bay'."
+},
+{
+"q": "Which continent contains the South Pole?",
+"o": ["Australia", "South America", "Antarctica", "Africa"],
+"a": 2,
+"sol": "The geographic South Pole is on the continent of Antarctica."
+},
+{
+"q": "The 'Great Lakes' are a feature of:",
+"o": ["Asia", "Europe", "North America", "Africa"],
+"a": 2,
+"sol": "The five Great Lakes (Superior, Michigan, Huron, Erie, Ontario) are in North America."
+},
+{
+"q": "Which ocean has the longest coastline?",
+"o": ["Atlantic", "Pacific", "Indian", "Arctic"],
+"a": 1,
+"sol": "The Pacific Ocean has the most extensive shoreline due to its size."
+},
+{
+"q": "Which continent has the lowest average elevation?",
+"o": ["Asia", "Europe", "Australia", "Africa"],
+"a": 2,
+"sol": "Australia is the flattest continent."
+},
+{
+"q": "The Atlas Mountains are located in:",
+"o": ["Asia", "North America", "Africa", "South America"],
+"a": 2,
+"sol": "They are in northwest Africa."
+},
+{
+"q": "Which ocean is narrowing due to plate tectonics?",
+"o": ["Atlantic", "Pacific", "Indian", "Southern"],
+"a": 1,
+"sol": "The Pacific Ocean is slowly getting smaller as the Atlantic gets wider."
+},
+{
+"q": "The largest country in the world by area is in:",
+"o": ["North America", "Africa", "Asia", "South America"],
+"a": 2,
+"sol": "Russia is mostly in Asia (and partly in Europe)."
+},
+{
+"q": "Which continent is surrounded by three oceans: Arctic, Atlantic, and Pacific?",
+"o": ["Africa", "Asia", "North America", "Europe"],
+"a": 2,
+"sol": "North America is bordered by these three major oceans."
+},
+{
+"q": "The world's smallest sea is the:",
+"o": ["Red Sea", "Sea of Marmara", "Baltic Sea", "Dead Sea"],
+"a": 1,
+"sol": "The Sea of Marmara in Turkey is considered the smallest."
+},
+{
+"q": "Which continent has the most frozen freshwater?",
+"o": ["North America", "Antarctica", "Europe", "Asia"],
+"a": 1,
+"sol": "About 70% of the world's freshwater is in the Antarctic ice cap."
+},
+{
+"q": "The Gulf Stream is a warm current in the:",
+"o": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"],
+"a": 2,
+"sol": "It significantly influences the climate of Europe and North America."
+},
+{
+"q": "Which continent is known for the 'Pampas' grasslands?",
+"o": ["Asia", "Africa", "South America", "North America"],
+"a": 2,
+"sol": "The Pampas are fertile lowlands in South America."
+},
+{
+"q": "The Great Rift Valley is a famous feature of:",
+"o": ["Asia", "North America", "Africa", "Australia"],
+"a": 2,
+"sol": "It is a massive geological trench in East Africa."
+},
+{
+"q": "The 'New World' was a name given to:",
+"o": ["Asia", "Australia", "The Americas", "Antarctica"],
+"a": 2,
+"sol": "European explorers used this term for North and South America."
+},
+{
+"q": "Which ocean contains the most islands?",
+"o": ["Atlantic", "Pacific", "Indian", "Arctic"],
+"a": 1,
+"sol": "The Pacific Ocean has approximately 25,000 islands."
+},
+{
+"q": "The Kalahari Desert is in:",
+"o": ["Asia", "Africa", "Australia", "North America"],
+"a": 1,
+"sol": "It is a large semi-arid sandy savanna in Southern Africa."
+},
+{
+"q": "Which continent is home to the Kangaroos?",
+"o": ["South America", "Africa", "Australia", "Asia"],
+"a": 2,
+"sol": "Kangaroos are indigenous to Australia."
+},
+{
+"q": "The average depth of the Pacific Ocean is about:",
+"o": ["4000 meters", "2000 meters", "1000 meters", "8000 meters"],
+"a": 0,
+"sol": "It is deeper than the other oceans on average."
+}
+]
