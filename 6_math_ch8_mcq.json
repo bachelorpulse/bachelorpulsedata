@@ -1,0 +1,602 @@
+[
+{
+"q": "Which instrument is used to draw a circle of a specific radius?",
+"o": ["Ruler", "Set-square", "Compass", "Divider"],
+"a": 2,
+"sol": "A compass has a pointer and a pencil holder used specifically for drawing arcs and circles."
+},
+{
+"q": "What is the instrument with two pointed ends used to compare lengths?",
+"o": ["Divider", "Compass", "Protractor", "Ruler"],
+"a": 0,
+"sol": "A divider is designed with two metal points to accurately measure and compare distances between points."
+},
+{
+"q": "The distance from the center of a circle to any point on its boundary is the:",
+"o": ["Diameter", "Chord", "Radius", "Arc"],
+"a": 2,
+"sol": "By definition, the radius is the constant distance from the center to the edge."
+},
+{
+"q": "Which tool would you use to measure the degree of an angle?",
+"o": ["Ruler", "Protractor", "Set-square", "Compass"],
+"a": 1,
+"sol": "A protractor is a semi-circular tool marked with degrees from 0 to 180."
+},
+{
+"q": "How many set-squares are usually found in a standard geometry box?",
+"o": ["One", "Three", "Four", "Two"],
+"a": 3,
+"sol": "A standard kit contains two set-squares: one with 45-45-90 angles and one with 30-60-90 angles."
+},
+{
+"q": "To draw a line segment of 5.4 cm, the most basic tool required is a:",
+"o": ["Set-square", "Ruler", "Protractor", "Divider"],
+"a": 1,
+"sol": "A graduated ruler (straight edge) is used to mark distances in centimeters and millimeters."
+},
+{
+"q": "A circle can be drawn if we know its:",
+"o": ["Center only", "Radius only", "Both Center and Radius", "None of these"],
+"a": 2,
+"sol": "You need a fixed point (center) and a fixed distance (radius) to define a unique circle."
+},
+{
+"q": "Two lines that intersect at 90 degrees are called:",
+"o": ["Parallel lines", "Perpendicular lines", "Skew lines", "Vertical lines"],
+"a": 1,
+"sol": "Perpendicular lines form a right angle at their point of intersection."
+},
+{
+"q": "A bisector of a line segment divides it into:",
+"o": ["Three equal parts", "Two unequal parts", "Two equal parts", "Four equal parts"],
+"a": 2,
+"sol": "To 'bisect' means to cut into two equal halves."
+},
+{
+"q": "Which angle can be easily constructed using only a compass and a ruler?",
+"o": ["50 degrees", "60 degrees", "75 degrees", "Both 60 and 75 degrees"],
+"a": 3,
+"sol": "Angles that are multiples of 15 (like 60 and 75) are constructible using a ruler and compass."
+},
+{
+"q": "The perpendicular bisector of a line segment passes through its:",
+"o": ["End point", "Any point", "Mid-point", "Origin"],
+"a": 2,
+"sol": "A perpendicular bisector must pass through the exact middle of the segment at a 90-degree angle."
+},
+{
+"q": "To construct an angle of 30 degrees, we bisect an angle of:",
+"o": ["90 degrees", "45 degrees", "120 degrees", "60 degrees"],
+"a": 3,
+"sol": "30 is half of 60; thus, bisecting a 60-degree angle gives 30 degrees."
+},
+{
+"q": "The set-square with angles 45, 45, and 90 is called:",
+"o": ["Scalene set-square", "Isosceles set-square", "Equilateral set-square", "Right set-square"],
+"a": 1,
+"sol": "Since two angles are equal (45 degrees), it is based on an isosceles right triangle."
+},
+{
+"q": "A chord that passes through the center of a circle is the:",
+"o": ["Radius", "Secant", "Diameter", "Segment"],
+"a": 2,
+"sol": "The diameter is the longest chord of a circle and always passes through the center."
+},
+{
+"q": "What is the measure of the angle between the two hands of a clock at 3 o'clock?",
+"o": ["180 degrees", "45 degrees", "90 degrees", "60 degrees"],
+"a": 2,
+"sol": "At 3:00, the hands are at the 12 and 3 positions, forming a right angle (90°)."
+},
+{
+"q": "When using a compass, the distance between the pointer and pencil tip represents the:",
+"o": ["Diameter", "Radius", "Circumference", "Perimeter"],
+"a": 1,
+"sol": "The opening of the compass determines the radius of the circle or arc being drawn."
+},
+{
+"q": "An angle of 120 degrees can be constructed by drawing two consecutive arcs of:",
+"o": ["30 degrees", "45 degrees", "90 degrees", "60 degrees"],
+"a": 3,
+"sol": "On a circle, two 60-degree arcs sum up to 120 degrees."
+},
+{
+"q": "A line segment has ___ end points.",
+"o": ["One", "Three", "Two", "Zero"],
+"a": 2,
+"sol": "A line segment is a part of a line with two definite boundaries."
+},
+{
+"q": "Which tool is best for drawing a line parallel to a given line through a point?",
+"o": ["Protractor", "Divider", "Set-square and Ruler", "Compass only"],
+"a": 2,
+"sol": "The combination of a ruler and set-square allows for sliding and drawing parallel lines accurately."
+},
+{
+"q": "To bisect an angle, we draw arcs from the points where the initial arc intersects the:",
+"o": ["Vertex", "Arms of the angle", "Center", "Exterior"],
+"a": 1,
+"sol": "The intersection points on the arms serve as centers for the two bisecting arcs."
+},
+{
+"q": "If the diameter of a circle is 10 cm, what should be the compass opening to draw it?",
+"o": ["10 cm", "2.5 cm", "5 cm", "20 cm"],
+"a": 2,
+"sol": "Radius = Diameter / 2 = 10 / 2 = 5 cm."
+},
+{
+"q": "The instrument used to draw and measure angles is:",
+"o": ["Ruler", "Set-square", "Protractor", "Compass"],
+"a": 2,
+"sol": "Protractors are the primary tool for measuring angle magnitude."
+},
+{
+"q": "How many lines can pass through a single point?",
+"o": ["One", "Two", "Ten", "Infinite"],
+"a": 3,
+"sol": "You can draw an unlimited number of lines through a single point in space."
+},
+{
+"q": "An arc is a part of a:",
+"o": ["Line", "Square", "Circle", "Triangle"],
+"a": 2,
+"sol": "An arc is any portion of the circumference of a circle."
+},
+{
+"q": "Which of these angles can NOT be constructed using a compass and ruler alone?",
+"o": ["15 degrees", "40 degrees", "45 degrees", "105 degrees"],
+"a": 1,
+"sol": "40 is not a multiple of 15 (or half of a constructible angle like 75/90/60 etc.), so it typically requires a protractor."
+},
+{
+"q": "A line that extends infinitely in both directions is a:",
+"o": ["Ray", "Line segment", "Line", "Arc"],
+"a": 2,
+"sol": "A 'line' has no endpoints and continues forever."
+},
+{
+"q": "The angle bisector divides an angle of 90 degrees into two angles of:",
+"o": ["30 degrees each", "60 degrees each", "45 degrees each", "90 degrees each"],
+"a": 2,
+"sol": "90 / 2 = 45."
+},
+{
+"q": "To construct a 90-degree angle, we can bisect the straight angle of ___ degrees.",
+"o": ["120", "360", "180", "270"],
+"a": 2,
+"sol": "Half of a straight line (180°) is a right angle (90°)."
+},
+{
+"q": "The vertex of an angle is a:",
+"o": ["Line", "Point", "Surface", "Curve"],
+"a": 1,
+"sol": "The vertex is the common endpoint where two rays meet to form an angle."
+},
+{
+"q": "Which tool has a shape like a triangle?",
+"o": ["Ruler", "Set-square", "Protractor", "Divider"],
+"a": 1,
+"sol": "Set-squares are triangular tools used for drawing specific angles and perpendiculars."
+},
+{
+"q": "If we draw a circle with radius 4 cm, the longest chord will be:",
+"o": ["4 cm", "12 cm", "2 cm", "8 cm"],
+"a": 3,
+"sol": "The longest chord is the diameter (2 * radius = 8 cm)."
+},
+{
+"q": "A ray has ___ end point(s).",
+"o": ["Two", "Zero", "One", "Infinite"],
+"a": 2,
+"sol": "A ray starts at one point and extends infinitely in one direction."
+},
+{
+"q": "The center of a circle always lies in its:",
+"o": ["Exterior", "Boundary", "Interior", "None"],
+"a": 2,
+"sol": "The center is the middle point inside the circle."
+},
+{
+"q": "Which instrument is used to transfer a length from one place to another?",
+"o": ["Divider", "Protractor", "Set-square", "None"],
+"a": 0,
+"sol": "A divider is used to 'pick up' a measurement and place it elsewhere without changing the width."
+},
+{
+"q": "How many perpendicular bisectors can a line segment have?",
+"o": ["Zero", "Two", "One", "Infinite"],
+"a": 2,
+"sol": "A line segment has exactly one unique line that bisects it perpendicularly."
+},
+{
+"q": "An angle of 15 degrees is half of a ___ degree angle.",
+"o": ["45", "60", "30", "90"],
+"a": 2,
+"sol": "30 / 2 = 15."
+},
+{
+"q": "Two circles having the same center but different radii are called:",
+"o": ["Intersecting circles", "Concentric circles", "Congruent circles", "Parallel circles"],
+"a": 1,
+"sol": "Concentric means sharing the same center."
+},
+{
+"q": "What tool is used to draw a straight line?",
+"o": ["Compass", "Divider", "Ruler", "Protractor"],
+"a": 2,
+"sol": "A ruler serves as a straight edge."
+},
+{
+"q": "To construct a 45-degree angle, which angle should be constructed first and then bisected?",
+"o": ["60 degrees", "120 degrees", "90 degrees", "180 degrees"],
+"a": 2,
+"sol": "Half of 90 is 45."
+},
+{
+"q": "A collection of points at a fixed distance from a fixed point is a:",
+"o": ["Square", "Line", "Circle", "Angle"],
+"a": 2,
+"sol": "This is the mathematical definition of a circle."
+},
+{
+"q": "Which set-square has angles 30, 60, and 90?",
+"o": ["45-degree set-square", "30-60 set-square", "Equilateral set-square", "Protractor"],
+"a": 1,
+"sol": "Standard geometry boxes include this specific triangular tool."
+},
+{
+"q": "When constructing a perpendicular to a line through a point on the line, we use:",
+"o": ["Only a ruler", "Arcs of equal radius", "A protractor only", "A divider"],
+"a": 1,
+"sol": "Equal arcs from the point establish equidistant marks to create a perpendicular."
+},
+{
+"q": "A circle is a ___ figure.",
+"o": ["1D", "3D", "2D", "Open"],
+"a": 2,
+"sol": "A circle is a flat, two-dimensional shape."
+},
+{
+"q": "To copy a line segment AB, we first draw a line l and mark a point C, then use a ___.",
+"o": ["Protractor", "Compass", "Set-square", "Ruler only"],
+"a": 1,
+"sol": "A compass is more accurate than a ruler for copying segment lengths."
+},
+{
+"q": "The sum of angles in a triangle is:",
+"o": ["90 degrees", "360 degrees", "180 degrees", "270 degrees"],
+"a": 2,
+"sol": "Every triangle's interior angles add up to 180°."
+},
+{
+"q": "Which of the following is NOT a part of a circle?",
+"o": ["Radius", "Chord", "Hypotenuse", "Arc"],
+"a": 2,
+"sol": "Hypotenuse is the side opposite the right angle in a right-angled triangle."
+},
+{
+"q": "A straight angle measures:",
+"o": ["90 degrees", "270 degrees", "180 degrees", "0 degrees"],
+"a": 2,
+"sol": "A straight angle is a flat line measuring 180°."
+},
+{
+"q": "To draw a circle, the pencil should be:",
+"o": ["Longer than the pointer", "Shorter than the pointer", "Level with the pointer", "Any size"],
+"a": 1,
+"sol": "A shorter pencil helps in rotating the compass without hitting the hand or paper."
+},
+{
+"q": "An angle greater than 90 but less than 180 is called:",
+"o": ["Acute", "Right", "Obtuse", "Reflex"],
+"a": 2,
+"sol": "Obtuse angles are wider than a corner but narrower than a straight line."
+},
+{
+"q": "The intersection of two circles can have at most ___ points.",
+"o": ["One", "Three", "Two", "Infinite"],
+"a": 2,
+"sol": "Two circles can overlap at most at two distinct points."
+},
+{
+"q": "What is 1/4 of a circle's rotation?",
+"o": ["180 degrees", "90 degrees", "45 degrees", "360 degrees"],
+"a": 1,
+"sol": "360 / 4 = 90."
+},
+{
+"q": "A line segment of 0 cm is effectively a:",
+"o": ["Ray", "Line", "Point", "Circle"],
+"a": 2,
+"sol": "A segment with no length is just a single position (a point)."
+},
+{
+"q": "To bisect a 60-degree angle, we get two angles of:",
+"o": ["20 degrees", "45 degrees", "30 degrees", "15 degrees"],
+"a": 2,
+"sol": "60 / 2 = 30."
+},
+{
+"q": "A diameter is ___ times the radius.",
+"o": ["Half", "One", "Two", "Three"],
+"a": 2,
+"sol": "D = 2r."
+},
+{
+"q": "The edge of a ruler represents a:",
+"o": ["Curved line", "Straight line", "Point", "Surface"],
+"a": 1,
+"sol": "A ruler is a straight edge used to guide a pencil in a direct path."
+},
+{
+"q": "Which angle is formed by the intersection of the two set-squares' edges in a geometry box?",
+"o": ["60", "30", "90", "45"],
+"a": 2,
+"sol": "Set-squares are designed to produce perpendicular (90°) lines."
+},
+{
+"q": "A circle has ___ center(s).",
+"o": ["Two", "Zero", "Many", "One"],
+"a": 3,
+"sol": "A circle is defined by exactly one center point."
+},
+{
+"q": "When drawing a perpendicular bisector, the radius of the arcs should be:",
+"o": ["Exactly half the segment", "Less than half the segment", "More than half the segment", "Equal to the segment"],
+"a": 2,
+"sol": "If the radius is not more than half, the arcs will not intersect."
+},
+{
+"q": "A full rotation is equal to:",
+"o": ["180 degrees", "90 degrees", "270 degrees", "360 degrees"],
+"a": 3,
+"sol": "A complete circle is 360°."
+},
+{
+"q": "Can we construct a 10-degree angle using only a compass and ruler?",
+"o": ["Yes", "Only on Sundays", "No", "Depends on the ruler"],
+"a": 2,
+"sol": "10 is not constructible via standard Euclidean methods (ruler/compass)."
+},
+{
+"q": "If radius is 3 cm and 5 cm for concentric circles, the distance between boundaries is:",
+"o": ["8 cm", "2 cm", "4 cm", "1 cm"],
+"a": 1,
+"sol": "5 cm - 3 cm = 2 cm."
+},
+{
+"q": "The instrument used to draw arcs is:",
+"o": ["Ruler", "Compass", "Divider", "Protractor"],
+"a": 1,
+"sol": "Compasses create curved paths (arcs/circles)."
+},
+{
+"q": "How many radii can a circle have?",
+"o": ["One", "Two", "Infinite", "Four"],
+"a": 2,
+"sol": "Any point on the circumference can be connected to the center."
+},
+{
+"q": "A right angle is exactly:",
+"o": ["45 degrees", "180 degrees", "90 degrees", "60 degrees"],
+"a": 2,
+"sol": "A right angle is the angle of a square corner."
+},
+{
+"q": "The midpoint of a diameter is the ___ of the circle.",
+"o": ["Radius", "Chord", "Center", "Arc"],
+"a": 2,
+"sol": "The center bisects every diameter."
+},
+{
+"q": "To construct an angle of 135 degrees, we can bisect the angle between:",
+"o": ["0 and 90", "90 and 180", "60 and 120", "45 and 90"],
+"a": 1,
+"sol": "135 is the midpoint of 90 and 180 (90 + 45 = 135)."
+},
+{
+"q": "A line segment is denoted by:",
+"o": ["AB with an arrow", "AB with a bar", "AB with no mark", "AB with a dot"],
+"a": 1,
+"sol": "A bar over AB signifies a finite segment."
+},
+{
+"q": "An angle of 75 degrees is between:",
+"o": ["30 and 45", "90 and 120", "60 and 90", "0 and 60"],
+"a": 2,
+"sol": "75 is exactly between 60 and 90."
+},
+{
+"q": "The degree measure of a semicircle is:",
+"o": ["90", "360", "180", "270"],
+"a": 2,
+"sol": "Half a circle is 180°."
+},
+{
+"q": "What is the instrument used to check if two lengths are equal without a ruler?",
+"o": ["Protractor", "Divider", "Set-square", "Pencil"],
+"a": 1,
+"sol": "Dividers allow you to lock a distance and compare it to another."
+},
+{
+"q": "Two points A and B are given. How many line segments can be formed connecting them?",
+"o": ["Infinite", "Two", "One", "Zero"],
+"a": 2,
+"sol": "There is exactly one shortest path (segment) between two points."
+},
+{
+"q": "If a circle is divided into 6 equal sectors, each angle is:",
+"o": ["30 degrees", "45 degrees", "60 degrees", "90 degrees"],
+"a": 2,
+"sol": "360 / 6 = 60."
+},
+{
+"q": "To construct 150 degrees, we construct an angle between:",
+"o": ["90 and 180", "120 and 180", "120 and 150", "60 and 120"],
+"a": 1,
+"sol": "150 is the bisector of the angle between 120 and 180."
+},
+{
+"q": "Construction of a line segment is more accurate with a:",
+"o": ["Ruler only", "Compass and Ruler", "Freehand", "Protractor"],
+"a": 1,
+"sol": "Using a compass to transfer ruler measurements reduces error."
+},
+{
+"q": "The plural of radius is:",
+"o": ["Radiuses", "Radials", "Radii", "Radian"],
+"a": 2,
+"sol": "The Latin-derived plural is radii."
+},
+{
+"q": "An angle of 22.5 degrees is half of:",
+"o": ["90 degrees", "60 degrees", "45 degrees", "30 degrees"],
+"a": 2,
+"sol": "45 / 2 = 22.5."
+},
+{
+"q": "Parallel lines ___ intersect.",
+"o": ["Always", "Sometimes", "Never", "At one point"],
+"a": 2,
+"sol": "Parallel lines maintain the same distance and never cross."
+},
+{
+"q": "The length of a circle's boundary is its:",
+"o": ["Area", "Radius", "Circumference", "Diameter"],
+"a": 2,
+"sol": "Circumference is the distance around the circle."
+},
+{
+"q": "To construct a 105-degree angle, we bisect the angle between:",
+"o": ["60 and 120", "90 and 150", "90 and 120", "0 and 105"],
+"a": 2,
+"sol": "105 is halfway between 90 and 120."
+},
+{
+"q": "A protractor usually has two scales: inner and ___.",
+"o": ["Lower", "Middle", "Outer", "Upper"],
+"a": 2,
+"sol": "Protractors have scales starting from 0 on both the left and right sides."
+},
+{
+"q": "A chord of a circle is a line segment with endpoints on the:",
+"o": ["Center", "Exterior", "Circumference", "Radius"],
+"a": 2,
+"sol": "Any segment joining two points on the circle is a chord."
+},
+{
+"q": "The angle formed by the arms of a compass is an:",
+"o": ["Acute angle", "Obtuse angle", "Any angle", "Right angle"],
+"a": 2,
+"sol": "The compass can be adjusted to any angle required for the radius."
+},
+{
+"q": "A reflex angle is more than ___ but less than 360.",
+"o": ["90 degrees", "270 degrees", "180 degrees", "45 degrees"],
+"a": 2,
+"sol": "Definition of reflex angle."
+},
+{
+"q": "Every point on a circle is at an equal distance from the:",
+"o": ["Diameter", "Chord", "Center", "Tangent"],
+"a": 2,
+"sol": "This is the core property of a circle."
+},
+{
+"q": "Which of these is used for drawing a perpendicular from a point NOT on the line?",
+"o": ["Ruler only", "Compass and Ruler", "Divider", "Pencil only"],
+"a": 1,
+"sol": "You draw an arc from the point to hit the line at two spots, then bisect those spots."
+},
+{
+"q": "A triangle with all sides equal is:",
+"o": ["Isosceles", "Scalene", "Equilateral", "Right-angled"],
+"a": 2,
+"sol": "Equilateral triangles have 60-degree interior angles."
+},
+{
+"q": "The unit of measuring angles is:",
+"o": ["Centimeter", "Kilogram", "Degree", "Liter"],
+"a": 2,
+"sol": "Angles are measured in degrees."
+},
+{
+"q": "A line segment AB is 6 cm. Its perpendicular bisector meets AB at M. What is AM?",
+"o": ["6 cm", "4 cm", "3 cm", "2 cm"],
+"a": 2,
+"sol": "Half of 6 cm is 3 cm."
+},
+{
+"q": "How many lines can pass through two distinct points?",
+"o": ["Two", "Infinite", "One", "Zero"],
+"a": 2,
+"sol": "Only one unique straight line exists between two points."
+},
+{
+"q": "To construct an angle of 60 degrees, the arc radius should be:",
+"o": ["Changed for second arc", "Kept the same", "Half of the first", "None"],
+"a": 1,
+"sol": "If the radius changes, you won't get an equilateral triangle chord, so it won't be 60°."
+},
+{
+"q": "The longest side of a right-angled triangle is the:",
+"o": ["Base", "Perpendicular", "Hypotenuse", "Chord"],
+"a": 2,
+"sol": "The hypotenuse is always the longest."
+},
+{
+"q": "What is the angle between the North and East directions?",
+"o": ["180", "45", "90", "0"],
+"a": 2,
+"sol": "The cardinal directions are 90 degrees apart."
+},
+{
+"q": "If we bisect a 120-degree angle, we get:",
+"o": ["30", "45", "60", "90"],
+"a": 2,
+"sol": "120 / 2 = 60."
+},
+{
+"q": "A line segment can be measured with a:",
+"o": ["Compass", "Ruler", "Set-square", "Any of these"],
+"a": 3,
+"sol": "All these tools can assist in determining or comparing length."
+},
+{
+"q": "An angle of 360 degrees is called a:",
+"o": ["Straight angle", "Right angle", "Complete angle", "Zero angle"],
+"a": 2,
+"sol": "It represents a full turn."
+},
+{
+"q": "To construct a 90-degree angle at point P on line l, we first draw a ___ arc.",
+"o": ["Circular", "Semi-circular", "Straight", "None"],
+"a": 1,
+"sol": "A semi-circle allows you to find two equidistant points on the line."
+},
+{
+"q": "In a geometry box, the tool with a pencil holder is the:",
+"o": ["Divider", "Compass", "Ruler", "Protractor"],
+"a": 1,
+"sol": "The compass holds the pencil to draw."
+},
+{
+"q": "Which direction is exactly opposite to South-West?",
+"o": ["North-West", "South-East", "North-East", "North"],
+"a": 2,
+"sol": "The opposite of South is North and the opposite of West is East."
+},
+{
+"q": "An angle of 0 degrees means the two rays are:",
+"o": ["Perpendicular", "Opposite", "Coincident", "Parallel"],
+"a": 2,
+"sol": "Coincident rays lie exactly on top of each other."
+},
+{
+"q": "If you are at the center of a circle and move to any point on the edge, the distance is always:",
+"o": ["Varying", "Radius", "Diameter", "Zero"],
+"a": 1,
+"sol": "This is the core definition of a circle's radius."
+}
+]
