@@ -1,0 +1,602 @@
+[
+{
+"q": "How many lines of symmetry does a regular pentagon have?",
+"o": ["3", "5", "4", "2"],
+"a": 1,
+"sol": "A regular polygon has as many lines of symmetry as it has sides."
+},
+{
+"q": "Which of the following letters has horizontal symmetry?",
+"o": ["M", "T", "E", "V"],
+"a": 2,
+"sol": "The letter 'E' can be divided into two equal halves by a horizontal line."
+},
+{
+"q": "A scalene triangle has ___ lines of symmetry.",
+"o": ["1", "0", "3", "2"],
+"a": 1,
+"sol": "A scalene triangle has no equal sides or angles, so it has no line of symmetry."
+},
+{
+"q": "An isosceles triangle has how many lines of symmetry?",
+"o": ["Two", "Three", "One", "Zero"],
+"a": 2,
+"sol": "An isosceles triangle has one line of symmetry passing through the vertex between the equal sides."
+},
+{
+"q": "Which figure has infinite lines of symmetry?",
+"o": ["Square", "Circle", "Rectangle", "Equilateral Triangle"],
+"a": 1,
+"sol": "Any line passing through the center of a circle is a line of symmetry."
+},
+{
+"q": "The letter 'H' has:",
+"o": ["Only vertical symmetry", "Only horizontal symmetry", "Both vertical and horizontal", "No symmetry"],
+"a": 2,
+"sol": "'H' can be cut down the middle vertically and across the middle horizontally."
+},
+{
+"q": "A rectangle has ___ lines of symmetry.",
+"o": ["4", "1", "3", "2"],
+"a": 3,
+"sol": "A rectangle has two lines of symmetry joining the midpoints of opposite sides."
+},
+{
+"q": "Which of these regular polygons has 6 lines of symmetry?",
+"o": ["Regular Hexagon", "Regular Octagon", "Square", "Equilateral Triangle"],
+"a": 0,
+"sol": "A regular hexagon has 6 equal sides and 6 lines of symmetry."
+},
+{
+"q": "The image of an object in a mirror is called its:",
+"o": ["Rotation", "Translation", "Reflection", "Inversion"],
+"a": 2,
+"sol": "Mirror symmetry is essentially the reflection of the object."
+},
+{
+"q": "How many lines of symmetry does a rhombus have?",
+"o": ["4", "2", "1", "0"],
+"a": 1,
+"sol": "A rhombus has two lines of symmetry, which are its diagonals."
+},
+{
+"q": "Which letter looks exactly the same after a vertical reflection?",
+"o": ["B", "A", "P", "S"],
+"a": 1,
+"sol": "'A' is vertically symmetrical; its left side is a mirror image of its right side."
+},
+{
+"q": "A square has ___ lines of symmetry.",
+"o": ["2", "6", "4", "8"],
+"a": 2,
+"sol": "A square has 4 lines: two joining midpoints of opposite sides and two diagonals."
+},
+{
+"q": "Which of the following shows no symmetry?",
+"o": ["Letter Z", "Letter O", "Letter X", "Letter I"],
+"a": 0,
+"sol": "Letter 'Z' has rotational symmetry but no line (reflectional) symmetry."
+},
+{
+"q": "The line of symmetry of a line segment is its:",
+"o": ["Midpoint", "Endpoint", "Perpendicular bisector", "Parallel line"],
+"a": 2,
+"sol": "The perpendicular bisector divides a segment into two reflected halves."
+},
+{
+"q": "How many lines of symmetry does a semi-circle have?",
+"o": ["One", "Two", "Zero", "Infinite"],
+"a": 0,
+"sol": "A semi-circle has only one line of symmetry, which is the perpendicular bisector of its diameter."
+},
+{
+"q": "An equilateral triangle has ___ lines of symmetry.",
+"o": ["1", "2", "3", "0"],
+"a": 2,
+"sol": "It has three lines of symmetry, each passing through a vertex and the midpoint of the opposite side."
+},
+{
+"q": "The number of lines of symmetry in a regular octagon is:",
+"o": ["4", "6", "8", "10"],
+"a": 2,
+"sol": "A regular octagon has 8 sides and 8 lines of symmetry."
+},
+{
+"q": "Which of these has both horizontal and vertical symmetry?",
+"o": ["W", "O", "K", "Y"],
+"a": 1,
+"sol": "The letter 'O' (and circle) is symmetrical about any diameter."
+},
+{
+"q": "A parallelogram generally has ___ lines of symmetry.",
+"o": ["1", "2", "0", "4"],
+"a": 2,
+"sol": "A standard parallelogram has no lines of symmetry unless it is a rectangle or rhombus."
+},
+{
+"q": "Symmetry is often found in:",
+"o": ["Architecture", "Nature", "Art", "All of the above"],
+"a": 3,
+"sol": "Symmetry is a universal concept found in flowers, buildings, and paintings."
+},
+{
+"q": "Which letter has ONLY vertical symmetry?",
+"o": ["C", "D", "U", "E"],
+"a": 2,
+"sol": "'U' has a vertical line of symmetry; 'C', 'D', and 'E' have horizontal ones."
+},
+{
+"q": "How many lines of symmetry does an isosceles trapezium have?",
+"o": ["One", "Two", "Zero", "Four"],
+"a": 0,
+"sol": "It has one line of symmetry connecting the midpoints of the parallel sides."
+},
+{
+"q": "A figure is said to have symmetry if it can be folded so that the two parts:",
+"o": ["Are different", "Overlap partially", "Match exactly", "Are perpendicular"],
+"a": 2,
+"sol": "Symmetry implies a perfect correspondence in size and shape on opposite sides of a line."
+},
+{
+"q": "Which of these digits has two lines of symmetry?",
+"o": ["1", "8", "7", "4"],
+"a": 1,
+"sol": "The digit '8' can be split vertically and horizontally into matching halves."
+},
+{
+"q": "A kite has how many lines of symmetry?",
+"o": ["0", "2", "1", "4"],
+"a": 2,
+"sol": "A kite has one line of symmetry along its main diagonal."
+},
+{
+"q": "Which letter remains unchanged after a 180-degree rotation but has no line symmetry?",
+"o": ["N", "A", "M", "E"],
+"a": 0,
+"sol": "'N' has rotational symmetry of order 2 but no line of symmetry."
+},
+{
+"q": "If an object is reflected in a mirror, the distance of the image from the mirror is ___ the distance of the object.",
+"o": ["Twice", "Half", "Equal to", "Less than"],
+"a": 2,
+"sol": "The mirror line is the perpendicular bisector of the segment joining object and image."
+},
+{
+"q": "How many lines of symmetry does the word 'WOW' have (if written vertically)?",
+"o": ["1", "0", "2", "3"],
+"a": 0,
+"sol": "If aligned vertically, 'W-O-W' can be split by a single vertical line."
+},
+{
+"q": "The letter 'X' has ___ lines of symmetry.",
+"o": ["1", "3", "2", "0"],
+"a": 2,
+"sol": "'X' has a vertical and a horizontal line of symmetry."
+},
+{
+"q": "Which of the following triangles has exactly 3 lines of symmetry?",
+"o": ["Isosceles", "Right-angled", "Scalene", "Equilateral"],
+"a": 3,
+"sol": "Equilateral triangles are the only triangles with 3 lines of symmetry."
+},
+{
+"q": "A regular polygon with 'n' sides has ___ lines of symmetry.",
+"o": ["n/2", "n+1", "n", "n-1"],
+"a": 2,
+"sol": "This is a fundamental rule for regular polygons."
+},
+{
+"q": "How many lines of symmetry does a point have?",
+"o": ["1", "0", "Infinite", "2"],
+"a": 2,
+"sol": "Every line passing through a point can be considered a line of symmetry in a sense, but usually, we refer to figures."
+},
+{
+"q": "The letter 'S' has ___ lines of symmetry.",
+"o": ["2", "1", "0", "4"],
+"a": 2,
+"sol": "Letter 'S' has rotational symmetry but no reflectional symmetry."
+},
+{
+"q": "Which shape has exactly two lines of symmetry?",
+"o": ["Square", "Circle", "Rectangle", "Equilateral Triangle"],
+"a": 2,
+"sol": "A rectangle has two (vertical and horizontal midlines)."
+},
+{
+"q": "Symmetry along a line is called:",
+"o": ["Translational symmetry", "Rotational symmetry", "Line symmetry", "Glide symmetry"],
+"a": 2,
+"sol": "Line symmetry or reflectional symmetry is folding over a line."
+},
+{
+"q": "How many lines of symmetry are in a regular hexagon?",
+"o": ["3", "4", "5", "6"],
+"a": 3,
+"sol": "A regular hexagon has 6 lines of symmetry."
+},
+{
+"q": "Which letter has horizontal symmetry only?",
+"o": ["W", "Y", "K", "A"],
+"a": 2,
+"sol": "'K' has a horizontal line of symmetry, while W, Y, and A have vertical ones."
+},
+{
+"q": "A circle is symmetrical about:",
+"o": ["Any chord", "Any diameter", "Any tangent", "None"],
+"a": 1,
+"sol": "Any line passing through the center (diameter) divides it into two semi-circles."
+},
+{
+"q": "The digit '0' has ___ lines of symmetry.",
+"o": ["One", "Infinite", "Two", "Zero"],
+"a": 2,
+"sol": "The digit '0' (if oval) has two lines of symmetry."
+},
+{
+"q": "Which regular polygon has the least number of lines of symmetry?",
+"o": ["Square", "Regular Pentagon", "Equilateral Triangle", "Regular Hexagon"],
+"a": 2,
+"sol": "The equilateral triangle is the regular polygon with the fewest sides (3)."
+},
+{
+"q": "How many lines of symmetry does a star with 5 points have?",
+"o": ["10", "1", "5", "0"],
+"a": 2,
+"sol": "A 5-pointed star (regular) has 5 lines of symmetry."
+},
+{
+"q": "A paper folded once and cut at the fold will show ___ symmetry.",
+"o": ["Rotational", "Reflectional", "Translational", "No"],
+"a": 1,
+"sol": "The fold line acts as the axis of symmetry."
+},
+{
+"q": "Which of these letters has NO symmetry?",
+"o": ["F", "V", "T", "Y"],
+"a": 0,
+"sol": "Letter 'F' cannot be divided into matching halves."
+},
+{
+"q": "A line of symmetry is also known as a ___ line.",
+"o": ["Mirror", "Straight", "Broken", "Dividing"],
+"a": 0,
+"sol": "It is called a mirror line because one side is the reflection of the other."
+},
+{
+"q": "How many lines of symmetry does an angle have?",
+"o": ["Zero", "Two", "One", "Three"],
+"a": 2,
+"sol": "An angle has one line of symmetry, which is its angle bisector."
+},
+{
+"q": "A regular heptagon has ___ lines of symmetry.",
+"o": ["7", "14", "1", "0"],
+"a": 0,
+"sol": "Regular polygon with 7 sides has 7 lines of symmetry."
+},
+{
+"q": "The letter 'M' has vertical symmetry. Its reflection in a horizontal mirror would look like:",
+"o": ["M", "W", "E", "N"],
+"a": 1,
+"sol": "Reflecting 'M' horizontally flips it upside down to look like 'W'."
+},
+{
+"q": "Which of the following shapes has 4 lines of symmetry?",
+"o": ["Rhombus", "Rectangle", "Square", "Kite"],
+"a": 2,
+"sol": "Square has 4 lines (2 diagonals + 2 midlines)."
+},
+{
+"q": "How many lines of symmetry does a quadrant (quarter circle) have?",
+"o": ["One", "Two", "Zero", "Four"],
+"a": 0,
+"sol": "A quadrant has one line of symmetry (the 45-degree bisector)."
+},
+{
+"q": "The image of a clock showing 3:00 in a vertical mirror will show:",
+"o": ["3:00", "6:00", "9:00", "12:00"],
+"a": 2,
+"sol": "The hands flip across the vertical axis, moving from 3 to 9."
+},
+{
+"q": "Which of the following is an example of bilateral symmetry?",
+"o": ["Human Face", "Starfish", "A ball", "A cloud"],
+"a": 0,
+"sol": "The human face has a single vertical line of symmetry."
+},
+{
+"q": "A scalene triangle has ___ lines of symmetry.",
+"o": ["0", "1", "2", "3"],
+"a": 0,
+"sol": "Zero."
+},
+{
+"q": "What tool is useful to determine the line of symmetry?",
+"o": ["Ruler", "Compass", "Mirror", "Protractor"],
+"a": 2,
+"sol": "Placing a mirror on the line helps check if the reflection matches the other side."
+},
+{
+"q": "Which letter has both horizontal and vertical lines of symmetry?",
+"o": ["Z", "I", "N", "S"],
+"a": 1,
+"sol": "Letter 'I' has both."
+},
+{
+"q": "How many lines of symmetry are in a non-isosceles trapezium?",
+"o": ["1", "2", "0", "4"],
+"a": 2,
+"sol": "Zero."
+},
+{
+"q": "The alphabet 'B' has ___ symmetry.",
+"o": ["Vertical", "Horizontal", "Both", "None"],
+"a": 1,
+"sol": "Horizontal."
+},
+{
+"q": "The number of lines of symmetry in a regular decagon is:",
+"o": ["5", "10", "20", "1"],
+"a": 1,
+"sol": "10."
+},
+{
+"q": "Which figure has only 1 line of symmetry?",
+"o": ["Rhombus", "Rectangle", "Isosceles Triangle", "Square"],
+"a": 2,
+"sol": "Isosceles triangle."
+},
+{
+"q": "A line segment of length 10cm has its line of symmetry at:",
+"o": ["2cm", "5cm", "10cm", "0cm"],
+"a": 1,
+"sol": "At the midpoint (5cm)."
+},
+{
+"q": "Which of these flowers often shows radial symmetry?",
+"o": ["Sunflower", "Pea flower", "Snapdragon", "Orchid"],
+"a": 0,
+"sol": "Sunflowers have multiple lines of symmetry through the center."
+},
+{
+"q": "An equilateral triangle can be folded ___ ways to match halves.",
+"o": ["1", "2", "3", "0"],
+"a": 2,
+"sol": "3 ways."
+},
+{
+"q": "The line of symmetry of a circle is its:",
+"o": ["Radius", "Chord", "Diameter", "Tangent"],
+"a": 2,
+"sol": "Diameter."
+},
+{
+"q": "Which letter has no lines of symmetry but has rotational symmetry?",
+"o": ["H", "Z", "X", "O"],
+"a": 1,
+"sol": "Z."
+},
+{
+"q": "Symmetry in nature is most evident in a:",
+"o": ["Rock", "Butterfly", "River", "Mountain"],
+"a": 1,
+"sol": "Butterfly wings are perfectly symmetrical."
+},
+{
+"q": "How many lines of symmetry does a regular nonagon have?",
+"o": ["9", "1", "0", "18"],
+"a": 0,
+"sol": "9."
+},
+{
+"q": "Which of the following is NOT symmetrical?",
+"o": ["Rectangle", "Parallelogram", "Square", "Rhombus"],
+"a": 1,
+"sol": "Parallelogram (unless it's a special case like a rectangle)."
+},
+{
+"q": "The mirror image of 'L' will face:",
+"o": ["Up", "Down", "Left", "Right"],
+"a": 3,
+"sol": "It will face the opposite horizontal direction."
+},
+{
+"q": "If we reflect the letter 'D' vertically, it looks like:",
+"o": ["D", "B", "P", "Q"],
+"a": 0,
+"sol": "'D' has horizontal symmetry, but reflecting it vertically (mirror on the right) makes it look like a backwards D."
+},
+{
+"q": "How many lines of symmetry does a heart shape have?",
+"o": ["2", "0", "1", "4"],
+"a": 2,
+"sol": "1 (vertical)."
+},
+{
+"q": "A figure with point symmetry has rotational symmetry of order:",
+"o": ["1", "2", "3", "4"],
+"a": 1,
+"sol": "Point symmetry means 180-degree rotation (Order 2)."
+},
+{
+"q": "Which of these is a vertically symmetric capital letter?",
+"o": ["G", "T", "L", "K"],
+"a": 1,
+"sol": "T."
+},
+{
+"q": "How many lines of symmetry does a cross (+) with equal arms have?",
+"o": ["2", "4", "1", "0"],
+"a": 1,
+"sol": "4 (2 midlines + 2 diagonals)."
+},
+{
+"q": "Which shape has rotational symmetry but no line symmetry?",
+"o": ["Square", "Rectangle", "Pinwheel", "Circle"],
+"a": 2,
+"sol": "A pinwheel rotates to look the same but doesn't have a fold line."
+},
+{
+"q": "A regular polygon's lines of symmetry intersect at its:",
+"o": ["Vertex", "Center", "Side", "Edge"],
+"a": 1,
+"sol": "Center."
+},
+{
+"q": "How many lines of symmetry are in the letter 'Q'?",
+"o": ["1", "2", "0", "Infinite"],
+"a": 2,
+"sol": "0 (because of the tail)."
+},
+{
+"q": "The reflection of a right-hand in a mirror looks like a:",
+"o": ["Right-hand", "Left-hand", "Foot", "Head"],
+"a": 1,
+"sol": "Lateral inversion."
+},
+{
+"q": "Which of these letters has NO horizontal symmetry?",
+"o": ["H", "O", "X", "T"],
+"a": 3,
+"sol": "T has only vertical symmetry."
+},
+{
+"q": "A line of symmetry of an equilateral triangle is also its:",
+"o": ["Median", "Altitude", "Angle Bisector", "All of these"],
+"a": 3,
+"sol": "In equilateral triangles, these coincide."
+},
+{
+"q": "How many lines of symmetry does a regular dodecagon have?",
+"o": ["10", "12", "6", "2"],
+"a": 1,
+"sol": "12."
+},
+{
+"q": "The letter 'W' has:",
+"o": ["Vertical symmetry", "Horizontal symmetry", "Both", "None"],
+"a": 0,
+"sol": "Vertical."
+},
+{
+"q": "A figure with reflection symmetry is also called:",
+"o": ["Asymmetric", "Isometric", "Symmetric", "Parametric"],
+"a": 2,
+"sol": "Symmetric."
+},
+{
+"q": "Which shape has the most lines of symmetry?",
+"o": ["Square", "Pentagon", "Circle", "Hexagon"],
+"a": 2,
+"sol": "Circle (infinite)."
+},
+{
+"q": "How many lines of symmetry does the number '3' have?",
+"o": ["0", "1", "2", "3"],
+"a": 1,
+"sol": "1 (horizontal)."
+},
+{
+"q": "Symmetry based on turning a figure around a fixed point is:",
+"o": ["Line symmetry", "Rotational symmetry", "Folding symmetry", "None"],
+"a": 1,
+"sol": "Rotational symmetry."
+},
+{
+"q": "Which letter has rotational symmetry of order 2?",
+"o": ["A", "S", "C", "D"],
+"a": 1,
+"sol": "S."
+},
+{
+"q": "If you rotate a square by 90 degrees, it looks:",
+"o": ["Different", "The same", "Upside down", "Half"],
+"a": 1,
+"sol": "Order of rotation is 4."
+},
+{
+"q": "A regular triangle is also known as:",
+"o": ["Isosceles", "Equilateral", "Scalene", "Right"],
+"a": 1,
+"sol": "Equilateral."
+},
+{
+"q": "The word 'AMBULANCE' is written backwards on the front of the vehicle because of:",
+"o": ["Rotation", "Translation", "Lateral Inversion", "Decoration"],
+"a": 2,
+"sol": "To appear correct in rearview mirrors."
+},
+{
+"q": "How many lines of symmetry does a rectangle's diagonal represent?",
+"o": ["1", "2", "0", "4"],
+"a": 2,
+"sol": "The diagonal of a rectangle is NOT a line of symmetry."
+},
+{
+"q": "Which digit has exactly one line of symmetry?",
+"o": ["8", "0", "3", "7"],
+"a": 2,
+"sol": "3 (horizontal)."
+},
+{
+"q": "A figure that can be divided into two matching parts by a line has:",
+"o": ["Rotational symmetry", "Line symmetry", "No symmetry", "Point symmetry"],
+"a": 1,
+"sol": "Line symmetry."
+},
+{
+"q": "The letter 'Y' has ___ line(s) of symmetry.",
+"o": ["1", "2", "0", "Infinite"],
+"a": 0,
+"sol": "1 (vertical)."
+},
+{
+"q": "How many lines of symmetry does an arrow (head + shaft) have?",
+"o": ["0", "1", "2", "Infinite"],
+"a": 1,
+"sol": "1 (along the shaft)."
+},
+{
+"q": "Which of these is NOT vertically symmetric?",
+"o": ["U", "V", "W", "P"],
+"a": 3,
+"sol": "P."
+},
+{
+"q": "An equilateral triangle has rotational symmetry of order:",
+"o": ["1", "2", "3", "0"],
+"a": 2,
+"sol": "3."
+},
+{
+"q": "The order of rotational symmetry for a circle is:",
+"o": ["1", "2", "Infinite", "360"],
+"a": 2,
+"sol": "Infinite."
+},
+{
+"q": "Which regular polygon has 4 lines of symmetry?",
+"o": ["Rectangle", "Rhombus", "Square", "Hexagon"],
+"a": 2,
+"sol": "Square."
+},
+{
+"q": "Symmetry helps in making things look:",
+"o": ["Messy", "Balanced/Beautiful", "Complex", "Ugly"],
+"a": 1,
+"sol": "Balanced."
+},
+{
+"q": "The letter 'O' has rotational symmetry of order:",
+"o": ["1", "2", "Infinite", "0"],
+"a": 2,
+"sol": "Infinite."
+},
+{
+"q": "How many lines of symmetry does a kite have?",
+"o": ["1", "2", "4", "0"],
+"a": 0,
+"sol": "1."
+}
+]
