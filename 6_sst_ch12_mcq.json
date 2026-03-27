@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the local government body for a large city called?",
+"o": ["Gram Panchayat", "Municipal Corporation", "Panchayat Samiti", "Zila Parishad"],
+"a": 1,
+"sol": "Large cities with high populations are managed by Municipal Corporations (Nagar Nigams)."
+},
+{
+"q": "The head of a Municipal Corporation is known as the:",
+"o": ["Sarpanch", "Governor", "Mayor", "Prime Minister"],
+"a": 2,
+"sol": "The Mayor is the political head and presiding officer of the Corporation."
+},
+{
+"q": "Which body governs smaller towns that are transitioning from rural to urban?",
+"o": ["Nagar Panchayat", "Supreme Court", "High Court", "Village Sabha"],
+"a": 0,
+"sol": "Nagar Panchayats are for areas in transition from rural to urban."
+},
+{
+"q": "Who is the chief executive officer of a Municipal Corporation, usually an IAS officer?",
+"o": ["The Mayor", "The Municipal Commissioner", "The Ward Councilor", "The Police Chief"],
+"a": 1,
+"sol": "The Commissioner implements the decisions made by the council."
+},
+{
+"q": "Urban local bodies get their primary authority from which Constitutional Amendment?",
+"o": ["73rd Amendment", "42nd Amendment", "74th Amendment", "1st Amendment"],
+"a": 2,
+"sol": "The 74th Amendment Act (1992) gave constitutional status to urban local bodies."
+},
+{
+"q": "Cities are divided into smaller electoral units called:",
+"o": ["Districts", "States", "Wards", "Blocks"],
+"a": 2,
+"sol": "Each ward elects a representative called a Councilor."
+},
+{
+"q": "What is the main source of income for a Municipality?",
+"o": ["Selling tickets for movies", "Property tax and government grants", "Printing currency", "Collecting income tax"],
+"a": 1,
+"sol": "Local taxes on houses, water, and electricity plus state grants fund the bodies."
+},
+{
+"q": "Who elects the Ward Councilors in a city?",
+"o": ["The State Government", "The Mayor", "The adult citizens living in the ward", "The Police"],
+"a": 2,
+"sol": "Voters (18+) of that specific ward elect their Councilor."
+},
+{
+"q": "Which of these is a 'mandatory' function of a Municipality?",
+"o": ["Running a circus", "Building luxury malls", "Providing clean drinking water", "Organizing film festivals"],
+"a": 2,
+"sol": "Essential services like water and sanitation are mandatory."
+},
+{
+"q": "How long is the term for a Municipal body in India?",
+"o": ["3 years", "5 years", "10 years", "6 years"],
+"a": 1,
+"sol": "Like rural bodies, urban bodies have a 5-year term."
+},
+{
+"q": "The Municipal Council is also known as:",
+"o": ["Nagar Palika", "Gram Sabha", "Zila Parishad", "Vidhan Sabha"],
+"a": 0,
+"sol": "Nagar Palikas govern medium-sized towns."
+},
+{
+"q": "Who presides over the meetings of a Municipal Council?",
+"o": ["The Commissioner", "The Chairperson / President", "The Governor", "The Principal"],
+"a": 1,
+"sol": "The Chairperson leads the meetings in a Municipal Council."
+},
+{
+"q": "Disposal of garbage and urban waste is the responsibility of:",
+"o": ["The Forest Department", "The Municipality", "The Railway Ministry", "The Bank"],
+"a": 1,
+"sol": "Waste management is a core sanitation function of urban local bodies."
+},
+{
+"q": "Reservation of seats for women in urban local bodies is:",
+"o": ["Zero percent", "At least one-third (33%)", "Ten percent", "Only for the Mayor"],
+"a": 1,
+"sol": "The Constitution mandates at least 1/3rd seats for women."
+},
+{
+"q": "Which department in a city manages street lights?",
+"o": ["Agriculture Department", "Electricity/Engineering department of the Municipality", "Education Department", "Tourism Board"],
+"a": 1,
+"sol": "Municipalities maintain public infrastructure like street lighting."
+},
+{
+"q": "What is 'Octroi'?",
+"o": ["A type of food", "A tax on goods entering a city", "A musical instrument", "A city park"],
+"a": 1,
+"sol": "It was a traditional tax levied by local bodies on goods."
+},
+{
+"q": "The 'Administrative Staff' of a Municipality is responsible for:",
+"o": ["Winning elections", "Implementing decisions and day-to-day work", "Voting in council meetings", "Making laws for the whole country"],
+"a": 1,
+"sol": "While councilors decide, the staff (officers/clerks) execute the work."
+},
+{
+"q": "A 'Demolition Drive' is conducted by the Municipality against:",
+"o": ["New parks", "Illegal constructions and encroachments", "Schools", "Temples"],
+"a": 1,
+"sol": "Enforcing building laws and city planning is a local government duty."
+},
+{
+"q": "Who manages the budget of a Municipal Corporation?",
+"o": ["The Prime Minister", "The Council and the Standing Committee", "The local shopkeepers", "The Police Inspector"],
+"a": 1,
+"sol": "Elected committees oversee financial planning."
+},
+{
+"q": "Which of these is a discretionary (optional) function of a Municipality?",
+"o": ["Cleaning sewers", "Registering births", "Building public libraries or parks", "Supply of water"],
+"a": 2,
+"sol": "Libraries and parks are welfare functions that depend on available funds."
+},
+{
+"q": "Birth and Death certificates are issued by the:",
+"o": ["Police Station", "Municipality / Municipal Corporation", "Post Office", "Court"],
+"a": 1,
+"sol": "Vital statistics are maintained by the local urban body."
+},
+{
+"q": "To whom does a citizen complain if there is a water leakage in their ward?",
+"o": ["The President of India", "Their Ward Councilor", "The Finance Minister", "The Chief Justice"],
+"a": 1,
+"sol": "The Councilor is the direct link between citizens and the city government."
+},
+{
+"q": "Sub-committees are formed in a Corporation to:",
+"o": ["Split the city", "Handle specific issues like health, education, or water", "Avoid working", "Confuse the people"],
+"a": 1,
+"sol": "Specialized committees make the administration more efficient."
+},
+{
+"q": "In a city, public parks are maintained by the:",
+"o": ["Forest Ministry", "Horticulture department of the Municipality", "Sports Ministry", "Private clubs only"],
+"a": 1,
+"sol": "Municipalities oversee urban green spaces."
+},
+{
+"q": "What is 'Community Participation' in urban governance?",
+"o": ["People ignoring the rules", "Involving citizens in planning and monitoring city work", "Holding parties every day", "Leaving the city"],
+"a": 1,
+"sol": "Active citizen involvement leads to better city management."
+},
+{
+"q": "Which of the following is NOT an urban local body?",
+"o": ["Municipal Corporation", "Municipal Council", "Gram Panchayat", "Nagar Panchayat"],
+"a": 2,
+"sol": "Gram Panchayat is a rural (village) local body."
+},
+{
+"q": "A person must be at least ______ years old to contest Municipal elections.",
+"o": ["18", "21", "25", "30"],
+"a": 1,
+"sol": "The minimum age for candidacy in local bodies is 21."
+},
+{
+"q": "Who is responsible for stopping the spread of diseases like Dengue in a city?",
+"o": ["The Education Department", "The Health Department of the Municipality", "The Defense Ministry", "The Bank"],
+"a": 1,
+"sol": "Public health and sanitation are vital municipal duties."
+},
+{
+"q": "The 'General Board' of a Municipality consists of:",
+"o": ["Only the Mayor", "All the elected Ward Councilors", "Only government officers", "The Chief Minister"],
+"a": 1,
+"sol": "The council is the decision-making body representing the city."
+},
+{
+"q": "Why is urban local government necessary?",
+"o": ["To make the city crowded", "To solve complex urban problems like traffic and housing", "To increase pollution", "To stop people from visiting cities"],
+"a": 1,
+"sol": "Local needs in large urban areas require specialized local management."
+},
+{
+"q": "A 'Metropolitan Committee' is formed for cities with a population over:",
+"o": ["10,000", "50,000", "10 Lakh (1 Million)", "1 Crore"],
+"a": 2,
+"sol": "Mega-cities need special planning committees."
+},
+{
+"q": "Property tax is calculated based on:",
+"o": ["The color of the house", "The size and value of the property", "The number of cars", "The height of the residents"],
+"a": 1,
+"sol": "Size and location determine the tax amount for municipal revenue."
+},
+{
+"q": "Who is the Vice-Mayor?",
+"o": ["A government officer", "An elected person who assists the Mayor", "The head of the Police", "A school teacher"],
+"a": 1,
+"sol": "The Vice-Mayor (or Deputy Mayor) takes over in the Mayor's absence."
+},
+{
+"q": "Slum improvement programs are usually handled by:",
+"o": ["The Central Government only", "The Municipal Corporation", "Private builders", "The Army"],
+"a": 1,
+"sol": "Urban bodies work on upgrading living conditions in poorer areas."
+},
+{
+"q": "A Municipality must hold an election within ______ if it is dissolved.",
+"o": ["1 month", "6 months", "1 year", "2 years"],
+"a": 1,
+"sol": "The 6-month rule ensures democratic continuity."
+},
+{
+"q": "The primary duty of the Fire Brigade in a city is managed by:",
+"o": ["The Police", "The Municipal Corporation", "The Post Office", "The Education Board"],
+"a": 1,
+"sol": "Emergency services like firefighting are usually under the Corporation."
+},
+{
+"q": "What does 'Encroachment' mean in a city context?",
+"o": ["Buying a house legally", "Illegal occupying of public land/footpaths", "Cleaning the city", "Planting trees"],
+"a": 1,
+"sol": "Encroachment blocks public space and is cleared by the Municipality."
+},
+{
+"q": "How does the State Government control the Municipality?",
+"o": ["It has no control", "By providing funds and supervising their work", "By building houses itself", "By arresting all councilors"],
+"a": 1,
+"sol": "The state monitors the functioning and finances of local bodies."
+},
+{
+"q": "Which of these is a source of revenue for the city government?",
+"o": ["Passport fees", "Water and drainage tax", "Railway ticket sales", "Customs duty"],
+"a": 1,
+"sol": "Charging for utilities like water helps fund the services."
+},
+{
+"q": "The main office of a Municipal Corporation is called:",
+"o": ["Raj Bhavan", "Municipal Headquarters / Town Hall", "Secretariat", "Police Lines"],
+"a": 1,
+"sol": "Town Hall is traditionally the center of urban governance."
+},
+{
+"q": "Who ensures that street vendors have a designated place to sell?",
+"o": ["The Army", "The Municipality (Vending Committees)", "The Prime Minister", "The Railway Minister"],
+"a": 1,
+"sol": "Managing street vending and markets is a municipal task."
+},
+{
+"q": "A city with 5 lakh population would likely have a:",
+"o": ["Gram Panchayat", "Municipal Corporation", "Zila Parishad", "International Airport"],
+"a": 1,
+"sol": "Large populations (usually over 3-5 lakh) qualify for a Corporation."
+},
+{
+"q": "The 'Standing Committee' of a Corporation handles:",
+"o": ["Only standing meetings", "Important financial and administrative decisions", "The city's sports team", "Cleaning the Mayor's office"],
+"a": 1,
+"sol": "It is the most powerful committee in the Corporation."
+},
+{
+"q": "Public vaccination drives are organized by:",
+"o": ["Private hospitals only", "Municipal Health Centers", "The Post Office", "The Police"],
+"a": 1,
+"sol": "Municipalities provide affordable healthcare and immunization."
+},
+{
+"q": "Urban planning includes:",
+"o": ["Deciding the price of milk", "Designing roads, parks, and zoning of land", "Watching movies", "Printing books"],
+"a": 1,
+"sol": "Planning ensures organized growth of the city."
+},
+{
+"q": "Who is responsible for maintaining public toilets in a city?",
+"o": ["Individual users only", "The Municipality", "The Central Government", "The Police"],
+"a": 1,
+"sol": "Public sanitation infrastructure is a municipal duty."
+},
+{
+"q": "What is the 'Ward Committee'?",
+"o": ["A group of students", "A committee of one or more wards to address local issues", "A secret society", "A club for the Mayor"],
+"a": 1,
+"sol": "It brings governance closer to the people in a specific area."
+},
+{
+"q": "Tax on entertainment (like cinema tickets) goes to:",
+"o": ["The Film Stars", "The Municipality / State Government", "The Police", "The Central Bank"],
+"a": 1,
+"sol": "Local entertainment taxes used to be a major source of revenue."
+},
+{
+"q": "The 74th Amendment added which Schedule to the Constitution?",
+"o": ["10th Schedule", "11th Schedule", "12th Schedule", "1st Schedule"],
+"a": 2,
+"sol": "The 12th Schedule lists the 18 functions of municipalities."
+},
+{
+"q": "Who has the power to pass the annual city budget?",
+"o": ["The Municipal Commissioner", "The General Council (elected members)", "The District Magistrate", "The Governor"],
+"a": 1,
+"sol": "The elected representatives must approve the budget."
+},
+{
+"q": "Urban governance helps in achieving 'Smart Cities' by:",
+"o": ["Building only tall houses", "Using technology for better services and living", "Ignoring the poor", "Closing all schools"],
+"a": 1,
+"sol": "Efficiency and technology are key to modern urban management."
+},
+{
+"q": "If a city doesn't have a good drainage system, who is accountable?",
+"o": ["The citizens only", "The Municipal body", "The neighboring city", "The Education Minister"],
+"a": 1,
+"sol": "Proper drainage and sewerage are core municipal responsibilities."
+},
+{
+"q": "In which city was the first Municipal Corporation in India established?",
+"o": ["Delhi", "Madras (Chennai)", "Bombay (Mumbai)", "Calcutta (Kolkata)"],
+"a": 1,
+"sol": "The Madras Municipal Corporation was established in 1688."
+},
+{
+"q": "A Ward Councilor is elected for ______ years.",
+"o": ["1", "3", "5", "10"],
+"a": 2,
+"sol": "Their term is the same as the municipal body's term."
+},
+{
+"q": "Can a Municipality be dissolved before 5 years?",
+"o": ["No, never", "Yes, by the State Government under special circumstances", "Only by the Mayor", "Only if it rains too much"],
+"a": 1,
+"sol": "The state can dissolve it but must hold elections within 6 months."
+},
+{
+"q": "The work of a Municipality is often audited by:",
+"o": ["The Mayor's children", "Government auditors", "No one", "The local shopkeepers"],
+"a": 1,
+"sol": "Auditing ensures funds are used correctly and legally."
+},
+{
+"q": "Who manages the city's bus service in many large cities?",
+"o": ["The Police", "Municipal Transport Corporations (e.g., BEST, DTC)", "The Railway Ministry", "Private car owners"],
+"a": 1,
+"sol": "Public transport is often a municipal or state-run service."
+},
+{
+"q": "Street lighting is essential for:",
+"o": ["Daylight", "Safety and visibility at night", "Decorating the city", "Wasting electricity"],
+"a": 1,
+"sol": "It is a basic infrastructure provided for public safety."
+},
+{
+"q": "What is 'Solid Waste Management'?",
+"o": ["Buying solid objects", "Systematic collection and disposal of trash", "Eating solid food", "Moving rocks"],
+"a": 1,
+"sol": "It is a key environmental and health function of cities."
+},
+{
+"q": "Registration of vehicles in a city is usually done by:",
+"o": ["The Municipality", "The RTO (Regional Transport Office)", "The Mayor", "The School"],
+"a": 1,
+"sol": "While municipalities manage roads, RTO (state govt) manages vehicles."
+},
+{
+"q": "Who provides licenses to open a shop in the city?",
+"o": ["The Police", "The Municipal Health/Trade department", "The Post Office", "The Army"],
+"a": 1,
+"sol": "Trade licenses are issued by the local urban body."
+},
+{
+"q": "Zoning means:",
+"o": ["Sleeping in a zone", "Dividing city land for residential, commercial, or industrial use", "Playing in a zone", "The Mayor's house"],
+"a": 1,
+"sol": "Zoning ensures that factories are not built next to houses."
+},
+{
+"q": "The primary objective of a Municipality is:",
+"o": ["To make money", "To provide civic amenities to citizens", "To win wars", "To control the villagers"],
+"a": 1,
+"sol": "Civic welfare is the heart of local governance."
+},
+{
+"q": "Who maintains the record of land within the city limits?",
+"o": ["The Forest Department", "Municipal Revenue Department / Tehsildar", "The Police", "The Principal"],
+"a": 1,
+"sol": "Land records are vital for city planning and tax collection."
+},
+{
+"q": "Public health include:",
+"o": ["Drinking soft drinks", "Clean water, sanitation, and hospitals", "Hiding in the house", "Building malls"],
+"a": 1,
+"sol": "These factors ensure the well-being of the urban population."
+},
+{
+"q": "The CEO of a Municipality (Nagar Palika) is called:",
+"o": ["Sarpanch", "Executive Officer (EO)", "The King", "The Police Inspector"],
+"a": 1,
+"sol": "The EO handles the administration in a Municipal Council."
+},
+{
+"q": "Elections to Municipalities are conducted by:",
+"o": ["Election Commission of India", "State Election Commission", "The Mayor", "The District Magistrate"],
+"a": 1,
+"sol": "State Election Commissions handle all local body elections."
+},
+{
+"q": "The word 'Civic' refers to:",
+"o": ["A type of car", "Relating to a city or its citizens", "Relating to the forest", "Relating to the sky"],
+"a": 1,
+"sol": "Civic duties are duties towards the city and fellow citizens."
+},
+{
+"q": "An 'Alderperson' or 'Nominated Member' is:",
+"o": ["A person who is not elected but chosen for their expertise", "A person who is always old", "The winner of the election", "The loser of the election"],
+"a": 0,
+"sol": "Councils often have experts nominated to help in decision-making."
+},
+{
+"q": "Slum clearance often involves:",
+"o": ["Destroying houses without reason", "Providing better housing and facilities to slum dwellers", "Moving everyone to a different state", "Ignoring the area"],
+"a": 1,
+"sol": "Rehabilitation is a key part of urban social welfare."
+},
+{
+"q": "The Municipal Commissioner is responsible to:",
+"o": ["Only the Mayor", "The State Government and the Council", "The Police", "The Prime Minister"],
+"a": 1,
+"sol": "They act as a link between the elected body and the state."
+},
+{
+"q": "Who pays the salary of the Municipal Commissioner?",
+"o": ["The Mayor", "The State Government / Municipality funds", "The citizens directly", "The Bank"],
+"a": 1,
+"sol": "As a government official, they are paid through public funds."
+},
+{
+"q": "What is 'Rainwater Harvesting' in a city?",
+"o": ["Running in the rain", "Collecting and storing rainwater for reuse", "Stopping the rain", "Making artificial rain"],
+"a": 1,
+"sol": "Municipalities often make this mandatory to solve water shortages."
+},
+{
+"q": "If street lights are not working for a month, citizens can:",
+"o": ["Nothing", "File a complaint with the Municipality", "Break the lights", "Stop going out"],
+"a": 1,
+"sol": "Citizens have a right to demand services they pay taxes for."
+},
+{
+"q": "The Chairperson of a Municipal Council is ______ elected.",
+"o": ["Always indirectly", "Directly or indirectly (varies by state)", "Never", "By the President"],
+"a": 1,
+"sol": "The mode of election for the head varies across Indian states."
+},
+{
+"q": "Which of these is a function of the Ward Councilor?",
+"o": ["Arresting criminals", "Representing ward problems to the council", "Printing money", "Teaching in schools"],
+"a": 1,
+"sol": "They act as the voice of their local community."
+},
+{
+"q": "Garbage collection in cities is often 'Outsourced' which means:",
+"o": ["Throwing it outside", "Giving the work to a private company", "Burning it", "Ignoring it"],
+"a": 1,
+"sol": "Privatization of waste collection is common in many cities."
+},
+{
+"q": "The local government in urban areas helps people practice ______.",
+"o": ["Warfare", "Self-governance and democracy", "Dictatorship", "Farming"],
+"a": 1,
+"sol": "It allows people to participate in decisions affecting their daily life."
+},
+{
+"q": "Are there reserved seats for SC and ST in Municipalities?",
+"o": ["No", "Yes, in proportion to their population", "Only for the Mayor's post", "Only in big cities"],
+"a": 1,
+"sol": "Constitutional provisions ensure representation for marginalized groups."
+},
+{
+"q": "Who ensures the quality of food in city restaurants?",
+"o": ["The Police", "Health/Food Inspectors of the Municipality", "The Education Board", "The Post Office"],
+"a": 1,
+"sol": "Ensuring hygiene in public eateries is a health function."
+},
+{
+"q": "What happens in a 'Council Meeting'?",
+"o": ["Members dance", "Discussions on city problems and passing of resolutions", "A movie is shown", "Nothing"],
+"a": 1,
+"sol": "Meetings are where city laws and budgets are debated."
+},
+{
+"q": "Why should we pay taxes to the Municipality?",
+"o": ["Because we have too much money", "To fund the public services we use", "To gift the Mayor", "To help other countries"],
+"a": 1,
+"sol": "Taxes are the 'fuel' for city administration."
+},
+{
+"q": "The name of the urban body for a town with 50,000 people is likely:",
+"o": ["Gram Panchayat", "Municipal Council (Nagar Palika)", "Zila Parishad", "International Space Station"],
+"a": 1,
+"sol": "Medium towns have Nagar Palikas."
+},
+{
+"q": "Urban local bodies help in 'Decentralization' by:",
+"o": ["Taking power away from people", "Giving power to local representatives", "Moving everyone to one city", "Ending all rules"],
+"a": 1,
+"sol": "It brings decision-making closer to the citizens."
+},
+{
+"q": "Who handles the maintenance of city cemeteries and crematoriums?",
+"o": ["The Police", "The Municipality", "The Forest Department", "Private builders"],
+"a": 1,
+"sol": "Managing these essential public spaces is a municipal duty."
+},
+{
+"q": "Which of these is a public utility?",
+"o": ["A private car", "Water supply and sewage", "A personal mobile phone", "A private bedroom"],
+"a": 1,
+"sol": "Public utilities are services intended for the whole community."
+},
+{
+"q": "A Councilor who doesn't listen to the people's problems:",
+"o": ["Will be Mayor forever", "May lose the next election", "Can never be removed", "Is a hero"],
+"a": 1,
+"sol": "Elections hold representatives accountable to the public."
+},
+{
+"q": "What is 'Town Planning'?",
+"o": ["Building houses randomly", "Scientific and orderly development of a town", "Moving to a village", "Having no plans"],
+"a": 1,
+"sol": "Planning prevents chaos in growing cities."
+},
+{
+"q": "The Municipality's role in education involves:",
+"o": ["Writing textbooks for the whole world", "Running primary schools and vocational centers", "Buying cars for students", "Closing all schools"],
+"a": 1,
+"sol": "Providing basic education is a key social responsibility."
+},
+{
+"q": "Who is the first citizen of a city?",
+"o": ["The oldest person", "The Mayor", "The richest person", "The Police Chief"],
+"a": 1,
+"sol": "The Mayor is ceremonially considered the first citizen of the city."
+},
+{
+"q": "Is the Municipal Commissioner elected by the people?",
+"o": ["Yes", "No, they are appointed by the State Government", "Only by the Mayor", "Only in summer"],
+"a": 1,
+"sol": "They are career civil servants (IAS) appointed to run the administration."
+},
+{
+"q": "Public libraries provide:",
+"o": ["Free food", "Access to books and knowledge for everyone", "Place to sleep", "Clothes"],
+"a": 1,
+"sol": "Libraries are a discretionary welfare service of urban bodies."
+},
+{
+"q": "What is 'Urbanization'?",
+"o": ["People moving from cities to villages", "The growth and expansion of cities", "Everyone living in forests", "Stopping all growth"],
+"a": 1,
+"sol": "It is the process of areas becoming more urban."
+},
+{
+"q": "The term of a Mayor is usually:",
+"o": ["Forever", "Fixed by the state (often 1 or 2.5 or 5 years)", "10 years", "1 month"],
+"a": 1,
+"sol": "While the Corporation term is 5 years, the Mayor's term varies by state."
+},
+{
+"q": "Which of these contributes to a clean city?",
+"o": ["Throwing plastic on roads", "Separating dry and wet waste", "Hiding the trash under the bed", "Burning plastic"],
+"a": 1,
+"sol": "Waste segregation is a key citizen contribution to municipal work."
+},
+{
+"q": "A 'Resolution' passed by the council is:",
+"o": ["A type of camera", "A formal decision or plan of action", "A type of sweet", "A failure"],
+"a": 1,
+"sol": "Resolutions guide the administration on what to do."
+},
+{
+"q": "Who maintains public slaughterhouses?",
+"o": ["The Forest Ministry", "The Municipality", "The Post Office", "Private clubs"],
+"a": 1,
+"sol": "Regulation and hygiene of such places are under the Municipality."
+},
+{
+"q": "Local government is also called 'Grassroots' because:",
+"o": ["It deals with grass", "It is at the very basic level of society", "It is on the ground", "It is for animals"],
+"a": 1,
+"sol": "It involves ordinary people at the foundation of democracy."
+},
+{
+"q": "Which of these is a challenge for big cities like Delhi or Mumbai?",
+"o": ["Too many parks", "Overpopulation and pressure on resources", "Too much silence", "No one living there"],
+"a": 1,
+"sol": "Managing huge populations is a major municipal challenge."
+},
+{
+"q": "The 'Seal' of the Municipal Corporation is used for:",
+"o": ["Decorating the Mayor's house", "Official documents and legal agreements", "Making toys", "Keeping it in a museum"],
+"a": 1,
+"sol": "The seal represents the legal authority of the body."
+}
+]
