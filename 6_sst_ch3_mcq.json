@@ -1,602 +1,602 @@
 [
 {
-"q": "What is the primary goal of 'Mindful Eating'?",
-"o": ["Eating as fast as possible", "Being fully attentive to the food and the act of eating", "Eating only junk food", "Skipping meals"],
-"a": 1,
-"sol": "Mindful eating involves paying full attention to the experience of eating and drinking, both inside and outside the body."
-},
-{
-"q": "Which of these is a benefit of eating slowly?",
-"o": ["Better digestion", "Increased hunger", "Choking", "Wasting time"],
-"a": 0,
-"sol": "Chewing food thoroughly and eating slowly helps the stomach signal the brain when it is full and improves digestion."
-},
-{
-"q": "Which nutrient is primarily responsible for body-building?",
-"o": ["Vitamins", "Carbohydrates", "Proteins", "Fats"],
+"q": "Which landform is characterized by a very high elevation and a pointed peak?",
+"o": ["Plain", "Plateau", "Mountain", "Valley"],
 "a": 2,
-"sol": "Proteins are essential for growth and the repair of body tissues."
+"sol": "Mountains are natural elevations of the earth surface, much higher than the surrounding area, often with a peak."
 },
 {
-"q": "Overeating can lead to which of the following?",
-"o": ["Increased energy", "Obesity", "Better eyesight", "Stronger bones"],
+"q": "The Himalayan mountains are an example of which type of mountain?",
+"o": ["Block Mountains", "Fold Mountains", "Volcanic Mountains", "Residual Mountains"],
 "a": 1,
-"sol": "Consistently consuming more calories than the body needs leads to weight gain and obesity."
+"sol": "The Himalayas are young fold mountains formed by the collision of tectonic plates."
 },
 {
-"q": "In traditional Indian culture, eating together is called:",
-"o": ["Pangat", "Buffet", "Fast food", "Solo dining"],
-"a": 0,
-"sol": "Pangat refers to a traditional style of community dining where people sit together in rows to eat."
+"q": "What is a large, flat area of land situated at a high elevation called?",
+"o": ["Mountain", "Plateau", "Plain", "Island"],
+"a": 1,
+"sol": "A plateau is an elevated flat land, also known as a tableland."
 },
 {
-"q": "Which of these is considered 'Junk Food'?",
-"o": ["Sprouted moong", "Fresh fruits", "Deep-fried chips", "Boiled vegetables"],
+"q": "Which landform is most suitable for agriculture and human settlement?",
+"o": ["Mountains", "Plains", "Plateaus", "Deserts"],
+"a": 1,
+"sol": "Plains are generally very fertile and provide flat land for building houses and farming."
+},
+{
+"q": "The 'Roof of the World' is a nickname for which plateau?",
+"o": ["Deccan Plateau", "Tibetan Plateau", "African Plateau", "Colorado Plateau"],
+"a": 1,
+"sol": "The Tibetan Plateau is the highest and largest plateau in the world."
+},
+{
+"q": "What is the process of wearing away of the earth's surface called?",
+"o": ["Deposition", "Erosion", "Volcanism", "Earthquake"],
+"a": 1,
+"sol": "Erosion is the wearing away of the earth's surface by agents like water, wind, and ice."
+},
+{
+"q": "Which of these is a famous block mountain in Europe?",
+"o": ["The Andes", "The Alps", "The Vosges", "The Rockies"],
 "a": 2,
-"sol": "Junk foods are typically high in calories, salt, and fats but low in nutritional value."
+"sol": "The Vosges mountain in France is a classic example of a block mountain."
 },
 {
-"q": "What should we do with leftover food instead of wasting it?",
-"o": ["Throw it in the trash", "Feed it to animals or store it safely for later", "Keep it in the sun", "Flush it"],
+"q": "Low-lying lands between hills or mountains are known as:",
+"o": ["Valleys", "Plateaus", "Peaks", "Ridges"],
+"a": 0,
+"sol": "Valleys are low areas of land between hills or mountains, often with a river running through them."
+},
+{
+"q": "Volcanic mountains are formed due to:",
+"o": ["Folding of rocks", "Erosion by rivers", "Accumulation of lava and ash", "Faulting"],
+"a": 2,
+"sol": "Volcanic mountains like Mt. Kilimanjaro are formed by volcanic activity."
+},
+{
+"q": "The Deccan Plateau is located in which country?",
+"o": ["China", "India", "USA", "Brazil"],
 "a": 1,
-"sol": "Reducing food waste is a key part of mindful living."
+"sol": "The Deccan Plateau is a large plateau in western and southern India."
 },
 {
-"q": "Which vitamin is synthesized by our body in the presence of sunlight?",
-"o": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+"q": "Which agent of nature is primarily responsible for forming 'V-shaped' valleys?",
+"o": ["Wind", "Glaciers", "Rivers", "Ocean waves"],
+"a": 2,
+"sol": "Rivers erode the land vertically and laterally to create V-shaped valleys."
+},
+{
+"q": "Why are mountains thinly populated?",
+"o": ["Lack of water", "Too much oxygen", "Harsh climate and steep slopes", "Too many animals"],
+"a": 2,
+"sol": "The steep slopes make it difficult for farming and transport, and the cold climate is challenging for living."
+},
+{
+"q": "Which landform is known for being rich in mineral deposits?",
+"o": ["Plains", "Mountains", "Plateaus", "Islands"],
+"a": 2,
+"sol": "Many plateaus are famous for mining, such as the African plateau (gold/diamonds) and Chhota Nagpur plateau (iron/coal)."
+},
+{
+"q": "The Northern Plains of India are formed by the deposits of which rivers?",
+"o": ["Indus, Ganga, and Brahmaputra", "Narmada and Tapti", "Krishna and Kaveri", "Godavari and Mahanadi"],
+"a": 0,
+"sol": "The Indo-Gangetic plains are formed by the alluvium brought down by these three major river systems."
+},
+{
+"q": "What do we call a mountain range that is under the sea?",
+"o": ["Oceanic Trench", "Submarine Ridge", "Coral Reef", "Abyssal Plain"],
+"a": 1,
+"sol": "Submarine ridges are underwater mountain systems formed by plate tectonics."
+},
+{
+"q": "Which of these is NOT a major landform?",
+"o": ["Mountain", "Plateau", "Plain", "Forest"],
 "a": 3,
-"sol": "Sunlight helps the skin produce Vitamin D, which is vital for bone health."
+"sol": "Forests are types of vegetation, not physical landforms like mountains or plains."
 },
 {
-"q": "Which of the following is a source of roughage?",
-"o": ["Sugar", "Ghee", "Whole grains and pulses", "Salt"],
-"a": 2,
-"sol": "Roughage or dietary fiber is found in plant-based foods and helps in bowel movements."
-},
-{
-"q": "Why is it important to wash fruits and vegetables before eating?",
-"o": ["To make them taste sweet", "To remove dirt, chemicals, and germs", "To change their color", "To make them soft"],
+"q": "Mt. Fujiyama in Japan is an example of a:",
+"o": ["Fold Mountain", "Volcanic Mountain", "Block Mountain", "Plateau"],
 "a": 1,
-"sol": "Washing ensures food safety by removing surface contaminants."
+"sol": "Mt. Fuji is a famous active volcano and a volcanic mountain."
 },
 {
-"q": "Which of these is an example of a balanced diet?",
-"o": ["Only pizza and soda", "A mix of cereals, pulses, vegetables, fruits, and milk", "Only sweets", "Only drinking water"],
+"q": "The uplifted blocks in block mountains are called:",
+"o": ["Graben", "Horsts", "Syncline", "Anticline"],
 "a": 1,
-"sol": "A balanced diet contains all essential nutrients in the right proportions."
+"sol": "In block mountains, the uplifted blocks are horsts and the lowered blocks are graben."
 },
 {
-"q": "Iron deficiency in the diet can cause:",
-"o": ["Scurvy", "Rickets", "Anemia", "Goitre"],
+"q": "Where is the world's highest rainfall recorded (a place in the plains/hills of India)?",
+"o": ["Ladakh", "Mawsynram", "Jaisalmer", "Mumbai"],
+"a": 1,
+"sol": "Mawsynram in Meghalaya (Khasi Hills) receives the highest average rainfall in the world."
+},
+{
+"q": "Terrace farming is commonly practiced in:",
+"o": ["Plains", "Deserts", "Mountain regions", "Plateaus"],
 "a": 2,
-"sol": "Anemia is a condition where the blood lacks enough healthy red blood cells due to low iron."
+"sol": "Terraces are cut into slopes to create flat land for farming and to prevent soil erosion."
 },
 {
-"q": "Traditional Indian meals often emphasize 'Seasonal' food. This means:",
-"o": ["Eating food that grows at that time of year", "Eating frozen food", "Eating only imported fruits", "Eating the same food all year"],
+"q": "Which landform is ideal for generating hydroelectricity due to waterfalls?",
+"o": ["Plains", "Plateaus", "Deserts", "Valleys"],
+"a": 1,
+"sol": "Plateaus often have rivers that fall from great heights, creating waterfalls suitable for power generation."
+},
+{
+"q": "What is the permanent snow on mountains called?",
+"o": ["Icebergs", "Glaciers", "Snowballs", "Avalanches"],
+"a": 1,
+"sol": "Glaciers are rivers of ice that move slowly down mountain slopes."
+},
+{
+"q": "The Ural mountains in Russia are:",
+"o": ["Young Fold Mountains", "Old Fold Mountains", "Volcanic", "Block"],
+"a": 1,
+"sol": "The Urals are old fold mountains that have been eroded over millions of years."
+},
+{
+"q": "Which of the following is a result of internal earth processes?",
+"o": ["Mountain building", "River delta formation", "Sand dune movement", "Soil erosion"],
 "a": 0,
-"sol": "Seasonal foods are fresher, more nutritious, and better for the environment."
+"sol": "Internal processes lead to the upliftment and sinking of the earth's surface."
 },
 {
-"q": "Which practice helps in avoiding overeating?",
-"o": ["Watching TV while eating", "Checking the phone while eating", "Listening to the body's hunger signals", "Reading a book while eating"],
+"q": "The 'Mauna Kea' mountain in Hawaii is actually higher than Mt. Everest if measured from:",
+"o": ["Sea level", "The ocean floor", "The clouds", "The center of the earth"],
+"a": 1,
+"sol": "Mauna Kea starts at the ocean floor, making its total height greater than Everest's elevation above sea level."
+},
+{
+"q": "Most of the world's population lives in:",
+"o": ["Mountains", "Plains", "Plateaus", "Canyons"],
+"a": 1,
+"sol": "Plains offer the best conditions for agriculture, transport, and construction, attracting most people."
+},
+{
+"q": "A series of mountains is called a:",
+"o": ["Group", "Range", "Block", "Cluster"],
+"a": 1,
+"sol": "A mountain range is a line or series of mountains connected by high ground."
+},
+{
+"q": "Which landform is best for growing cotton due to black soil?",
+"o": ["Himalayas", "Deccan Plateau", "Ganga Plains", "Thar Desert"],
+"a": 1,
+"sol": "The Deccan Plateau is rich in black soil, which is excellent for cotton cultivation."
+},
+{
+"q": "What is 'Alluvium'?",
+"o": ["Volcanic ash", "Fine sand and silt deposited by rivers", "Hard rock", "Glacial ice"],
+"a": 1,
+"sol": "Alluvium is fertile soil deposited by flowing water, especially in river plains."
+},
+{
+"q": "Hundru Falls is located on which plateau?",
+"o": ["Deccan Plateau", "Chhota Nagpur Plateau", "East African Plateau", "Tibetan Plateau"],
+"a": 1,
+"sol": "The Hundru Falls is on the river Subarnarekha in the Chhota Nagpur Plateau."
+},
+{
+"q": "Which mountain range separates Europe from Asia?",
+"o": ["Alps", "Himalayas", "Urals", "Andes"],
 "a": 2,
-"sol": "Mindful eating involves recognizing when you are full."
+"sol": "The Ural Mountains form the natural boundary between the two continents."
 },
 {
-"q": "Millets like Jowar and Bajra are known as:",
-"o": ["Junk food", "Powerhouse of nutrients", "Empty calories", "Sweeteners"],
+"q": "Which area is known as the 'Storehouse of Minerals'?",
+"o": ["Plains", "Plateaus", "Mountains", "Valleys"],
 "a": 1,
-"sol": "Millets are extremely healthy and contain high amounts of fiber and minerals."
+"sol": "Plateaus are often the sites of major mining activities worldwide."
 },
 {
-"q": "What is 'Food Diversity'?",
-"o": ["Eating only one type of grain", "Eating a variety of different foods from different groups", "Eating only at restaurants", "Wasting different types of food"],
+"q": "The Appalachian mountains in North America are:",
+"o": ["Young fold mountains", "Old fold mountains", "Block mountains", "Volcanoes"],
 "a": 1,
-"sol": "Diversity ensures the body gets a range of different vitamins and minerals."
+"sol": "Like the Urals, the Appalachians are old fold mountains with rounded features."
 },
 {
-"q": "Which nutrient provides the most energy per gram?",
-"o": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
-"a": 2,
-"sol": "Fats provide more than double the energy of carbohydrates or proteins."
-},
-{
-"q": "Using a screen (Mobile/TV) while eating leads to:",
-"o": ["Mindful eating", "Mindless eating", "Better taste", "Faster digestion"],
-"a": 1,
-"sol": "Distractions prevent us from noticing the quantity and quality of food we consume."
-},
-{
-"q": "Which of these helps in keeping our teeth and bones strong?",
-"o": ["Iodine", "Calcium", "Iron", "Sugar"],
-"a": 1,
-"sol": "Calcium is the building block for bones and teeth."
-},
-{
-"q": "What is the main source of energy for the brain?",
-"o": ["Glucose (from carbohydrates)", "Salt", "Fiber", "Water"],
-"a": 0,
-"sol": "Carbohydrates break down into glucose, which is the preferred fuel for the brain."
-},
-{
-"q": "Which continent is known for its wide variety of spices used in food?",
-"o": ["Antarctica", "Asia", "Europe", "Australia"],
-"a": 1,
-"sol": "Asia, particularly India, is world-famous for its spice diversity."
-},
-{
-"q": "Drinking enough water is important because it:",
-"o": ["Adds fat to the body", "Helps transport nutrients and remove waste", "Makes us sleepy", "Is a source of protein"],
-"a": 1,
-"sol": "Water is essential for almost every biological function in the body."
-},
-{
-"q": "Fermented foods like Idli and Dhokla are good for:",
-"o": ["The skin", "Gut health/digestion", "Improving height", "Making hair curly"],
-"a": 1,
-"sol": "Fermentation adds beneficial bacteria (probiotics) that aid digestion."
-},
-{
-"q": "Scurvy is caused by a deficiency of:",
-"o": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
-"a": 2,
-"sol": "Vitamin C is found in citrus fruits; its lack causes bleeding gums (scurvy)."
-},
-{
-"q": "The 'Farm to Plate' journey reminds us to:",
-"o": ["Order food online", "Respect the hard work of farmers", "Buy the most expensive food", "Eat only canned food"],
-"a": 1,
-"sol": "Understanding where food comes from helps us value it more and waste less."
-},
-{
-"q": "Night blindness is caused by a lack of:",
-"o": ["Iron", "Vitamin A", "Calcium", "Proteins"],
-"a": 1,
-"sol": "Vitamin A is essential for healthy vision, especially in low light."
-},
-{
-"q": "Which part of the grain is removed in 'Refined' flour (Maida)?",
-"o": ["The husk and bran (fiber)", "The starch", "The calories", "The white part"],
-"a": 0,
-"sol": "Refining removes the fiber and nutrients, leaving behind mostly starch."
-},
-{
-"q": "Goitre is caused by the deficiency of which mineral?",
-"o": ["Iron", "Calcium", "Iodine", "Potassium"],
-"a": 2,
-"sol": "Iodine is necessary for the proper functioning of the thyroid gland."
-},
-{
-"q": "How many glasses of water should an average person drink daily?",
-"o": ["1-2", "8-10", "50", "0"],
-"a": 1,
-"sol": "Proper hydration usually requires about 2-2.5 liters of water a day."
-},
-{
-"q": "What is the best way to preserve the nutrients in vegetables while cooking?",
-"o": ["Deep frying", "Overcooking for a long time", "Steaming or sautéing briefly", "Adding lots of soda"],
-"a": 2,
-"sol": "Steaming preserves more vitamins than boiling or frying."
-},
-{
-"q": "Processed foods usually contain high amounts of:",
-"o": ["Fiber", "Preservatives and sugar", "Fresh vitamins", "Water"],
-"a": 1,
-"sol": "Processed foods are engineered for long shelf life, often using unhealthy additives."
-},
-{
-"q": "Eating a variety of colored vegetables ensures:",
-"o": ["A colorful plate only", "Getting different types of phytonutrients", "The food is spicy", "The food is expensive"],
-"a": 1,
-"sol": "Different colors in plants represent different antioxidants and nutrients."
-},
-{
-"q": "Which food group is at the base of the food pyramid?",
-"o": ["Fats and sweets", "Grains and cereals", "Proteins", "Fruits"],
-"a": 1,
-"sol": "Cereals and grains form the foundation of a healthy diet in most guidelines."
-},
-{
-"q": "A sedentary lifestyle combined with high-fat food leads to:",
-"o": ["Weight loss", "Health risks like heart disease", "Better stamina", "Increased flexibility"],
-"a": 1,
-"sol": "Lack of movement and poor diet are major causes of lifestyle diseases."
-},
-{
-"q": "The tradition of 'Anna Daan' in India means:",
-"o": ["Selling food", "Donating food to the needy", "Cooking food", "Eating food"],
-"a": 1,
-"sol": "Anna Daan is considered a noble act of sharing food with others."
-},
-{
-"q": "Which of these is a plant-based protein source?",
-"o": ["Butter", "Lentils (Dal)", "Honey", "Eggs"],
-"a": 1,
-"sol": "Pulses and lentils are primary protein sources for vegetarians."
-},
-{
-"q": "Which nutrient helps in the absorption of Vitamin A, D, E, and K?",
-"o": ["Water", "Carbohydrates", "Fats", "Fiber"],
-"a": 2,
-"sol": "These vitamins are fat-soluble, meaning they need fats to be absorbed by the body."
-},
-{
-"q": "Symptoms of dehydration include:",
-"o": ["Energy burst", "Thirst and dark urine", "Strong muscles", "Clear skin"],
-"a": 1,
-"sol": "Thirst is the body's way of saying it needs more fluids."
-},
-{
-"q": "What is 'Organic Food'?",
-"o": ["Food grown with artificial chemicals", "Food grown using natural fertilizers and no pesticides", "Plastic food", "Food grown in a lab"],
-"a": 1,
-"sol": "Organic farming focuses on ecological balance and natural inputs."
-},
-{
-"q": "Obesity is a condition of being:",
-"o": ["Underweight", "Severely overweight", "Very tall", "Very short"],
-"a": 1,
-"sol": "Obesity involves excessive body fat that increases health risks."
-},
-{
-"q": "Which of these is a rich source of Vitamin C?",
-"o": ["Rice", "Milk", "Amla (Indian Gooseberry)", "Chicken"],
-"a": 2,
-"sol": "Amla is one of the richest natural sources of Vitamin C."
-},
-{
-"q": "What does 'Satiety' mean?",
-"o": ["Feeling of hunger", "Feeling of being full and satisfied", "Thirst", "Sleepiness"],
-"a": 1,
-"sol": "Satiety is the signal that you have had enough to eat."
-},
-{
-"q": "Which vitamin is important for blood clotting?",
-"o": ["Vitamin A", "Vitamin B12", "Vitamin K", "Vitamin E"],
-"a": 2,
-"sol": "Vitamin K is essential for the process that stops bleeding after an injury."
-},
-{
-"q": "Why should we avoid drinking soft drinks/soda frequently?",
-"o": ["They have too much calcium", "They contain high sugar and no nutrients", "They are too expensive", "They make us too strong"],
-"a": 1,
-"sol": "Soft drinks provide 'empty calories' and can harm teeth and metabolism."
-},
-{
-"q": "The mineral essential for the formation of hemoglobin is:",
-"o": ["Calcium", "Iron", "Magnesium", "Zinc"],
-"a": 1,
-"sol": "Iron is the central component of hemoglobin in red blood cells."
-},
-{
-"q": "Traditional copper vessels were used for storing water because:",
-"o": ["They look like gold", "Copper has antimicrobial properties", "They are very heavy", "They make water hot"],
-"a": 1,
-"sol": "Copper helps kill bacteria and purifies water naturally."
-},
-{
-"q": "Eating curd/yogurt provides our body with:",
-"o": ["Fats only", "Good bacteria (Probiotics)", "Vitamin D only", "Sugar"],
-"a": 1,
-"sol": "Curd is great for digestion due to its probiotic content."
-},
-{
-"q": "Which of these is a sign of mindless eating?",
-"o": ["Chewing 32 times", "Eating because you are bored, not hungry", "Appreciating the aroma of food", "Eating at a fixed time"],
-"a": 1,
-"sol": "Emotional eating or eating out of boredom is a form of mindless eating."
-},
-{
-"q": "What is the role of 'Roughage' in our diet?",
-"o": ["Providing energy", "Building muscles", "Preventing constipation", "Making food tasty"],
-"a": 2,
-"sol": "Fiber adds bulk to the stool and helps it pass easily through the gut."
-},
-{
-"q": "In which season do we typically need more water?",
-"o": ["Winter", "Monsoon", "Summer", "Autumn"],
-"a": 2,
-"sol": "We lose more water through sweat in the summer heat."
-},
-{
-"q": "Which food item is a major source of carbohydrates?",
-"o": ["Egg", "Rice", "Cucumber", "Spinach"],
-"a": 1,
-"sol": "Rice is a staple cereal high in starch/carbohydrates."
-},
-{
-"q": "The 'expiry date' on a food packet tells us:",
-"o": ["When the food was made", "The price of the food", "The date after which the food is unsafe to eat", "The weight of the food"],
-"a": 2,
-"sol": "Consuming food after its expiry date can lead to food poisoning."
-},
-{
-"q": "Which of these contains the highest amount of protein?",
-"o": ["Apple", "Soybean", "Potato", "Butter"],
-"a": 1,
-"sol": "Soybeans are among the best plant sources of protein."
-},
-{
-"q": "Malnutrition refers to:",
-"o": ["Eating too much healthy food", "Lack of proper nutrition", "Drinking too much water", "Eating at a restaurant"],
-"a": 1,
-"sol": "Malnutrition can mean either undernutrition or overnutrition (imbalance)."
-},
-{
-"q": "What is the benefit of 'Sprouting' seeds?",
-"o": ["It makes them hard", "It increases their nutritional value and digestibility", "It makes them salty", "It reduces their weight"],
-"a": 1,
-"sol": "Sprouting increases vitamins and makes proteins easier to absorb."
-},
-{
-"q": "Which of these is a whole grain?",
-"o": ["White Bread", "Brown Rice", "Cakes", "Biscuits"],
-"a": 1,
-"sol": "Whole grains like brown rice retain all parts of the seed (bran, germ, and endosperm)."
-},
-{
-"q": "Why should we limit the use of salt in our food?",
-"o": ["It makes food sweet", "It can lead to high blood pressure", "It changes the color of food", "It makes food cold"],
-"a": 1,
-"sol": "Excess sodium (salt) is linked to hypertension and heart issues."
-},
-{
-"q": "Eating local food is good because it:",
-"o": ["Is very expensive", "Supports local farmers and reduces transport pollution", "Tastes like junk food", "Is always spicy"],
-"a": 1,
-"sol": "Local food has a smaller carbon footprint and is often fresher."
-},
-{
-"q": "Which nutrient protects our body against diseases?",
-"o": ["Fats", "Carbohydrates", "Vitamins and Minerals", "Sugar"],
-"a": 2,
-"sol": "Vitamins and minerals are also called protective foods."
-},
-{
-"q": "What should you check first when buying a packaged food item?",
-"o": ["The color of the packet", "The FSSAI logo and expiry date", "The advertisement", "The shape of the box"],
-"a": 1,
-"sol": "Food safety labels ensure the product meets government standards."
-},
-{
-"q": "Excessive intake of sugar can cause:",
-"o": ["Stronger teeth", "Tooth decay and weight gain", "Better memory", "Faster running"],
-"a": 1,
-"sol": "Sugar feeds bacteria in the mouth and provides excess calories."
-},
-{
-"q": "Rickets is a disease caused by the deficiency of:",
-"o": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+"q": "Which of these factors influences life in the mountains?",
+"o": ["Difficulty in transportation", "Thin air", "Cold temperature", "All of these"],
 "a": 3,
-"sol": "Vitamin D deficiency leads to soft and weak bones in children (rickets)."
+"sol": "All these factors combine to make mountain life distinct and often difficult."
 },
 {
-"q": "Which of these is a healthy snack option?",
-"o": ["Fried samosa", "Roasted chana (chickpeas)", "Donuts", "Carbonated drinks"],
-"a": 1,
-"sol": "Roasted chana is high in protein and fiber."
-},
-{
-"q": "The primary function of carbohydrates is to:",
-"o": ["Repair cells", "Provide energy for daily activities", "Fight infections", "Store vitamins"],
-"a": 1,
-"sol": "Carbohydrates are the body's main source of fuel."
-},
-{
-"q": "Wasting food is also a waste of:",
-"o": ["Water and labor used to grow it", "Nothing", "Only the plate", "Only the money"],
-"a": 0,
-"sol": "Producing food requires immense resources like land, water, and human effort."
-},
-{
-"q": "Which of these is a citrus fruit?",
-"o": ["Banana", "Orange", "Papaya", "Mango"],
-"a": 1,
-"sol": "Oranges, lemons, and limes are citrus fruits rich in Vitamin C."
-},
-{
-"q": "The Indian food system 'Ayurveda' categorizes food based on:",
-"o": ["Price", "Taste and effect on the body", "Packaging", "Country of origin"],
-"a": 1,
-"sol": "Ayurveda looks at the 'Guna' (qualities) and 'Rasa' (tastes) of food."
-},
-{
-"q": "Which of these is a dairy product?",
-"o": ["Bread", "Cheese", "Tofu", "Jam"],
-"a": 1,
-"sol": "Cheese is made from the milk of cows, goats, or buffaloes."
-},
-{
-"q": "Beriberi is caused by the deficiency of:",
-"o": ["Vitamin B1", "Vitamin C", "Iron", "Iodine"],
-"a": 0,
-"sol": "Vitamin B1 (thiamine) deficiency affects the nervous system and heart."
-},
-{
-"q": "What happens when we chew food properly?",
-"o": ["We get tired", "It mixes with saliva and starts digestion", "We eat more", "The food loses nutrients"],
-"a": 1,
-"sol": "Saliva contains enzymes that begin breaking down carbohydrates."
-},
-{
-"q": "Balanced diet depends on a person's:",
-"o": ["Bank balance", "Age and physical activity", "Clothing", "Number of friends"],
-"a": 1,
-"sol": "A growing child or an athlete needs more nutrients than a sedentary adult."
-},
-{
-"q": "Which mineral is necessary for healthy blood pressure?",
-"o": ["Calcium", "Potassium", "Iron", "Iodine"],
-"a": 1,
-"sol": "Potassium helps balance the effects of salt (sodium)."
-},
-{
-"q": "Why is 'Fiber' important even though it provides no nutrients?",
-"o": ["It makes food look green", "It helps clean the digestive system", "It makes us sleep", "It makes food sweet"],
-"a": 1,
-"sol": "Fiber acts like a broom for the intestines."
-},
-{
-"q": "Which of these is a symptom of Vitamin A deficiency?",
-"o": ["Bleeding gums", "Weak bones", "Poor vision in the dark", "Swollen neck"],
+"q": "Sunderbans is a famous delta formed in which landform?",
+"o": ["Mountain", "Plateau", "Plain", "Island"],
 "a": 2,
-"sol": "Night blindness is a classic sign of Vitamin A lack."
+"sol": "Deltas are formed at the mouths of rivers in plain regions before they enter the sea."
 },
 {
-"q": "Mid-day meal scheme in schools aims to:",
-"o": ["Teach cooking", "Provide nutritional food to children", "Sell snacks", "Increase the weight of bags"],
+"q": "Which of these is an example of an external process of the earth?",
+"o": ["Volcanic eruption", "Weathering", "Mountain building", "Earthquake"],
 "a": 1,
-"sol": "It ensures that children get at least one balanced meal a day."
+"sol": "Weathering and erosion are external processes that reshape the land surface."
 },
 {
-"q": "Eating 'Rainbow' on your plate means:",
-"o": ["Eating plastic toys", "Eating a variety of fruits and vegetables of different colors", "Eating only sweets", "Eating under a rainbow"],
+"q": "The height of a mountain is measured from:",
+"o": ["Ground level", "Sea level", "The river bed", "The nearest city"],
 "a": 1,
-"sol": "Different colors provide different essential vitamins."
+"sol": "Mean Sea Level (MSL) is the standard base for measuring altitude."
 },
 {
-"q": "Which of these is a source of Vitamin B12?",
-"o": ["Sunlight", "Animal products (Milk, Eggs, Meat)", "Fruits only", "Salt"],
-"a": 1,
-"sol": "B12 is mainly found in animal-based foods."
-},
-{
-"q": "How does 'Mindful Eating' help with digestion?",
-"o": ["By making us eat more", "By helping us chew better and relax", "By making us eat fast", "It does not help"],
-"a": 1,
-"sol": "A relaxed state during eating helps the digestive system work efficiently."
-},
-{
-"q": "What should be the main drink for a healthy body?",
-"o": ["Fruit juice with sugar", "Water", "Energy drinks", "Tea"],
-"a": 1,
-"sol": "Pure water is the best way to stay hydrated without extra calories."
-},
-{
-"q": "Which of these is a root vegetable?",
-"o": ["Spinach", "Carrot", "Tomato", "Peas"],
-"a": 1,
-"sol": "Carrots grow underground and store energy for the plant."
-},
-{
-"q": "Iodized salt is used to prevent:",
-"o": ["Anemia", "Goitre", "Scurvy", "Rickets"],
-"a": 1,
-"sol": "Iodine is added to salt to ensure the population gets enough for their thyroid health."
-},
-{
-"q": "Which part of the egg is rich in protein?",
-"o": ["Yellow part (Yolk)", "White part (Albumen)", "The shell", "None"],
-"a": 1,
-"sol": "The egg white is almost pure protein."
-},
-{
-"q": "Overcooking food can lead to:",
-"o": ["Loss of vitamins", "Increase in minerals", "Better color", "More energy"],
+"q": "Which landform is created by the deposition of silt by rivers?",
+"o": ["Plains", "Plateaus", "Mountains", "Canyons"],
 "a": 0,
-"sol": "Heat can destroy sensitive vitamins like Vitamin C."
+"sol": "Plains are formed when rivers slow down and drop the sediment they carry."
 },
 {
-"q": "What is the role of fats in the body?",
-"o": ["Only making us fat", "Providing stored energy and insulation", "Building bones", "Making blood"],
-"a": 1,
-"sol": "Fats protect organs and keep the body warm."
-},
-{
-"q": "Which food group should be consumed in the smallest quantity?",
-"o": ["Fruits", "Grains", "Fats and Sugars", "Vegetables"],
+"q": "Lava plateaus are rich in which type of soil?",
+"o": ["Red soil", "Laterite soil", "Black soil", "Sandy soil"],
 "a": 2,
-"sol": "Oil, butter, and sugar should be used sparingly."
+"sol": "Lava flows result in fertile black soil, also called regur soil."
 },
 {
-"q": "Which of these is a pulse (Dal)?",
-"o": ["Wheat", "Moong", "Rice", "Maize"],
+"q": "Jog Falls is a famous waterfall in which Indian state?",
+"o": ["Maharashtra", "Karnataka", "Kerala", "Tamil Nadu"],
 "a": 1,
-"sol": "Moong is a legume/pulse high in protein."
+"sol": "Jog Falls is located on the Sharavathi river in Karnataka."
 },
 {
-"q": "What is the effect of 'Refined' sugar on energy levels?",
-"o": ["Steady energy", "A quick spike followed by a crash", "No effect", "Long-term strength"],
+"q": "The Andes mountain range is located in:",
+"o": ["North America", "South America", "Africa", "Europe"],
 "a": 1,
-"sol": "Refined sugar is absorbed too quickly, causing energy fluctuations."
+"sol": "The Andes is the longest continental mountain range in the world, located in South America."
 },
 {
-"q": "Healthy eating habits include:",
-"o": ["Eating late at night", "Eating breakfast every day", "Eating only once a day", "Eating while standing"],
+"q": "Plains are rarely more than ____ meters above mean sea level.",
+"o": ["100", "200", "500", "1000"],
 "a": 1,
-"sol": "A regular eating schedule helps maintain metabolism."
+"sol": "Plains are generally low-lying lands, usually not exceeding 200m in altitude."
 },
 {
-"q": "Which of these is a sign of fresh vegetables?",
-"o": ["Yellowing leaves", "Firm and vibrant color", "Soft and mushy texture", "Bad smell"],
+"q": "Which activity is very popular for tourists in mountain areas?",
+"o": ["Deep sea diving", "Paragliding and skiing", "Desert safari", "Submarine tours"],
 "a": 1,
-"sol": "Freshness indicates higher nutritional content."
+"sol": "Adventure sports like skiing, paragliding, and river rafting are common in mountains."
 },
 {
-"q": "What is the primary function of Vitamin A?",
-"o": ["Helping blood clot", "Maintaining healthy skin and vision", "Strengthening bones", "Making teeth white"],
+"q": "What is a 'Pass' in a mountain range?",
+"o": ["A ticket to climb", "A narrow path or opening through the mountains", "A dead end", "A waterfall"],
 "a": 1,
-"sol": "Vitamin A is crucial for the retina and skin cells."
+"sol": "Mountain passes provide routes for travel and trade across high ranges."
 },
 {
-"q": "Drinking milk is good for children because it contains:",
-"o": ["Only water", "Calcium and Vitamin D", "Only sugar", "Fiber"],
+"q": "Which plateau is famous for gold and diamond mining?",
+"o": ["Tibetan Plateau", "African Plateau", "Deccan Plateau", "Western Plateau of Australia"],
 "a": 1,
-"sol": "Milk is a complete food for bone growth."
+"sol": "Africa's plateaus are global leaders in the production of gold and diamonds."
 },
 {
-"q": "The 'Green' dot on a food packet indicates:",
-"o": ["The food is spicy", "The food is vegetarian", "The food is expensive", "The food is raw"],
+"q": "The Aravali range in India is one of the oldest ____ in the world.",
+"o": ["Block mountains", "Fold mountain systems", "Volcanic peaks", "Plateaus"],
 "a": 1,
-"sol": "In India, a green dot signifies vegetarian ingredients."
+"sol": "The Aravali range is a very old fold mountain system that has been significantly worn down."
 },
 {
-"q": "Why is 'Home-cooked' food generally better than 'Restaurant' food?",
-"o": ["It is more colorful", "We can control the quality of oil, salt, and hygiene", "It is always tasteless", "It takes less time"],
+"q": "Which type of landform is the 'Grand Canyon'?",
+"o": ["Mountain peak", "Deep Valley/Gorge", "Flat Plain", "Coastal Island"],
 "a": 1,
-"sol": "Home cooking is usually healthier and uses fewer preservatives."
+"sol": "The Grand Canyon is a steep-sided canyon carved by the Colorado River."
 },
 {
-"q": "Which of these is a rich source of plant-based iron?",
-"o": ["Milk", "Spinach", "Bread", "Butter"],
+"q": "In which landform is 'Transhumance' (seasonal movement of people with livestock) most common?",
+"o": ["Plains", "Mountains", "Islands", "Deserts"],
 "a": 1,
-"sol": "Leafy greens like spinach contain non-heme iron."
+"sol": "People move to higher pastures in summer and return to valleys in winter."
 },
 {
-"q": "What is the purpose of 'Preservatives' in food?",
-"o": ["To make food healthy", "To increase shelf life", "To add vitamins", "To make food hot"],
-"a": 1,
-"sol": "Preservatives prevent spoilage by bacteria or mold."
+"q": "Which landform acts as a natural barrier and affects the climate?",
+"o": ["Plains", "Plateaus", "Mountains", "Valleys"],
+"a": 2,
+"sol": "Mountains can block winds and cause rain on one side (leeward/windward effect)."
 },
 {
-"q": "Which of these is a whole food (unprocessed)?",
-"o": ["Potato chips", "Boiled potato", "French fries", "Instant mashed potatoes"],
+"q": "What is the primary occupation of people living in fertile plains?",
+"o": ["Mining", "Agriculture", "Logging", "Hunting"],
 "a": 1,
-"sol": "Whole foods are in their natural state without additives."
+"sol": "Fertile soil and flat land make plains the heart of global food production."
 },
 {
-"q": "The best time to eat dinner is:",
-"o": ["Right before sleeping", "2-3 hours before sleeping", "At midnight", "Early morning"],
+"q": "An 'Island' is a landform that is:",
+"o": ["Connected to a continent", "Surrounded by water on all sides", "Very dry", "Always frozen"],
 "a": 1,
-"sol": "Allowing time for digestion before sleep improves sleep quality."
+"sol": "Islands are land masses completely surrounded by water."
 },
 {
-"q": "A 'Monoculture' diet (eating only one type of food) leads to:",
-"o": ["Better health", "Nutritional deficiencies", "More energy", "Stronger immunity"],
+"q": "The 'Dust Bowl' was a phenomenon associated with which landform?",
+"o": ["Mountains", "Plains", "Plateaus", "Oceans"],
 "a": 1,
-"sol": "No single food provides all the nutrients required by the body."
+"sol": "It refers to a period of severe dust storms on the American prairies (plains)."
 },
 {
-"q": "What should we say before eating, according to many cultures?",
-"o": ["Complaining about the food", "A word of thanks or prayer", "Nothing", "Talking loudly"],
+"q": "Why is transportation easier in the plains?",
+"o": ["Because there is no rain", "Because the land is flat", "Because there are no people", "Because it is very cold"],
 "a": 1,
-"sol": "Gratitude is a part of mindful eating practices worldwide."
+"sol": "Flat terrain allows for easy construction of roads and railway lines."
 },
 {
-"q": "Which of these is a 'Good Fat' source?",
-"o": ["Vanaspati Ghee", "Walnuts and Almonds", "Reused frying oil", "Sugar syrup"],
+"q": "Which of these is a volcanic mountain in Africa?",
+"o": ["Mt. Everest", "Mt. Kilimanjaro", "Mt. Blanc", "Mt. Etna"],
 "a": 1,
-"sol": "Nuts contain unsaturated fats which are good for heart health."
+"sol": "Mt. Kilimanjaro in Tanzania is a world-famous volcanic mountain."
+},
+{
+"q": "What is the mouth of a volcano called?",
+"o": ["Vent", "Crater", "Peak", "Hole"],
+"a": 1,
+"sol": "A crater is the bowl-shaped depression at the top of a volcano."
+},
+{
+"q": "Which mountain range is the longest in the world?",
+"o": ["Himalayas", "Rockies", "Andes", "Alps"],
+"a": 2,
+"sol": "The Andes in South America stretch over 7,000 km."
+},
+{
+"q": "Rivers like the Yangtze flow through the plains of which country?",
+"o": ["India", "USA", "China", "Russia"],
+"a": 2,
+"sol": "The Yangtze is the longest river in Asia, flowing through China."
+},
+{
+"q": "What do we call the process where eroded material is dropped in a new location?",
+"o": ["Erosion", "Deposition", "Weathering", "Subduction"],
+"a": 1,
+"sol": "Deposition builds up the land surface in new areas."
+},
+{
+"q": "Which of these plateaus is known for its beauty and tourism in India?",
+"o": ["Ladakh Plateau", "Malwa Plateau", "Deccan Plateau", "All of these"],
+"a": 3,
+"sol": "All these plateaus have unique landscapes that attract tourists."
+},
+{
+"q": "The Rhone valley and the Vosges mountain are examples of:",
+"o": ["Fold structures", "Block and Rift structures", "Volcanic regions", "Delta regions"],
+"a": 1,
+"sol": "They are part of a system of horsts and grabens (block mountains and valleys)."
+},
+{
+"q": "Which is the most densely populated region of India?",
+"o": ["Himalayan mountains", "Indo-Gangetic Plains", "Thar Desert", "Western Ghats"],
+"a": 1,
+"sol": "The fertile Ganga plains support a massive population due to agriculture."
+},
+{
+"q": "The Alps are located in which continent?",
+"o": ["North America", "Europe", "Asia", "Africa"],
+"a": 1,
+"sol": "The Alps are a major mountain range system located entirely in Europe."
+},
+{
+"q": "What is 'Silt'?",
+"o": ["Large boulders", "Fine mud and sand carried by water", "Lava", "Hard ice"],
+"a": 1,
+"sol": "Silt is the fertile material that makes river plains so productive."
+},
+{
+"q": "A plateau is also known as a:",
+"o": ["Tableland", "Hillock", "Basin", "Ridge"],
+"a": 0,
+"sol": "Its flat top and steep sides give it a table-like appearance."
+},
+{
+"q": "Which mountain is known as 'The king of mountains' in some cultures?",
+"o": ["K2", "Mt. Everest", "Kangchenjunga", "Nanda Devi"],
+"a": 1,
+"sol": "Everest is the highest point on Earth."
+},
+{
+"q": "What is the main source of water for many rivers in India?",
+"o": ["Rainwater only", "Melting glaciers in the Himalayas", "The ocean", "Underground wells"],
+"a": 1,
+"sol": "Perennial rivers like the Ganga depend on glacial meltwater."
+},
+{
+"q": "Which landform is formed when the crust of the earth breaks and moves vertically?",
+"o": ["Fold Mountains", "Block Mountains", "Volcanoes", "Plains"],
+"a": 1,
+"sol": "Block mountains are created by faulting and vertical displacement."
+},
+{
+"q": "The 'Yellow River' (Huang He) is in:",
+"o": ["India", "Vietnam", "China", "Japan"],
+"a": 2,
+"sol": "The Huang He flows through the northern plains of China."
+},
+{
+"q": "Which landform provides a rich variety of flora and fauna?",
+"o": ["Plains", "Mountains", "Both Mountains and Plateaus", "Only cities"],
+"a": 2,
+"sol": "Natural landforms provide diverse habitats for different species."
+},
+{
+"q": "What is a 'Glacier'?",
+"o": ["A frozen lake", "A moving mass of ice and snow", "A cold wind", "A type of rock"],
+"a": 1,
+"sol": "Glaciers are often called 'rivers of ice'."
+},
+{
+"q": "The Deccan Plateau in India is one of the ____ plateaus.",
+"o": ["Youngest", "Oldest", "Highest", "Smallest"],
+"a": 1,
+"sol": "It is an ancient landmass formed millions of years ago."
+},
+{
+"q": "Which of these is a Young Fold Mountain?",
+"o": ["Appalachians", "Urals", "Himalayas", "Aravalis"],
+"a": 2,
+"sol": "Young fold mountains have high, rugged peaks and were formed relatively recently."
+},
+{
+"q": "The Great North American Plains are also called:",
+"o": ["Steppes", "Prairies", "Savannas", "Pampas"],
+"a": 1,
+"sol": "Prairies are the temperate grasslands found in the central USA and Canada."
+},
+{
+"q": "Which landform is characterized by steep sides and a flat top?",
+"o": ["Mountain", "Plateau", "Plain", "Island"],
+"a": 1,
+"sol": "This is the classic definition of a plateau or tableland."
+},
+{
+"q": "Why is soil in the plains very fertile?",
+"o": ["Because of chemical fertilizers", "Because of river deposits (alluvium)", "Because it is red", "Because it is dry"],
+"a": 1,
+"sol": "Rivers carry minerals and organic matter that enrich the soil in the plains."
+},
+{
+"q": "A rift valley is formed by:",
+"o": ["Volcanic eruption", "Sinking of land between faults", "River erosion", "Wind deposition"],
+"a": 1,
+"sol": "A rift valley (graben) is the lowered block in a block mountain system."
+},
+{
+"q": "Which of these is a major occupation in mountainous forests?",
+"o": ["Fishing", "Lumbering (Logging)", "Deep sea mining", "Desert farming"],
+"a": 1,
+"sol": "Forests in mountains provide timber and wood-based products."
+},
+{
+"q": "The height of the Tibetan Plateau is about ____ meters above sea level.",
+"o": ["1000-2000", "4000-6000", "8000-9000", "500-1000"],
+"a": 1,
+"sol": "It is the highest plateau in the world, often called the 'Roof of the World'."
+},
+{
+"q": "What is the study of the earth's physical features called?",
+"o": ["Biology", "Geomorphology", "Astronomy", "History"],
+"a": 1,
+"sol": "Geomorphology focuses on the origin and evolution of topographic features."
+},
+{
+"q": "The 'Basin' of a river is:",
+"o": ["The area where the river starts", "The area drained by a river and its tributaries", "The ocean where the river ends", "The mountain peak"],
+"a": 1,
+"sol": "A river basin is the entire land area that collects water for that river."
+},
+{
+"q": "Which landform is least likely to have a major city built on it?",
+"o": ["Plain", "High Mountain Peak", "Coastline", "Plateau"],
+"a": 1,
+"sol": "Extreme cold and lack of flat space make mountain peaks unsuitable for cities."
+},
+{
+"q": "The 'Rocky Mountains' are found in:",
+"o": ["South America", "North America", "Africa", "Australia"],
+"a": 1,
+"sol": "The Rockies stretch through the western part of North America."
+},
+{
+"q": "A 'Delta' is usually shaped like a:",
+"o": ["Circle", "Triangle", "Square", "Line"],
+"a": 1,
+"sol": "Most deltas are triangular in shape (like the Greek letter Delta)."
+},
+{
+"q": "Which of these is a benefit of mountains for humans?",
+"o": ["Storehouse of water", "Rich in minerals", "Scenic beauty for tourism", "All of these"],
+"a": 3,
+"sol": "Mountains provide water, resources, and recreational opportunities."
+},
+{
+"q": "What do we call the process of soil being moved from one place to another by wind?",
+"o": ["Deposition", "Erosion", "Faulting", "Folding"],
+"a": 1,
+"sol": "Wind erosion is common in dry, flat lands like deserts and plains."
+},
+{
+"q": "The 'Meseta' is a famous plateau in which country?",
+"o": ["Spain", "Mexico", "India", "Australia"],
+"a": 0,
+"sol": "The Meseta Central is a plateau in the heart of Spain."
+},
+{
+"q": "What is a 'Tributary'?",
+"o": ["A large river", "A small river that joins a larger one", "The mouth of a river", "An island"],
+"a": 1,
+"sol": "Tributaries contribute their water to a main river system."
+},
+{
+"q": "Which landform is generally used for 'Pasture land'?",
+"o": ["High mountains", "Plateaus and Hills", "Deep oceans", "Marshes"],
+"a": 1,
+"sol": "Hills and plateaus provide good grazing ground for sheep and cattle."
+},
+{
+"q": "The 'Great Dividing Range' is in:",
+"o": ["Africa", "Australia", "Europe", "Asia"],
+"a": 1,
+"sol": "It is Australia's most substantial mountain range."
+},
+{
+"q": "Which of these landforms is most stable geologically?",
+"o": ["Young Fold Mountains", "Old Plateaus", "River Deltas", "Volcanic Islands"],
+"a": 1,
+"sol": "Ancient plateaus (like the Deccan) are very stable compared to young mountains."
+},
+{
+"q": "What is 'Alluvial Soil' best for?",
+"o": ["Growing cactus", "Growing crops like wheat and rice", "Building skyscrapers", "Mining gold"],
+"a": 1,
+"sol": "Its fertility makes it the best soil for intensive farming."
+},
+{
+"q": "The 'Western Ghats' in India are an example of:",
+"o": ["Volcanic mountains", "A block mountain/escapement", "Young fold mountains", "Plains"],
+"a": 1,
+"sol": "The Western Ghats are the faulted edge of the Deccan Plateau."
+},
+{
+"q": "Which of these is a famous mountain peak in the Alps?",
+"o": ["Mt. Everest", "Mont Blanc", "Mt. Kilimanjaro", "Mt. Aconcagua"],
+"a": 1,
+"sol": "Mont Blanc is the highest mountain in the Alps."
+},
+{
+"q": "Mountains that occur in a line are called a range. If they cover a very large area, they are a:",
+"o": ["Mountain System", "Mountain Block", "Mountain Peak", "Plateau"],
+"a": 0,
+"sol": "A mountain system consists of several mountain ranges."
+},
+{
+"q": "Which landform is often referred to as 'Cradle of Civilizations'?",
+"o": ["Plateaus", "River Plains", "Mountain Ranges", "Islands"],
+"a": 1,
+"sol": "Ancient civilizations like the Indus Valley and Mesopotamian grew in river plains."
+},
+{
+"q": "What is the main reason for earthquakes near young fold mountains?",
+"o": ["Wind pressure", "Tectonic plate movement", "Ocean waves", "Too many trees"],
+"a": 1,
+"sol": "Fold mountains are formed at plate boundaries where activity is high."
+},
+{
+"q": "Which of these provides 'Scenic Beauty' that attracts global tourism?",
+"o": ["High Mountains", "Cascading Waterfalls in Plateaus", "Vast Green Plains", "All of these"],
+"a": 3,
+"sol": "Geological diversity is a major driver of the tourism industry."
+},
+{
+"q": "The 'Columbia Plateau' is in which country?",
+"o": ["Canada", "USA", "Russia", "Brazil"],
+"a": 1,
+"sol": "The Columbia Plateau is a geographic region of the Northwestern United States."
+},
+{
+"q": "Which landform is most prone to 'Landslides'?",
+"o": ["Plains", "Plateaus", "Mountains", "Islands"],
+"a": 2,
+"sol": "Steep slopes and unstable rocks in mountains make them prone to landslides."
+},
+{
+"q": "Why should we protect our landforms?",
+"o": ["To save the environment", "To ensure resources for future generations", "To protect biodiversity", "All of the above"],
+"a": 3,
+"sol": "Landforms are part of our natural heritage and support all life forms."
 }
 ]
