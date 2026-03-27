@@ -1,0 +1,604 @@
+[
+{
+"q": "What is the smallest unit of a society?",
+"o": ["School", "Family", "Village", "Country"],
+"a": 1,
+"sol": "Family is the primary and smallest social unit where a person is born and raised."
+},
+{
+"q": "A family consisting of only parents and their children is called a:",
+"o": ["Joint Family", "Nuclear Family", "Extended Family", "Community"],
+"a": 1,
+"sol": "Nuclear families are small units typically found in urban areas."
+},
+{
+"q": "In which type of family do grandparents, uncles, aunts, and cousins live together?",
+"o": ["Nuclear Family", "Single-parent Family", "Joint Family", "Small Family"],
+"a": 2,
+"sol": "A joint family is a large family group living under one roof, common in rural India."
+},
+{
+"q": "What is the primary function of a family?",
+"o": ["To provide protection and care", "To earn money for neighbors", "To build roads", "To create laws"],
+"a": 0,
+"sol": "Families provide emotional, physical, and social support to their members."
+},
+{
+"q": "Who are our 'Immediate' family members?",
+"o": ["Neighbors", "Friends", "Parents and siblings", "Distant cousins"],
+"a": 2,
+"sol": "Immediate family usually refers to parents, brothers, and sisters."
+},
+{
+"q": "What do we call a group of people living in the same area and sharing common interests?",
+"o": ["Family", "Community", "Classroom", "Market"],
+"a": 1,
+"sol": "A community consists of diverse families living together and helping each other."
+},
+{
+"q": "Which of these is a 'Social Animal' according to Aristotle?",
+"o": ["Tiger", "Man", "Lion", "Eagle"],
+"a": 1,
+"sol": "Aristotle stated that 'Man is by nature a social animal' because humans cannot live alone."
+},
+{
+"q": "Interdependence in a community means:",
+"o": ["Living alone in a forest", "Depending on each other for needs", "Fighting with neighbors", "Not talking to anyone"],
+"a": 1,
+"sol": "We depend on farmers for food, weavers for clothes, and doctors for health."
+},
+{
+"q": "Which value is most important for a happy family?",
+"o": ["Greed", "Selfishness", "Mutual respect", "Jealousy"],
+"a": 2,
+"sol": "Respect and love are the foundations of strong family bonds."
+},
+{
+"q": "What do children learn first from their family?",
+"o": ["Advanced Mathematics", "Values and manners", "How to drive a car", "Professional coding"],
+"a": 1,
+"sol": "Family is the 'first school' where a child learns social behavior."
+},
+{
+"q": "In a community, a 'Barber' provides which service?",
+"o": ["Growing crops", "Cutting hair", "Teaching students", "Curing diseases"],
+"a": 1,
+"sol": "This is an example of specialized roles within a community."
+},
+{
+"q": "Which of the following is an example of a 'Community Service'?",
+"o": ["Cleaning one's own bedroom", "Setting up a public library", "Buying a new phone", "Eating lunch"],
+"a": 1,
+"sol": "Community services benefit the public or the whole neighborhood."
+},
+{
+"q": "Why do people live in communities?",
+"o": ["For security and support", "To make more noise", "Because they are forced", "To ignore others"],
+"a": 0,
+"sol": "Living together provides safety and makes it easier to fulfill daily needs."
+},
+{
+"q": "What is a 'Neighborhood'?",
+"o": ["The area surrounding our home", "A deep forest", "A desert island", "A large ocean"],
+"a": 0,
+"sol": "A neighborhood is the immediate community surrounding where we live."
+},
+{
+"q": "Which festival is usually celebrated by the whole community?",
+"o": ["Birthday", "Wedding anniversary", "Diwali or Eid", "A private dinner"],
+"a": 2,
+"sol": "Religious and national festivals bring the entire community together."
+},
+{
+"q": "A person who moves from a village to a city for work is part of:",
+"o": ["Migration", "Rotation", "Revolution", "Hibernation"],
+"a": 0,
+"sol": "Migration often changes family structures from joint to nuclear."
+},
+{
+"q": "Which of these is a challenge for large joint families today?",
+"o": ["Too much love", "Lack of space in cities", "Too many clothes", "Having no names"],
+"a": 1,
+"sol": "Urbanization and small apartments make it hard to maintain large joint families."
+},
+{
+"q": "What do we call the people who help us in our daily lives (like milkman, postman)?",
+"o": ["Strangers", "Community helpers", "Enemies", "Foreigners"],
+"a": 1,
+"sol": "They are essential pillars of community interdependence."
+},
+{
+"q": "Civic sense means:",
+"o": ["Being rude to elders", "Responsibility towards society", "Throwing garbage on roads", "Breaking traffic rules"],
+"a": 1,
+"sol": "It involves following rules and keeping the environment clean for everyone."
+},
+{
+"q": "Which quality helps in resolving conflicts in a community?",
+"o": ["Anger", "Dialogue and cooperation", "Stubbornness", "Violence"],
+"a": 1,
+"sol": "Talking and working together solves social problems."
+},
+{
+"q": "How does a family help a child in their 'Socialization'?",
+"o": ["By giving them toys", "By teaching how to interact with others", "By letting them sleep all day", "By buying them sweets"],
+"a": 1,
+"sol": "Socialization is the process of learning the norms of society."
+},
+{
+"q": "The head of a traditional joint family in India is often called:",
+"o": ["Karta", "Member", "Guest", "Servant"],
+"a": 0,
+"sol": "The Karta is usually the eldest male member who manages the family affairs."
+},
+{
+"q": "Sharing household chores is an example of:",
+"o": ["Injustice", "Cooperation", "Laziness", "Fighting"],
+"a": 1,
+"sol": "Working together reduces the burden on one person."
+},
+{
+"q": "Which of these is a public property in a community?",
+"o": ["Your school bag", "The public park", "Your bed", "Your personal bicycle"],
+"a": 1,
+"sol": "Public property is owned by the government and used by all community members."
+},
+{
+"q": "A family tree shows:",
+"o": ["How many trees are in a garden", "Relationships between family members over generations", "The height of family members", "The fruit a family eats"],
+"a": 1,
+"sol": "It maps out ancestors and descendants."
+},
+{
+"q": "Working together to clean a local park is called:",
+"o": ["Private work", "Community action", "Selfish act", "Illegal act"],
+"a": 1,
+"sol": "Collective efforts improve the living conditions of the community."
+},
+{
+"q": "What is the main advantage of a nuclear family?",
+"o": ["More privacy and independence", "More people to play with", "Less money needed", "No need to work"],
+"a": 0,
+"sol": "Nuclear families offer more individual space and mobility."
+},
+{
+"q": "What is the main advantage of a joint family?",
+"o": ["You can be lonely", "Support and care for elders and children", "Less food is cooked", "No one talks to you"],
+"a": 1,
+"sol": "Joint families provide a strong safety net for all members."
+},
+{
+"q": "Our 'Extended Family' includes:",
+"o": ["Only parents", "Only pets", "Relatives who don't live with us", "Only ourselves"],
+"a": 2,
+"sol": "Uncles, aunts, and cousins living elsewhere are part of the extended family."
+},
+{
+"q": "Which of these is a social evil that affects families?",
+"o": ["Education", "Child marriage", "Playing sports", "Reading books"],
+"a": 1,
+"sol": "Practices like child marriage harm the development of individuals and society."
+},
+{
+"q": "The concept of 'Vasudhaiva Kutumbakam' extends family values to:",
+"o": ["Only one's house", "The entire world", "Only one's village", "Only one's friends"],
+"a": 1,
+"sol": "It means 'The world is one family'."
+},
+{
+"q": "Which institution provides formal education to children in a community?",
+"o": ["Market", "School", "Cinema hall", "Railway station"],
+"a": 1,
+"sol": "Schools are vital community institutions for learning."
+},
+{
+"q": "Maintaining 'Harmony' in a neighborhood means:",
+"o": ["Playing loud music at night", "Living in peace with neighbors", "Never talking to neighbors", "Encroaching on common land"],
+"a": 1,
+"sol": "Peaceful coexistence is essential for a healthy community."
+},
+{
+"q": "Who among the following is a community helper in a village?",
+"o": ["Astronaut", "Blacksmith", "Deep-sea diver", "Pilot"],
+"a": 1,
+"sol": "Blacksmiths provide essential tools for farming and daily life."
+},
+{
+"q": "Social interdependence makes us ______.",
+"o": ["Stronger and better provided for", "Weaker and scared", "Poor", "Greedy"],
+"a": 0,
+"sol": "Combining skills helps society progress faster."
+},
+{
+"q": "A 'Single-parent' family is one where:",
+"o": ["There are ten parents", "Only one parent raises the child", "There are no children", "Children live alone"],
+"a": 1,
+"sol": "Due to various reasons, one parent may take on the full responsibility of the family."
+},
+{
+"q": "What should we do if we see someone damaging public property?",
+"o": ["Join them", "Inform the authorities or stop them", "Ignore them", "Take a photo and laugh"],
+"a": 1,
+"sol": "Protecting public property is a civic duty."
+},
+{
+"q": "Which of these is a way to show respect to elders in a family?",
+"o": ["Shouting at them", "Listening to their advice", "Ignoring their needs", "Making fun of them"],
+"a": 1,
+"sol": "Respecting elders is a core value in many cultures."
+},
+{
+"q": "Family traditions help in:",
+"o": ["Creating confusion", "Connecting generations", "Wasting time", "Buying more clothes"],
+"a": 1,
+"sol": "Traditions keep the history and values of a family alive."
+},
+{
+"q": "A community can be based on:",
+"o": ["Religion", "Language", "Profession", "All of the above"],
+"a": 3,
+"sol": "Communities form around various shared characteristics."
+},
+{
+"q": "The feeling of 'Belonging' is found in:",
+"o": ["A crowd of strangers", "A family or community", "An empty room", "A dark cave"],
+"a": 1,
+"sol": "Belonging gives us an identity and emotional security."
+},
+{
+"q": "Which of these is a non-material need met by the family?",
+"o": ["Food", "Clothes", "Love and affection", "Shelter"],
+"a": 2,
+"sol": "Emotional needs are just as important as physical needs."
+},
+{
+"q": "In ancient times, communities were formed near:",
+"o": ["Deserts", "Rivers", "Volcanoes", "Thick ice"],
+"a": 1,
+"sol": "Water was essential for survival and farming."
+},
+{
+"q": "What happens when community members don't cooperate?",
+"o": ["Progress stops", "Everything becomes better", "Money grows on trees", "Everyone becomes happy"],
+"a": 0,
+"sol": "Cooperation is the engine of social development."
+},
+{
+"q": "Gender equality in a family means:",
+"o": ["Only boys go to school", "Only girls do housework", "Both boys and girls have equal rights", "Boys and girls are not allowed to talk"],
+"a": 2,
+"sol": "Treating all children equally is a sign of a progressive family."
+},
+{
+"q": "Which of these is a 'Domestic' task?",
+"o": ["Flying an airplane", "Cooking for the family", "Building a bridge", "Mining for coal"],
+"a": 1,
+"sol": "Domestic tasks are related to the household."
+},
+{
+"q": "A 'Nomadic' community is one that:",
+"o": ["Lives in one place forever", "Moves from place to place", "Lives under water", "Lives on the moon"],
+"a": 1,
+"sol": "Nomads move for food, pasture, or trade."
+},
+{
+"q": "Who is responsible for the welfare of a family?",
+"o": ["Only the neighbors", "All adult members of the family", "The television", "The pet dog"],
+"a": 1,
+"sol": "Every adult contributes to the family's well-being."
+},
+{
+"q": "What is the result of 'Urbanization' on families?",
+"o": ["More joint families", "Rise of nuclear families", "No families at all", "People living in trees"],
+"a": 1,
+"sol": "Moving to cities often breaks up large joint families."
+},
+{
+"q": "Adoption is a process where:",
+"o": ["You buy a child", "You legally become a parent to a child not born to you", "You sell a house", "You move to a new country"],
+"a": 1,
+"sol": "Adoption expands a family through legal and emotional bonds."
+},
+{
+"q": "Which of these is a community event?",
+"o": ["A private nap", "A village fair", "A solo walk", "Reading a diary"],
+"a": 1,
+"sol": "Fairs bring people together for social and economic exchange."
+},
+{
+"q": "Peer groups are important because they:",
+"o": ["Help us learn from friends", "Make us fight", "Teach us to be lonely", "Are always wrong"],
+"a": 0,
+"sol": "Friends of the same age help in social development."
+},
+{
+"q": "Which of these helps a community stay healthy?",
+"o": ["Polluting the river", "Garbage management", "Cutting all trees", "Wasting water"],
+"a": 1,
+"sol": "Proper sanitation is a shared community responsibility."
+},
+{
+"q": "A 'Self-help group' in a community is for:",
+"o": ["Sleeping better", "Financial and social support among members", "Watching movies", "Racing cars"],
+"a": 1,
+"sol": "SHGs help people, especially women, become self-reliant."
+},
+{
+"q": "Conflict in a family should be settled by:",
+"o": ["Not talking for years", "Understanding and compromise", "Leaving the house", "Throwing things"],
+"a": 1,
+"sol": "Communication is key to resolving internal issues."
+},
+{
+"q": "What does 'Social Heritage' mean?",
+"o": ["The money we have", "The culture and values passed down", "The cars we drive", "The shoes we wear"],
+"a": 1,
+"sol": "Heritage includes traditions, language, and customs."
+},
+{
+"q": "In a family, who should be cared for with extra attention?",
+"o": ["The television", "The elderly and very young", "The furniture", "The walls"],
+"a": 1,
+"sol": "Vulnerable members need more support."
+},
+{
+"q": "Empathy means:",
+"o": ["Being angry", "Understanding the feelings of others", "Being rich", "Being famous"],
+"a": 1,
+"sol": "Empathy strengthens social and family bonds."
+},
+{
+"q": "A community is a 'Larger Family'. This statement is:",
+"o": ["False", "True", "Partially true", "Nonsense"],
+"a": 1,
+"sol": "Communities often share values similar to a large family."
+},
+{
+"q": "What is the role of a 'Teacher' in the community?",
+"o": ["To build houses", "To educate the next generation", "To cook food", "To repair shoes"],
+"a": 1,
+"sol": "Teachers are essential for social progress."
+},
+{
+"q": "The 'Panchayat' is a community institution in:",
+"o": ["Cities", "Villages", "Outer space", "Ships"],
+"a": 1,
+"sol": "Panchayats manage local affairs in rural India."
+},
+{
+"q": "Good neighbors are those who:",
+"o": ["Spy on us", "Help in times of need", "Spread rumors", "Steal things"],
+"a": 1,
+"sol": "Supportive neighbors make life safer and happier."
+},
+{
+"q": "Which of these is a way to conserve resources in a community?",
+"o": ["Rainwater harvesting", "Leaving taps open", "Keeping all lights on", "Burning plastic"],
+"a": 0,
+"sol": "Environmental conservation is a collective community duty."
+},
+{
+"q": "What defines a 'Tribal' community?",
+"o": ["Living in high-tech cities", "Strong bond with nature and distinct customs", "Speaking only English", "Working in banks"],
+"a": 1,
+"sol": "Tribes have unique cultures closely linked to their environment."
+},
+{
+"q": "The values of a family are often called:",
+"o": ["Ethos", "Price", "Weight", "Speed"],
+"a": 0,
+"sol": "Ethos refers to the characteristic spirit of a culture or community."
+},
+{
+"q": "Family meals are important because they:",
+"o": ["Make us eat more", "Are a time for bonding and talking", "Save electricity", "Are boring"],
+"a": 1,
+"sol": "Shared meals strengthen emotional connections."
+},
+{
+"q": "A 'Citizen' has both rights and ______.",
+"o": ["Money", "Duties", "Cars", "Toys"],
+"a": 1,
+"sol": "Rights and duties go hand-in-hand in a community."
+},
+{
+"q": "Which of these is a social duty?",
+"o": ["Voting in elections", "Watching a movie", "Eating out", "Buying a luxury car"],
+"a": 0,
+"sol": "Voting is a responsibility towards the larger community/nation."
+},
+{
+"q": "Diversity in a community means people are:",
+"o": ["All exactly the same", "Different but living together", "Always fighting", "Not allowed to meet"],
+"a": 1,
+"sol": "Diversity is the variety within a group."
+},
+{
+"q": "What is the primary language we learn in our family called?",
+"o": ["Foreign language", "Mother tongue", "Scientific language", "Dead language"],
+"a": 1,
+"sol": "The mother tongue is usually the first language a child acquires."
+},
+{
+"q": "If a neighbor is sick, what is a good community response?",
+"o": ["Avoid them", "Offer help or check on them", "Complain about them", "Call everyone and make fun"],
+"a": 1,
+"sol": "Kindness builds strong communities."
+},
+{
+"q": "A family that travels together to see a monument is learning about:",
+"o": ["Science", "Cultural Heritage", "Maths", "Physical Education"],
+"a": 1,
+"sol": "Visiting historical sites teaches us about our past."
+},
+{
+"q": "Which of these is a barrier to community unity?",
+"o": ["Equality", "Prejudice", "Education", "Kindness"],
+"a": 1,
+"sol": "Judging others without knowing them creates division."
+},
+{
+"q": "The 'Elders' of a community are often respected for their:",
+"o": ["Fast running", "Wisdom and experience", "Ability to play video games", "New clothes"],
+"a": 1,
+"sol": "Experience comes with age and is valuable to the community."
+},
+{
+"q": "A 'Voluntary' organization is one where people work for:",
+"o": ["Lots of money", "Free (to help others)", "Fear of punishment", "To get a prize"],
+"a": 1,
+"sol": "Volunteers work out of choice to serve society."
+},
+{
+"q": "What does 'Inclusivity' mean in a community?",
+"o": ["Excluding poor people", "Leaving out people with disabilities", "Welcoming and involving everyone", "Only letting friends in"],
+"a": 2,
+"sol": "An inclusive community respects all types of people."
+},
+{
+"q": "How does technology change modern families?",
+"o": ["It makes them talk more face-to-face", "It allows staying connected over long distances", "It deletes all family members", "It makes families disappear"],
+"a": 1,
+"sol": "Video calls and messaging help keep distant families close."
+},
+{
+"q": "What should be our attitude towards people with different religions in our community?",
+"o": ["Hatred", "Respect and tolerance", "Fear", "Ignoring them"],
+"a": 1,
+"sol": "Respect for all faiths is vital for peace."
+},
+{
+"q": "A person who works in a bank is a:",
+"o": ["Farmer", "Professional", "Unskilled worker", "Nomad"],
+"a": 1,
+"sol": "Professional roles are part of the economic community."
+},
+{
+"q": "Which of these is NOT a family value?",
+"o": ["Honesty", "Cruelty", "Punctuality", "Kindness"],
+"a": 1,
+"sol": "Cruelty is a negative trait, not a value."
+},
+{
+"q": "In a democracy, the community chooses its ______.",
+"o": ["Parents", "Leaders/Representatives", "Children", "History"],
+"a": 1,
+"sol": "Citizens vote to choose people who govern them."
+},
+{
+"q": "What is the main cause of family conflicts regarding money?",
+"o": ["Having too much", "Inequality in spending or lack of resources", "Buying too many books", "Giving to charity"],
+"a": 1,
+"sol": "Financial stress can strain family relationships."
+},
+{
+"q": "A 'Foster' family is one that:",
+"o": ["Owns a factory", "Provides temporary care for a child", "Lives in a forest", "Never eats together"],
+"a": 1,
+"sol": "Foster care is a service provided until a permanent home is found."
+},
+{
+"q": "Which of these is a sign of a healthy community?",
+"o": ["High crime rate", "Mutual trust among neighbors", "Dirty streets", "Regular fights"],
+"a": 1,
+"sol": "Trust is the 'social glue' of a community."
+},
+{
+"q": "Family history is important because it tells us about our ______.",
+"o": ["Future", "Roots and ancestors", "Next exam", "Bank balance"],
+"a": 1,
+"sol": "Knowing where we come from helps form our identity."
+},
+{
+"q": "The primary role of the government in a community is to:",
+"o": ["Provide entertainment", "Ensure law, order, and welfare", "Cook food for everyone", "Tell everyone what to wear"],
+"a": 1,
+"sol": "Governments organize the community for the common good."
+},
+{
+"q": "What is 'Altruism'?",
+"o": ["Selfishness", "Helping others without expecting anything in return", "Being a fast runner", "Studying for 20 hours"],
+"a": 1,
+"sol": "Altruism is the highest form of community service."
+},
+{
+"q": "A neighborhood park is a place for:",
+"o": ["Dumping garbage", "Socializing and recreation", "Building houses", "Keeping wild animals"],
+"a": 1,
+"sol": "Parks are essential social spaces."
+},
+{
+"q": "How can children contribute to their family?",
+"o": ["By making a mess", "By helping in small chores and studying well", "By shouting at elders", "By sleeping all day"],
+"a": 1,
+"sol": "Children play an active role in family life."
+},
+{
+"q": "What is 'Social Justice' in a community?",
+"o": ["Giving more to the rich", "Fair treatment and equal opportunities for all", "Having a big police force", "Winning every game"],
+"a": 1,
+"sol": "Justice ensures no one is left behind because of their background."
+},
+{
+"q": "If a community has a common language, it helps in:",
+"o": ["Fighting", "Better communication", "Becoming silent", "Making people leave"],
+"a": 1,
+"sol": "Language is a tool for connection."
+},
+{
+"q": "Which of these is a way to celebrate 'Unity' in a community?",
+"o": ["Community dinners/Langar", "Locking our doors", "Bullying others", "Building high walls"],
+"a": 0,
+"sol": "Shared meals like Langar promote equality and unity."
+},
+{
+"q": "Who is our 'Kith and Kin'?",
+"o": ["Our pets", "Our friends and relatives", "Our enemies", "The people on the moon"],
+"a": 1,
+"sol": "It's an old expression for friends and family."
+},
+{
+"q": "A 'Rural' community is based in a:",
+"o": ["City", "Village", "Factory", "Space station"],
+"a": 1,
+"sol": "Rural refers to the countryside."
+},
+{
+"q": "A 'Urban' community is based in a:",
+"o": ["Forest", "City/Town", "Farm", "River"],
+"a": 1,
+"sol": "Urban refers to developed cities."
+},
+{
+"q": "Which of these is a common interest that brings a community together?",
+"o": ["A local sports club", "Sleeping alone", "Personal secrets", "Eating solo"],
+"a": 0,
+"sol": "Interests like sports create social groups."
+},
+{
+"q": "Why is it important to follow rules in a community?",
+"o": ["To make life difficult", "To ensure order and safety", "Because we are bored", "To look cool"],
+"a": 1,
+"sol": "Rules protect everyone's rights."
+},
+{
+"q": "What is the benefit of a diverse neighborhood?",
+"o": ["More types of food and cultures to learn from", "More arguments", "It is very confusing", "No one knows anyone"],
+"a": 0,
+"sol": "Diversity enriches our personal experiences."
+},
+{
+"q": "A 'Moral' value learned in family is:",
+"o": ["How to lie", "Telling the truth", "Stealing", "Being lazy"],
+"a": 1,
+"sol": "Honesty is a core moral value."
+},
+{
+"q": "Family and Community are ______.",
+"o": ["Separate and never meet", "Linked and support each other", "Enemies", "The same thing"],
+"a": 1,
+"sol": "Strong families build strong communities, and vice versa."
+}
+]
+}
+]
