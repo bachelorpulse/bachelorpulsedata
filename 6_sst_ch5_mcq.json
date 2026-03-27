@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the primary name of our country as mentioned in Article 1 of the Indian Constitution?",
+"o": ["Hindustan", "Bharat, that is India", "India, that is Bharat", "Aryavarta"],
+"a": 2,
+"sol": "Article 1 of the Constitution states, 'India, that is Bharat, shall be a Union of States.'"
+},
+{
+"q": "The name 'India' is derived from which river?",
+"o": ["Ganga", "Indus", "Yamuna", "Brahmaputra"],
+"a": 1,
+"sol": "The name India comes from the River Indus, called Sindhu in Sanskrit."
+},
+{
+"q": "Which ancient text mentions the 'Bharata' tribe for the first time?",
+"o": ["Rig Veda", "Sama Veda", "Yajur Veda", "Atharva Veda"],
+"a": 0,
+"sol": "The Bharata tribe is mentioned in the Rig Veda, the oldest of the four Vedas."
+},
+{
+"q": "The Greeks referred to the River Indus as:",
+"o": ["Sindhu", "Indos", "Hindos", "Blue River"],
+"a": 1,
+"sol": "The Greeks used the name 'Indos' for the River Indus."
+},
+{
+"q": "In ancient times, the land to the east of the Indus was known as:",
+"o": ["Persia", "India", "Mesopotamia", "Egypt"],
+"a": 1,
+"sol": "People coming from the northwest referred to the land across the Indus as India."
+},
+{
+"q": "What does the term 'Sapta Sindhu' mean?",
+"o": ["Seven Oceans", "Seven Rivers", "Seven Mountains", "Seven Valleys"],
+"a": 1,
+"sol": "Sapta Sindhu refers to the region of the seven rivers in the Vedic period."
+},
+{
+"q": "The name 'Hindustan' became popular during which period?",
+"o": ["Ancient", "Medieval", "Modern", "Prehistoric"],
+"a": 1,
+"sol": "The term Hindustan gained popularity during the Medieval period under Persian and Turkic influence."
+},
+{
+"q": "Which mountain range acts as a natural boundary in the north of India?",
+"o": ["Aravalli", "Himalayas", "Vindhyas", "Satpura"],
+"a": 1,
+"sol": "The Himalayas form a massive physical barrier in the northern part of Bharat."
+},
+{
+"q": "The Puranas describe 'Bharatavarsha' as the land located between the Himalayas and the:",
+"o": ["Arabian Sea", "Southern Ocean (Indian Ocean)", "Bay of Bengal", "Indus River"],
+"a": 1,
+"sol": "Ancient texts define Bharatavarsha as the land stretching from the mountains to the sea."
+},
+{
+"q": "Which king is traditionally associated with the name 'Bharat' in legendary history?",
+"o": ["Ashoka", "Bharata, son of Dushyanta", "Chandragupta", "Akbar"],
+"a": 1,
+"sol": "According to legend, the country is named after King Bharata, a virtuous ruler."
+},
+{
+"q": "The Iranian (Persian) name for the river Sindhu was:",
+"o": ["Indus", "Hindos", "Ganges", "Nile"],
+"a": 1,
+"sol": "Iranians pronounced 'S' as 'H', turning Sindhu into Hindu or Hindos."
+},
+{
+"q": "In which year did the Constitution of India come into effect?",
+"o": ["1947", "1950", "1948", "1952"],
+"a": 1,
+"sol": "The Constitution came into force on January 26, 1950."
+},
+{
+"q": "Which ocean is named after our country?",
+"o": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+"a": 2,
+"sol": "The Indian Ocean is the only ocean named after a country."
+},
+{
+"q": "The concept of 'Unity in Diversity' in India was coined by:",
+"o": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"],
+"a": 1,
+"sol": "Nehru used this phrase in his book 'The Discovery of India'."
+},
+{
+"q": "What is the southern-most point of the Indian mainland?",
+"o": ["Indira Point", "Kanyakumari", "Rameshwaram", "Kochi"],
+"a": 1,
+"sol": "Kanyakumari (Cape Comorin) is the southern tip of the mainland."
+},
+{
+"q": "How many states are there in India currently?",
+"o": ["25", "28", "29", "30"],
+"a": 1,
+"sol": "India currently has 28 States and 8 Union Territories."
+},
+{
+"q": "Which line of latitude passes through the center of India?",
+"o": ["Equator", "Tropic of Capricorn", "Tropic of Cancer", "Arctic Circle"],
+"a": 2,
+"sol": "The Tropic of Cancer (23.5° N) divides India into almost two equal halves."
+},
+{
+"q": "The 'Bharat' mentioned in the Rig Veda was a:",
+"o": ["Mountain", "Group of people (Tribe)", "City", "River"],
+"a": 1,
+"sol": "It was a community or tribe living in the northwest."
+},
+{
+"q": "Which neighboring country is located to the west of India?",
+"o": ["China", "Pakistan", "Myanmar", "Bangladesh"],
+"a": 1,
+"sol": "Pakistan is located on the western border of India."
+},
+{
+"q": "India is the ______ largest country in the world by area.",
+"o": ["Fifth", "Sixth", "Seventh", "Eighth"],
+"a": 2,
+"sol": "India is the 7th largest country in terms of land area."
+},
+{
+"q": "The word 'Swaraj' means:",
+"o": ["Foreign rule", "Self-rule", "No rule", "Kingship"],
+"a": 1,
+"sol": "Swaraj refers to self-governance or independence."
+},
+{
+"q": "Which of these is a Union Territory?",
+"o": ["Goa", "Punjab", "Ladakh", "Sikkim"],
+"a": 2,
+"sol": "Ladakh was made a Union Territory in 2019."
+},
+{
+"q": "The National Anthem of India was written by:",
+"o": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
+"a": 1,
+"sol": "Rabindranath Tagore composed 'Jana Gana Mana'."
+},
+{
+"q": "Which script is used to write Hindi, the official language of India?",
+"o": ["Brahmi", "Devanagari", "Roman", "Gurmukhi"],
+"a": 1,
+"sol": "Hindi is written in the Devanagari script."
+},
+{
+"q": "The 'Lion Capital' which is our National Emblem was built by:",
+"o": ["Chandragupta", "Ashoka", "Harsha", "Akbar"],
+"a": 1,
+"sol": "The Sarnath Lion Capital was built by Emperor Ashoka."
+},
+{
+"q": "What do the colors of the Indian National Flag represent?",
+"o": ["Only beauty", "Sacrifice, Peace, and Prosperity", "Different religions", "Seasons"],
+"a": 1,
+"sol": "Saffron is for courage/sacrifice, White for peace, and Green for prosperity."
+},
+{
+"q": "The Ashoka Chakra on the flag has how many spokes?",
+"o": ["12", "20", "24", "30"],
+"a": 2,
+"sol": "The 24 spokes represent the 24 hours of the day and progress."
+},
+{
+"q": "Which of these is the National Song of India?",
+"o": ["Jana Gana Mana", "Vande Mataram", "Sare Jahan Se Achha", "Ae Mere Watan Ke Logo"],
+"a": 1,
+"sol": "Vande Mataram, written by Bankim Chandra Chatterjee, is the National Song."
+},
+{
+"q": "India shares its longest land boundary with:",
+"o": ["China", "Pakistan", "Bangladesh", "Nepal"],
+"a": 2,
+"sol": "India shares a 4,096 km border with Bangladesh."
+},
+{
+"q": "The island groups of India are the Lakshadweep and the:",
+"o": ["Maldives", "Andaman and Nicobar", "Sri Lanka", "Sumatra"],
+"a": 1,
+"sol": "Andaman and Nicobar islands are located in the Bay of Bengal."
+},
+{
+"q": "Which city is the capital of India?",
+"o": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+"a": 2,
+"sol": "New Delhi was made the capital in 1911."
+},
+{
+"q": "The term 'Subcontinent' is often used for India because:",
+"o": ["It is very small", "It is a large, distinct landmass separated by mountains/seas", "It is an island", "It has no mountains"],
+"a": 1,
+"sol": "India is geographically isolated from the rest of Asia by the Himalayas."
+},
+{
+"q": "Which sea lies to the west of the Indian peninsula?",
+"o": ["Bay of Bengal", "Arabian Sea", "Red Sea", "Caspian Sea"],
+"a": 1,
+"sol": "The Arabian Sea borders the western coast of India."
+},
+{
+"q": "India became independent from British rule on:",
+"o": ["January 26", "August 15", "October 2", "November 14"],
+"a": 1,
+"sol": "India gained independence on August 15, 1947."
+},
+{
+"q": "Who is known as the 'Father of the Nation' in India?",
+"o": ["Subhash Chandra Bose", "Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh"],
+"a": 1,
+"sol": "Mahatma Gandhi is widely called the Father of the Nation."
+},
+{
+"q": "The name 'Jambudvipa' was used in ancient times to refer to:",
+"o": ["Asia", "The Indian Subcontinent", "Sri Lanka", "Indonesia"],
+"a": 1,
+"sol": "Jambudvipa is an ancient name for the land including India found in Buddhist and Puranic texts."
+},
+{
+"q": "Which river is considered the holiest in Bharat according to tradition?",
+"o": ["Yamuna", "Ganga", "Narmada", "Godavari"],
+"a": 1,
+"sol": "The Ganga is central to Indian culture and spirituality."
+},
+{
+"q": "India is located in which hemisphere?",
+"o": ["Southern and Eastern", "Northern and Eastern", "Northern and Western", "Southern and Western"],
+"a": 1,
+"sol": "India is entirely in the Northern Hemisphere and Eastern Hemisphere."
+},
+{
+"q": "The western-most state of India is:",
+"o": ["Rajasthan", "Gujarat", "Maharashtra", "Goa"],
+"a": 1,
+"sol": "Gujarat is the western-most state of India."
+},
+{
+"q": "The eastern-most state of India is:",
+"o": ["Assam", "Arunachal Pradesh", "Manipur", "Nagaland"],
+"a": 1,
+"sol": "Arunachal Pradesh is the first state to see the sunrise in India."
+},
+{
+"q": "Which of these is the National Animal of India?",
+"o": ["Lion", "Tiger", "Elephant", "Leopard"],
+"a": 1,
+"sol": "The Royal Bengal Tiger is the national animal."
+},
+{
+"q": "Which of these is the National Bird of India?",
+"o": ["Parrot", "Peacock", "Eagle", "Sparrow"],
+"a": 1,
+"sol": "The Indian Peacock is the national bird."
+},
+{
+"q": "The concept of 'Dharma' in Bharat generally refers to:",
+"o": ["Only religion", "Righteousness and Duty", "Magic", "Money"],
+"a": 1,
+"sol": "Dharma is a key civilizational concept meaning moral duty."
+},
+{
+"q": "Which mountain range separates North India from South India?",
+"o": ["Himalayas", "Vindhyas", "Western Ghats", "Eastern Ghats"],
+"a": 1,
+"sol": "The Vindhya range is historically considered the dividing line."
+},
+{
+"q": "The 'Standard Meridian' of India passes through which city?",
+"o": ["Delhi", "Mirzapur (UP)", "Mumbai", "Patna"],
+"a": 1,
+"sol": "IST is calculated based on 82°30' E longitude passing through Mirzapur."
+},
+{
+"q": "How many Union Territories are there in India?",
+"o": ["7", "8", "9", "6"],
+"a": 1,
+"sol": "There are currently 8 Union Territories."
+},
+{
+"q": "Which of these is the smallest state of India by area?",
+"o": ["Sikkim", "Goa", "Tripura", "Mizoram"],
+"a": 1,
+"sol": "Goa is the smallest state in India."
+},
+{
+"q": "Which of these is the largest state of India by area?",
+"o": ["Madhya Pradesh", "Rajasthan", "Maharashtra", "Uttar Pradesh"],
+"a": 1,
+"sol": "Rajasthan is the largest state by area."
+},
+{
+"q": "The phrase 'Satyamev Jayate' is taken from:",
+"o": ["Rig Veda", "Mundaka Upanishad", "Bhagavad Gita", "Ramayana"],
+"a": 1,
+"sol": "It means 'Truth alone triumphs' and is inscribed on our national emblem."
+},
+{
+"q": "India is a 'Secular' country. What does this mean?",
+"o": ["It has no people", "It treats all religions equally", "It has only one religion", "It is ruled by priests"],
+"a": 1,
+"sol": "Secularism in India means the state has no official religion and respects all."
+},
+{
+"q": "What is the total area of India (approx)?",
+"o": ["2.2 million sq km", "3.28 million sq km", "4.5 million sq km", "5.1 million sq km"],
+"a": 1,
+"sol": "India's total area is about 3.28 million square kilometers."
+},
+{
+"q": "Which water body separates India from Sri Lanka?",
+"o": ["Palk Strait", "Suez Canal", "Panama Canal", "English Channel"],
+"a": 0,
+"sol": "The Palk Strait and Gulf of Mannar lie between India and Sri Lanka."
+},
+{
+"q": "India is a 'Sovereign' nation. This means:",
+"o": ["It is ruled by another country", "It is free to make its own decisions", "It has no laws", "It has a king"],
+"a": 1,
+"sol": "Sovereignty means supreme power or authority over its own territory."
+},
+{
+"q": "The 'Great Indian Desert' is also known as:",
+"o": ["Sahara", "Thar", "Gobi", "Atacama"],
+"a": 1,
+"sol": "The Thar Desert is located mostly in Rajasthan."
+},
+{
+"q": "Which city is known as the 'Silicon Valley of India'?",
+"o": ["Hyderabad", "Bengaluru", "Pune", "Gurugram"],
+"a": 1,
+"sol": "Bengaluru is the hub of India's IT industry."
+},
+{
+"q": "Which is the highest mountain peak in India (located in Sikkim)?",
+"o": ["Mount Everest", "Kanchenjunga", "K2", "Nanda Devi"],
+"a": 1,
+"sol": "Kanchenjunga is the highest peak within the current borders of India."
+},
+{
+"q": "The 'Preamble' to the Constitution is like an:",
+"o": ["Ending", "Introduction/Preface", "Index", "Chapter"],
+"a": 1,
+"sol": "It introduces the fundamental values and philosophy of the Constitution."
+},
+{
+"q": "What is the official name of the Indian flag?",
+"o": ["Tiranga", "Bicolor", "Star and Stripes", "Union Jack"],
+"a": 0,
+"sol": "Tiranga means 'Three Colors'."
+},
+{
+"q": "Which state has the largest population in India?",
+"o": ["Bihar", "Uttar Pradesh", "Maharashtra", "West Bengal"],
+"a": 1,
+"sol": "Uttar Pradesh is the most populous state."
+},
+{
+"q": "Which state is known as the 'Land of Five Rivers'?",
+"o": ["Haryana", "Punjab", "Gujarat", "Rajasthan"],
+"a": 1,
+"sol": "Punjab (Punj + Ab) means Five Waters/Rivers."
+},
+{
+"q": "The first President of India was:",
+"o": ["Dr. S. Radhakrishnan", "Dr. Rajendra Prasad", "Zakir Husain", "V.V. Giri"],
+"a": 1,
+"sol": "Dr. Rajendra Prasad served as the first President."
+},
+{
+"q": "The first Prime Minister of India was:",
+"o": ["Lal Bahadur Shastri", "Jawaharlal Nehru", "Indira Gandhi", "Morarji Desai"],
+"a": 1,
+"sol": "Jawaharlal Nehru was the longest-serving first PM."
+},
+{
+"q": "Which of these is the National Flower of India?",
+"o": ["Rose", "Lotus", "Marigold", "Jasmine"],
+"a": 1,
+"sol": "The Lotus (Nelumbo nucifera) is the national flower."
+},
+{
+"q": "The term 'Ganarajya' refers to:",
+"o": ["Monarchy", "Republic", "Dictatorship", "Colony"],
+"a": 1,
+"sol": "A republic (Ganarajya) is where the head of state is elected."
+},
+{
+"q": "Which part of India is a Peninsula?",
+"o": ["North India", "South India", "East India", "West India"],
+"a": 1,
+"sol": "Southern India is surrounded by water on three sides (Arabian Sea, Bay of Bengal, Indian Ocean)."
+},
+{
+"q": "The 'Deccan Plateau' is located in which part of India?",
+"o": ["Northern", "Southern", "Eastern", "Western"],
+"a": 1,
+"sol": "The Deccan Plateau covers most of the southern peninsula."
+},
+{
+"q": "Which river is also known as 'Dakshin Ganga'?",
+"o": ["Krishna", "Godavari", "Cauvery", "Narmada"],
+"a": 1,
+"sol": "Godavari is the largest river in South India."
+},
+{
+"q": "In which language was the Constitution of India originally written?",
+"o": ["Only Hindi", "Only English", "Both Hindi and English", "Sanskrit"],
+"a": 2,
+"sol": "The original copies were hand-written in both languages."
+},
+{
+"q": "The 'Seven Sister States' are located in which part of India?",
+"o": ["South", "North-East", "North-West", "Central"],
+"a": 1,
+"sol": "These include Arunachal, Assam, Meghalaya, Nagaland, Manipur, Mizoram, and Tripura."
+},
+{
+"q": "Who was the Chairman of the Drafting Committee of the Constitution?",
+"o": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Sardar Patel", "Rajendra Prasad"],
+"a": 1,
+"sol": "Dr. Ambedkar is known as the Architect of the Indian Constitution."
+},
+{
+"q": "What is the National Fruit of India?",
+"o": ["Apple", "Mango", "Banana", "Guava"],
+"a": 1,
+"sol": "The Mango is the national fruit of India."
+},
+{
+"q": "Which state has the highest literacy rate in India?",
+"o": ["Tamil Nadu", "Kerala", "Mizoram", "Goa"],
+"a": 1,
+"sol": "Kerala has consistently held the highest literacy rate."
+},
+{
+"q": "The boundary between India and China is called:",
+"o": ["Radcliffe Line", "McMahon Line", "Durand Line", "LoC"],
+"a": 1,
+"sol": "The McMahon Line defines the border in the eastern sector."
+},
+{
+"q": "The boundary between India and Pakistan is called:",
+"o": ["McMahon Line", "Radcliffe Line", "Maginot Line", "Hindenburg Line"],
+"a": 1,
+"sol": "Sir Cyril Radcliffe drew this boundary in 1947."
+},
+{
+"q": "Which state was the first to be formed on a linguistic (language) basis?",
+"o": ["Tamil Nadu", "Andhra Pradesh", "Karnataka", "Kerala"],
+"a": 1,
+"sol": "Andhra Pradesh was formed in 1953 for Telugu speakers."
+},
+{
+"q": "Which mountain range is the oldest in India?",
+"o": ["Himalayas", "Aravalli", "Western Ghats", "Eastern Ghats"],
+"a": 1,
+"sol": "The Aravalli Range is one of the oldest fold mountains in the world."
+},
+{
+"q": "India's time is how many hours ahead of GMT?",
+"o": ["4 hours", "5 hours 30 minutes", "6 hours", "3 hours 30 minutes"],
+"a": 1,
+"sol": "Indian Standard Time (IST) is GMT +5:30."
+},
+{
+"q": "Which of these is the National Aquatic Animal of India?",
+"o": ["Whale", "Ganges River Dolphin", "Shark", "Turtle"],
+"a": 1,
+"sol": "The Ganges River Dolphin was declared the national aquatic animal in 2009."
+},
+{
+"q": "Which state is known as the 'Tea Garden of India'?",
+"o": ["West Bengal", "Assam", "Kerala", "Sikkim"],
+"a": 1,
+"sol": "Assam is the largest tea-producing state."
+},
+{
+"q": "The 'Gateway of India' is located in:",
+"o": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+"a": 1,
+"sol": "It was built to commemorate the visit of King George V to Mumbai."
+},
+{
+"q": "The 'India Gate' is located in:",
+"o": ["Mumbai", "New Delhi", "Lucknow", "Hyderabad"],
+"a": 1,
+"sol": "It is a war memorial for soldiers who died in World War I."
+},
+{
+"q": "What is the smallest Union Territory of India?",
+"o": ["Chandigarh", "Lakshadweep", "Puducherry", "Ladakh"],
+"a": 1,
+"sol": "Lakshadweep is the smallest UT by area."
+},
+{
+"q": "Which Indian city is known as the 'Pink City'?",
+"o": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
+"a": 1,
+"sol": "Jaipur is famous for its pink-colored stone architecture."
+},
+{
+"q": "The National Tree of India is the:",
+"o": ["Neem", "Banyan", "Peepal", "Mango"],
+"a": 1,
+"sol": "The Banyan tree (Ficus benghalensis) is the national tree."
+},
+{
+"q": "Which of these is a classical dance from Kerala?",
+"o": ["Bharatnatyam", "Kathakali", "Odissi", "Kathak"],
+"a": 1,
+"sol": "Kathakali and Mohiniyattam belong to Kerala."
+},
+{
+"q": "Which is the National River of India?",
+"o": ["Yamuna", "Ganga", "Brahmaputra", "Indus"],
+"a": 1,
+"sol": "The Ganga was declared the national river in 2008."
+},
+{
+"q": "The 'Statue of Unity' is dedicated to:",
+"o": ["Mahatma Gandhi", "Sardar Vallabhbhai Patel", "B.R. Ambedkar", "Jawaharlal Nehru"],
+"a": 1,
+"sol": "Located in Gujarat, it is the tallest statue in the world."
+},
+{
+"q": "India's 'Look East' policy focuses on which region?",
+"o": ["Europe", "South-East Asia", "America", "Africa"],
+"a": 1,
+"sol": "It aims to strengthen ties with ASEAN nations."
+},
+{
+"q": "Which of these is the official currency of India?",
+"o": ["Dollar", "Rupee", "Yen", "Euro"],
+"a": 1,
+"sol": "The Indian Rupee (₹) is the currency."
+},
+{
+"q": "Who designed the current Indian National Flag?",
+"o": ["Rabindranath Tagore", "Pingali Venkayya", "Subhash Chandra Bose", "Annie Besant"],
+"a": 1,
+"sol": "Pingali Venkayya, a freedom fighter from Andhra, designed it."
+},
+{
+"q": "The term 'Vasudhaiva Kutumbakam' means:",
+"o": ["The king is god", "The world is one family", "India is the best", "Peace is war"],
+"a": 1,
+"sol": "This Sanskrit phrase reflects India's global outlook of universal brotherhood."
+},
+{
+"q": "Which state in India is known as 'God's Own Country'?",
+"o": ["Sikkim", "Kerala", "Uttarakhand", "Himachal Pradesh"],
+"a": 1,
+"sol": "Kerala is famous for its natural beauty and tourism slogan."
+},
+{
+"q": "The 'Laccadive Sea' is associated with which Indian islands?",
+"o": ["Andaman", "Lakshadweep", "Majuli", "Daman"],
+"a": 1,
+"sol": "It is the sea surrounding the Lakshadweep islands."
+},
+{
+"q": "Which Indian state has the longest coastline?",
+"o": ["Maharashtra", "Gujarat", "Tamil Nadu", "Andhra Pradesh"],
+"a": 1,
+"sol": "Gujarat has a coastline of about 1,600 km."
+},
+{
+"q": "The 'Yoga Capital of the World' is:",
+"o": ["Varanasi", "Rishikesh", "Haridwar", "Mysuru"],
+"a": 1,
+"sol": "Rishikesh in Uttarakhand is globally renowned for Yoga."
+},
+{
+"q": "India's first satellite was named:",
+"o": ["Bhaskara", "Aryabhata", "Rohini", "Apple"],
+"a": 1,
+"sol": "Aryabhata was launched in 1975."
+},
+{
+"q": "Which festival is known as the 'Festival of Lights' in Bharat?",
+"o": ["Holi", "Diwali", "Eid", "Christmas"],
+"a": 1,
+"sol": "Diwali celebrates the victory of light over darkness."
+},
+{
+"q": "The 'Golden Quadrilateral' connects four major cities of India. Which one is NOT one of them?",
+"o": ["Delhi", "Hyderabad", "Mumbai", "Chennai"],
+"a": 1,
+"sol": "It connects Delhi, Mumbai, Chennai, and Kolkata."
+},
+{
+"q": "Which language is known as the 'Mother of Indian Languages'?",
+"o": ["Hindi", "Sanskrit", "Tamil", "Prakrit"],
+"a": 1,
+"sol": "Sanskrit is the root of many Indo-Aryan languages."
+},
+{
+"q": "What is the motto of the Indian National Emblem?",
+"o": ["Vande Mataram", "Satyamev Jayate", "Jai Hind", "Inquilab Zindabad"],
+"a": 1,
+"sol": "Satyamev Jayate (Truth Alone Triumphs) is inscribed in Devanagari script."
+}
+]
