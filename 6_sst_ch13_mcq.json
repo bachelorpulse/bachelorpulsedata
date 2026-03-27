@@ -1,0 +1,602 @@
+[
+{
+"q": "What does 'Dignity of Labour' mean?",
+"o": ["Only high-paying jobs are good", "Every kind of work should be respected", "Work is a punishment", "Only office work is important"],
+"a": 1,
+"sol": "Dignity of labour means that no work is superior or inferior; all work deserves respect."
+},
+{
+"q": "Which of these is considered 'Essential Work' in a community?",
+"o": ["Playing video games", "Waste collection and sanitation", "Watching movies", "Sleeping"],
+"a": 1,
+"sol": "Sanitation is vital for public health and is an essential service."
+},
+{
+"q": "Who famous leader in India emphasized cleaning one's own surroundings?",
+"o": ["Akbar", "Mahatma Gandhi", "Lord Curzon", "Alexander"],
+"a": 1,
+"sol": "Mahatma Gandhi believed in doing one's own work, including cleaning toilets, to promote equality."
+},
+{
+"q": "Household work done by family members is usually:",
+"o": ["Paid work", "Unpaid labor", "Illegal work", "Government work"],
+"a": 1,
+"sol": "Cooking, cleaning, and caring for family are often unpaid but highly valuable tasks."
+},
+{
+"q": "What is an 'Occupation'?",
+"o": ["A type of hobby", "The way a person earns their living", "A sports game", "A vacation"],
+"a": 1,
+"sol": "An occupation is any work done regularly to earn money."
+},
+{
+"q": "Which of these is a 'Primary' occupation?",
+"o": ["Banking", "Farming", "Teaching", "Software Engineering"],
+"a": 1,
+"sol": "Primary occupations involve extracting or producing natural resources, like agriculture."
+},
+{
+"q": "Gender division of labor refers to:",
+"o": ["Sharing work equally", "Assigning tasks based on being male or female", "Working in a factory", "Hiring only adults"],
+"a": 1,
+"sol": "Society often unfairly divides work into 'men's work' and 'women's work'."
+},
+{
+"q": "If all sanitation workers go on strike, what will happen?",
+"o": ["The city will become cleaner", "Health hazards and garbage piles will increase", "Nothing will change", "Air travel will stop"],
+"a": 1,
+"sol": "Sanitation workers are the backbone of urban health; their absence causes immediate crisis."
+},
+{
+"q": "A 'Social Worker' is someone who:",
+"o": ["Works only for money", "Works for the welfare of society", "Plays social media games", "Avoids people"],
+"a": 1,
+"sol": "Social workers focus on helping people and improving communities."
+},
+{
+"q": "Economic value of work is measured by:",
+"o": ["How much fun it is", "The income or wages earned", "The color of the uniform", "The height of the building"],
+"a": 1,
+"sol": "Money earned is the standard economic measure of work value."
+},
+{
+"q": "Which job is more important for a functioning society?",
+"o": ["Doctor", "Sweeper", "Farmer", "All of the above"],
+"a": 3,
+"sol": "Every job is part of an interdependent system; society needs all of them to function."
+},
+{
+"q": "Domestic help workers provide:",
+"o": ["External security", "Assistance in household chores", "Medical surgeries", "Legal advice"],
+"a": 1,
+"sol": "They help with cleaning, cooking, and laundry in homes."
+},
+{
+"q": "What helps in reducing the burden of household work?",
+"o": ["Ignoring the mess", "Sharing chores among all family members", "Buying more furniture", "Sleeping more"],
+"a": 1,
+"sol": "Equality in the home starts with sharing daily responsibilities."
+},
+{
+"q": "Specialization in work means:",
+"o": ["Doing everything at once", "Focusing on a specific task or skill", "Not working at all", "Working only on Sundays"],
+"a": 1,
+"sol": "Specialization (like a heart surgeon or an electrician) improves efficiency."
+},
+{
+"q": "Why is 'Child Labour' wrong?",
+"o": ["It makes children too rich", "It deprives children of their childhood and education", "It is too easy", "Children work better than adults"],
+"a": 1,
+"sol": "Child labor is illegal and harmful to a child's development and right to school."
+},
+{
+"q": "The 'Service Sector' includes:",
+"o": ["Mining", "Education, Transport, and Health", "Forestry", "Hunting"],
+"a": 1,
+"sol": "Services provide intangible value rather than physical goods."
+},
+{
+"q": "Respecting a cobbler or a tailor is an example of:",
+"o": ["Apathy", "Dignity of Labour", "Classism", "Nepotism"],
+"a": 1,
+"sol": "It shows respect for the skill and effort regardless of the job's status."
+},
+{
+"q": "What is the result of 'Double Burden' for women?",
+"o": ["They get double salary", "They manage both office work and home chores", "They have no work", "They work in two different offices"],
+"a": 1,
+"sol": "Double burden refers to the extra pressure on women to work outside and do all housework."
+},
+{
+"q": "Equality at the workplace means:",
+"o": ["Same dress for everyone", "Equal pay and opportunities for all", "No one has to work", "Working only for 1 hour"],
+"a": 1,
+"sol": "It means no discrimination based on gender, caste, or religion."
+},
+{
+"q": "Manual scavenging was banned because:",
+"o": ["It was too expensive", "It was dehumanizing and dangerous", "No one wanted to do it", "It was a fun job"],
+"a": 1,
+"sol": "It violated human dignity and safety, leading to strict laws against it."
+},
+{
+"q": "Work done without the use of machines is often called:",
+"o": ["Digital work", "Manual labor", "Automated work", "Scientific work"],
+"a": 1,
+"sol": "Manual labor involves physical strength and hands-on effort."
+},
+{
+"q": "Volunteer work is done for:",
+"o": ["High salary", "Personal satisfaction or helping a cause", "Fame and awards", "Compulsion"],
+"a": 1,
+"sol": "Volunteers work by choice without expecting payment."
+},
+{
+"q": "What encourages people to take up different jobs?",
+"o": ["Skills and interests", "Force", "Lack of schools", "Magic"],
+"a": 0,
+"sol": "A person's ability and passion usually guide their career choice."
+},
+{
+"q": "Which of these is a challenge for street vendors?",
+"o": ["Having too much space", "Uncertain income and weather conditions", "Too many holidays", "No customers"],
+"a": 1,
+"sol": "Vendors face many hardships including lack of fixed space and low security."
+},
+{
+"q": "Modern technology has changed work by:",
+"o": ["Making all work impossible", "Automating repetitive tasks", "Stopping all farming", "Increasing manual labor"],
+"a": 1,
+"sol": "Machines and computers have made many tasks faster and easier."
+},
+{
+"q": "The 'Unorganized Sector' includes:",
+"o": ["Government Banks", "Daily wage laborers and small shopkeepers", "The Army", "Large IT companies"],
+"a": 1,
+"sol": "This sector lacks fixed hours, job security, and benefits."
+},
+{
+"q": "Why should we not look down upon any profession?",
+"o": ["Because all people are scary", "Because every profession contributes to society", "Because it is illegal to look at them", "Because they might be rich"],
+"a": 1,
+"sol": "Interdependence means every job supports the whole community."
+},
+{
+"q": "A 'Blue-collar' worker typically performs:",
+"o": ["Managerial tasks", "Manual or technical labor", "Writing novels", "Sleeping"],
+"a": 1,
+"sol": "These workers usually work in manufacturing, construction, or maintenance."
+},
+{
+"q": "A 'White-collar' worker typically works in:",
+"o": ["Fields", "Offices", "Forests", "Mines"],
+"a": 1,
+"sol": "They usually handle professional, administrative, or managerial work."
+},
+{
+"q": "What is 'Self-employment'?",
+"o": ["Working for a boss", "Running one's own business or service", "Being unemployed", "Working for free"],
+"a": 1,
+"sol": "Self-employed people create their own work, like shopkeepers or freelancers."
+},
+{
+"q": "The mid-day meal scheme in schools provides work for:",
+"o": ["Pilots", "Cooks and helpers", "Engineers", "Scientists"],
+"a": 1,
+"sol": "It creates employment while ensuring nutrition for children."
+},
+{
+"q": "What is the 'Minimum Wage'?",
+"o": ["The highest possible pay", "The lowest amount of money a worker must be paid by law", "Zero pay", "Pay given in chocolates"],
+"a": 1,
+"sol": "Minimum wage laws protect workers from exploitation."
+},
+{
+"q": "How does education affect the value of work?",
+"o": ["It makes work harder", "It provides skills that can lead to higher productivity and income", "It has no effect", "It stops people from working"],
+"a": 1,
+"sol": "Skill development through education usually increases the economic value of a worker."
+},
+{
+"q": "An entrepreneur is someone who:",
+"o": ["Follows orders", "Starts and manages a business taking risks", "Works for a government office", "Stays at home"],
+"a": 1,
+"sol": "Entrepreneurs create jobs for others as well."
+},
+{
+"q": "Working in a group teaches us:",
+"o": ["How to fight", "Cooperation and team spirit", "How to hide work", "To be selfish"],
+"a": 1,
+"sol": "Collaboration is an essential skill in most modern workplaces."
+},
+{
+"q": "What is 'Work-Life Balance'?",
+"o": ["Working 24 hours a day", "Managing time between job and personal life", "Not working at all", "Eating while working"],
+"a": 1,
+"sol": "It is necessary for mental and physical health."
+},
+{
+"q": "Handicrafts require:",
+"o": ["No skill", "High manual skill and creativity", "Large computers", "Only electricity"],
+"a": 1,
+"sol": "Artisans use their hands and creativity to make unique products."
+},
+{
+"q": "Which sector employs the most people in India?",
+"o": ["IT sector", "Agriculture", "Tourism", "Space research"],
+"a": 1,
+"sol": "Agriculture remains the largest employer, though its share is decreasing."
+},
+{
+"q": "What can happen due to 'Overwork'?",
+"o": ["More health", "Burnout and health problems", "Wealth for everyone", "Happiness"],
+"a": 1,
+"sol": "Excessive work without rest leads to physical and mental exhaustion."
+},
+{
+"q": "Why is safety equipment important for construction workers?",
+"o": ["To look stylish", "To prevent accidents and injuries", "To weigh them down", "To keep them warm"],
+"a": 1,
+"sol": "Safety is a basic right for workers in high-risk jobs."
+},
+{
+"q": "Job security means:",
+"o": ["The building has a guard", "The assurance that one will keep their job", "Knowing where the office is", "Working in a safe"],
+"a": 1,
+"sol": "Security allows workers to plan their future without fear of sudden unemployment."
+},
+{
+"q": "A person who fixes leaking pipes is a:",
+"o": ["Carpenter", "Plumber", "Electrician", "Driver"],
+"a": 1,
+"sol": "Plumbers are essential for maintaining water systems."
+},
+{
+"q": "The 'Equal Remuneration Act' ensures:",
+"o": ["Everyone gets 100 rupees", "Equal pay for equal work for both men and women", "Only men get paid", "Free food for workers"],
+"a": 1,
+"sol": "It is a legal step towards gender equality in India."
+},
+{
+"q": "Work ethics include:",
+"o": ["Arriving late", "Honesty, punctuality, and responsibility", "Complaining always", "Avoiding work"],
+"a": 1,
+"sol": "Good work ethics make a person a valuable employee."
+},
+{
+"q": "Which of these is a seasonal occupation?",
+"o": ["Teaching", "Ice-cream selling or Harvesting", "Doctor", "Banker"],
+"a": 1,
+"sol": "Some jobs only exist or thrive during specific times of the year."
+},
+{
+"q": "Unemployment happens when:",
+"o": ["People don't want to work", "People who want to work cannot find a job", "People go on a vacation", "People are sleeping"],
+"a": 1,
+"sol": "It is a major economic challenge for any country."
+},
+{
+"q": "Labor unions are formed to:",
+"o": ["Fight with the boss", "Protect the rights and interests of workers", "Organize parties", "Stop work forever"],
+"a": 1,
+"sol": "Collective bargaining helps workers get fair treatment."
+},
+{
+"q": "What is 'Skill India'?",
+"o": ["A game", "A government initiative to train youth for jobs", "A map of India", "A sports team"],
+"a": 1,
+"sol": "It aims to make people more 'employable' by teaching them trades."
+},
+{
+"q": "A person who designs buildings is an:",
+"o": ["Artist", "Architect", "Editor", "Farmer"],
+"a": 1,
+"sol": "Architects combine art and engineering to plan structures."
+},
+{
+"q": "Work done at home for an outside employer is:",
+"o": ["Housework", "Work from home / Remote work", "Unemployment", "Vacation"],
+"a": 1,
+"sol": "Technology has made remote work very common recently."
+},
+{
+"q": "Who provides the raw materials for a factory worker?",
+"o": ["The Shopkeeper", "The Farmer or Miner (Primary sector)", "The Teacher", "The Banker"],
+"a": 1,
+"sol": "Primary sector outputs are used as inputs for the secondary sector."
+},
+{
+"q": "If someone is forced to work against their will, it is:",
+"o": ["Employment", "Forced labor / Slavery", "Hard work", "Diligence"],
+"a": 1,
+"sol": "Forced labor is a violation of human rights."
+},
+{
+"q": "The dignity of work is best shown by:",
+"o": ["Treating everyone with respect regardless of their job", "Paying only rich people", "Ignoring the poor", "Building more malls"],
+"a": 0,
+"sol": "Respect is the core of dignity of labor."
+},
+{
+"q": "Retirement age is the age when a person:",
+"o": ["Starts working", "Stops working due to age or health", "Gets a promotion", "Changes their name"],
+"a": 1,
+"sol": "Most formal jobs have a set retirement age (e.g., 60 years)."
+},
+{
+"q": "Which of these helps a person work better?",
+"o": ["Loud noise", "A clean and safe environment", "No food", "Darkness"],
+"a": 1,
+"sol": "Environment significantly impacts productivity."
+},
+{
+"q": "A 'Strike' is a method used by workers to:",
+"o": ["Play cricket", "Protest and demand better conditions", "Go on a holiday", "Close the office forever"],
+"a": 1,
+"sol": "Stopping work is a form of collective protest."
+},
+{
+"q": "Social status of work should not depend on:",
+"o": ["Effort", "Income or type of work", "Skill", "Hard work"],
+"a": 1,
+"sol": "Judging people based on their job title creates inequality."
+},
+{
+"q": "A 'Full-time' job usually requires:",
+"o": ["1 hour a week", "A standard number of hours (e.g., 8 hours a day)", "Working only at night", "Working only on birthdays"],
+"a": 1,
+"sol": "Full-time workers have a consistent schedule and usually more benefits."
+},
+{
+"q": "Interdependence means:",
+"o": ["Being alone", "People depending on each other for different services", "Doing everything yourself", "Not needing anyone"],
+"a": 1,
+"sol": "A doctor needs a farmer for food; a farmer needs a doctor for health."
+},
+{
+"q": "Caste-based division of labor:",
+"o": ["Is very good", "Leads to discrimination and lack of choice", "Helps in growth", "Is modern"],
+"a": 1,
+"sol": "It restricts people to certain jobs based on birth, which is unfair."
+},
+{
+"q": "A 'Freelancer' is someone who:",
+"o": ["Works for free", "Works for different companies on specific projects", "Is in jail", "Is a king"],
+"a": 1,
+"sol": "Freelancers have the flexibility to choose their projects."
+},
+{
+"q": "Pension is:",
+"o": ["A type of pen", "Money paid regularly after retirement", "A fine", "A gift"],
+"a": 1,
+"sol": "It helps people sustain themselves after they stop working."
+},
+{
+"q": "Which job requires the most physical strength?",
+"o": ["Typing", "Construction labor", "Reading", "Sleeping"],
+"a": 1,
+"sol": "Manual construction work is physically very demanding."
+},
+{
+"q": "Which job requires high intellectual skill?",
+"o": ["Lifting weights", "Scientific research", "Running", "Cleaning"],
+"a": 1,
+"sol": "Research involves high-level thinking and problem-solving."
+},
+{
+"q": "Work provides us with:",
+"o": ["Boredom only", "Income, identity, and a sense of purpose", "Nothing", "Tears only"],
+"a": 1,
+"sol": "Work is central to a person's life and role in society."
+},
+{
+"q": "Why do people migrate for work?",
+"o": ["To see the world for fun", "In search of better job opportunities and income", "To avoid family", "To stay in hotels"],
+"a": 1,
+"sol": "Economic need is the main driver of migration."
+},
+{
+"q": "A 'Vocational' course teaches:",
+"o": ["History", "Specific practical skills for a trade (like plumbing or nursing)", "How to play", "Philosophy"],
+"a": 1,
+"sol": "Vocational training prepares students for immediate jobs."
+},
+{
+"q": "The 'Secondary Sector' involves:",
+"o": ["Teaching", "Manufacturing and construction", "Farming", "Banking"],
+"a": 1,
+"sol": "It processes raw materials into finished goods."
+},
+{
+"q": "E-commerce has created jobs for:",
+"o": ["Hunters", "Delivery partners and warehouse workers", "Cavemen", "Kings"],
+"a": 1,
+"sol": "Online shopping has boosted the logistics and delivery industry."
+},
+{
+"q": "What is the role of a supervisor?",
+"o": ["To do all the work", "To oversee and ensure work is done correctly", "To sleep", "To ignore workers"],
+"a": 1,
+"sol": "Supervisors manage teams and maintain quality."
+},
+{
+"q": "Paid leave is a:",
+"o": ["Punishment", "Benefit where a worker is paid while on holiday", "Mistake", "Fine"],
+"a": 1,
+"sol": "It allows workers to rest without losing their income."
+},
+{
+"q": "Workplace harassment is:",
+"o": ["Allowed", "Illegal and harmful behavior towards employees", "A joke", "Good for work"],
+"a": 1,
+"sol": "Laws exist to protect workers from bullying or mistreatment."
+},
+{
+"q": "A 'Shift' system allows factories to:",
+"o": ["Close early", "Work 24 hours by rotating groups of workers", "Stop working", "Only work on Mondays"],
+"a": 1,
+"sol": "Shifts (Day/Night) maximize production."
+},
+{
+"q": "Human Resources (HR) department handles:",
+"o": ["Buying machines", "Hiring, training, and employee welfare", "Cooking food", "Cleaning windows"],
+"a": 1,
+"sol": "HR manages the 'people' side of a business."
+},
+{
+"q": "What is 'Overtime'?",
+"o": ["Working less than required", "Working extra hours beyond normal time for extra pay", "A type of clock", "Ending work early"],
+"a": 1,
+"sol": "Workers often earn more per hour for overtime."
+},
+{
+"q": "The value of housework is often 'invisible' because:",
+"o": ["It is done at night", "It is unpaid and not counted in national income", "No one does it", "It is too small"],
+"a": 1,
+"sol": "Even though it is essential, housework is not usually given a monetary value."
+},
+{
+"q": "A 'Promotion' usually brings:",
+"o": ["Less work", "More responsibility and usually more pay", "A new name", "Unemployment"],
+"a": 1,
+"sol": "It is a reward for good performance and experience."
+},
+{
+"q": "Who is responsible for maintaining a healthy work environment?",
+"o": ["The workers only", "Both the employer and the employees", "The Police", "No one"],
+"a": 1,
+"sol": "Safety and health are collective responsibilities."
+},
+{
+"q": "A 'Internship' is a:",
+"o": ["Permanent job", "Temporary position for learning and experience", "Type of vacation", "Sports team"],
+"a": 1,
+"sol": "Students use internships to gain practical skills."
+},
+{
+"q": "What motivates a worker the most?",
+"o": ["Constant yelling", "Fair wages and appreciation", "Darkness", "Heavy weights"],
+"a": 1,
+"sol": "Motivation comes from feeling valued and being paid fairly."
+},
+{
+"q": "Which job involves protecting the country?",
+"o": ["Doctor", "Soldier", "Tailor", "Banker"],
+"a": 1,
+"sol": "The Armed Forces defend the nation's borders."
+},
+{
+"q": "A person who sells goods on a cart is a:",
+"o": ["Manager", "Hawker / Street Vendor", "Pilot", "Engineer"],
+"a": 1,
+"sol": "Hawkers provide goods directly at people's doorsteps or streets."
+},
+{
+"q": "Which work is essential during a pandemic?",
+"o": ["Movie making", "Healthcare and essential supply chain", "Tourism", "Sports"],
+"a": 1,
+"sol": "Doctors and delivery people are 'frontline' workers."
+},
+{
+"q": "How can we show gratitude to workers who help us daily?",
+"o": ["By ignoring them", "By being polite and paying fairly", "By complaining more", "By hiding from them"],
+"a": 1,
+"sol": "Kindness and fair compensation are the best ways to show respect."
+},
+{
+"q": "What is 'Productivity'?",
+"o": ["Sleeping on the job", "The rate at which goods or services are produced", "Being late", "Not working"],
+"a": 1,
+"sol": "Higher productivity helps a business grow."
+},
+{
+"q": "The 'Tertiary Sector' is another name for:",
+"o": ["Agriculture", "Service Sector", "Manufacturing", "Mining"],
+"a": 1,
+"sol": "It involves services like trade, transport, and banking."
+},
+{
+"q": "Technological unemployment means:",
+"o": ["Losing a job because of machines or AI", "Being too smart for a job", "A computer breaking down", "Not knowing how to use a phone"],
+"a": 0,
+"sol": "New tech can sometimes replace human roles."
+},
+{
+"q": "What is 'Labour'?",
+"o": ["Resting", "Human effort used in production", "A type of tool", "A holiday"],
+"a": 1,
+"sol": "Labour is one of the main factors of production."
+},
+{
+"q": "A 'Commission' is pay based on:",
+"o": ["Attendance", "Sales or performance achieved", "Height", "Age"],
+"a": 1,
+"sol": "The more you sell, the more you earn in a commission-based job."
+},
+{
+"q": "Job satisfaction comes from:",
+"o": ["Fighting", "Enjoying the work and achieving goals", "Doing nothing", "Being bored"],
+"a": 1,
+"sol": "When people love their work, they perform better."
+},
+{
+"q": "Which document lists the duties of a job?",
+"o": ["Birthday card", "Job Description", "Menu", "Ticket"],
+"a": 1,
+"sol": "It clarifies what is expected from the employee."
+},
+{
+"q": "A 'Whistleblower' is someone who:",
+"o": ["Plays a whistle", "Reports illegal activities in their organization", "Follows every rule", "Is a quiet person"],
+"a": 1,
+"sol": "They help maintain honesty and ethics in the workplace."
+},
+{
+"q": "Childcare is an example of:",
+"o": ["Productive work", "Reproductive / Care work", "Unemployment", "Vacation"],
+"a": 1,
+"sol": "Care work is essential for the future of society."
+},
+{
+"q": "What is the primary goal of the 'Clean India Mission' (Swachh Bharat)?",
+"o": ["To build malls", "To ensure cleanliness and sanitation", "To stop cars", "To plant only roses"],
+"a": 1,
+"sol": "It aims to make India clean and open-defecation free."
+},
+{
+"q": "A person who cuts hair is a:",
+"o": ["Plumber", "Barber / Hairdresser", "Gardener", "Chef"],
+"a": 1,
+"sol": "Personal grooming is an ancient and essential service."
+},
+{
+"q": "Why is leisure (rest) important?",
+"o": ["To be lazy", "To recover energy and stay healthy", "To avoid work forever", "To waste time"],
+"a": 1,
+"sol": "Rest is necessary to keep working effectively."
+},
+{
+"q": "What is 'Job Rotation'?",
+"o": ["Spinning in a chair", "Moving employees between different tasks", "Quitting a job", "Working in a circle"],
+"a": 1,
+"sol": "It helps reduce boredom and teaches multiple skills."
+},
+{
+"q": "Diversity in the workplace means:",
+"o": ["Having only one type of people", "Having people of different backgrounds and skills", "Everyone being identical", "No people at all"],
+"a": 1,
+"sol": "Diversity brings different perspectives and better ideas."
+},
+{
+"q": "Working with 'Integrity' means:",
+"o": ["Doing work only when watched", "Being honest and having strong moral principles", "Taking extra money", "Sleeping on the job"],
+"a": 1,
+"sol": "Integrity is the foundation of trust in professional life."
+},
+{
+"q": "The 'Right to Work' is a part of:",
+"o": ["Space laws", "Social and economic rights", "Sports rules", "Gaming terms"],
+"a": 1,
+"sol": "It implies that everyone should have the opportunity to earn a living."
+}
+]
