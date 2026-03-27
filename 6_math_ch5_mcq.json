@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the only even prime number?",
+"o": ["4", "0", "2", "6"],
+"a": 2,
+"sol": "2 is the only even number that has exactly two factors: 1 and itself."
+},
+{
+"q": "A number that has more than two factors is called a:",
+"o": ["Composite number", "Prime number", "Odd number", "Even number"],
+"a": 0,
+"sol": "Numbers with more than two factors are composite; prime numbers have exactly two."
+},
+{
+"q": "Which of these is neither a prime nor a composite number?",
+"o": ["2", "1", "3", "0"],
+"a": 1,
+"sol": "1 is unique because it has only one factor (itself)."
+},
+{
+"q": "The smallest odd composite number is:",
+"o": ["3", "15", "9", "21"],
+"a": 2,
+"sol": "9 has factors 1, 3, and 9, making it the first odd number that isn't prime."
+},
+{
+"q": "Two prime numbers whose difference is 2 are called:",
+"o": ["Twin primes", "Co-primes", "Perfect numbers", "Composite pairs"],
+"a": 0,
+"sol": "Examples include (3, 5), (5, 7), and (11, 13)."
+},
+{
+"q": "What is the HCF of two consecutive even numbers?",
+"o": ["1", "4", "2", "8"],
+"a": 2,
+"sol": "Any two consecutive even numbers (like 10 and 12) always share 2 as their highest common factor."
+},
+{
+"q": "The smallest prime number is:",
+"o": ["1", "3", "2", "5"],
+"a": 2,
+"sol": "The sequence of primes starts with 2."
+},
+{
+"q": "Which of the following is a pair of co-primes?",
+"o": ["(8, 10)", "(9, 10)", "(6, 9)", "(15, 20)"],
+"a": 1,
+"sol": "Co-primes are numbers whose only common factor is 1. 9 and 10 share no other factors."
+},
+{
+"q": "A number for which sum of all its factors is equal to twice the number is called:",
+"o": ["Prime number", "Perfect number", "Square number", "Even number"],
+"a": 1,
+"sol": "Example: 6. Factors are 1, 2, 3, 6. Sum = 12, which is 2 * 6."
+},
+{
+"q": "The number of factors of a prime number is:",
+"o": ["1", "Infinite", "2", "3"],
+"a": 2,
+"sol": "A prime number is divisible only by 1 and itself."
+},
+{
+"q": "Every number is a multiple of:",
+"o": ["2", "0", "1", "10"],
+"a": 2,
+"sol": "Any number 'n' can be written as n * 1."
+},
+{
+"q": "Which number is a factor of every number?",
+"o": ["0", "2", "1", "The number itself only"],
+"a": 2,
+"sol": "1 divides every integer without a remainder."
+},
+{
+"q": "The LCM of 12 and 16 is:",
+"o": ["24", "48", "32", "96"],
+"a": 1,
+"sol": "Multiples of 12: 12, 24, 36, 48... Multiples of 16: 16, 32, 48..."
+},
+{
+"q": "Which of these is a multiple of 7?",
+"o": ["15", "27", "28", "31"],
+"a": 2,
+"sol": "7 * 4 = 28."
+},
+{
+"q": "The smallest composite number is:",
+"o": ["2", "1", "4", "6"],
+"a": 2,
+"sol": "1 is neither, 2 is prime, 3 is prime, 4 is composite (1, 2, 4)."
+},
+{
+"q": "How many prime numbers are there between 1 and 10?",
+"o": ["3", "5", "4", "2"],
+"a": 2,
+"sol": "The primes are 2, 3, 5, and 7."
+},
+{
+"q": "Numbers having only 1 as a common factor are called:",
+"o": ["Twin primes", "Composite", "Co-primes", "Perfect"],
+"a": 2,
+"sol": "Co-primes do not necessarily have to be prime numbers themselves (e.g., 8 and 9)."
+},
+{
+"q": "What is the prime factorization of 12?",
+"o": ["2 x 6", "3 x 4", "2 x 2 x 3", "1 x 12"],
+"a": 2,
+"sol": "Prime factorization must only contain prime numbers."
+},
+{
+"q": "If a number is divisible by 9, it must also be divisible by:",
+"o": ["2", "6", "3", "18"],
+"a": 2,
+"sol": "Since 3 is a factor of 9, any multiple of 9 is also a multiple of 3."
+},
+{
+"q": "The HCF of 20, 28 and 36 is:",
+"o": ["2", "8", "4", "10"],
+"a": 2,
+"sol": "4 is the largest number that divides 20, 28, and 36."
+},
+{
+"q": "A number is divisible by 5 if its last digit is:",
+"o": ["5 only", "0 only", "0 or 5", "Even"],
+"a": 2,
+"sol": "This is the standard divisibility rule for 5."
+},
+{
+"q": "Which of the following is a prime number?",
+"o": ["91", "51", "97", "81"],
+"a": 2,
+"sol": "97 has no factors other than 1 and 97. (91 = 7x13, 51 = 3x17)."
+},
+{
+"q": "The sum of two odd numbers is always:",
+"o": ["Odd", "Prime", "Even", "Zero"],
+"a": 2,
+"sol": "Odd + Odd = Even (e.g., 3 + 5 = 8)."
+},
+{
+"q": "The LCM of two co-prime numbers is always:",
+"o": ["Their sum", "Their difference", "Their product", "1"],
+"a": 2,
+"sol": "Since they share no factors, the smallest common multiple is their product."
+},
+{
+"q": "Which is the smallest perfect number?",
+"o": ["1", "28", "6", "12"],
+"a": 2,
+"sol": "The factors of 6 are 1, 2, 3 (excluding 6), and 1+2+3=6."
+},
+{
+"q": "A number is divisible by 6 if it is divisible by both:",
+"o": ["2 and 4", "3 and 4", "2 and 3", "5 and 1"],
+"a": 2,
+"sol": "6 = 2 * 3, and 2 and 3 are co-prime."
+},
+{
+"q": "How many factors does 15 have?",
+"o": ["2", "3", "4", "5"],
+"a": 2,
+"sol": "The factors are 1, 3, 5, 15."
+},
+{
+"q": "The HCF of co-prime numbers is:",
+"o": ["Their product", "0", "1", "Their sum"],
+"a": 2,
+"sol": "By definition, co-primes only share the factor 1."
+},
+{
+"q": "Which of these is a twin prime pair?",
+"o": ["(1, 3)", "(3, 5)", "(7, 11)", "(2, 3)"],
+"a": 1,
+"sol": "5 - 3 = 2, and both are prime."
+},
+{
+"q": "If the sum of digits of a number is 15, the number is divisible by:",
+"o": ["9", "2", "3", "5"],
+"a": 2,
+"sol": "If the sum of digits is divisible by 3, the number is divisible by 3."
+},
+{
+"q": "The only prime number between 90 and 100 is:",
+"o": ["91", "93", "97", "99"],
+"a": 2,
+"sol": "97 is the only prime in this range."
+},
+{
+"q": "Multiples of a number are:",
+"o": ["Finite", "Always prime", "Infinite", "Less than the number"],
+"a": 2,
+"sol": "You can keep multiplying a number by larger and larger integers forever."
+},
+{
+"q": "What is the seventh multiple of 8?",
+"o": ["48", "64", "56", "72"],
+"a": 2,
+"sol": "8 * 7 = 56."
+},
+{
+"q": "Every prime number except 2 is:",
+"o": ["Even", "Composite", "Odd", "Perfect"],
+"a": 2,
+"sol": "Any even number greater than 2 is divisible by 2, so it can't be prime."
+},
+{
+"q": "Factors of a number are always:",
+"o": ["Greater than the number", "Infinite", "Less than or equal to the number", "Only prime"],
+"a": 2,
+"sol": "A factor cannot be larger than the number itself."
+},
+{
+"q": "The sum of first three prime numbers is:",
+"o": ["6", "10", "15", "11"],
+"a": 1,
+"sol": "2 + 3 + 5 = 10."
+},
+{
+"q": "Which of the following is divisible by 11?",
+"o": ["121", "111", "101", "112"],
+"a": 0,
+"sol": "121 / 11 = 11. (Rule: Diff between sum of odd and even place digits is 0 or 11)."
+},
+{
+"q": "The greatest common factor of 15 and 25 is:",
+"o": ["1", "10", "5", "75"],
+"a": 2,
+"sol": "5 is the largest number dividing both 15 and 25."
+},
+{
+"q": "Prime factorization of 24 is:",
+"o": ["2 x 2 x 6", "4 x 6", "2 x 2 x 2 x 3", "3 x 8"],
+"a": 2,
+"sol": "2 * 2 * 2 * 3 = 24, all are prime."
+},
+{
+"q": "A number is divisible by 4 if:",
+"o": ["Last digit is 4", "Sum of digits is 4", "Last two digits are divisible by 4", "It is odd"],
+"a": 2,
+"sol": "This is the divisibility rule for 4."
+},
+{
+"q": "Common factors of 8 and 12 are:",
+"o": ["1, 2, 4", "1, 2, 8", "1, 4, 12", "2, 4, 6"],
+"a": 0,
+"sol": "Factors of 8: 1,2,4,8. Factors of 12: 1,2,3,4,6,12."
+},
+{
+"q": "The LCM of 5 and 10 is:",
+"o": ["5", "50", "10", "15"],
+"a": 2,
+"sol": "10 is a multiple of 5, so 10 is the LCM."
+},
+{
+"q": "Is 21 a prime number?",
+"o": ["Yes", "No, it is composite", "It is neither", "Only on Tuesdays"],
+"a": 1,
+"sol": "21 is divisible by 1, 3, 7, and 21."
+},
+{
+"q": "A number is divisible by 10 if its last digit is:",
+"o": ["5", "Any even number", "0", "10"],
+"a": 2,
+"sol": "Only numbers ending in 0 are multiples of 10."
+},
+{
+"q": "The HCF of two prime numbers p and q is:",
+"o": ["pq", "p+q", "1", "0"],
+"a": 2,
+"sol": "Primes share no factors other than 1."
+},
+{
+"q": "Which of these is an odd prime?",
+"o": ["2", "4", "3", "9"],
+"a": 2,
+"sol": "3 is prime and odd. (9 is odd but not prime)."
+},
+{
+"q": "Product of HCF and LCM of two numbers is equal to:",
+"o": ["Sum of numbers", "Product of numbers", "Difference of numbers", "1"],
+"a": 1,
+"sol": "Fundamental property: HCF(a,b) * LCM(a,b) = a * b."
+},
+{
+"q": "Which number is a factor of 48 but not a multiple of 8?",
+"o": ["16", "24", "6", "8"],
+"a": 2,
+"sol": "6 divides 48, but 8 * 1 = 8, 8 * 2 = 16 (6 is not in the list)."
+},
+{
+"q": "LCM of 2, 3 and 4 is:",
+"o": ["24", "6", "12", "18"],
+"a": 2,
+"sol": "12 is the smallest number divisible by 2, 3, and 4."
+},
+{
+"q": "The number of prime numbers between 1 and 100 is:",
+"o": ["20", "30", "25", "26"],
+"a": 2,
+"sol": "There are exactly 25 primes up to 100."
+},
+{
+"q": "Smallest odd prime number is:",
+"o": ["1", "5", "3", "7"],
+"a": 2,
+"sol": "2 is the smallest prime, but it is even. 3 is the next one."
+},
+{
+"q": "A number divisible by 8 must be divisible by:",
+"o": ["16", "3", "4", "5"],
+"a": 2,
+"sol": "4 is a factor of 8."
+},
+{
+"q": "The HCF of 18 and 54 is:",
+"o": ["9", "6", "18", "54"],
+"a": 2,
+"sol": "Since 18 * 3 = 54, 18 is the HCF."
+},
+{
+"q": "Which of these is a composite number?",
+"o": ["23", "29", "27", "31"],
+"a": 2,
+"sol": "27 is divisible by 1, 3, 9, 27."
+},
+{
+"q": "What do we call a diagram used to find prime factors?",
+"o": ["Number line", "Factor tree", "Bar graph", "Pie chart"],
+"a": 1,
+"sol": "Factor trees break numbers down into prime branches."
+},
+{
+"q": "If a number is divisible by 2 and 3, it is divisible by:",
+"o": ["5", "12", "6", "9"],
+"a": 2,
+"sol": "Divisibility rule for 6."
+},
+{
+"q": "Is every even number composite?",
+"o": ["Yes", "Only if it is greater than 2", "No, never", "Only if it ends in 0"],
+"a": 1,
+"sol": "2 is even but prime; all other even numbers are composite."
+},
+{
+"q": "The first five multiples of 6 are:",
+"o": ["1,2,3,4,5", "6,12,18,24,30", "6,12,20,24,30", "0,6,12,18,24"],
+"a": 1,
+"sol": "Multiples start from 6 * 1."
+},
+{
+"q": "Common factor of 7 and 11 is:",
+"o": ["7", "11", "1", "77"],
+"a": 2,
+"sol": "7 and 11 are both prime, so they are co-prime."
+},
+{
+"q": "Divisibility rule of 3 depends on:",
+"o": ["Last digit", "Last two digits", "Sum of digits", "The number being even"],
+"a": 2,
+"sol": "Sum must be divisible by 3."
+},
+{
+"q": "The HCF of two numbers is 4 and their LCM is 24. If one number is 8, the other is:",
+"o": ["16", "4", "12", "6"],
+"a": 2,
+"sol": "(4 * 24) / 8 = 96 / 8 = 12."
+},
+{
+"q": "Which of the following is NOT prime?",
+"o": ["2", "15", "19", "37"],
+"a": 1,
+"sol": "15 is 3 * 5."
+},
+{
+"q": "A number is divisible by 2 if its last digit is:",
+"o": ["Odd", "1,3,5,7,9", "0,2,4,6,8", "5 or 0"],
+"a": 2,
+"sol": "Even numbers end in 0, 2, 4, 6, or 8."
+},
+{
+"q": "Maximum number of factors for a prime number is:",
+"o": ["0", "1", "2", "Unlimited"],
+"a": 2,
+"sol": "Always exactly 2 (1 and itself)."
+},
+{
+"q": "Smallest multiple of 13 is:",
+"o": ["1", "0", "13", "26"],
+"a": 2,
+"sol": "A number's smallest non-zero multiple is itself."
+},
+{
+"q": "Prime factorization of 100 is:",
+"o": ["10 x 10", "2 x 2 x 5 x 5", "4 x 25", "2 x 50"],
+"a": 1,
+"sol": "2^2 * 5^2 = 4 * 25 = 100."
+},
+{
+"q": "If a number is divisible by 10, it must be divisible by:",
+"o": ["3", "4", "5", "7"],
+"a": 2,
+"sol": "10 is a multiple of 5."
+},
+{
+"q": "What are the prime factors of 21?",
+"o": ["1, 21", "3, 7", "2, 3, 7", "3, 3, 3"],
+"a": 1,
+"sol": "3 and 7 are both prime and 3 * 7 = 21."
+},
+{
+"q": "The product of three consecutive integers is always divisible by:",
+"o": ["5", "4", "6", "7"],
+"a": 2,
+"sol": "In any three consecutive integers, at least one is even and one is a multiple of 3."
+},
+{
+"q": "HCF of 13 and 17 is:",
+"o": ["13", "17", "1", "221"],
+"a": 2,
+"sol": "Both are prime."
+},
+{
+"q": "A number is divisible by 8 if its last ___ digits are divisible by 8.",
+"o": ["Two", "Four", "Three", "One"],
+"a": 2,
+"sol": "Divisibility rule for 8."
+},
+{
+"q": "Can two prime numbers be co-prime?",
+"o": ["No", "Only if they are twin primes", "Yes, always", "Only if one is 2"],
+"a": 2,
+"sol": "Any two distinct prime numbers share only the factor 1."
+},
+{
+"q": "The sum of all factors of 10 is:",
+"o": ["10", "17", "18", "7"],
+"a": 2,
+"sol": "1 + 2 + 5 + 10 = 18."
+},
+{
+"q": "Which number is a factor of 12 and 18?",
+"o": ["4", "9", "6", "12"],
+"a": 2,
+"sol": "6 * 2 = 12 and 6 * 3 = 18."
+},
+{
+"q": "The LCM of 12, 15 and 20 is:",
+"o": ["30", "40", "60", "120"],
+"a": 2,
+"sol": "60 is the first common multiple."
+},
+{
+"q": "Perfect numbers are very rare. The second perfect number is:",
+"o": ["12", "24", "28", "496"],
+"a": 2,
+"sol": "Factors of 28: 1,2,4,7,14 (sum = 28)."
+},
+{
+"q": "Is 1 considered a multiple of 5?",
+"o": ["Yes", "No", "Only in decimals", "Sometimes"],
+"a": 1,
+"sol": "Multiples are result of integer multiplication (5, 10, 15...)."
+},
+{
+"q": "Highest Common Factor is also known as:",
+"o": ["Least Common Multiple", "Greatest Common Divisor", "Prime Factor", "Common Multiple"],
+"a": 1,
+"sol": "HCF and GCD are the same thing."
+},
+{
+"q": "A number 'n' is prime if it has exactly ___ factors.",
+"o": ["0", "1", "2", "3"],
+"a": 2,
+"sol": "1 and n."
+},
+{
+"q": "LCM of 4 and 6 is:",
+"o": ["24", "10", "12", "2"],
+"a": 2,
+"sol": "Multiples of 4: 4, 8, 12... Multiples of 6: 6, 12..."
+},
+{
+"q": "Which digit in the units place makes a number divisible by 10?",
+"o": ["1", "5", "0", "2"],
+"a": 2,
+"sol": "Multiples of 10 always end in 0."
+},
+{
+"q": "The only prime triplet is (3, 5, 7). This means:",
+"o": ["They are consecutive primes", "They differ by 2", "They are co-prime", "They are even"],
+"a": 1,
+"sol": "A set of three primes where each differs from the next by 2."
+},
+{
+"q": "Which is a factor of every even number?",
+"o": ["1", "2", "Both 1 and 2", "4"],
+"a": 2,
+"sol": "1 is a factor of all numbers, and 2 is a factor of all even numbers."
+},
+{
+"q": "If a number is divisible by 5 and 10, it must end in:",
+"o": ["5", "0 or 5", "0", "2"],
+"a": 2,
+"sol": "Divisibility by 10 requires 0; that also satisfies divisibility by 5."
+},
+{
+"q": "The HCF of 10, 20 and 30 is:",
+"o": ["5", "1", "10", "60"],
+"a": 2,
+"sol": "10 is the largest number dividing all three."
+},
+{
+"q": "All prime numbers except 2 are ____ numbers.",
+"o": ["Even", "Negative", "Odd", "Composite"],
+"a": 2,
+"sol": "Standard property of primes."
+},
+{
+"q": "Factor of 30 that is also a prime number:",
+"o": ["6", "10", "5", "15"],
+"a": 2,
+"sol": "5 is prime and 5 * 6 = 30."
+},
+{
+"q": "Smallest three-digit prime number is:",
+"o": ["100", "103", "101", "111"],
+"a": 2,
+"sol": "101 is the first prime after 100."
+},
+{
+"q": "Is zero a prime number?",
+"o": ["Yes", "No", "It is composite", "It is perfect"],
+"a": 1,
+"sol": "Primes must be greater than 1."
+},
+{
+"q": "Which of the following is divisible by 9?",
+"o": ["123", "456", "729", "811"],
+"a": 2,
+"sol": "7+2+9 = 18, which is divisible by 9."
+},
+{
+"q": "How many multiples does 4 have?",
+"o": ["4", "40", "Infinite", "100"],
+"a": 2,
+"sol": "Multiples go on forever."
+},
+{
+"q": "Twin primes are pairs of primes that differ by:",
+"o": ["1", "3", "2", "0"],
+"a": 2,
+"sol": "Definition of twin primes."
+},
+{
+"q": "HCF(a, b) is always ____ than or equal to a and b.",
+"o": ["Greater", "Sum of", "Less", "Twice"],
+"a": 2,
+"sol": "A common factor cannot exceed the numbers themselves."
+},
+{
+"q": "Which of these numbers is prime?",
+"o": ["1", "2", "4", "6"],
+"a": 1,
+"sol": "2 is the first prime."
+},
+{
+"q": "Divisibility by 11: 1331 is divisible?",
+"o": ["No", "Maybe", "Yes", "Only by 13"],
+"a": 2,
+"sol": "(1+3) - (3+1) = 4 - 4 = 0. Yes."
+},
+{
+"q": "If a number is prime, its only factors are 1 and ____.",
+"o": ["0", "2", "The number itself", "3"],
+"a": 2,
+"sol": "Basic definition."
+},
+{
+"q": "A composite number has at least ____ factors.",
+"o": ["1", "2", "3", "10"],
+"a": 2,
+"sol": "Since primes have 2, composites must have more (at least 3)."
+},
+{
+"q": "LCM of 1, 2, 3, 4, 5 is:",
+"o": ["15", "30", "60", "120"],
+"a": 2,
+"sol": "60 is the smallest number divisible by 1 through 5."
+},
+{
+"q": "Which of these is the largest factor of 100?",
+"o": ["50", "1", "100", "200"],
+"a": 2,
+"sol": "The largest factor of any number is the number itself."
+},
+{
+"q": "Which is greater, HCF or LCM of 10 and 20?",
+"o": ["HCF", "They are equal", "LCM", "Neither"],
+"a": 2,
+"sol": "HCF is 10, LCM is 20."
+}
+]
