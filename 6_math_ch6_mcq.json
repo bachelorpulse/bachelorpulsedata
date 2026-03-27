@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the perimeter of a square with side length 5 cm?",
+"o": ["10 cm", "25 cm", "20 cm", "15 cm"],
+"a": 2,
+"sol": "Perimeter of square = 4 × side = 4 × 5 = 20 cm."
+},
+{
+"q": "The amount of surface enclosed by a closed figure is called its:",
+"o": ["Volume", "Area", "Perimeter", "Length"],
+"a": 1,
+"sol": "Area is the measure of the region inside a closed shape."
+},
+{
+"q": "What is the area of a rectangle with length 8 cm and breadth 3 cm?",
+"o": ["24 sq cm", "11 sq cm", "22 sq cm", "25 sq cm"],
+"a": 0,
+"sol": "Area of rectangle = length × breadth = 8 × 3 = 24 sq cm."
+},
+{
+"q": "The distance around a closed figure is its:",
+"o": ["Area", "Region", "Perimeter", "Diagonal"],
+"a": 2,
+"sol": "Perimeter is the total boundary length."
+},
+{
+"q": "If the perimeter of a square is 40 cm, what is the length of its side?",
+"o": ["20 cm", "10 cm", "5 cm", "15 cm"],
+"a": 1,
+"sol": "Side = Perimeter / 4 = 40 / 4 = 10 cm."
+},
+{
+"q": "Find the perimeter of a triangle with sides 3 cm, 4 cm, and 5 cm.",
+"o": ["10 cm", "60 cm", "12 cm", "7 cm"],
+"a": 2,
+"sol": "Perimeter = Sum of all sides = 3 + 4 + 5 = 12 cm."
+},
+{
+"q": "What is the area of a square whose side is 6 cm?",
+"o": ["24 sq cm", "36 sq cm", "12 sq cm", "40 sq cm"],
+"a": 1,
+"sol": "Area of square = side × side = 6 × 6 = 36 sq cm."
+},
+{
+"q": "A rectangle has a perimeter of 20 cm. If the length is 6 cm, find the breadth.",
+"o": ["4 cm", "14 cm", "10 cm", "8 cm"],
+"a": 0,
+"sol": "Perimeter = 2(L + B) => 20 = 2(6 + B) => 10 = 6 + B => B = 4 cm."
+},
+{
+"q": "The perimeter of an equilateral triangle of side 's' is:",
+"o": ["s + s", "3s", "4s", "s × s"],
+"a": 1,
+"sol": "Equilateral triangles have 3 equal sides, so Perimeter = 3 × side."
+},
+{
+"q": "How many squares of side 1 cm can fit into a rectangle of 5 cm by 4 cm?",
+"o": ["9", "20", "18", "10"],
+"a": 1,
+"sol": "Area of rectangle = 5 × 4 = 20 sq cm. Each 1 cm square is 1 sq cm. So, 20 squares."
+},
+{
+"q": "Standard unit of area is:",
+"o": ["Centimeter", "Square units", "Meter", "Kilogram"],
+"a": 1,
+"sol": "Area is always measured in square units (sq cm, sq m, etc.)."
+},
+{
+"q": "Find the perimeter of a regular pentagon with side 7 cm.",
+"o": ["49 cm", "28 cm", "35 cm", "42 cm"],
+"a": 2,
+"sol": "Pentagon has 5 sides. Perimeter = 5 × 7 = 35 cm."
+},
+{
+"q": "If the area of a rectangle is 50 sq cm and its length is 10 cm, find the breadth.",
+"o": ["5 cm", "40 cm", "15 cm", "25 cm"],
+"a": 0,
+"sol": "Breadth = Area / Length = 50 / 10 = 5 cm."
+},
+{
+"q": "The perimeter of a regular hexagon of side 4 cm is:",
+"o": ["16 cm", "24 cm", "20 cm", "30 cm"],
+"a": 1,
+"sol": "Hexagon has 6 sides. Perimeter = 6 × 4 = 24 cm."
+},
+{
+"q": "Which shape has a larger area: Square (side 4cm) or Rectangle (5cm x 3cm)?",
+"o": ["Rectangle", "Square", "They are equal", "Cannot be determined"],
+"a": 1,
+"sol": "Square area = 16. Rectangle area = 15. 16 > 15."
+},
+{
+"q": "To find the distance covered by a boy walking around a park, we calculate:",
+"o": ["Area", "Volume", "Perimeter", "Weight"],
+"a": 2,
+"sol": "Walking around the boundary refers to the perimeter."
+},
+{
+"q": "Formula for Perimeter of a Rectangle is:",
+"o": ["L × B", "2(L + B)", "L + B", "4 × L"],
+"a": 1,
+"sol": "Perimeter = Length + Breadth + Length + Breadth = 2(L + B)."
+},
+{
+"q": "Area of a square with side 1.5 m is:",
+"o": ["6.0 sq m", "2.25 sq m", "3.0 sq m", "2.5 sq m"],
+"a": 1,
+"sol": "1.5 × 1.5 = 2.25 sq m."
+},
+{
+"q": "Perimeter of a regular octagon with side 3 cm is:",
+"o": ["24 cm", "18 cm", "32 cm", "21 cm"],
+"a": 0,
+"sol": "Octagon has 8 sides. 8 × 3 = 24 cm."
+},
+{
+"q": "Area of a rectangle whose length is 12 m and breadth is 5 m:",
+"o": ["34 sq m", "17 sq m", "60 sq m", "70 sq m"],
+"a": 2,
+"sol": "12 × 5 = 60 sq m."
+},
+{
+"q": "If side of a square is doubled, its perimeter:",
+"o": ["Remains same", "Becomes 4 times", "Is doubled", "Is halved"],
+"a": 2,
+"sol": "4(2s) = 8s, which is double of 4s."
+},
+{
+"q": "If side of a square is doubled, its area:",
+"o": ["Is doubled", "Becomes 4 times", "Remains same", "Becomes 8 times"],
+"a": 1,
+"sol": "(2s) × (2s) = 4s^2, which is 4 times the original area."
+},
+{
+"q": "Find the cost of fencing a square park of side 10 m at Rs 5 per meter.",
+"o": ["Rs 50", "Rs 500", "Rs 200", "Rs 250"],
+"a": 2,
+"sol": "Perimeter = 40 m. Cost = 40 × 5 = Rs 200."
+},
+{
+"q": "Perimeter of an isosceles triangle with equal sides 8 cm and third side 6 cm:",
+"o": ["14 cm", "22 cm", "20 cm", "28 cm"],
+"a": 1,
+"sol": "Perimeter = 8 + 8 + 6 = 22 cm."
+},
+{
+"q": "Area of a rectangle with length 10 cm and breadth 4.5 cm:",
+"o": ["45 sq cm", "29 sq cm", "14.5 sq cm", "450 sq cm"],
+"a": 0,
+"sol": "10 × 4.5 = 45 sq cm."
+},
+{
+"q": "What is the side of a square if its area is 64 sq cm?",
+"o": ["16 cm", "8 cm", "4 cm", "32 cm"],
+"a": 1,
+"sol": "Side = √Area = √64 = 8 cm."
+},
+{
+"q": "A piece of wire is 24 cm long. If it is bent into a square, what is the side?",
+"o": ["12 cm", "8 cm", "6 cm", "4 cm"],
+"a": 2,
+"sol": "Perimeter = 24. Side = 24 / 4 = 6 cm."
+},
+{
+"q": "A table top measures 2 m by 1 m 50 cm. What is its area in square meters?",
+"o": ["3.5 sq m", "3.0 sq m", "4.0 sq m", "2.5 sq m"],
+"a": 1,
+"sol": "2 m × 1.5 m = 3.0 sq m."
+},
+{
+"q": "Perimeter of a scalene triangle with sides 5 cm, 7 cm and 11 cm:",
+"o": ["23 cm", "35 cm", "18 cm", "24 cm"],
+"a": 0,
+"sol": "5 + 7 + 11 = 23 cm."
+},
+{
+"q": "Which takes more wire to fence: Square (side 10m) or Equilateral Triangle (side 15m)?",
+"o": ["Triangle", "Square", "Both same", "Cannot say"],
+"a": 0,
+"sol": "Square P = 40m. Triangle P = 45m. Triangle is more."
+},
+{
+"q": "Perimeter of a rectangle is 30 cm. If breadth is 5 cm, find length.",
+"o": ["25 cm", "10 cm", "15 cm", "20 cm"],
+"a": 1,
+"sol": "2(L+5)=30 => L+5=15 => L=10 cm."
+},
+{
+"q": "Area of a rectangle of 10 cm x 8 cm is equal to the area of square of side:",
+"o": ["9 cm", "80 cm", "√80 cm", "40 cm"],
+"a": 2,
+"sol": "Area = 80. Square side = √80."
+},
+{
+"q": "Units of perimeter can be:",
+"o": ["sq m", "m", "cu m", "sq cm"],
+"a": 1,
+"sol": "Perimeter is length, so it's in linear units like meters (m)."
+},
+{
+"q": "Area of a square is 100 sq cm. Its perimeter is:",
+"o": ["10 cm", "20 cm", "40 cm", "50 cm"],
+"a": 2,
+"sol": "Side = 10. Perimeter = 4 × 10 = 40 cm."
+},
+{
+"q": "Perimeter of a square is 100 cm. Its area is:",
+"o": ["400 sq cm", "625 sq cm", "1000 sq cm", "2500 sq cm"],
+"a": 1,
+"sol": "Side = 100/4 = 25. Area = 25 × 25 = 625 sq cm."
+},
+{
+"q": "The perimeter of a regular hexagon with side 'x' is:",
+"o": ["x^6", "6x", "4x", "8x"],
+"a": 1,
+"sol": "Hexagon has 6 equal sides."
+},
+{
+"q": "Find the area of a rectangle with length 20 cm and breadth 0.5 cm.",
+"o": ["10 sq cm", "40 sq cm", "20.5 sq cm", "100 sq cm"],
+"a": 0,
+"sol": "20 × 0.5 = 10 sq cm."
+},
+{
+"q": "Perimeter of a square = ___ × side.",
+"o": ["2", "3", "4", "side"],
+"a": 2,
+"sol": "Square has 4 equal sides."
+},
+{
+"q": "Area of a square = side × ___.",
+"o": ["4", "side", "2", "length"],
+"a": 1,
+"sol": "Area formula for a square."
+},
+{
+"q": "If the perimeter of a regular pentagon is 50 cm, its side is:",
+"o": ["25 cm", "5 cm", "10 cm", "12.5 cm"],
+"a": 2,
+"sol": "50 / 5 = 10 cm."
+},
+{
+"q": "Find area of a rectangle with length 5 m and breadth 200 cm.",
+"o": ["1000 sq m", "10 sq m", "7 sq m", "14 sq m"],
+"a": 1,
+"sol": "Breadth = 2m. Area = 5m × 2m = 10 sq m."
+},
+{
+"q": "A room is 4m long and 3m 50cm wide. How many square meters of carpet is needed?",
+"o": ["14 sq m", "7.5 sq m", "15 sq m", "12 sq m"],
+"a": 0,
+"sol": "4 × 3.5 = 14 sq m."
+},
+{
+"q": "Which has a larger perimeter: Square (side 8cm) or Rectangle (10cm x 5cm)?",
+"o": ["Square", "Rectangle", "Both equal", "Triangle"],
+"a": 0,
+"sol": "Square P = 32. Rectangle P = 30. 32 > 30."
+},
+{
+"q": "Perimeter of an equilateral triangle is 18 cm. Find its side.",
+"o": ["9 cm", "6 cm", "3 cm", "12 cm"],
+"a": 1,
+"sol": "18 / 3 = 6 cm."
+},
+{
+"q": "Area of a floor is 20 sq m. If the length is 5 m, find breadth.",
+"o": ["15 m", "4 m", "10 m", "2 m"],
+"a": 1,
+"sol": "20 / 5 = 4 m."
+},
+{
+"q": "Perimeter of a regular decagon (10 sides) with side 2 cm:",
+"o": ["10 cm", "20 cm", "40 cm", "12 cm"],
+"a": 1,
+"sol": "10 × 2 = 20 cm."
+},
+{
+"q": "If area of a rectangle is 24 sq cm, possible dimensions (L, B) are:",
+"o": ["(12, 12)", "(6, 4)", "(10, 14)", "(20, 4)"],
+"a": 1,
+"sol": "6 × 4 = 24."
+},
+{
+"q": "Perimeter of rectangle with L=2m, B=50cm:",
+"o": ["250 cm", "5 m", "100 sq cm", "7 m"],
+"a": 1,
+"sol": "2(200 + 50) = 500 cm = 5 m."
+},
+{
+"q": "Area of a square with side 100 cm is ___ square meter.",
+"o": ["100", "1", "10000", "0.1"],
+"a": 1,
+"sol": "100 cm = 1 m. 1 × 1 = 1 sq m."
+},
+{
+"q": "The perimeter of a regular shape is (number of sides) × (length of one side).",
+"o": ["False", "Only for squares", "True", "Only for triangles"],
+"a": 2,
+"sol": "This is the general rule for regular polygons."
+},
+{
+"q": "Find perimeter: Rectangle with L=15cm, B=12cm.",
+"o": ["27 cm", "54 cm", "180 cm", "42 cm"],
+"a": 1,
+"sol": "2(15 + 12) = 2 × 27 = 54 cm."
+},
+{
+"q": "Find area of a square of side 2.1 cm.",
+"o": ["4.2 sq cm", "8.4 sq cm", "4.41 sq cm", "4.1 sq cm"],
+"a": 2,
+"sol": "2.1 × 2.1 = 4.41 sq cm."
+},
+{
+"q": "Perimeter of triangle with sides 10, 10, 10 cm:",
+"o": ["20 cm", "30 cm", "40 cm", "100 cm"],
+"a": 1,
+"sol": "Equilateral triangle: 10 + 10 + 10 = 30 cm."
+},
+{
+"q": "Total cost of leveling a field is Rs 1200. If rate is Rs 12 per sq m, find area.",
+"o": ["14400 sq m", "100 sq m", "120 sq m", "1000 sq m"],
+"a": 1,
+"sol": "Area = Total cost / Rate = 1200 / 12 = 100 sq m."
+},
+{
+"q": "Area of rectangle is 96 sq cm. L=12cm. Find P.",
+"o": ["8 cm", "40 cm", "20 cm", "48 cm"],
+"a": 1,
+"sol": "B = 96/12 = 8. P = 2(12+8) = 40 cm."
+},
+{
+"q": "Area of a square garden is 2500 sq m. Find its perimeter.",
+"o": ["50 m", "200 m", "100 m", "500 m"],
+"a": 1,
+"sol": "Side = 50. P = 4 × 50 = 200 m."
+},
+{
+"q": "Two rectangles have same area. Do they have same perimeter?",
+"o": ["Always", "Never", "Not necessarily", "Only if they are squares"],
+"a": 2,
+"sol": "Different dimensions can result in the same area but different perimeters."
+},
+{
+"q": "Perimeter of square is 16 cm. Area is:",
+"o": ["64 sq cm", "16 sq cm", "32 sq cm", "8 sq cm"],
+"a": 1,
+"sol": "Side = 4. Area = 4 × 4 = 16 sq cm."
+},
+{
+"q": "How much distance is covered by 5 rounds of a square park of side 10 m?",
+"o": ["40 m", "50 m", "200 m", "100 m"],
+"a": 2,
+"sol": "Perimeter = 40m. 5 rounds = 40 × 5 = 200 m."
+},
+{
+"q": "Area of rectangle with length 1 m and breadth 25 cm:",
+"o": ["25 sq cm", "250 sq cm", "2500 sq cm", "0.25 sq cm"],
+"a": 2,
+"sol": "100 cm × 25 cm = 2500 sq cm."
+},
+{
+"q": "Find perimeter of a rectangle with L=25 m, B=15 m.",
+"o": ["80 m", "40 m", "375 m", "100 m"],
+"a": 0,
+"sol": "2(25 + 15) = 2(40) = 80 m."
+},
+{
+"q": "Cost of tiling a room 5m x 4m at Rs 10 per sq m:",
+"o": ["Rs 200", "Rs 180", "Rs 90", "Rs 400"],
+"a": 0,
+"sol": "Area = 20 sq m. Cost = 20 × 10 = Rs 200."
+},
+{
+"q": "Side of square is 12 cm. Find perimeter.",
+"o": ["144 cm", "24 cm", "48 cm", "36 cm"],
+"a": 2,
+"sol": "4 × 12 = 48 cm."
+},
+{
+"q": "Breadth of rectangle is 7 m, area is 77 sq m. Length is:",
+"o": ["11 m", "70 m", "14 m", "21 m"],
+"a": 0,
+"sol": "77 / 7 = 11 m."
+},
+{
+"q": "Area of a rectangle is 'A'. If length is doubled and breadth is same, new area is:",
+"o": ["A", "2A", "4A", "A/2"],
+"a": 1,
+"sol": "(2L) × B = 2(L × B) = 2A."
+},
+{
+"q": "Perimeter of an equilateral triangle is 30 cm. Side is:",
+"o": ["15 cm", "5 cm", "10 cm", "20 cm"],
+"a": 2,
+"sol": "30 / 3 = 10 cm."
+},
+{
+"q": "Area of a square of side 0.1 m is:",
+"o": ["0.01 sq m", "0.1 sq m", "1 sq m", "0.001 sq m"],
+"a": 0,
+"sol": "0.1 × 0.1 = 0.01 sq m."
+},
+{
+"q": "To find length of wire for fencing, we use:",
+"o": ["Area", "Perimeter", "Volume", "Side"],
+"a": 1,
+"sol": "Fencing goes around the boundary."
+},
+{
+"q": "L=8, B=6. Perimeter is:",
+"o": ["48", "14", "28", "24"],
+"a": 2,
+"sol": "2(8+6) = 28."
+},
+{
+"q": "Side of a square is 2 cm. 4 such squares are joined to form a big square. Area of big square is:",
+"o": ["8 sq cm", "16 sq cm", "4 sq cm", "32 sq cm"],
+"a": 1,
+"sol": "Area of 1 square = 4. Area of 4 squares = 16."
+},
+{
+"q": "A rectangular park is 100m x 50m. A girl runs 3 times around it. Distance covered:",
+"o": ["450 m", "900 m", "150 m", "300 m"],
+"a": 1,
+"sol": "P = 2(150) = 300. 3 rounds = 900 m."
+},
+{
+"q": "Area of square is 1.44 sq m. Side is:",
+"o": ["1.2 m", "0.12 m", "12 m", "1.4 m"],
+"a": 0,
+"sol": "√1.44 = 1.2."
+},
+{
+"q": "Perimeter of square with side 2.5 cm:",
+"o": ["5 cm", "10 cm", "6.25 cm", "7.5 cm"],
+"a": 1,
+"sol": "4 × 2.5 = 10 cm."
+},
+{
+"q": "If P=24, and it's a regular hexagon, side is:",
+"o": ["6", "3", "4", "8"],
+"a": 2,
+"sol": "24 / 6 = 4."
+},
+{
+"q": "Find area of rectangle with L=25cm, B=10cm.",
+"o": ["70 sq cm", "35 sq cm", "250 sq cm", "500 sq cm"],
+"a": 2,
+"sol": "25 × 10 = 250."
+},
+{
+"q": "Side of square garden is 30m. Cost of fencing at Rs 20/m is:",
+"o": ["600", "2400", "1200", "1800"],
+"a": 1,
+"sol": "P=120. Cost = 120 × 20 = 2400."
+},
+{
+"q": "A rectangle and a square have same perimeter 40 cm. Which has more area?",
+"o": ["Rectangle", "Square", "Both equal", "Triangle"],
+"a": 1,
+"sol": "For same perimeter, square always has the maximum area."
+},
+{
+"q": "Area of square field is 8100 sq m. Side is:",
+"o": ["9 m", "900 m", "90 m", "81 m"],
+"a": 2,
+"sol": "√8100 = 90."
+},
+{
+"q": "Perimeter of isosceles triangle with side 10, 10, 12 is:",
+"o": ["32", "22", "34", "30"],
+"a": 0,
+"sol": "10+10+12 = 32."
+},
+{
+"q": "Area of rectangle with L=12, B=10 is:",
+"o": ["120", "44", "22", "110"],
+"a": 0,
+"sol": "12 × 10 = 120."
+},
+{
+"q": "Perimeter of square with side 0.5 m:",
+"o": ["2 m", "1 m", "0.25 m", "1.5 m"],
+"a": 0,
+"sol": "4 × 0.5 = 2.0."
+},
+{
+"q": "Find side of square if Perimeter = 1 km.",
+"o": ["500 m", "250 m", "100 m", "200 m"],
+"a": 1,
+"sol": "1000m / 4 = 250 m."
+},
+{
+"q": "Area of rectangle with L=4cm, B=2cm in sq mm:",
+"o": ["8", "80", "800", "8000"],
+"a": 2,
+"sol": "40mm × 20mm = 800 sq mm."
+},
+{
+"q": "A photo of 10cm x 8cm is framed. Length of frame needed is:",
+"o": ["18 cm", "80 cm", "36 cm", "40 cm"],
+"a": 2,
+"sol": "P = 2(10 + 8) = 36 cm."
+},
+{
+"q": "Area of square is 49 sq cm. Perimeter is:",
+"o": ["28 cm", "14 cm", "49 cm", "7 cm"],
+"a": 0,
+"sol": "S=7, P=28."
+},
+{
+"q": "L=15, Area=150. B is:",
+"o": ["10", "135", "50", "30"],
+"a": 0,
+"sol": "150/15 = 10."
+},
+{
+"q": "Perimeter of regular hexagon with side 5 cm:",
+"o": ["25", "30", "35", "20"],
+"a": 1,
+"sol": "6 × 5 = 30."
+},
+{
+"q": "Area of square is 1600 sq m. P is:",
+"o": ["160 m", "40 m", "80 m", "200 m"],
+"a": 0,
+"sol": "S=40, P=160."
+},
+{
+"q": "Area of rectangle with L=6, B=3 is:",
+"o": ["9", "18", "12", "15"],
+"a": 1,
+"sol": "6 × 3 = 18."
+},
+{
+"q": "If all sides of a rectangle are equal, it becomes a:",
+"o": ["Triangle", "Square", "Pentagon", "Circle"],
+"a": 1,
+"sol": "A square is a special rectangle."
+},
+{
+"q": "Perimeter of a regular pentagon is 100 cm. Side is:",
+"o": ["20 cm", "25 cm", "10 cm", "50 cm"],
+"a": 0,
+"sol": "100 / 5 = 20."
+},
+{
+"q": "Area of square side 11 cm:",
+"o": ["44", "121", "22", "110"],
+"a": 1,
+"sol": "11 × 11 = 121."
+},
+{
+"q": "Area of rectangle L=20, B=15:",
+"o": ["300", "70", "35", "150"],
+"a": 0,
+"sol": "20 × 15 = 300."
+},
+{
+"q": "A floor is 5m x 4m. A square carpet of 3m side is laid. Area not carpeted:",
+"o": ["20 sq m", "9 sq m", "11 sq m", "5 sq m"],
+"a": 2,
+"sol": "20 - 9 = 11 sq m."
+},
+{
+"q": "Perimeter of octagon side 10 cm:",
+"o": ["80 cm", "60 cm", "100 cm", "40 cm"],
+"a": 0,
+"sol": "8 × 10 = 80."
+},
+{
+"q": "Side of square is 1 cm. Area is:",
+"o": ["4 sq cm", "1 sq cm", "2 sq cm", "0.5 sq cm"],
+"a": 1,
+"sol": "1 × 1 = 1."
+},
+{
+"q": "L=5, B=4. P is:",
+"o": ["9", "18", "20", "10"],
+"a": 1,
+"sol": "2(5+4) = 18."
+},
+{
+"q": "To find how much paint is needed for a wall, we calculate:",
+"o": ["Perimeter", "Area", "Length", "Thickness"],
+"a": 1,
+"sol": "Painting covers the surface area."
+},
+{
+"q": "Area of square is 1. Side is:",
+"o": ["0.5", "2", "1", "4"],
+"a": 2,
+"sol": "√1 = 1."
+},
+{
+"q": "If a rectangle has L=B, its perimeter is:",
+"o": ["L+B", "2L", "4L", "L*B"],
+"a": 2,
+"sol": "It's a square, so 4 × side."
+}
+]
