@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the opposite of a rise in temperature of 10 degrees?",
+"o": ["A fall of 10 degrees", "A rise of 20 degrees", "No change", "A fall of 5 degrees"],
+"a": 0,
+"sol": "Opposite of 'rise' is 'fall', keeping the numerical value same."
+},
+{
+"q": "Which of the following is the smallest positive integer?",
+"o": ["-1", "0", "1", "Does not exist"],
+"a": 2,
+"sol": "1 is the first positive integer on the number line."
+},
+{
+"q": "The additive inverse of -52 is:",
+"o": ["-52", "0", "1", "52"],
+"a": 3,
+"sol": "The additive inverse of a number is its opposite sign value such that their sum is 0."
+},
+{
+"q": "Which integer is neither positive nor negative?",
+"o": ["1", "0", "-1", "2"],
+"a": 1,
+"sol": "Zero is the origin and is neutral."
+},
+{
+"q": "If you are at -3 on the number line, in which direction should you move to reach 2?",
+"o": ["Left", "Up", "Right", "Down"],
+"a": 2,
+"sol": "To move from a smaller number to a larger number, we move to the right."
+},
+{
+"q": "What is the absolute value of -15?",
+"o": ["-15", "15", "0", "1"],
+"a": 1,
+"sol": "Absolute value is the distance from zero, which is always non-negative."
+},
+{
+"q": "Which of these integers is the greatest?",
+"o": ["-100", "-1", "-10", "-50"],
+"a": 1,
+"sol": "On the negative side, the number closer to zero is greater."
+},
+{
+"q": "The sum of -10 and -5 is:",
+"o": ["-5", "5", "-15", "15"],
+"a": 2,
+"sol": "Adding two negative integers results in a more negative integer."
+},
+{
+"q": "A deposit of Rs 500 is represented by:",
+"o": ["-500", "0", "500", "-1000"],
+"a": 2,
+"sol": "Deposits or gains are represented by positive integers."
+},
+{
+"q": "What is 5 less than -2?",
+"o": ["3", "-7", "-3", "7"],
+"a": 1,
+"sol": "-2 - 5 = -7."
+},
+{
+"q": "Which of the following is true?",
+"o": ["-5 > -3", "0 < -2", "-8 < -2", "-1 > 1"],
+"a": 2,
+"sol": "-8 is further left than -2 on the number line."
+},
+{
+"q": "The successor of -1 is:",
+"o": ["-2", "0", "1", "-1"],
+"a": 1,
+"sol": "Successor means adding 1. -1 + 1 = 0."
+},
+{
+"q": "The predecessor of -10 is:",
+"o": ["-9", "-11", "10", "11"],
+"a": 1,
+"sol": "Predecessor means subtracting 1. -10 - 1 = -11."
+},
+{
+"q": "Sea level is represented by which integer?",
+"o": ["1", "-1", "0", "100"],
+"a": 2,
+"sol": "Standard reference point for altitude is 0."
+},
+{
+"q": "What is the value of 10 + (-10)?",
+"o": ["20", "-20", "0", "1"],
+"a": 2,
+"sol": "A number added to its additive inverse is always 0."
+},
+{
+"q": "Every negative integer is ___ than zero.",
+"o": ["Greater", "Smaller", "Equal", "None"],
+"a": 1,
+"sol": "All negative numbers lie to the left of zero."
+},
+{
+"q": "Which number is to the right of -5 on the number line?",
+"o": ["-6", "-10", "-3", "-7"],
+"a": 2,
+"sol": "-3 is greater than -5, so it is to the right."
+},
+{
+"q": "If we move 4 steps to the left of 1, where do we reach?",
+"o": ["5", "3", "-3", "-4"],
+"a": 2,
+"sol": "1 - 4 = -3."
+},
+{
+"q": "What is the opposite of 'Spending Rs 250'?",
+"o": ["Earning Rs 250", "Spending Rs 500", "Saving Rs 0", "Losing Rs 250"],
+"a": 0,
+"sol": "The opposite of spending is earning/saving."
+},
+{
+"q": "How many integers are between -3 and 3?",
+"o": ["6", "5", "4", "7"],
+"a": 1,
+"sol": "The integers are -2, -1, 0, 1, 2. Total 5."
+},
+{
+"q": "The sum of a positive and a negative integer is:",
+"o": ["Always positive", "Always negative", "Zero", "Can be positive or negative"],
+"a": 3,
+"sol": "It depends on which integer has the larger absolute value."
+},
+{
+"q": "Solve: (-2) + (-3) + (4)",
+"o": ["-1", "9", "5", "1"],
+"a": 0,
+"sol": "-5 + 4 = -1."
+},
+{
+"q": "Which collection includes natural numbers, their opposites, and zero?",
+"o": ["Whole numbers", "Integers", "Fractions", "Decimals"],
+"a": 1,
+"sol": "Definition of integers."
+},
+{
+"q": "What is the value of |-8| - |5|?",
+"o": ["-13", "3", "-3", "13"],
+"a": 1,
+"sol": "8 - 5 = 3."
+},
+{
+"q": "A submarine is 200m below sea level. Its position is:",
+"o": ["200", "0", "-200", "100"],
+"a": 2,
+"sol": "Below sea level is negative."
+},
+{
+"q": "The additive inverse of 0 is:",
+"o": ["0", "1", "-1", "Not defined"],
+"a": 0,
+"sol": "0 + 0 = 0."
+},
+{
+"q": "Which is greater: -15 or -25?",
+"o": ["-25", "Both equal", "-15", "0"],
+"a": 2,
+"sol": "-15 is closer to 0."
+},
+{
+"q": "What is (-12) - (-5)?",
+"o": ["-17", "-7", "7", "17"],
+"a": 1,
+"sol": "-12 + 5 = -7."
+},
+{
+"q": "If 'a' is a positive integer, then '-a' is:",
+"o": ["Positive", "Zero", "Negative", "One"],
+"a": 2,
+"sol": "The negative of a positive number is always negative."
+},
+{
+"q": "The smallest integer greater than -5 is:",
+"o": ["-6", "-4", "0", "1"],
+"a": 1,
+"sol": "-4 is immediately to the right of -5."
+},
+{
+"q": "What is 8 more than -8?",
+"o": ["16", "-16", "0", "1"],
+"a": 2,
+"sol": "-8 + 8 = 0."
+},
+{
+"q": "On a number line, negative numbers are placed to the ___ of zero.",
+"o": ["Right", "Top", "Left", "Bottom"],
+"a": 2,
+"sol": "Standard number line convention."
+},
+{
+"q": "The set of whole numbers is denoted by:",
+"o": ["N", "Z", "W", "I"],
+"a": 2,
+"sol": "W stands for Whole numbers."
+},
+{
+"q": "Compute: (-1) + (-1) + (-1)",
+"o": ["3", "-3", "1", "0"],
+"a": 1,
+"sol": "Sum of three -1s is -3."
+},
+{
+"q": "Which of the following represents 'a loss of Rs 100'?",
+"o": ["+100", "100", "-100", "0"],
+"a": 2,
+"sol": "Loss is negative."
+},
+{
+"q": "Compare: -2 ___ -5",
+"o": ["<", "=", ">", "None"],
+"a": 2,
+"sol": "-2 is greater than -5."
+},
+{
+"q": "The sum of two negative integers is always ___ than both integers.",
+"o": ["Greater", "Smaller", "Equal", "Positive"],
+"a": 1,
+"sol": "e.g., -2 + -3 = -5. -5 is smaller than -2 and -3."
+},
+{
+"q": "What is the predecessor of 0?",
+"o": ["1", "0", "-1", "Does not exist"],
+"a": 2,
+"sol": "0 - 1 = -1."
+},
+{
+"q": "Absolute value of an integer is always:",
+"o": ["Negative", "Zero", "Positive or zero", "None"],
+"a": 2,
+"sol": "Distance cannot be negative."
+},
+{
+"q": "Which integer is 3 units to the left of -2?",
+"o": ["1", "-5", "-1", "5"],
+"a": 1,
+"sol": "-2 - 3 = -5."
+},
+{
+"q": "The sum of -20 and 20 is:",
+"o": ["40", "-40", "0", "1"],
+"a": 2,
+"sol": "Additive inverses."
+},
+{
+"q": "Largest negative integer is:",
+"o": ["-100", "0", "-1", "Does not exist"],
+"a": 2,
+"sol": "-1 is the rightmost negative integer."
+},
+{
+"q": "The value of (-15) + (12) + (-3) is:",
+"o": ["0", "-6", "6", "-30"],
+"a": 1,
+"sol": "-15 + 12 = -3; -3 + (-3) = -6."
+},
+{
+"q": "Subtracting a negative integer is the same as:",
+"o": ["Subtracting its absolute value", "Adding its absolute value", "Multiplying", "Nothing"],
+"a": 1,
+"sol": "a - (-b) = a + b."
+},
+{
+"q": "Which number is neither a positive integer nor a negative integer?",
+"o": ["-1", "1", "0", "1/2"],
+"a": 2,
+"sol": "Zero is neutral."
+},
+{
+"q": "Arrange in ascending order: -5, 2, 0, -8",
+"o": ["-8, -5, 0, 2", "0, 2, -5, -8", "2, 0, -5, -8", "-5, -8, 0, 2"],
+"a": 0,
+"sol": "Smallest is the most negative."
+},
+{
+"q": "What is the successor of -100?",
+"o": ["-101", "-99", "101", "99"],
+"a": 1,
+"sol": "-100 + 1 = -99."
+},
+{
+"q": "What is 7 subtracted from 0?",
+"o": ["7", "0", "-7", "1"],
+"a": 2,
+"sol": "0 - 7 = -7."
+},
+{
+"q": "Which integer represents a height of 5000m above sea level?",
+"o": ["-5000", "0", "5000", "50"],
+"a": 2,
+"sol": "Above is positive."
+},
+{
+"q": "(-5) + ___ = 0",
+"o": ["0", "-5", "5", "1"],
+"a": 2,
+"sol": "Additive inverse is 5."
+},
+{
+"q": "The distance of -7 from 0 is:",
+"o": ["-7", "0", "7", "14"],
+"a": 2,
+"sol": "Distance is absolute value."
+},
+{
+"q": "Which is the smallest integer?",
+"o": ["0", "-1", "-100", "There is no smallest integer"],
+"a": 3,
+"sol": "Integers extend infinitely in the negative direction."
+},
+{
+"q": "The sum of three consecutive integers is 0. The integers are:",
+"o": ["1, 2, 3", "-1, 0, 1", "0, 1, 2", "-2, -1, 0"],
+"a": 1,
+"sol": "-1 + 0 + 1 = 0."
+},
+{
+"q": "If you move 5 steps to the right of -2, you reach:",
+"o": ["-7", "3", "7", "-3"],
+"a": 1,
+"sol": "-2 + 5 = 3."
+},
+{
+"q": "What is the additive inverse of 100?",
+"o": ["0", "1", "-100", "100"],
+"a": 2,
+"sol": "-100."
+},
+{
+"q": "The collection of integers is denoted by the letter:",
+"o": ["I", "N", "Z", "W"],
+"a": 2,
+"sol": "Z (from German 'Zahlen')."
+},
+{
+"q": "On a number line, which number is 4 units to the right of -4?",
+"o": ["-8", "8", "0", "4"],
+"a": 2,
+"sol": "-4 + 4 = 0."
+},
+{
+"q": "Successor of -5 is:",
+"o": ["-6", "-4", "4", "6"],
+"a": 1,
+"sol": "-4."
+},
+{
+"q": "Predecessor of 1 is:",
+"o": ["0", "2", "-1", "-2"],
+"a": 0,
+"sol": "0."
+},
+{
+"q": "Value of | -10 + 4 | is:",
+"o": ["14", "6", "-6", "-14"],
+"a": 1,
+"sol": "|-6| = 6."
+},
+{
+"q": "Which of these is a negative integer?",
+"o": ["0", "5", "-3", "2/3"],
+"a": 2,
+"sol": "-3."
+},
+{
+"q": "The sum of -1, -2, -3 and -4 is:",
+"o": ["10", "0", "-10", "-5"],
+"a": 2,
+"sol": "-10."
+},
+{
+"q": "Which is further left on the number line: -50 or -60?",
+"o": ["-50", "Both same", "-60", "0"],
+"a": 2,
+"sol": "Lower values are further left."
+},
+{
+"q": "10 - (-10) = ?",
+"o": ["0", "20", "-20", "10"],
+"a": 1,
+"sol": "10 + 10 = 20."
+},
+{
+"q": "Is every natural number an integer?",
+"o": ["No", "Yes", "Only some", "Maybe"],
+"a": 1,
+"sol": "Natural numbers are positive integers."
+},
+{
+"q": "Is every integer a whole number?",
+"o": ["Yes", "No", "Only zero", "Only positive"],
+"a": 1,
+"sol": "Negative integers are not whole numbers."
+},
+{
+"q": "A withdrawal of Rs 200 is:",
+"o": ["+200", "-200", "0", "200"],
+"a": 1,
+"sol": "Negative."
+},
+{
+"q": "The sign of the product of two negative integers is:",
+"o": ["Negative", "Positive", "Zero", "Not fixed"],
+"a": 1,
+"sol": "Negative times negative is positive."
+},
+{
+"q": "Value of -(-5) is:",
+"o": ["-5", "5", "0", "1"],
+"a": 1,
+"sol": "5."
+},
+{
+"q": "How many negative integers are there?",
+"o": ["100", "1000", "Infinite", "0"],
+"a": 2,
+"sol": "Infinite."
+},
+{
+"q": "What is the difference between 5 and -5?",
+"o": ["0", "10", "-10", "5"],
+"a": 1,
+"sol": "5 - (-5) = 10."
+},
+{
+"q": "If 0 is the starting point, 5 units to the left is:",
+"o": ["5", "-5", "0", "10"],
+"a": 1,
+"sol": "-5."
+},
+{
+"q": "Sum of -15 and 0 is:",
+"o": ["15", "0", "-15", "1"],
+"a": 2,
+"sol": "-15."
+},
+{
+"q": "Predecessor of -1 is:",
+"o": ["0", "-2", "1", "2"],
+"a": 1,
+"sol": "-2."
+},
+{
+"q": "Successor of 0 is:",
+"o": ["1", "-1", "0", "2"],
+"a": 0,
+"sol": "1."
+},
+{
+"q": "If a bird is flying at 20m above a fish which is 2m below water, distance between them is:",
+"o": ["18m", "20m", "22m", "2m"],
+"a": 2,
+"sol": "20 - (-2) = 22m."
+},
+{
+"q": "Which is greater: -1 or -100?",
+"o": ["-100", "Both same", "-1", "0"],
+"a": 2,
+"sol": "-1."
+},
+{
+"q": "What do we get when we add 1 to any integer?",
+"o": ["Predecessor", "Additive Inverse", "Successor", "Reciprocal"],
+"a": 2,
+"sol": "Successor."
+},
+{
+"q": "Smallest positive integer is:",
+"o": ["0", "1", "-1", "Infinite"],
+"a": 1,
+"sol": "1."
+},
+{
+"q": "Absolute value of 0 is:",
+"o": ["1", "-1", "0", "None"],
+"a": 2,
+"sol": "0."
+},
+{
+"q": "The sum of two positive integers is always:",
+"o": ["Negative", "Positive", "Zero", "One"],
+"a": 1,
+"sol": "Positive."
+},
+{
+"q": "The sum of -8 and 4 is:",
+"o": ["12", "-12", "-4", "4"],
+"a": 2,
+"sol": "-4."
+},
+{
+"q": "Integer for 10 degrees below zero is:",
+"o": ["10", "0", "-10", "100"],
+"a": 2,
+"sol": "-10."
+},
+{
+"q": "Is -5 greater than -2?",
+"o": ["Yes", "No", "Equal", "Sometimes"],
+"a": 1,
+"sol": "No, -5 is smaller."
+},
+{
+"q": "Integer for 'Profit of Rs 50' is:",
+"o": ["-50", "0", "50", "-100"],
+"a": 2,
+"sol": "50."
+},
+{
+"q": "What is -3 + 3?",
+"o": ["6", "-6", "0", "1"],
+"a": 2,
+"sol": "0."
+},
+{
+"q": "Opposite of -20 is:",
+"o": ["0", "1", "20", "-20"],
+"a": 2,
+"sol": "20."
+},
+{
+"q": "If we subtract 5 from 2, we get:",
+"o": ["3", "-3", "7", "-7"],
+"a": 1,
+"sol": "-3."
+},
+{
+"q": "The points to the left of 0 on a number line represent ___ numbers.",
+"o": ["Positive", "Negative", "Natural", "Whole"],
+"a": 1,
+"sol": "Negative."
+},
+{
+"q": "The value of -8 + (-2) is:",
+"o": ["-6", "6", "-10", "10"],
+"a": 2,
+"sol": "-10."
+},
+{
+"q": "Which is smaller: 0 or -1?",
+"o": ["0", "-1", "Equal", "None"],
+"a": 1,
+"sol": "-1 is smaller than 0."
+},
+{
+"q": "The successor of -2 is:",
+"o": ["-3", "-1", "1", "0"],
+"a": 1,
+"sol": "-1."
+},
+{
+"q": "The additive inverse of -x is:",
+"o": ["-x", "x", "0", "1"],
+"a": 1,
+"sol": "x."
+},
+{
+"q": "The integer 5 units to the right of 0 is:",
+"o": ["-5", "5", "0", "10"],
+"a": 1,
+"sol": "5."
+},
+{
+"q": "Integers are a part of:",
+"o": ["Natural numbers", "Rational numbers", "Whole numbers", "None"],
+"a": 1,
+"sol": "Integers are rational numbers (can be written as z/1)."
+},
+{
+"q": "Value of |5| + |-5| is:",
+"o": ["0", "10", "-10", "5"],
+"a": 1,
+"sol": "5 + 5 = 10."
+},
+{
+"q": "Which is the largest integer between -5 and -1?",
+"o": ["-5", "-4", "-2", "-1"],
+"a": 2,
+"sol": "-2 (since the question asks 'between', we exclude -1)."
+},
+{
+"q": "Sum of -2, 4 and -6 is:",
+"o": ["0", "-4", "4", "12"],
+"a": 1,
+"sol": "-2 + 4 = 2; 2 + (-6) = -4."
+},
+{
+"q": "Moving right on the number line means ___ the value.",
+"o": ["Decreasing", "Increasing", "Keeping same", "Zeroing"],
+"a": 1,
+"sol": "Increasing."
+},
+{
+"q": "Successor of -10 is:",
+"o": ["-11", "-9", "9", "11"],
+"a": 1,
+"sol": "-9."
+}
+]
