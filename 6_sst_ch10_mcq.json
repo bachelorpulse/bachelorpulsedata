@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the meaning of 'Democracy'?",
+"o": ["Rule by a single king", "Rule of the people, by the people, and for the people", "Rule by the military", "Rule by a few rich people"],
+"a": 1,
+"sol": "Abraham Lincoln defined democracy as a system where power rests with the citizens."
+},
+{
+"q": "At which level does 'Grassroots Democracy' function?",
+"o": ["National level", "State level", "Local or Village level", "International level"],
+"a": 2,
+"sol": "Grassroots democracy starts from the bottom level of society, like villages."
+},
+{
+"q": "Which body is the foundation of the Panchayati Raj system?",
+"o": ["Zila Parishad", "Gram Sabha", "Panchayat Samiti", "State Assembly"],
+"a": 1,
+"sol": "The Gram Sabha consists of all adult members of a village and is the base of the system."
+},
+{
+"q": "What is the minimum age to be a member of the Gram Sabha?",
+"o": ["21 years", "25 years", "18 years", "30 years"],
+"a": 2,
+"sol": "Every person who is 18 years or older and has the right to vote is a member."
+},
+{
+"q": "The elected head of the Gram Panchayat is called the:",
+"o": ["Secretary", "Sarpanch", "Collector", "Governor"],
+"a": 1,
+"sol": "The Sarpanch (or President) leads the Panchayat's activities."
+},
+{
+"q": "A Gram Panchayat is divided into smaller areas called:",
+"o": ["Districts", "Wards", "States", "Blocks"],
+"a": 1,
+"sol": "Each ward elects a representative known as a Ward Member or Panch."
+},
+{
+"q": "Who appoints the Secretary of the Gram Panchayat?",
+"o": ["The Villagers", "The Sarpanch", "The Government", "The Ward Members"],
+"a": 2,
+"sol": "The Secretary is a government employee, not an elected person."
+},
+{
+"q": "What is the main function of the Gram Panchayat Secretary?",
+"o": ["To vote on laws", "To keep records and call meetings", "To clean the village roads", "To fight in wars"],
+"a": 1,
+"sol": "The Secretary records proceedings and maintains accounts of the Panchayat."
+},
+{
+"q": "The three-tier system of Panchayati Raj was recommended by which committee?",
+"o": ["Radhakrishnan Committee", "Balwant Rai Mehta Committee", "Mandal Commission", "Kothari Commission"],
+"a": 1,
+"sol": "This committee suggested the 3-level structure we use today."
+},
+{
+"q": "Which of these is the intermediate level of the Panchayati Raj?",
+"o": ["Gram Panchayat", "Panchayat Samiti", "Zila Parishad", "Gram Sabha"],
+"a": 1,
+"sol": "Panchayat Samiti works at the block level, between the village and district."
+},
+{
+"q": "The highest tier of the Panchayati Raj system is the:",
+"o": ["Block Samiti", "Zila Parishad", "Gram Panchayat", "Nyaya Panchayat"],
+"a": 1,
+"sol": "Zila Parishad functions at the District level."
+},
+{
+"q": "Who is the administrative head of a District?",
+"o": ["The Sarpanch", "The Prime Minister", "The District Magistrate (DM/Collector)", "The Mayor"],
+"a": 2,
+"sol": "The DM manages the overall administration of the district."
+},
+{
+"q": "The Gram Panchayat is responsible for which of the following?",
+"o": ["Printing currency notes", "Maintenance of village wells and roads", "Declaring war on other countries", "Running the Indian Railways"],
+"a": 1,
+"sol": "Local bodies handle local infrastructure and basic needs."
+},
+{
+"q": "How does the Gram Panchayat get its funds?",
+"o": ["From the UN", "Taxes on houses and markets, and government grants", "By selling village land to foreigners", "From donations by students"],
+"a": 1,
+"sol": "Local taxes and government funding are the primary sources of income."
+},
+{
+"q": "The 'Nyaya Panchayat' deals with:",
+"o": ["Big criminal cases", "Minor civil and criminal disputes", "International treaties", "Space exploration"],
+"a": 1,
+"sol": "It is a local village court intended to provide quick justice."
+},
+{
+"q": "The 'Panchayat Samiti' is also known as the:",
+"o": ["Village Council", "Block Development Council", "District Board", "State Cabinet"],
+"a": 1,
+"sol": "It oversees the work of several Gram Panchayats in a block."
+},
+{
+"q": "Governance at the local level ensures:",
+"o": ["People's participation in decision making", "That only rich people rule", "That the Prime Minister visits every house", "That no laws are made"],
+"a": 0,
+"sol": "Democracy is most effective when people participate directly in their own affairs."
+},
+{
+"q": "Which of these is a compulsory function of a Gram Panchayat?",
+"o": ["Building a cinema hall", "Providing clean drinking water", "Organizing luxury tours", "Selling cars"],
+"a": 1,
+"sol": "Basic health and sanitation are mandatory functions."
+},
+{
+"q": "The term of a Gram Panchayat is usually:",
+"o": ["2 years", "10 years", "5 years", "1 year"],
+"a": 2,
+"sol": "Elections for the Panchayat are held every five years."
+},
+{
+"q": "Which constitutional amendment gave legal status to Panchayati Raj?",
+"o": ["42nd Amendment", "73rd Amendment", "1st Amendment", "100th Amendment"],
+"a": 1,
+"sol": "The 73rd Amendment Act, 1992, formalized the system in India."
+},
+{
+"q": "The Gram Sabha monitors the work of the:",
+"o": ["Gram Panchayat", "Supreme Court", "Parliament", "President of India"],
+"a": 0,
+"sol": "The Panchayat is accountable to the Gram Sabha."
+},
+{
+"q": "Who presides over the meetings of the Zila Parishad?",
+"o": ["The Governor", "The Chairperson/President of Zila Parishad", "The Chief Minister", "The Police Commissioner"],
+"a": 1,
+"sol": "An elected member serves as the head of the district council."
+},
+{
+"q": "Local self-government is important because:",
+"o": ["Local people know their problems better", "It is cheaper to run", "Central government doesn't exist", "It makes everyone a king"],
+"a": 0,
+"sol": "Proximity to the issues allows for more effective solutions."
+},
+{
+"q": "What is the function of the 'Block Development Officer' (BDO)?",
+"o": ["To act as a judge", "To implement development plans in the block", "To teach in primary schools", "To clean the streets"],
+"a": 1,
+"sol": "The BDO is the executive officer of the Panchayat Samiti."
+},
+{
+"q": "One-third of seats in Panchayats are reserved for:",
+"o": ["Children", "Women", "Foreigners", "Government officers"],
+"a": 1,
+"sol": "Reservation ensures the participation of women in local governance."
+},
+{
+"q": "The 'Vikas Patra' usually refers to a:",
+"o": ["Birth certificate", "Development report/card", "Passport", "Driving license"],
+"a": 1,
+"sol": "It tracks the progress of various schemes in the village."
+},
+{
+"q": "In a democracy, the ultimate power lies with the:",
+"o": ["Military", "King", "People", "Police"],
+"a": 2,
+"sol": "Citizens hold the power through their right to vote."
+},
+{
+"q": "Which body prepares the budget for the entire district's Panchayats?",
+"o": ["Gram Sabha", "Zila Parishad", "State Bank", "Finance Ministry"],
+"a": 1,
+"sol": "Zila Parishad coordinates plans and budgets for all blocks."
+},
+{
+"q": "Who can vote in a Panchayat election?",
+"o": ["Anyone from the city", "Only those whose names are in the village electoral roll", "Only the Sarpanch's family", "Only people with degrees"],
+"a": 1,
+"sol": "Registration in the local voter list is mandatory."
+},
+{
+"q": "The Gram Panchayat maintains records of:",
+"o": ["Movies made in India", "Births and deaths in the village", "Cricket scores", "Weather in other countries"],
+"a": 1,
+"sol": "Maintaining vital statistics is a key administrative duty."
+},
+{
+"q": "The concept of 'Gram Swaraj' was popularized by:",
+"o": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhash Chandra Bose", "B.R. Ambedkar"],
+"a": 1,
+"sol": "Gandhi believed in self-sufficient and self-governed villages."
+},
+{
+"q": "Which level of government deals with matters of the whole country?",
+"o": ["Local Government", "Central Government", "State Government", "Village Panchayat"],
+"a": 1,
+"sol": "The Central or Union government manages national issues like defense."
+},
+{
+"q": "How many levels are there in the Panchayati Raj system in India?",
+"o": ["Two", "Three", "Four", "Five"],
+"a": 1,
+"sol": "It is a three-tier system: Village, Block, and District."
+},
+{
+"q": "The Zila Parishad works for the welfare of the:",
+"o": ["Only one ward", "Entire district", "Whole state", "Entire country"],
+"a": 1,
+"sol": "It is the district-level body of the Panchayati Raj."
+},
+{
+"q": "Public health in a village is managed by:",
+"o": ["Panchayat and Primary Health Centers", "Railway Ministry", "Forest Department", "Space Research Center"],
+"a": 0,
+"sol": "Local health services are part of village governance."
+},
+{
+"q": "What happens if a seat in the Panchayat becomes vacant?",
+"o": ["The Sarpanch chooses a friend", "A by-election is held", "The seat is removed", "The Government closes the Panchayat"],
+"a": 1,
+"sol": "A fresh election is conducted to fill the vacancy."
+},
+{
+"q": "The main objective of Panchayati Raj is to:",
+"o": ["Centralize all power", "Decentralize power and empower people", "Remove all taxes", "Abolish the police"],
+"a": 1,
+"sol": "Decentralization brings decision-making closer to the people."
+},
+{
+"q": "Which of these is an 'Optional' function of a Panchayat?",
+"o": ["Sanitation", "Organizing village sports or libraries", "Road repairs", "Street lighting"],
+"a": 1,
+"sol": "Libraries and sports are non-compulsory but developmental functions."
+},
+{
+"q": "Who oversees the implementation of the Mid-day Meal scheme in village schools?",
+"o": ["The Gram Panchayat", "The Army", "The Post Office", "The Bank"],
+"a": 0,
+"sol": "Panchayats often monitor local education and nutrition programs."
+},
+{
+"q": "The meeting of the Gram Sabha is called at least ______ times a year.",
+"o": ["Once", "Twice", "Ten times", "Never"],
+"a": 1,
+"sol": "Most states mandate at least two meetings per year."
+},
+{
+"q": "A democratic government is 'Accountable' means:",
+"o": ["It must explain its actions to the people", "It must count all the money", "It must hide all its secrets", "It can do whatever it wants"],
+"a": 0,
+"sol": "Accountability ensures transparency and honesty."
+},
+{
+"q": "Which of these helps in resolving water disputes between two villages?",
+"o": ["Gram Sabha", "Panchayat Samiti / Zila Parishad", "Village school", "Local shopkeeper"],
+"a": 1,
+"sol": "Higher tiers of the system resolve disputes between lower units."
+},
+{
+"q": "The 'Panchs' are elected by the:",
+"o": ["Sarpanch", "Voters of each ward", "District Magistrate", "Governor"],
+"a": 1,
+"sol": "Ward members are directly elected by the residents of that specific ward."
+},
+{
+"q": "What is 'Self-Governance'?",
+"o": ["Being ruled by a foreign power", "The ability of a community to manage its own affairs", "Having no rules at all", "Living alone in a forest"],
+"a": 1,
+"sol": "Local self-government is the heart of grassroots democracy."
+},
+{
+"q": "What is the primary source of drinking water in many Indian villages managed by Panchayats?",
+"o": ["Bottled water", "Handpumps, wells, and tanks", "Glaciers", "Rainwater only"],
+"a": 1,
+"sol": "Maintaining these sources is a key duty of the Gram Panchayat."
+},
+{
+"q": "The Zila Parishad gets money from:",
+"o": ["Charging for entry to the district", "State government grants", "Selling the district map", "Donations from other districts"],
+"a": 1,
+"sol": "It relies heavily on state and central government allocations."
+},
+{
+"q": "Who is the 'First Citizen' of a city (in urban governance context)?",
+"o": ["Prime Minister", "Mayor", "Sarpanch", "BDO"],
+"a": 1,
+"sol": "The Mayor is the ceremonial head of a Municipal Corporation."
+},
+{
+"q": "Which of these is NOT part of the Panchayati Raj?",
+"o": ["Gram Panchayat", "Municipal Corporation", "Panchayat Samiti", "Zila Parishad"],
+"a": 1,
+"sol": "Municipal Corporations are for urban areas, not rural Panchayati Raj."
+},
+{
+"q": "Transparency in a Panchayat means:",
+"o": ["Building glass walls", "Providing information about work and funds to the public", "Keeping all documents in a safe", "Not telling anyone about the budget"],
+"a": 1,
+"sol": "Transparency prevents corruption and builds trust."
+},
+{
+"q": "Which department helps the Panchayat in agricultural development?",
+"o": ["Defense Department", "Agriculture Department", "Space Department", "Finance Department"],
+"a": 1,
+"sol": "Specialized government departments work with local bodies."
+},
+{
+"q": "A dispute over land boundaries in a village is first brought to the:",
+"o": ["High Court", "Gram Panchayat / Nyaya Panchayat", "Prime Minister", "United Nations"],
+"a": 1,
+"sol": "Local issues are best handled by local dispute resolution bodies."
+},
+{
+"q": "Which state was the first to adopt the Panchayati Raj system in 1959?",
+"o": ["Kerala", "Rajasthan", "Bihar", "Assam"],
+"a": 1,
+"sol": "Nagaur district in Rajasthan was the starting point."
+},
+{
+"q": "Who prepares the 'Voter List' for Panchayat elections?",
+"o": ["The Sarpanch", "The State Election Commission", "The Village Priest", "The School Principal"],
+"a": 1,
+"sol": "The SEC is responsible for conducting fair local elections."
+},
+{
+"q": "A member of the Panchayat Samiti is called a:",
+"o": ["Ward Member", "Block Member / Councillor", "MP", "MLA"],
+"a": 1,
+"sol": "They represent the block level interest."
+},
+{
+"q": "What is a 'Social Audit'?",
+"o": ["A type of social media post", "The review of Panchayat work by the Gram Sabha", "A medical checkup", "A bank statement"],
+"a": 1,
+"sol": "It is a process where the community checks if the money was spent correctly."
+},
+{
+"q": "Which tier provides a link between the Gram Panchayat and the State Government?",
+"o": ["Panchayat Samiti and Zila Parishad", "Nyaya Panchayat", "Ward Committee", "Central Cabinet"],
+"a": 0,
+"sol": "The higher tiers coordinate with the state for resources."
+},
+{
+"q": "Small towns are governed by a:",
+"o": ["Municipal Corporation", "Municipal Council / Nagar Palika", "Gram Sabha", "Zila Parishad"],
+"a": 1,
+"sol": "Nagar Palikas are for smaller urban areas."
+},
+{
+"q": "Large cities are governed by a:",
+"o": ["Gram Panchayat", "Municipal Corporation / Nagar Nigam", "Block Samiti", "District Court"],
+"a": 1,
+"sol": "Metropolitan cities have huge corporations for governance."
+},
+{
+"q": "The Gram Sabha can remove a Sarpanch if they are not happy with their work through a:",
+"o": ["Request letter", "No-confidence motion", "Phone call", "Twitter poll"],
+"a": 1,
+"sol": "Democratic processes allow for the removal of inefficient leaders."
+},
+{
+"q": "Who is the 'Chief Executive Officer' (CEO) of a Zila Parishad?",
+"o": ["An IAS officer", "The Sarpanch", "A Ward Member", "The School Teacher"],
+"a": 0,
+"sol": "The government appoints a CEO to handle district council administration."
+},
+{
+"q": "Which of these is a source of information about village schemes?",
+"o": ["The Panchayat Ghar notice board", "A fashion magazine", "A cooking show", "A comic book"],
+"a": 0,
+"sol": "Official notices are displayed publicly for transparency."
+},
+{
+"q": "Reservation for SC/ST in Panchayats is based on their:",
+"o": ["Height", "Population in the area", "Education", "Wealth"],
+"a": 1,
+"sol": "Seats are reserved according to their proportion in the population."
+},
+{
+"q": "Participatory democracy means:",
+"o": ["Watching democracy on TV", "People taking an active part in government processes", "Voting once in 50 years", "Letting the King decide everything"],
+"a": 1,
+"sol": "It involves active engagement beyond just voting."
+},
+{
+"q": "The Gram Panchayat building is called:",
+"o": ["Parliament House", "Panchayat Ghar", "White House", "Courtyard"],
+"a": 1,
+"sol": "It is the office where the Panchayat functions."
+},
+{
+"q": "What is the role of 'Gram Rakshak Dal'?",
+"o": ["Village security and safety", "Cooking food", "Playing music", "Cleaning wells"],
+"a": 0,
+"sol": "Some villages have voluntary groups for local protection."
+},
+{
+"q": "To whom does the Zila Parishad submit its plan?",
+"o": ["The Gram Sabha", "The State Government", "The United Nations", "The District School"],
+"a": 1,
+"sol": "The State government approves the district development plans."
+},
+{
+"q": "In many states, the Sarpanch is elected ______ by the people.",
+"o": ["Directly", "Indirectly by Ward Members", "By the Governor", "By the DM"],
+"a": 0,
+"sol": "Direct election means people vote specifically for the Sarpanch position."
+},
+{
+"q": "Local government handles which of the following 'Sanitation' tasks?",
+"o": ["Washing every car", "Drainage and waste disposal", "Cleaning the moon", "Painting the sky"],
+"a": 1,
+"sol": "Public hygiene is a critical local responsibility."
+},
+{
+"q": "Which of these is a benefit of being a member of the Gram Sabha?",
+"o": ["Free holidays", "The right to question the Panchayat and suggest works", "A free car", "No need to work"],
+"a": 1,
+"sol": "Active members can shape the development of their village."
+},
+{
+"q": "Empowerment of villages leads to:",
+"o": ["National development", "Weakness of the country", "More wars", "Confusion"],
+"a": 0,
+"sol": "When villages progress, the nation progresses."
+},
+{
+"q": "What is the primary language used in a Gram Sabha meeting?",
+"o": ["French", "The local regional language", "Latin", "Sanskrit only"],
+"a": 1,
+"sol": "Local language ensures everyone can participate effectively."
+},
+{
+"q": "The head of a Municipal Corporation is called a:",
+"o": ["Sarpanch", "Mayor", "Governor", "President"],
+"a": 1,
+"sol": "The Mayor leads the urban local body."
+},
+{
+"q": "Who helps the BDO in managing the Block Samiti?",
+"o": ["The Sarpanchs of the block", "The Police", "The Forest Guards", "The Pilots"],
+"a": 0,
+"sol": "Sarpanchs are often members of the Block Samiti."
+},
+{
+"q": "An 'Advisory' role means:",
+"o": ["Giving orders", "Giving suggestions and advice", "Fighting", "Running away"],
+"a": 1,
+"sol": "Higher bodies often advise lower bodies on technical matters."
+},
+{
+"q": "How does a Panchayat encourage education?",
+"o": ["By building and maintaining primary schools", "By banning books", "By closing schools", "By selling pencils at high prices"],
+"a": 0,
+"sol": "Education is a key area of local development."
+},
+{
+"q": "If someone is unhappy with a Nyaya Panchayat's decision, they can go to:",
+"o": ["Another village", "A District Court", "The Sarpanch's house", "Nowhere"],
+"a": 1,
+"sol": "The formal judicial system is an avenue for appeal."
+},
+{
+"q": "Who among these is a non-elected official in the district?",
+"o": ["Zila Parishad President", "District Magistrate", "Ward Member", "Sarpanch"],
+"a": 1,
+"sol": "The DM is an appointed civil servant."
+},
+{
+"q": "The Gram Panchayat is the ______ level of democracy.",
+"o": ["Top", "Middle", "Bottom / Basic", "International"],
+"a": 2,
+"sol": "It is the first step in the ladder of democracy."
+},
+{
+"q": "Street lighting in a village is the responsibility of:",
+"o": ["Individual homeowners", "The Gram Panchayat", "The Cinema Hall", "The Post Office"],
+"a": 1,
+"sol": "Public utilities are managed by the local government."
+},
+{
+"q": "What is 'Public Property'?",
+"o": ["Things owned by the Sarpanch", "Things for use by all citizens", "Things found in a forest", "Things in your bedroom"],
+"a": 1,
+"sol": "Parks, roads, and village wells are public property."
+},
+{
+"q": "Which of these is a duty of a citizen towards the Panchayat?",
+"o": ["Paying local taxes", "Breaking the street lights", "Stealing village property", "Ignoring meetings"],
+"a": 0,
+"sol": "Tax payment allows the Panchayat to function."
+},
+{
+"q": "Who is the head of the State Government?",
+"o": ["Prime Minister", "Chief Minister", "Sarpanch", "Mayor"],
+"a": 1,
+"sol": "The CM leads the state level governance."
+},
+{
+"q": "The 'Electoral Roll' is basically a:",
+"o": ["List of movies", "List of voters", "List of students", "List of grocery items"],
+"a": 1,
+"sol": "It identifies who is eligible to vote."
+},
+{
+"q": "Why should women participate in Panchayats?",
+"o": ["To cook for the meetings", "To represent their needs and perspectives", "Because they are forced", "To increase the noise"],
+"a": 1,
+"sol": "Inclusive governance requires participation from all genders."
+},
+{
+"q": "What is the function of the 'Animal Husbandry' wing in local bodies?",
+"o": ["Hunting animals", "Caring for livestock and veterinary services", "Killing insects", "Selling pets"],
+"a": 1,
+"sol": "It supports the rural economy based on cattle and poultry."
+},
+{
+"q": "The 'Panch' represents a:",
+"o": ["Whole district", "Ward", "State", "Country"],
+"a": 1,
+"sol": "A Panch is the representative of a specific ward."
+},
+{
+"q": "Which of these is a sign of 'Misuse of Power' in a Panchayat?",
+"o": ["Building a road for everyone", "Using funds only for the Sarpanch's house", "Calling a Gram Sabha meeting", "Repairing a school"],
+"a": 1,
+"sol": "Favoritism and corruption are misuses of power."
+},
+{
+"q": "In which month is the budget usually discussed in Panchayats?",
+"o": ["December", "March/April (Start of financial year)", "August", "January"],
+"a": 1,
+"sol": "Planning happens at the beginning of the fiscal year."
+},
+{
+"q": "Who provides technical advice for building a bridge in a village?",
+"o": ["The local shopkeeper", "Government Engineers from the Block/District", "A school student", "The village priest"],
+"a": 1,
+"sol": "Expertise comes from government technical departments."
+},
+{
+"q": "The Gram Sabha ______ the Panchayat's plans.",
+"o": ["Ignores", "Approves/Rejects", "Hides", "Burns"],
+"a": 1,
+"sol": "The Sabha has the power to sanction or question plans."
+},
+{
+"q": "What is 'Social Cohesion'?",
+"o": ["Fighting with neighbors", "Living together in unity and peace", "Moving to a city", "Being afraid of people"],
+"a": 1,
+"sol": "Peaceful living is essential for community growth."
+},
+{
+"q": "A 'BPL' list in a village is for:",
+"o": ["Big People Living", "Below Poverty Line families", "Best Players List", "Blue Plate Lunch"],
+"a": 1,
+"sol": "The Gram Sabha identifies poor families for government benefits."
+},
+{
+"q": "Who monitors the quality of food in Anganwadis?",
+"o": ["The Army", "The Gram Panchayat", "Foreign tourists", "The Police"],
+"a": 1,
+"sol": "Local health and nutrition are under Panchayat supervision."
+},
+{
+"q": "The 'Secretariat' of a village is usually the:",
+"o": ["Cinema Hall", "Panchayat Office", "Grocery store", "Tree shade"],
+"a": 1,
+"sol": "It is the hub of administrative work."
+},
+{
+"q": "Democracy thrives on:",
+"o": ["Violence", "Discussion and participation", "Silence", "Secrets"],
+"a": 1,
+"sol": "Open dialogue is the strength of a democratic system."
+},
+{
+"q": "What is the goal of 'Self-Reliance' in a village?",
+"o": ["Depending on cities for everything", "Meeting own needs locally as much as possible", "Closing all roads", "Not working at all"],
+"a": 1,
+"sol": "Self-reliance makes a community resilient."
+},
+{
+"q": "Who represents the District in the State Assembly?",
+"o": ["Sarpanch", "MLA (Member of Legislative Assembly)", "Mayor", "BDO"],
+"a": 1,
+"sol": "MLAs are state-level representatives."
+},
+{
+"q": "Which of these is a way to stop corruption in a Panchayat?",
+"o": ["Giving more money to Sarpanch", "Active questioning by the Gram Sabha", "Ignoring the budget", "Not voting"],
+"a": 1,
+"sol": "Citizen vigilance is the best cure for corruption."
+},
+{
+"q": "The village 'Chaukidar' is responsible for:",
+"o": ["Teaching", "Night watch and security", "Cooking", "Farming"],
+"a": 1,
+"sol": "They provide basic security services."
+},
+{
+"q": "Local government is the ______ tier of Indian administration.",
+"o": ["First", "Second", "Third", "Fourth"],
+"a": 2,
+"sol": "Union (1st), State (2nd), and Local (3rd)."
+}
+]
