@@ -1,0 +1,602 @@
+[
+{
+"q": "Which was the first site of the Indus Valley Civilisation to be excavated?",
+"o": ["Mohenjo-daro", "Harappa", "Lothal", "Dholavira"],
+"a": 1,
+"sol": "Harappa was the first site discovered in 1921, leading the civilisation to be named 'Harappan'."
+},
+{
+"q": "The Harappan Civilisation belonged to which age?",
+"o": ["Iron Age", "Stone Age", "Bronze Age", "Modern Age"],
+"a": 2,
+"sol": "It is known as a Bronze Age civilisation because they used an alloy of copper and tin."
+},
+{
+"q": "What was the most unique feature of Harappan cities?",
+"o": ["Large Temples", "Planned Drainage System", "Pyramids", "Iron Tools"],
+"a": 1,
+"sol": "The sophisticated underground drainage system was ahead of its time."
+},
+{
+"q": "The 'Great Bath' was found in which city?",
+"o": ["Harappa", "Mohenjo-daro", "Kalibangan", "Ropar"],
+"a": 1,
+"sol": "The Great Bath, likely used for ritual bathing, was found at Mohenjo-daro."
+},
+{
+"q": "Which of these materials was used to make Harappan seals?",
+"o": ["Steatite", "Iron", "Gold", "Plastic"],
+"a": 0,
+"sol": "Most seals were made of steatite, a soft stone."
+},
+{
+"q": "The Harappan script is described as:",
+"o": ["Alphabetic", "Pictographic", "Numerical", "Cuneiform"],
+"a": 1,
+"sol": "The script consisted of pictures and symbols, and it has not been deciphered yet."
+},
+{
+"q": "Which Harappan site is famous for its dockyard?",
+"o": ["Banawali", "Lothal", "Surkotada", "Rakhi Garhi"],
+"a": 1,
+"sol": "Lothal in Gujarat had a massive brick dockyard for maritime trade."
+},
+{
+"q": "What was the main occupation of the Harappan people?",
+"o": ["Hunting", "Agriculture", "Fishing", "Mining"],
+"a": 1,
+"sol": "Agriculture was the backbone of their economy, supported by trade and crafts."
+},
+{
+"q": "Which animal was NOT known or represented commonly by Harappans?",
+"o": ["Bull", "Elephant", "Horse", "Tiger"],
+"a": 2,
+"sol": "While other animals are frequent, evidence of horses is very rare and debated for the early period."
+},
+{
+"q": "Harappan houses were generally built of:",
+"o": ["Mud and Straw", "Baked Bricks", "Stone only", "Wood"],
+"a": 1,
+"sol": "They used standardized sun-dried or kiln-baked bricks for construction."
+},
+{
+"q": "The citadel was the part of the city where:",
+"o": ["Farmers lived", "The ruling class/important buildings were located", "The cemetery was", "Markets were located"],
+"a": 1,
+"sol": "The citadel was a raised platform housing public buildings or elite residences."
+},
+{
+"q": "Which grain was NOT grown by Harappans?",
+"o": ["Wheat", "Barley", "Corn (Maize)", "Mustard"],
+"a": 2,
+"sol": "Maize originated in the Americas and was not known to the Harappans."
+},
+{
+"q": "The Harappans had trade relations with which ancient civilisation?",
+"o": ["Maya", "Mesopotamia", "China", "Inca"],
+"a": 1,
+"sol": "Seals found in Mesopotamia (modern Iraq) prove active trade between the two."
+},
+{
+"q": "Which metal was unknown to the Harappan people?",
+"o": ["Copper", "Bronze", "Iron", "Gold"],
+"a": 2,
+"sol": "The Iron Age in India began much later than the Harappan period."
+},
+{
+"q": "A 'Ploughed field' evidence was found at which site?",
+"o": ["Kalibangan", "Lothal", "Harappa", "Mohenjo-daro"],
+"a": 0,
+"sol": "Evidence of furrows from a ploughed field was found in Kalibangan, Rajasthan."
+},
+{
+"q": "Which city is divided into three parts instead of the usual two?",
+"o": ["Harappa", "Dholavira", "Mohenjo-daro", "Lothal"],
+"a": 1,
+"sol": "Dholavira in Kutch is unique for being divided into three parts: Citadel, Middle Town, and Lower Town."
+},
+{
+"q": "The Harappan weight system was based on multiples of:",
+"o": ["10", "16", "12", "5"],
+"a": 1,
+"sol": "They used a binary and decimal system, with 16 being a basic unit."
+},
+{
+"q": "What was the purpose of the 'Granary' in Harappan cities?",
+"o": ["To house soldiers", "To store surplus grain", "To perform sacrifices", "To hold meetings"],
+"a": 1,
+"sol": "Large granaries were used to store food supplies for the city or for times of shortage."
+},
+{
+"q": "Which tree is frequently depicted on Harappan seals and was likely sacred?",
+"o": ["Banyan", "Peepal", "Neem", "Mango"],
+"a": 1,
+"sol": "The Peepal tree holds significant religious importance on many seals."
+},
+{
+"q": "What is the approximate time period of the Mature Harappan phase?",
+"o": ["5000-4000 BCE", "2600-1900 BCE", "1500-1000 BCE", "600-300 BCE"],
+"a": 1,
+"sol": "The civilisation flourished at its peak between 2600 and 1900 BCE."
+},
+{
+"q": "The 'Dancing Girl' statue is made of:",
+"o": ["Stone", "Bronze", "Terracotta", "Ivory"],
+"a": 1,
+"sol": "It is a famous bronze figurine made using the 'lost-wax' casting technique."
+},
+{
+"q": "Who was the Director-General of ASI when Harappa was excavated?",
+"o": ["Alexander Cunningham", "John Marshall", "R.D. Banerji", "Dayaram Sahni"],
+"a": 1,
+"sol": "Sir John Marshall announced the discovery of the Indus Valley Civilisation to the world."
+},
+{
+"q": "The Harappans were the first in the world to produce:",
+"o": ["Silk", "Cotton", "Iron", "Paper"],
+"a": 1,
+"sol": "Greeks called it 'Sindon' because it came from the Sindhu (Indus) region."
+},
+{
+"q": "Which site shows evidence of a water harvesting system with reservoirs?",
+"o": ["Dholavira", "Harappa", "Lothal", "Banawali"],
+"a": 0,
+"sol": "Dholavira had elaborate stone-cut reservoirs to manage water in an arid region."
+},
+{
+"q": "Terracotta models of a 'Plough' have been found at:",
+"o": ["Lothal", "Banawali", "Mohenjo-daro", "Harappa"],
+"a": 1,
+"sol": "Banawali in Haryana provided terracotta toys representing ploughs."
+},
+{
+"q": "The Harappan civilisation declined around:",
+"o": ["2500 BCE", "1900 BCE", "1000 BCE", "500 BCE"],
+"a": 1,
+"sol": "Around 1900 BCE, cities began to be abandoned and the urban culture faded."
+},
+{
+"q": "Which of these was a likely cause for the decline of the civilisation?",
+"o": ["Climate change/Floods", "Deforestation", "Drying up of rivers", "All of the above"],
+"a": 3,
+"sol": "Historians suggest a combination of environmental factors led to the decline."
+},
+{
+"q": "The 'Beard Man' or 'Priest-King' statue was found at:",
+"o": ["Harappa", "Mohenjo-daro", "Lothal", "Kalibangan"],
+"a": 1,
+"sol": "This steatite sculpture was recovered from Mohenjo-daro."
+},
+{
+"q": "What kind of clothing did Harappans likely wear?",
+"o": ["Leather", "Cotton and Wool", "Silk only", "Nylon"],
+"a": 1,
+"sol": "Evidence of spindles and actual cloth fragments points to cotton and wool."
+},
+{
+"q": "The Harappan civilization is also called the ______ Civilization.",
+"o": ["Vedic", "Harappan", "Ganges", "Saraswati"],
+"a": 1,
+"sol": "It is named after Harappa, the first site discovered."
+},
+{
+"q": "Which city was located on the banks of the Ravi river?",
+"o": ["Mohenjo-daro", "Harappa", "Lothal", "Ropar"],
+"a": 1,
+"sol": "Harappa is situated on the banks of the Ravi river."
+},
+{
+"q": "Which city was located on the banks of the Indus river?",
+"o": ["Harappa", "Mohenjo-daro", "Kalibangan", "Lothal"],
+"a": 1,
+"sol": "Mohenjo-daro is located in the Larkana district on the Indus river."
+},
+{
+"q": "Harappan beads were often made of which semi-precious stone?",
+"o": ["Carnelian", "Diamond", "Ruby", "Sapphire"],
+"a": 0,
+"sol": "Carnelian (a red stone) was highly popular for bead-making."
+},
+{
+"q": "Most Harappan seals are ______ in shape.",
+"o": ["Circular", "Rectangular/Square", "Triangular", "Oval"],
+"a": 1,
+"sol": "Square or rectangular seals are the most common find."
+},
+{
+"q": "The Harappan grid system meant that streets cut each other at:",
+"o": ["Acute angles", "Right angles (90 degrees)", "Obtuse angles", "Random patterns"],
+"a": 1,
+"sol": "Cities were planned in a grid with streets crossing at right angles."
+},
+{
+"q": "Which toy was very common in Harappan excavations?",
+"o": ["Lego", "Terracotta carts", "Plastic dolls", "Iron swords"],
+"a": 1,
+"sol": "Terracotta carts and figurines show what life was like and what children played with."
+},
+{
+"q": "Harappans worshipped a figure often called 'Proto-Shiva' found on seals. This figure is:",
+"o": ["A King", "Pashupati", "A Farmer", "An Elephant"],
+"a": 1,
+"sol": "The Pashupati seal shows a deity surrounded by animals."
+},
+{
+"q": "What was the main purpose of Harappan seals?",
+"o": ["As money", "To stamp goods for trade", "As jewelry", "For cooking"],
+"a": 1,
+"sol": "They were used to mark bags or packets to ensure they hadn't been tampered with."
+},
+{
+"q": "The Lower Town in a Harappan city was meant for:",
+"o": ["Kings", "Common people/Craftsmen", "Storage only", "Animals"],
+"a": 1,
+"sol": "While the citadel was for the elite, the lower town was for the general population."
+},
+{
+"q": "Which of the following sites is in modern-day Haryana, India?",
+"o": ["Mohenjo-daro", "Rakhi Garhi", "Chanhudaro", "Kot Diji"],
+"a": 1,
+"sol": "Rakhi Garhi is one of the largest Harappan sites in India, located in Haryana."
+},
+{
+"q": "Which site is located in the Kutch region of Gujarat?",
+"o": ["Surkotada", "Banawali", "Ropar", "Alamgirpur"],
+"a": 0,
+"sol": "Surkotada is in Kutch and is known for possible horse remains."
+},
+{
+"q": "Harappan pottery was generally ______ in color with black designs.",
+"o": ["Blue", "Red", "Yellow", "Green"],
+"a": 1,
+"sol": "It is often called Red and Black pottery."
+},
+{
+"q": "Which was the northern-most site of the civilisation?",
+"o": ["Daimabad", "Shortughai (Manda)", "Lothal", "Sutkagen Dor"],
+"a": 1,
+"sol": "Shortughai in Afghanistan or Manda in J&K are considered northern boundaries."
+},
+{
+"q": "Which was the southern-most site of the civilisation?",
+"o": ["Alamgirpur", "Daimabad", "Manda", "Harappa"],
+"a": 1,
+"sol": "Daimabad in Maharashtra marks the southern extent."
+},
+{
+"q": "The Harappan people got 'Copper' mainly from:",
+"o": ["Karnataka", "Khetri (Rajasthan)", "Afghanistan", "Bihar"],
+"a": 1,
+"sol": "The Khetri mines in Rajasthan were a major source of copper."
+},
+{
+"q": "The Harappan people got 'Tin' mainly from:",
+"o": ["Rajasthan", "Afghanistan/Iran", "South India", "Gujarat"],
+"a": 1,
+"sol": "Tin was scarce and likely imported from Afghanistan or Iran to make bronze."
+},
+{
+"q": "Which bird was likely kept as a pet or was significant, based on terracotta models?",
+"o": ["Penguin", "Dove/Pigeon", "Ostrich", "Turkey"],
+"a": 1,
+"sol": "Small terracotta cages suggest they kept birds like pigeons."
+},
+{
+"q": "Harappan burials were usually in which direction?",
+"o": ["East-West", "North-South", "South-East", "Diagonal"],
+"a": 1,
+"sol": "Bodies were typically laid in a North-South orientation."
+},
+{
+"q": "Which city had no citadel?",
+"o": ["Harappa", "Chanhudaro", "Mohenjo-daro", "Kalibangan"],
+"a": 1,
+"sol": "Chanhudaro is unique as it lacks a fortified citadel."
+},
+{
+"q": "The 'Mother Goddess' figurines were made of:",
+"o": ["Stone", "Terracotta", "Iron", "Gold"],
+"a": 1,
+"sol": "Numerous clay (terracotta) figurines of women suggest the worship of a Mother Goddess."
+},
+{
+"q": "Which of these crops did Harappans NOT produce?",
+"o": ["Peas", "Sesame", "Rice (in some parts)", "Sugarcane"],
+"a": 3,
+"sol": "While they had many grains, evidence for sugarcane is missing in this period."
+},
+{
+"q": "The Harappan civilisation was ______ in nature.",
+"o": ["Rural", "Urban (City-based)", "Nomadic", "Forest-dwelling"],
+"a": 1,
+"sol": "It is famous for being the first urban civilisation in South Asia."
+},
+{
+"q": "Who discovered Mohenjo-daro?",
+"o": ["Dayaram Sahni", "R.D. Banerji", "S.R. Rao", "J.P. Joshi"],
+"a": 1,
+"sol": "Rakhal Das Banerji discovered Mohenjo-daro in 1922."
+},
+{
+"q": "The word 'Mohenjo-daro' means:",
+"o": ["City of Gold", "Mound of the Dead", "Place of Victory", "Beautiful River"],
+"a": 1,
+"sol": "In Sindhi, it means 'Mound of the Dead'."
+},
+{
+"q": "Which Harappan city is in modern-day Pakistan?",
+"o": ["Lothal", "Harappa", "Kalibangan", "Ropar"],
+"a": 1,
+"sol": "Harappa is in the Punjab province of Pakistan."
+},
+{
+"q": "What was the likely use of the 'Fire Altars' found at Kalibangan?",
+"o": ["Cooking", "Religious Sacrifices", "Heating houses", "Making bricks"],
+"a": 1,
+"sol": "Fire altars suggest a different type of religious practice in the eastern sites."
+},
+{
+"q": "Which Harappan site is located in Rajasthan?",
+"o": ["Banawali", "Kalibangan", "Dholavira", "Lothal"],
+"a": 1,
+"sol": "Kalibangan is located on the banks of the now-dry Ghaggar river in Rajasthan."
+},
+{
+"q": "The Harappan civilization was spread over which modern countries?",
+"o": ["India and Nepal", "India and Pakistan", "India, Pakistan, and Afghanistan", "Only India"],
+"a": 2,
+"sol": "Sites have been found in all three countries."
+},
+{
+"q": "The people of Indus Valley used ______ for measurement of length.",
+"o": ["Iron rods", "Standardized ivory/shell scales", "Human feet", "Wooden sticks"],
+"a": 1,
+"sol": "Ivory scales found at Lothal show they had accurate linear measurements."
+},
+{
+"q": "Which of these indicates the Harappan people were good at seafaring?",
+"o": ["Granaries", "Dockyard at Lothal", "Citadel", "Drainage"],
+"a": 1,
+"sol": "The dockyard proves they built ships and sailed for trade."
+},
+{
+"q": "In Harappan culture, 'Lapis Lazuli' was imported from:",
+"o": ["South India", "Afghanistan (Badakshan)", "Egypt", "China"],
+"a": 1,
+"sol": "Shortughai was a Harappan trading post specifically for Lapis Lazuli."
+},
+{
+"q": "What was 'Faience' in Harappan times?",
+"o": ["A type of grain", "An artificially produced stone (glazed)", "A weapon", "A musical instrument"],
+"a": 1,
+"sol": "Faience was used to make beads, bangles, and tiny vessels."
+},
+{
+"q": "The 'Lower Town' buildings were usually made of:",
+"o": ["Mud bricks", "Baked bricks", "Both", "Straw"],
+"a": 1,
+"sol": "Baked bricks were common throughout the city for durability."
+},
+{
+"q": "Which animal is NOT found on the Pashupati seal?",
+"o": ["Tiger", "Rhino", "Cow", "Elephant"],
+"a": 2,
+"sol": "The seal features a tiger, rhino, elephant, buffalo, and deer, but not a cow."
+},
+{
+"q": "The Harappan Civilization is contemporary with which of these?",
+"o": ["Roman Empire", "Mesopotamian Civilization", "Greek City States", "Mauryan Empire"],
+"a": 1,
+"sol": "It existed at the same time as ancient Sumer/Mesopotamia."
+},
+{
+"q": "Which color was most commonly used on Harappan pottery for the base?",
+"o": ["Green", "Red", "Blue", "White"],
+"a": 1,
+"sol": "A bright red slip was applied as a base before painting black designs."
+},
+{
+"q": "Harappan toilets often had ______ to carry waste to the street drains.",
+"o": ["Plastic pipes", "Clay pipes/channels", "Open buckets", "Nothing"],
+"a": 1,
+"sol": "Even individual houses had sophisticated sanitation connected to the main sewer."
+},
+{
+"q": "The Harappans obtained 'Gold' from:",
+"o": ["Kolar (South India)", "Rajasthan", "Himalayas", "Europe"],
+"a": 0,
+"sol": "Gold likely came from the Karnataka region."
+},
+{
+"q": "What were 'Spindle Whorls' used for?",
+"o": ["Hunting", "Spinning thread", "Grinding grain", "Building walls"],
+"a": 1,
+"sol": "These tools prove that textile production was a major craft."
+},
+{
+"q": "Harappan architecture used which of these features for the first time?",
+"o": ["True Arch", "Staircases in houses", "Marble flooring", "Glass windows"],
+"a": 1,
+"sol": "Many Harappan houses were double-storied and had staircases."
+},
+{
+"q": "The 'Unicorn' seal is significant because:",
+"o": ["Unicorns were real", "It's the most common mythical animal on seals", "It proves they came from Europe", "It was used as a toy"],
+"a": 1,
+"sol": "The single-horned bull is the most frequent animal depicted on Harappan seals."
+},
+{
+"q": "How did the Harappans water their crops in dry areas?",
+"o": ["Deep wells and canals", "Only rain", "They didn't grow crops there", "Bottled water"],
+"a": 0,
+"sol": "Sites like Dholavira and Shortughai show evidence of irrigation and water storage."
+},
+{
+"q": "Which stone was used to make the beautiful Harappan beads?",
+"o": ["Granite", "Steatite and Carnelian", "Marble", "Sandstone"],
+"a": 1,
+"sol": "They used a variety of stones including Carnelian, Jasper, and Crystal."
+},
+{
+"q": "The 'Humped Bull' was a symbol of:",
+"o": ["Weakness", "Strength and Power", "Fear", "Poverty"],
+"a": 1,
+"sol": "It is depicted majestically on many seals, representing vitality."
+},
+{
+"q": "Why is it difficult to know exactly how the Harappan government worked?",
+"o": ["No buildings exist", "The script is not deciphered", "They had no leaders", "All records were burnt"],
+"a": 1,
+"sol": "Without being able to read their writing, we can only guess about their political structure."
+},
+{
+"q": "Which site is located in the Khadir Beyt island of Gujarat?",
+"o": ["Lothal", "Dholavira", "Ropar", "Banawali"],
+"a": 1,
+"sol": "Dholavira is located on this island in the Rann of Kutch."
+},
+{
+"q": "The 'Great Granary' at Harappa was located near the:",
+"o": ["River", "Citadel", "Market", "Temple"],
+"a": 0,
+"sol": "It was conveniently located near the river for easy transport of grain by boat."
+},
+{
+"q": "What were the houses in Harappa built around?",
+"o": ["A central courtyard", "A swimming pool", "A mountain", "A temple"],
+"a": 0,
+"sol": "The courtyard was the center of activities like cooking and spinning."
+},
+{
+"q": "Which of these was a 'Luxury' item for Harappans?",
+"o": ["Clay pots", "Faience pots", "Stone weights", "Cotton cloth"],
+"a": 1,
+"sol": "Items made of rare materials like faience were likely used by the wealthy."
+},
+{
+"q": "What was used to cover the drains in Harappan cities?",
+"o": ["Nothing", "Stone slabs or bricks", "Wooden planks only", "Iron grates"],
+"a": 1,
+"sol": "Drains were covered but had manholes at intervals for cleaning."
+},
+{
+"q": "The Harappan Civilization was discovered in which decade?",
+"o": ["1890s", "1920s", "1950s", "1980s"],
+"a": 1,
+"sol": "Excavations started at Harappa in 1921."
+},
+{
+"q": "Which of these is a 'Harappan' site in Punjab, India?",
+"o": ["Lothal", "Ropar", "Kalibangan", "Chanhudaro"],
+"a": 1,
+"sol": "Ropar (now Rupnagar) is a significant site in Indian Punjab."
+},
+{
+"q": "What did the Harappans use 'Bitumen' for in the Great Bath?",
+"o": ["Fuel", "Waterproofing", "Decoration", "Cooking"],
+"a": 1,
+"sol": "A layer of natural tar (bitumen) was used to make the bath watertight."
+},
+{
+"q": "The Harappan region was known as ______ to the Mesopotamians.",
+"o": ["Dilmun", "Magan", "Meluhha", "Sumer"],
+"a": 2,
+"sol": "Ancient texts from Mesopotamia mention 'Meluhha' as a land of exotic products."
+},
+{
+"q": "What was the shape of Harappan bricks?",
+"o": ["Random", "Standardized ratio (4:2:1)", "Square", "Round"],
+"a": 1,
+"sol": "The length, breadth, and height were always in the ratio 4:2:1."
+},
+{
+"q": "The decline of Harappa led to the start of which period?",
+"o": ["Mauryan", "Vedic", "Gupta", "Mughal"],
+"a": 1,
+"sol": "The end of the Indus civilisation is followed by the Vedic Age."
+},
+{
+"q": "Which of these animals is NOT found in Indus Valley art?",
+"o": ["Giraffe", "Elephant", "Rhino", "Buffalo"],
+"a": 0,
+"sol": "Giraffes are not native to the region and were never depicted."
+},
+{
+"q": "The 'Lower Town' was larger or smaller than the Citadel?",
+"o": ["Smaller", "Larger", "Same size", "Varies completely"],
+"a": 1,
+"sol": "The Lower Town was much more extensive as it housed the majority of the population."
+},
+{
+"q": "Which site shows evidence of 'Double Burial' (man and woman together)?",
+"o": ["Lothal", "Mohenjo-daro", "Harappa", "Kalibangan"],
+"a": 0,
+"sol": "Lothal burials sometimes contained two skeletons in one grave."
+},
+{
+"q": "Most Harappan script inscriptions are found on:",
+"o": ["Walls", "Seals", "Paper", "Leaves"],
+"a": 1,
+"sol": "Seals are the primary source of Harappan writing."
+},
+{
+"q": "Which site is known for having a 'Signboard' with large script characters?",
+"o": ["Dholavira", "Harappa", "Lothal", "Mohenjo-daro"],
+"a": 0,
+"sol": "Ten large signs of the Harappan script were found at Dholavira, possibly used as a sign."
+},
+{
+"q": "The Harappans used ______ to grind their grains.",
+"o": ["Saddle querns", "Electric grinders", "Windmills", "They didn't grind grain"],
+"a": 0,
+"sol": "Saddle querns (stone grinders) were used to make flour."
+},
+{
+"q": "Which site is in modern-day Uttar Pradesh, India?",
+"o": ["Alamgirpur", "Ropar", "Banawali", "Lothal"],
+"a": 0,
+"sol": "Alamgirpur in Meerut district is the eastern-most site."
+},
+{
+"q": "Harappan merchants likely used which mode of transport for long distances?",
+"o": ["Trains", "Ships and Bullock carts", "Aeroplanes", "Horses"],
+"a": 1,
+"sol": "They used land routes with carts and sea routes with boats."
+},
+{
+"q": "What was the 'Chert' used for?",
+"o": ["Food", "Making stone weights/blades", "Clothes", "Fuel"],
+"a": 1,
+"sol": "Chert is a type of stone used to make standardized weights."
+},
+{
+"q": "Harappan society is generally believed to be:",
+"o": ["Equality based", "Highly organized with some hierarchy", "Wild/Primitive", "Ruled by one king only"],
+"a": 1,
+"sol": "The planning and standardization suggest a strong central authority or organized groups."
+},
+{
+"q": "Which direction did the main streets of Harappa run?",
+"o": ["Random", "North to South and East to West", "Circular", "Towards the sun"],
+"a": 1,
+"sol": "The grid was aligned to cardinal directions."
+},
+{
+"q": "How many major sites of the Harappan civilization have been found?",
+"o": ["Only 2", "Over 1000", "Exactly 10", "Only in India"],
+"a": 1,
+"sol": "Over a thousand sites including small villages and large cities have been identified."
+},
+{
+"q": "The Harappans were experts in ______ making.",
+"o": ["Glass", "Bead", "Paper", "Iron"],
+"a": 1,
+"sol": "Bead-making was a specialized craft with workshops found at Chanhudaro and Lothal."
+},
+{
+"q": "Which of these is the most impressive public building in Mohenjo-daro?",
+"o": ["The Palace", "The Great Bath", "The Library", "The Stadium"],
+"a": 1,
+"sol": "The Great Bath is the most famous architectural marvel of Mohenjo-daro."
+}
+]
