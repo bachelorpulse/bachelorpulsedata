@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the place value of 7 in the number 5,74,321?",
+"o": ["700", "7,000", "70,000", "70"],
+"a": 2,
+"sol": "In 5,74,321, 7 is in the ten-thousands place, so its value is 70,000."
+},
+{
+"q": "Which is the smallest 5-digit number using 3, 0, 9, 1, 5 without repetition?",
+"o": ["01359", "10359", "13590", "95310"],
+"a": 1,
+"sol": "To form the smallest number, we cannot start with 0. So we start with 1, then 0, then 3, 5, 9."
+},
+{
+"q": "1 Million is equal to how many Lakhs?",
+"o": ["1 Lakh", "100 Lakhs", "10 Lakhs", "1,000 Lakhs"],
+"a": 2,
+"sol": "1,000,000 (1 Million) = 10,00,000 (10 Lakhs)."
+},
+{
+"q": "What is the Roman numeral for 98?",
+"o": ["XCVIII", "LXXXXVIII", "IC", "CVIII"],
+"a": 0,
+"sol": "90 is XC and 8 is VIII, so 98 is XCVIII."
+},
+{
+"q": "Estimate 5,290 + 17,986 by rounding off to the nearest thousands.",
+"o": ["22,000", "23,000", "23,300", "25,000"],
+"a": 1,
+"sol": "5,290 rounds to 5,000. 17,986 rounds to 18,000. 5,000 + 18,000 = 23,000."
+},
+{
+"q": "How many zeros are there in 1 Crore?",
+"o": ["5", "6", "8", "7"],
+"a": 3,
+"sol": "1 Crore = 1,00,00,000, which has 7 zeros."
+},
+{
+"q": "The face value of 4 in 8,45,210 is:",
+"o": ["40,000", "4", "4,000", "400"],
+"a": 1,
+"sol": "The face value of a digit is the digit itself."
+},
+{
+"q": "Which symbol is never repeated in Roman numerals?",
+"o": ["X", "I", "V", "C"],
+"a": 2,
+"sol": "V (5), L (50), and D (500) are never repeated."
+},
+{
+"q": "What is the successor of 9,99,999?",
+"o": ["1,00,00,000", "10,00,000", "9,99,998", "1,00,000"],
+"a": 1,
+"sol": "Successor means adding 1. 9,99,999 + 1 = 10,00,000."
+},
+{
+"q": "Which is greater: 54,32,109 or 54,32,110?",
+"o": ["54,32,109", "Both are equal", "54,32,110", "Cannot be determined"],
+"a": 2,
+"sol": "54,32,110 is 1 unit larger than 54,32,109."
+},
+{
+"q": "Expand 7,34,500 using place value.",
+"o": ["710000 + 31000 + 4100", "7100000 + 310000 + 41000 + 5100", "7100000 + 31000 + 4100", "7310000 + 45100"],
+"a": 1,
+"sol": "7 is at Lakhs, 3 at Ten Thousands, 4 at Thousands, 5 at Hundreds."
+},
+{
+"q": "Write 65 in Roman numerals.",
+"o": ["LXVI", "LXV", "XLV", "LVV"],
+"a": 1,
+"sol": "L = 50, X = 10, V = 5. So 50+10+5 = LXV."
+},
+{
+"q": "How many Thousands make a Crore?",
+"o": ["1,000", "10,000", "1,00,000", "100"],
+"a": 1,
+"sol": "1,00,00,000 / 1,000 = 10,000."
+},
+{
+"q": "The number name for 7,000,500 in the International system is:",
+"o": ["Seventy Lakh five hundred", "Seven Million five hundred", "Seven Million five thousand", "Seventy Million five hundred"],
+"a": 1,
+"sol": "7,000,500 is Seven Million five hundred."
+},
+{
+"q": "Estimate the product of 197 x 52 using general rule.",
+"o": ["10,000", "15,000", "5,000", "20,000"],
+"a": 0,
+"sol": "197 rounds to 200, 52 rounds to 50. 200 * 50 = 10,000."
+},
+{
+"q": "What is 100 - 1?",
+"o": ["Predecessor of 101", "Successor of 98", "99", "All of these"],
+"a": 3,
+"sol": "99 is the predecessor of 100, and it is also the result of 100-1 and the successor of 98."
+},
+{
+"q": "The smallest 4-digit number is:",
+"o": ["1111", "0001", "1000", "9999"],
+"a": 2,
+"sol": "The smallest 4-digit number is 1,000."
+},
+{
+"q": "Insert commas according to the Indian system: 98765432.",
+"o": ["9,87,65,432", "98,765,432", "987,654,32", "9,8,7,6,5,4,3,2"],
+"a": 0,
+"sol": "Indian system: 3 digits from right, then every 2 digits."
+},
+{
+"q": "What is CD in Hindu-Arabic numerals?",
+"o": ["600", "400", "500", "100"],
+"a": 1,
+"sol": "C=100, D=500. Since C is before D, 500-100 = 400."
+},
+{
+"q": "Round off 8,564 to the nearest hundreds.",
+"o": ["8,500", "8,600", "9,000", "8,560"],
+"a": 1,
+"sol": "Since the tens digit is 6 (>=5), we round up to 8,600."
+},
+{
+"q": "Which digit is at the millions place in 123,456,789?",
+"o": ["1", "4", "3", "6"],
+"a": 2,
+"sol": "123 (Millions), 456 (Thousands), 789 (Ones). The digit 3 is at the Millions place."
+},
+{
+"q": "Difference between successor and predecessor of a number is:",
+"o": ["1", "0", "2", "Number itself"],
+"a": 2,
+"sol": "(n+1) - (n-1) = 2."
+},
+{
+"q": "1 Billion = ______ Million.",
+"o": ["10", "100", "1,000", "10,000"],
+"a": 2,
+"sol": "1 Billion is 1,000 Million."
+},
+{
+"q": "Smallest 3-digit number with all different digits:",
+"o": ["100", "123", "102", "201"],
+"a": 2,
+"sol": "Smallest digits are 0, 1, 2. We can't start with 0, so 102."
+},
+{
+"q": "Largest 5-digit number using digits 7, 2, 0 (digits can repeat):",
+"o": ["77720", "77000", "77777", "77722"],
+"a": 0,
+"sol": "To make it largest, repeat the largest digit 7 as much as possible while including others to fulfill the requirement."
+},
+{
+"q": "How many 6-digit numbers are there in total?",
+"o": ["9,00,000", "1,00,000", "9,99,999", "8,99,999"],
+"a": 0,
+"sol": "Total n-digit numbers = 9 * 10^(n-1). So 9 * 10^5 = 9,00,000."
+},
+{
+"q": "Write 'Two Crore' in the International system.",
+"o": ["20 Million", "2 Million", "200 Million", "0.2 Billion"],
+"a": 0,
+"sol": "2,00,00,000 is 20,000,000 (20 Million)."
+},
+{
+"q": "What is 500 in Roman numerals?",
+"o": ["C", "L", "D", "M"],
+"a": 2,
+"sol": "D represents 500."
+},
+{
+"q": "Roman numeral for 1000 is:",
+"o": ["M", "D", "C", "X"],
+"a": 0,
+"sol": "M represents 1000."
+},
+{
+"q": "Find the sum of the greatest 3-digit number and the smallest 2-digit number.",
+"o": ["1009", "1000", "1099", "1010"],
+"a": 0,
+"sol": "999 + 10 = 1009."
+},
+{
+"q": "The value of XL + X is:",
+"o": ["60", "40", "50", "30"],
+"a": 2,
+"sol": "XL = 40, X = 10. 40 + 10 = 50 (L)."
+},
+{
+"q": "10 Lakhs = ______ Ten Thousand.",
+"o": ["10", "100", "1,000", "1"],
+"a": 1,
+"sol": "10,00,000 / 10,000 = 100."
+},
+{
+"q": "Predecessor of 1 Lakh is:",
+"o": ["99,999", "1,00,001", "9,999", "99,000"],
+"a": 0,
+"sol": "1,00,000 - 1 = 99,999."
+},
+{
+"q": "How many lakhs make a million?",
+"o": ["100", "1", "10", "1000"],
+"a": 2,
+"sol": "10 Lakhs = 1 Million."
+},
+{
+"q": "The greatest 4-digit number using digits 5, 4, 0, 3 without repetition is:",
+"o": ["5403", "5043", "5430", "4530"],
+"a": 2,
+"sol": "Arrange in descending order: 5, 4, 3, 0."
+},
+{
+"q": "Round off 48 to the nearest tens.",
+"o": ["40", "50", "45", "100"],
+"a": 1,
+"sol": "8 is > 5, so round up to 50."
+},
+{
+"q": "CM in Hindu-Arabic is:",
+"o": ["1100", "900", "1000", "500"],
+"a": 1,
+"sol": "M=1000, C=100. 1000-100 = 900."
+},
+{
+"q": "100 Million is equal to how many Crores?",
+"o": ["1", "10", "100", "0.1"],
+"a": 1,
+"sol": "100,000,000 is 10,00,00,000 (10 Crore)."
+},
+{
+"q": "Smallest 4-digit number using 1, 0, 2 repetition allowed:",
+"o": ["1002", "1000", "1200", "1022"],
+"a": 1,
+"sol": "Using the smallest digit possible (1 and then 0s)."
+},
+{
+"q": "What is the Roman numeral for 40?",
+"o": ["XXXX", "LX", "XL", "VX"],
+"a": 2,
+"sol": "L=50, X=10. 50-10 = XL."
+},
+{
+"q": "Number of periods in 1,23,45,678 according to Indian system:",
+"o": ["3", "4", "5", "2"],
+"a": 1,
+"sol": "Ones, Thousands, Lakhs, Crores (Total 4)."
+},
+{
+"q": "Estimation of 78 x 21 using nearest tens:",
+"o": ["1600", "1400", "1500", "2000"],
+"a": 0,
+"sol": "80 * 20 = 1600."
+},
+{
+"q": "What is the successor of 0?",
+"o": ["-1", "1", "0", "None"],
+"a": 1,
+"sol": "0 + 1 = 1."
+},
+{
+"q": "XC + IX = ?",
+"o": ["101", "89", "99", "111"],
+"a": 2,
+"sol": "90 + 9 = 99."
+},
+{
+"q": "1 Billion = ______ Crores.",
+"o": ["10", "100", "1000", "1"],
+"a": 1,
+"sol": "1,000,000,000 is 100 Crore."
+},
+{
+"q": "Which is the largest number?",
+"o": ["Greatest 3-digit number", "Successor of greatest 2-digit number", "Smallest 4-digit number", "Both B and C"],
+"a": 3,
+"sol": "99+1 = 100. Smallest 4-digit is 1000. Wait, 1000 is largest here."
+},
+{
+"q": "Place value of 0 is always:",
+"o": ["10", "1", "0", "Place dependent"],
+"a": 2,
+"sol": "0 multiplied by any place value is 0."
+},
+{
+"q": "The Roman numeral for 50 is:",
+"o": ["C", "L", "D", "X"],
+"a": 1,
+"sol": "L = 50."
+},
+{
+"q": "1 Crore = ______ Million.",
+"o": ["1", "10", "100", "1000"],
+"a": 1,
+"sol": "1,00,00,000 is 10,000,000 (10 Million)."
+},
+{
+"q": "Estimate 7,30 + 9,98:",
+"o": ["1500", "1700", "2000", "1000"],
+"a": 1,
+"sol": "700 + 1000 = 1700."
+},
+{
+"q": "How many 3-digit numbers are there?",
+"o": ["900", "999", "100", "899"],
+"a": 0,
+"sol": "999 - 100 + 1 = 900."
+},
+{
+"q": "LXXX is equal to:",
+"o": ["60", "70", "80", "90"],
+"a": 2,
+"sol": "50 + 10 + 10 + 10 = 80."
+},
+{
+"q": "Write 450,000 in Indian system.",
+"o": ["45 Lakh", "4.5 Lakh", "450 Thousand", "4 Lakh 50 Thousand"],
+"a": 3,
+"sol": "4,50,000 is 4 Lakh 50 Thousand."
+},
+{
+"q": "The product of 0 and any large number is:",
+"o": ["Number itself", "1", "0", "Not defined"],
+"a": 2,
+"sol": "Zero property of multiplication."
+},
+{
+"q": "Successor of the greatest 5-digit number is:",
+"o": ["Smallest 6-digit number", "Greatest 6-digit number", "1,00,000", "Both A and C"],
+"a": 3,
+"sol": "99,999 + 1 = 1,00,000, which is the smallest 6-digit number."
+},
+{
+"q": "Roman numeral for 500 is D. What is 600?",
+"o": ["CD", "DC", "DX", "CM"],
+"a": 1,
+"sol": "D + C = 500 + 100 = 600."
+},
+{
+"q": "Ten Million = ______ Crore.",
+"o": ["1", "10", "100", "0.1"],
+"a": 0,
+"sol": "10,000,000 is 1 Crore."
+},
+{
+"q": "How many times does 'I' appear in 3?",
+"o": ["1", "2", "3", "0"],
+"a": 2,
+"sol": "3 is III."
+},
+{
+"q": "Round off 99 to nearest tens.",
+"o": ["90", "100", "95", "110"],
+"a": 1,
+"sol": "9 is >= 5, so round up to 100."
+},
+{
+"q": "Difference between 1 Million and 10 Lakhs is:",
+"o": ["1 Lakh", "0", "9 Lakhs", "100"],
+"a": 1,
+"sol": "They are equal, so difference is 0."
+},
+{
+"q": "Greatest 7-digit number is:",
+"o": ["10,00,000", "99,99,999", "9,99,999", "1,00,00,000"],
+"a": 1,
+"sol": "Seven 9s."
+},
+{
+"q": "Which of these is not defined in Roman numerals?",
+"o": ["100", "50", "0", "500"],
+"a": 2,
+"sol": "There is no symbol for 0 in Roman numerals."
+},
+{
+"q": "Number name of 8,00,008:",
+"o": ["Eight Lakh eight", "Eighty thousand eight", "Eight Lakh eighty", "Eight million eight"],
+"a": 0,
+"sol": "8,00,008 is Eight Lakh eight."
+},
+{
+"q": "Smallest 7-digit number is:",
+"o": ["1,00,000", "1,00,00,000", "10,00,000", "99,99,999"],
+"a": 2,
+"sol": "1 followed by six 0s."
+},
+{
+"q": "Value of C + C:",
+"o": ["100", "200", "50", "L"],
+"a": 1,
+"sol": "100 + 100 = 200."
+},
+{
+"q": "Which is the largest digit?",
+"o": ["1", "0", "9", "8"],
+"a": 2,
+"sol": "9 is the largest single digit."
+},
+{
+"q": "Estimate 439 + 334 + 4,317 using hundreds:",
+"o": ["5000", "4000", "5100", "4900"],
+"a": 0,
+"sol": "400 + 300 + 4300 = 5000."
+},
+{
+"q": "1 Kilogram = ______ Grams.",
+"o": ["10", "100", "1,000", "10,000"],
+"a": 2,
+"sol": "Kilo means 1000."
+},
+{
+"q": "Predecessor of 10,000 is:",
+"o": ["9,999", "10,001", "9,000", "9,990"],
+"a": 0,
+"sol": "10,000 - 1 = 9,999."
+},
+{
+"q": "Write 19 in Roman numeral.",
+"o": ["XVIIII", "XVIV", "XIX", "IXX"],
+"a": 2,
+"sol": "X (10) + IX (9) = XIX."
+},
+{
+"q": "What is the face value of 9 in 9,876?",
+"o": ["9000", "9", "900", "90"],
+"a": 1,
+"sol": "Face value is digit itself."
+},
+{
+"q": "How many lakhs are in 10 Crores?",
+"o": ["100", "1000", "10", "10,000"],
+"a": 1,
+"sol": "10,00,00,000 / 1,00,000 = 1000."
+},
+{
+"q": "Largest 4-digit number using 9, 2, 3, 9:",
+"o": ["9932", "9923", "9329", "2399"],
+"a": 0,
+"sol": "9, 9, 3, 2."
+},
+{
+"q": "Rounding 12,345 to nearest thousands:",
+"o": ["12,000", "13,000", "10,000", "12,300"],
+"a": 0,
+"sol": "3 is < 5, so round down."
+},
+{
+"q": "Roman numeral for 75 is:",
+"o": ["LXVV", "LXXV", "XXL", "VXXL"],
+"a": 1,
+"sol": "50+10+10+5 = LXXV."
+},
+{
+"q": "Successor of 4,99,999:",
+"o": ["5,00,000", "4,00,000", "4,99,998", "5,99,999"],
+"a": 0,
+"sol": "+1 gives 5,00,000."
+},
+{
+"q": "1 Lakh = ______ Ten Thousand.",
+"o": ["10", "1", "100", "1000"],
+"a": 0,
+"sol": "1,00,000 / 10,000 = 10."
+},
+{
+"q": "Which is smaller: 10,00,001 or 9,99,999?",
+"o": ["10,00,001", "9,99,999", "Both equal", "None"],
+"a": 1,
+"sol": "A 6-digit number is smaller than a 7-digit number."
+},
+{
+"q": "XXIX in Hindu-Arabic:",
+"o": ["21", "29", "31", "19"],
+"a": 1,
+"sol": "10+10+9 = 29."
+},
+{
+"q": "1 km = ______ mm.",
+"o": ["1,00,000", "10,00,000", "1,000", "10,000"],
+"a": 1,
+"sol": "1km = 1000m = 100,000cm = 1,000,000mm."
+},
+{
+"q": "Smallest 5-digit number using only one digit:",
+"o": ["11111", "00000", "10000", "99999"],
+"a": 0,
+"sol": "0 cannot be used as the only digit for a 5-digit number. So 11111."
+},
+{
+"q": "Insert commas: 58423202 (International System).",
+"o": ["58,423,202", "5,84,23,202", "584,232,02", "5,8,4,2,3,2,0,2"],
+"a": 0,
+"sol": "Every 3 digits from right."
+},
+{
+"q": "Greatest 5-digit number with different digits:",
+"o": ["99999", "98765", "56789", "90000"],
+"a": 1,
+"sol": "9, 8, 7, 6, 5."
+},
+{
+"q": "What is M - D?",
+"o": ["500", "C", "D", "Both A and C"],
+"a": 3,
+"sol": "1000 - 500 = 500 (D)."
+},
+{
+"q": "1 Meter = ______ Centimeters.",
+"o": ["10", "100", "1,000", "10000"],
+"a": 1,
+"sol": "Standard metric conversion."
+},
+{
+"q": "Sum of smallest 3-digit and greatest 2-digit number:",
+"o": ["199", "200", "100", "198"],
+"a": 0,
+"sol": "100 + 99 = 199."
+},
+{
+"q": "Number of zeros in 1 Billion:",
+"o": ["6", "7", "8", "9"],
+"a": 3,
+"sol": "1,000,000,000 has 9 zeros."
+},
+{
+"q": "Estimate 12,904 + 2,888:",
+"o": ["15,000", "16,000", "14,000", "13,000"],
+"a": 1,
+"sol": "13000 + 3000 = 16000."
+},
+{
+"q": "L is subtracted from which symbol?",
+"o": ["X", "C", "M", "None of these"],
+"a": 3,
+"sol": "V, L, D are never subtracted."
+},
+{
+"q": "Half of 1 Million is:",
+"o": ["5 Lakhs", "50 Lakhs", "1 Lakh", "50,000"],
+"a": 0,
+"sol": "1,000,000 / 2 = 500,000 (5 Lakhs)."
+},
+{
+"q": "What is the Roman numeral for 100?",
+"o": ["L", "C", "D", "M"],
+"a": 1,
+"sol": "C stands for Centum (100)."
+},
+{
+"q": "Successor of 10,99,999:",
+"o": ["11,00,000", "10,00,000", "11,99,999", "10,99,998"],
+"a": 0,
+"sol": "+1 leads to 11 Lakhs."
+},
+{
+"q": "Value of VII + IX:",
+"o": ["15", "16", "17", "18"],
+"a": 1,
+"sol": "7 + 9 = 16 (XVI)."
+},
+{
+"q": "Which is smaller: 1 Lakh or 1 Million?",
+"o": ["1 Lakh", "1 Million", "Both equal", "None"],
+"a": 0,
+"sol": "1 Lakh is 1,00,000; 1 Million is 10,00,000."
+},
+{
+"q": "How many lakhs in 1 Million?",
+"o": ["1", "10", "100", "1000"],
+"a": 1,
+"sol": "1,000,000 / 1,00,000 = 10."
+},
+{
+"q": "Round off 75 to nearest tens.",
+"o": ["70", "80", "75", "100"],
+"a": 1,
+"sol": "5 rounds up."
+},
+{
+"q": "Greatest 6-digit number + 1 gives:",
+"o": ["Smallest 6-digit", "Smallest 7-digit", "Greatest 7-digit", "10 Lakh"],
+"a": 1,
+"sol": "9,99,999 + 1 = 10,00,000 (Smallest 7-digit)."
+},
+{
+"q": "Value of I + V + X + L:",
+"o": ["66", "76", "56", "46"],
+"a": 0,
+"sol": "1 + 5 + 10 + 50 = 66."
+},
+{
+"q": "Write 2021 in Roman numerals.",
+"o": ["MMXXI", "MMXIX", "CCXXI", "MXXI"],
+"a": 0,
+"sol": "M(1000)+M(1000)+X(10)+X(10)+I(1) = MMXXI."
+},
+{
+"q": "What is the product of first two natural numbers?",
+"o": ["0", "1", "2", "3"],
+"a": 2,
+"sol": "1 * 2 = 2."
+}
+]
