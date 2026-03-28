@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the result of (-15) + (-28)?",
+"o": ["-13", "43", "-43", "13"],
+"a": 2,
+"sol": "When adding two negative integers, add their absolute values and keep the negative sign."
+},
+{
+"q": "The additive inverse of -45 is:",
+"o": ["45", "0", "1", "-45"],
+"a": 0,
+"sol": "The additive inverse of 'a' is '-a' such that a + (-a) = 0."
+},
+{
+"q": "Evaluate: 12 - (-8)",
+"o": ["4", "20", "-4", "-20"],
+"a": 1,
+"sol": "Subtracting a negative number is the same as adding its positive: 12 + 8 = 20."
+},
+{
+"q": "Which property is shown by a × (b + c) = (a × b) + (a × c)?",
+"o": ["Commutative property", "Associative property", "Distributive property", "Closure property"],
+"a": 2,
+"sol": "This is the distributive property of multiplication over addition."
+},
+{
+"q": "The product of three negative integers is always:",
+"o": ["Positive", "Zero", "Negative", "One"],
+"a": 2,
+"sol": "An odd number of negative factors results in a negative product."
+},
+{
+"q": "Calculate: (-10) × (-5) × (-2)",
+"o": ["100", "-100", "50", "-50"],
+"a": 1,
+"sol": "(-10 × -5) = 50; 50 × -2 = -100."
+},
+{
+"q": "What is 0 ÷ (-7)?",
+"o": ["-7", "7", "0", "Undefined"],
+"a": 2,
+"sol": "Zero divided by any non-zero integer is zero."
+},
+{
+"q": "What is (-25) ÷ 0?",
+"o": ["0", "25", "-25", "Undefined"],
+"a": 3,
+"sol": "Division by zero is not defined in mathematics."
+},
+{
+"q": "An elevator descends into a mine shaft at 6 m/min. If it starts from 10m above ground, what is its position after 40 mins?",
+"o": ["230m", "-230m", "-240m", "-250m"],
+"a": 1,
+"sol": "Total descent = 6 * 40 = 240m. Position = 10 - 240 = -230m."
+},
+{
+"q": "Which of the following is the multiplicative identity for integers?",
+"o": ["0", "1", "-1", "None of these"],
+"a": 1,
+"sol": "Any integer multiplied by 1 remains the same."
+},
+{
+"q": "In a test, +5 marks are given for correct answers and -2 for incorrect. Radhika answered 10 correctly and 4 incorrectly. Her score is:",
+"o": ["50", "42", "58", "40"],
+"a": 1,
+"sol": "(10 * 5) + (4 * -2) = 50 - 8 = 42."
+},
+{
+"q": "The sum of an integer and its additive inverse is always:",
+"o": ["1", "The integer itself", "0", "-1"],
+"a": 2,
+"sol": "a + (-a) = 0."
+},
+{
+"q": "If a and b are integers, then (a - b) is also an integer. This is the:",
+"o": ["Closure property", "Commutative property", "Associative property", "Distributive property"],
+"a": 0,
+"sol": "Closure property means the set is closed under that operation."
+},
+{
+"q": "Is subtraction commutative for integers?",
+"o": ["Yes", "No", "Only for positive integers", "Only for zero"],
+"a": 1,
+"sol": "a - b is not equal to b - a (e.g., 5-3=2, 3-5=-2)."
+},
+{
+"q": "Simplify: (-20) + (-10) - (-30)",
+"o": ["-60", "0", "60", "-30"],
+"a": 1,
+"sol": "-20 - 10 + 30 = -30 + 30 = 0."
+},
+{
+"q": "The integer whose product with -1 is 25 is:",
+"o": ["25", "-25", "1", "0"],
+"a": 1,
+"sol": "-25 * -1 = 25."
+},
+{
+"q": "Which is greater: -12 or -18?",
+"o": ["-18", "They are equal", "-12", "Cannot be compared"],
+"a": 2,
+"sol": "On a number line, -12 is to the right of -18."
+},
+{
+"q": "A certain freezing process requires that room temperature be lowered from 40°C at the rate of 5°C every hour. What will be the room temperature 10 hours after the process begins?",
+"o": ["10°C", "-10°C", "0°C", "-5°C"],
+"a": 1,
+"sol": "40 - (5 * 10) = 40 - 50 = -10°C."
+},
+{
+"q": "The product of a positive integer and a negative integer is:",
+"o": ["Always positive", "Always negative", "Zero", "Depends on values"],
+"a": 1,
+"sol": "(+) * (-) = (-)."
+},
+{
+"q": "Compute: [(-36) ÷ 12] ÷ 3",
+"o": ["1", "-1", "3", "-3"],
+"a": 1,
+"sol": "[-3] ÷ 3 = -1."
+},
+{
+"q": "Find the value of: 26 × (-48) + (-48) × (-36)",
+"o": ["480", "-480", "2976", "-2976"],
+"a": 0,
+"sol": "Using distributive property: -48 * (26 - 36) = -48 * -10 = 480."
+},
+{
+"q": "Which integer is its own additive inverse?",
+"o": ["1", "-1", "0", "None"],
+"a": 2,
+"sol": "0 + 0 = 0, so 0 is the additive inverse of 0."
+},
+{
+"q": "The value of (-1) × (-1) × ... (10 times) is:",
+"o": ["-1", "1", "10", "-10"],
+"a": 1,
+"sol": "-1 raised to an even power is 1."
+},
+{
+"q": "Starting from -5, move 8 units to the right. Where are you?",
+"o": ["-13", "3", "13", "-3"],
+"a": 1,
+"sol": "-5 + 8 = 3."
+},
+{
+"q": "Evaluate: (-30) + 20",
+"o": ["50", "10", "-10", "-50"],
+"a": 2,
+"sol": "Subtract absolute values and take sign of the larger absolute value: 30-20=10, sign is negative."
+},
+{
+"q": "If the sum of two integers is -16 and one of them is 20, the other is:",
+"o": ["4", "36", "-36", "-4"],
+"a": 2,
+"sol": "x + 20 = -16 => x = -16 - 20 = -36."
+},
+{
+"q": "Find the pattern: 7, 3, -1, -5, ... what is next?",
+"o": ["-8", "-9", "-10", "-7"],
+"a": 1,
+"sol": "The difference is -4. -5 - 4 = -9."
+},
+{
+"q": "What is the sign of the product of 8 negative integers and 3 positive integers?",
+"o": ["Positive", "Negative", "Cannot say", "Zero"],
+"a": 0,
+"sol": "8 negative integers (even count) = positive. Positive * Positive = Positive."
+},
+{
+"q": "Predecessor of -10 is:",
+"o": ["-9", "-11", "9", "11"],
+"a": 1,
+"sol": "-10 - 1 = -11."
+},
+{
+"q": "Successor of -1 is:",
+"o": ["-2", "0", "1", "None"],
+"a": 1,
+"sol": "-1 + 1 = 0."
+},
+{
+"q": "Absolute value of |-7 - 3| is:",
+"o": ["4", "-4", "10", "-10"],
+"a": 2,
+"sol": "|-10| = 10."
+},
+{
+"q": "The integer which is 5 less than -2 is:",
+"o": ["3", "-3", "7", "-7"],
+"a": 3,
+"sol": "-2 - 5 = -7."
+},
+{
+"q": "Division of integers is associative. True or False?",
+"o": ["True", "False", "Sometimes", "Only for 1"],
+"a": 1,
+"sol": "(8 ÷ 4) ÷ 2 = 1, but 8 ÷ (4 ÷ 2) = 4."
+},
+{
+"q": "Find the value: (-31) ÷ [(-30) + (-1)]",
+"o": ["-1", "1", "31", "-31"],
+"a": 1,
+"sol": "-31 ÷ -31 = 1."
+},
+{
+"q": "Multiplying an integer by -1 gives its:",
+"o": ["Reciprocal", "Additive inverse", "Square", "Multiplicative identity"],
+"a": 1,
+"sol": "a * -1 = -a."
+},
+{
+"q": "The sum of three consecutive integers is 0. They are:",
+"o": ["1, 2, 3", "-1, 0, 1", "-2, -1, 0", "0, 1, 2"],
+"a": 1,
+"sol": "-1 + 0 + 1 = 0."
+},
+{
+"q": "The temperature at 12 noon was 10°C above zero. It decreases at 2°C per hour until midnight. At what time would the temperature be 8°C below zero?",
+"o": ["6 PM", "9 PM", "10 PM", "12 Midnight"],
+"a": 1,
+"sol": "Total drop needed = 10 - (-8) = 18°C. Time = 18 / 2 = 9 hours. 12 noon + 9 hours = 9 PM."
+},
+{
+"q": "Which is the smallest positive integer?",
+"o": ["0", "1", "-1", "None"],
+"a": 1,
+"sol": "1 is the smallest positive integer."
+},
+{
+"q": "Which is the largest negative integer?",
+"o": ["0", "-1", "-100", "Doesn't exist"],
+"a": 1,
+"sol": "-1 is the largest because it is closest to 0 on the negative side."
+},
+{
+"q": "In multiplication, if one of the integers is 0, the product is:",
+"o": ["1", "The other integer", "0", "Undefined"],
+"a": 2,
+"sol": "Zero property of multiplication."
+},
+{
+"q": "Evaluate: 50 - (-40) + (-10)",
+"o": ["0", "80", "100", "20"],
+"a": 1,
+"sol": "50 + 40 - 10 = 90 - 10 = 80."
+},
+{
+"q": "Is every whole number an integer?",
+"o": ["Yes", "No", "Only if it is positive", "Only 0"],
+"a": 0,
+"sol": "Integers include all whole numbers and their negatives."
+},
+{
+"q": "Which of these is NOT an integer?",
+"o": ["-5", "0", "2/3", "100"],
+"a": 2,
+"sol": "Integers do not include fractions or decimals."
+},
+{
+"q": "Simplify: (-2) × (-2) × (-2) × (-2)",
+"o": ["-16", "16", "8", "-8"],
+"a": 1,
+"sol": "Even number of negative signs makes it positive 16."
+},
+{
+"q": "On a number line, a positive integer is added, we move to the:",
+"o": ["Left", "Right", "Up", "Down"],
+"a": 1,
+"sol": "Addition moves to the right on a number line."
+},
+{
+"q": "A shopkeeper earns a profit of Re 1 by selling one pen and incurs a loss of 50 paise per pencil. In a month, she incurs a loss of Rs 5. If she sold 45 pens, how many pencils did she sell?",
+"o": ["50", "90", "100", "110"],
+"a": 2,
+"sol": "Profit from pens = 45. Total loss = 5, so net result = -5. Profit + PencilLoss = -5 => 45 + x*(-0.5) = -5 => -0.5x = -50 => x = 100."
+},
+{
+"q": "Is the set of integers closed under division?",
+"o": ["Yes", "No", "Only for even numbers", "Only for 1"],
+"a": 1,
+"sol": "3 ÷ 2 = 1.5, which is not an integer."
+},
+{
+"q": "Value of (-1) to the power 101 is:",
+"o": ["1", "-1", "101", "-101"],
+"a": 1,
+"sol": "Odd power of -1 is -1."
+},
+{
+"q": "Find (-12) × 0 × (-17):",
+"o": ["204", "-204", "0", "1"],
+"a": 2,
+"sol": "Multiplication by zero results in zero."
+},
+{
+"q": "(-30) × ______ = 120",
+"o": ["4", "-4", "40", "-40"],
+"a": 1,
+"sol": "120 / -30 = -4."
+},
+{
+"q": "If a ÷ (-1) = -30, then a is:",
+"o": ["-30", "30", "1", "0"],
+"a": 1,
+"sol": "30 / -1 = -30."
+},
+{
+"q": "For any integer a, what is a ÷ 1?",
+"o": ["1", "0", "a", "-a"],
+"a": 2,
+"sol": "Identity property of division."
+},
+{
+"q": "The associative property for addition states:",
+"o": ["a + b = b + a", "a + (b + c) = (a + b) + c", "a + 0 = a", "a + (-a) = 0"],
+"a": 1,
+"sol": "Regrouping does not change the sum."
+},
+{
+"q": "Product of two integers is 256. If one is -16, the other is:",
+"o": ["16", "-16", "240", "-240"],
+"a": 1,
+"sol": "256 / -16 = -16."
+},
+{
+"q": "What is the difference between 10 and -10?",
+"o": ["0", "20", "-20", "100"],
+"a": 1,
+"sol": "10 - (-10) = 10 + 10 = 20."
+},
+{
+"q": "The sum of two negative integers is:",
+"o": ["Positive", "Negative", "Zero", "Always smaller than both"],
+"a": 1,
+"sol": "Negative + Negative = More Negative."
+},
+{
+"q": "Which property allows us to calculate 7 × 105 as 7 × (100 + 5)?",
+"o": ["Commutative", "Associative", "Distributive", "Closure"],
+"a": 2,
+"sol": "Breaking a number down into a sum and multiplying."
+},
+{
+"q": "Result of (-100) ÷ (-10) is:",
+"o": ["-10", "10", "0", "110"],
+"a": 1,
+"sol": "Negative divided by negative is positive."
+},
+{
+"q": "If the temperature drops 3°C per hour, how much will it drop in 'h' hours?",
+"o": ["3 + h", "3 - h", "3h", "-3/h"],
+"a": 2,
+"sol": "Multiplication of rate and time."
+},
+{
+"q": "Additive identity for integers is:",
+"o": ["1", "0", "-1", "None"],
+"a": 1,
+"sol": "Adding 0 to any integer leaves it unchanged."
+},
+{
+"q": "(-8) + ______ = 0",
+"o": ["-8", "0", "8", "1"],
+"a": 2,
+"sol": "Adding the additive inverse."
+},
+{
+"q": "(-5) × [(-2) + (-3)] = [(-5) × (-2)] + [(-5) × (-3)]",
+"o": ["True", "False", "Only for positive", "Only for zero"],
+"a": 0,
+"sol": "Correct application of distributive property."
+},
+{
+"q": "What is (-4) + (-4) + (-4) + (-4) equivalent to?",
+"o": ["4 * (-4)", "4 + (-4)", "0", "-8"],
+"a": 0,
+"sol": "Repeated addition is multiplication."
+},
+{
+"q": "The sign of result of (-48) ÷ (-12) is:",
+"o": ["Positive", "Negative", "Neutral", "Imaginary"],
+"a": 0,
+"sol": "Same signs in division result in positive."
+},
+{
+"q": "Integer between -1 and 1 is:",
+"o": ["-2", "2", "0", "0.5"],
+"a": 2,
+"sol": "Zero is the only integer between them."
+},
+{
+"q": "Arrange in descending order: -5, 2, 0, -8",
+"o": ["-8, -5, 0, 2", "2, 0, -5, -8", "0, 2, -5, -8", "2, 0, -8, -5"],
+"a": 1,
+"sol": "Largest to smallest."
+},
+{
+"q": "What is the absolute value of 0?",
+"o": ["1", "-1", "0", "Undefined"],
+"a": 2,
+"sol": "Distance of 0 from 0 is 0."
+},
+{
+"q": "Is 5 - 3 the same as 3 - 5?",
+"o": ["Yes", "No", "Depends", "Always"],
+"a": 1,
+"sol": "2 is not equal to -2."
+},
+{
+"q": "A submarine is 500m below sea level. It rises 200m. Its new position is:",
+"o": ["-700m", "-300m", "300m", "700m"],
+"a": 1,
+"sol": "-500 + 200 = -300m."
+},
+{
+"q": "Product of (-1) and 0 is:",
+"o": ["-1", "1", "0", "Undefined"],
+"a": 2,
+"sol": "Anything times 0 is 0."
+},
+{
+"q": "If a × b = 0, then:",
+"o": ["a=0", "b=0", "Either a=0 or b=0", "Both must be 0"],
+"a": 2,
+"sol": "Zero product property."
+},
+{
+"q": "(-1) × (-1) × (-1) =",
+"o": ["1", "3", "-3", "-1"],
+"a": 3,
+"sol": "Odd number of negatives."
+},
+{
+"q": "Calculate: 100 × (-1) + 100",
+"o": ["200", "-200", "0", "1"],
+"a": 2,
+"sol": "-100 + 100 = 0."
+},
+{
+"q": "If we divide a negative integer by a positive integer, the result is:",
+"o": ["Positive", "Negative", "Zero", "One"],
+"a": 1,
+"sol": "Different signs in division result in negative."
+},
+{
+"q": "Successor of the predecessor of -5 is:",
+"o": ["-4", "-6", "-5", "0"],
+"a": 2,
+"sol": "Predecessor is -6, successor of -6 is -5."
+},
+{
+"q": "Value of |5| + |-5| is:",
+"o": ["0", "10", "25", "-10"],
+"a": 1,
+"sol": "5 + 5 = 10."
+},
+{
+"q": "Which property is used: 5 + 3 = 3 + 5?",
+"o": ["Associative", "Commutative", "Closure", "Distributive"],
+"a": 1,
+"sol": "Order change doesn't affect sum."
+},
+{
+"q": "What is (-1) × (-2) × (-3) × (-4)?",
+"o": ["24", "-24", "10", "-10"],
+"a": 0,
+"sol": "Even number of negatives = positive 24."
+},
+{
+"q": "Smallest integer is:",
+"o": ["0", "-1", "-1000000", "Does not exist"],
+"a": 3,
+"sol": "Integers extend infinitely in the negative direction."
+},
+{
+"q": "Subtracting 5 from -5 gives:",
+"o": ["0", "10", "-10", "25"],
+"a": 2,
+"sol": "-5 - 5 = -10."
+},
+{
+"q": "The product of two negative integers is positive. True or False?",
+"o": ["True", "False", "Sometimes", "Only for 0"],
+"a": 0,
+"sol": "(-) * (-) = (+)."
+},
+{
+"q": "(-15) + (15) =",
+"o": ["30", "0", "-30", "1"],
+"a": 1,
+"sol": "Sum of additive inverses."
+},
+{
+"q": "A plane is flying at 5000m. A submarine is 1200m below sea level directly below. The vertical distance is:",
+"o": ["3800m", "6200m", "5000m", "1200m"],
+"a": 1,
+"sol": "5000 - (-1200) = 5000 + 1200 = 6200m."
+},
+{
+"q": "Multiplicative inverse of -1 is:",
+"o": ["1", "-1", "0", "Doesn't exist"],
+"a": 1,
+"sol": "-1 * -1 = 1."
+},
+{
+"q": "Which of these is the greatest?",
+"o": ["-10", "0", "-1", "-100"],
+"a": 1,
+"sol": "0 is greater than any negative integer."
+},
+{
+"q": "Value of 13 ÷ [(-2) + 1] is:",
+"o": ["13", "-13", "0", "1"],
+"a": 1,
+"sol": "13 ÷ (-1) = -13."
+},
+{
+"q": "a × 1 = a = 1 × a. This shows 1 is the:",
+"o": ["Additive identity", "Multiplicative identity", "Additive inverse", "Multiplicative inverse"],
+"a": 1,
+"sol": "Standard definition."
+},
+{
+"q": "Does (a - b) - c = a - (b - c) always hold true?",
+"o": ["Yes", "No", "Only if c=0", "Only if all are 0"],
+"a": 1,
+"sol": "Subtraction is not associative."
+},
+{
+"q": "Simplify: (-10) × [(-13) + (-7)]",
+"o": ["200", "-200", "60", "130"],
+"a": 0,
+"sol": "-10 * -20 = 200."
+},
+{
+"q": "The collection of numbers ..., -3, -2, -1, 0, 1, 2, 3, ... are called:",
+"o": ["Whole numbers", "Natural numbers", "Integers", "Rational numbers"],
+"a": 2,
+"sol": "Definition of integers."
+},
+{
+"q": "What is -(-(-5)))?",
+"o": ["5", "-5", "0", "1"],
+"a": 1,
+"sol": "Three negative signs result in a negative."
+},
+{
+"q": "(-4) ÷ (-4) =",
+"o": ["0", "1", "-1", "16"],
+"a": 1,
+"sol": "Any non-zero number divided by itself is 1."
+},
+{
+"q": "If x is a negative integer, then -x is:",
+"o": ["Negative", "Positive", "Zero", "Cannot tell"],
+"a": 1,
+"sol": "Negative of a negative is positive."
+},
+{
+"q": "Product of 5 negative integers is:",
+"o": ["Positive", "Negative", "Zero", "Undefined"],
+"a": 1,
+"sol": "Odd number of negatives results in negative."
+},
+{
+"q": "10 - (-5) is same as:",
+"o": ["10 - 5", "10 + 5", "-10 + 5", "-10 - 5"],
+"a": 1,
+"sol": "Subtraction of a negative is addition."
+},
+{
+"q": "Property: (a + b) + c = a + (b + c) is called ______ property.",
+"o": ["Commutative", "Closure", "Associative", "Distributive"],
+"a": 2,
+"sol": "Regrouping property."
+},
+{
+"q": "Calculate: (-8) + (-2) × (-3)",
+"o": ["30", "-2", "2", "-14"],
+"a": 1,
+"sol": "-8 + (6) = -2 (BODMAS rule: multiplication first)."
+},
+{
+"q": "For any integer a, a × 0 =",
+"o": ["a", "0", "1", "-a"],
+"a": 1,
+"sol": "Anything times 0 is 0."
+},
+{
+"q": "Is 0 an integer?",
+"o": ["Yes", "No", "Only in whole numbers", "Neither positive nor negative"],
+"a": 0,
+"sol": "Yes, it is a neutral integer."
+},
+{
+"q": "Division of a negative integer by itself results in:",
+"o": ["-1", "0", "1", "The integer itself"],
+"a": 2,
+"sol": "-x / -x = 1."
+}
+]
