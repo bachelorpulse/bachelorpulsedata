@@ -1,0 +1,603 @@
+[
+{
+"q": "To construct a line parallel to line 'l' through point 'P' not on 'l', we usually construct equal:",
+"o": ["Corresponding angles", "Supplementary angles", "Alternate interior angles", "Vertically opposite angles"],
+"a": 2,
+"sol": "The standard construction uses the property that if alternate interior angles are equal, the lines are parallel."
+},
+{
+"q": "Which set of side lengths can form a triangle?",
+"o": ["2 cm, 3 cm, 5 cm", "1 cm, 2 cm, 4 cm", "4 cm, 5 cm, 6 cm", "3 cm, 4 cm, 8 cm"],
+"a": 2,
+"sol": "Triangle Inequality: Sum of any two sides must be greater than the third side. 4+5 > 6."
+},
+{
+"q": "In SAS construction, the given angle must be:",
+"o": ["The smallest angle", "An acute angle", "The included angle", "Opposite to the longest side"],
+"a": 2,
+"sol": "SAS stands for Side-Angle-Side, where the angle is between the two sides."
+},
+{
+"q": "How many equilateral triangles meet at a vertex in a regular tiling?",
+"o": ["3", "4", "5", "6"],
+"a": 3,
+"sol": "Each angle is 60°. 360 / 60 = 6 triangles."
+},
+{
+"q": "Which regular polygon cannot tile the plane alone?",
+"o": ["Square", "Equilateral Triangle", "Regular Pentagon", "Regular Hexagon"],
+"a": 2,
+"sol": "Regular pentagon angles (108°) do not divide 360° evenly."
+},
+{
+"q": "To construct a triangle using RHS, we need a right angle, the hypotenuse, and:",
+"o": ["An acute angle", "One side (leg)", "The perimeter", "Two angles"],
+"a": 1,
+"sol": "RHS stands for Right-angle, Hypotenuse, Side."
+},
+{
+"q": "What is the sum of angles at any vertex in a perfect tiling?",
+"o": ["180°", "270°", "360°", "540°"],
+"a": 2,
+"sol": "Shapes must fit perfectly around a point to cover 360°."
+},
+{
+"q": "If base = 5 cm, ∠A = 70°, and ∠B = 120°, can a triangle be formed?",
+"o": ["Yes, a unique triangle", "Yes, many triangles", "No, sum exceeds 180°", "Only if it is isosceles"],
+"a": 2,
+"sol": "70 + 120 = 190°, which is greater than the 180° limit for triangles."
+},
+{
+"q": "A 'tessellation' is another name for:",
+"o": ["Bisecting", "Tiling", "Scaling", "Measuring"],
+"a": 1,
+"sol": "Tessellation refers to covering a surface with shapes without gaps or overlaps."
+},
+{
+"q": "To construct a 60° angle, we create the framework of an:",
+"o": ["Isosceles triangle", "Scalene triangle", "Equilateral triangle", "Right triangle"],
+"a": 2,
+"sol": "All angles in an equilateral triangle are 60°."
+},
+{
+"q": "Which criterion is used if two angles and the side between them are given?",
+"o": ["SSS", "SAS", "ASA", "RHS"],
+"a": 2,
+"sol": "ASA stands for Angle-Side-Angle."
+},
+{
+"q": "How many lines can be drawn parallel to a given line through a point not on it?",
+"o": ["None", "Exactly one", "Two", "Infinitely many"],
+"a": 1,
+"sol": "By Playfair's Axiom (Parallel Postulate), only one such line exists."
+},
+{
+"q": "In a tiling of regular hexagons, how many hexagons meet at a vertex?",
+"o": ["2", "3", "4", "6"],
+"a": 1,
+"sol": "Hexagon angle is 120°. 360 / 120 = 3."
+},
+{
+"q": "Can you construct a unique triangle with angles 40°, 60°, 80°?",
+"o": ["Yes", "No, need a side length", "No, sum is wrong", "Yes, only if SSS works"],
+"a": 1,
+"sol": "AAA (Angle-Angle-Angle) gives the shape but not the size (unique size needs a side)."
+},
+{
+"q": "What tool is used to draw arcs for constructions?",
+"o": ["Ruler", "Protractor", "Compass", "Set-square"],
+"a": 2,
+"sol": "A compass is used for drawing circles and arcs of fixed radii."
+},
+{
+"q": "A semi-regular tiling uses:",
+"o": ["Only one type of regular polygon", "Two or more types of regular polygons", "Irregular shapes only", "Circles and squares"],
+"a": 1,
+"sol": "Semi-regular tilings use a combination of different regular polygons."
+},
+{
+"q": "To bisect an angle, we draw arcs from:",
+"o": ["The vertex", "Points on the two rays", "The origin", "The midpoint of the base"],
+"a": 1,
+"sol": "You mark points on the rays first, then draw intersecting arcs from those points."
+},
+{
+"q": "If a triangle has sides 6, 8, 10, it is a:",
+"o": ["Acute triangle", "Obtuse triangle", "Right-angled triangle", "Equilateral triangle"],
+"a": 2,
+"sol": "6² + 8² = 10² (36 + 64 = 100), satisfying Pythagoras theorem."
+},
+{
+"q": "The interior angle of a regular octagon is:",
+"o": ["108°", "120°", "135°", "140°"],
+"a": 2,
+"sol": "Formula: (n-2)180 / n. (6180)/8 = 135°."
+},
+{
+"q": "Which property ensures two triangles are identical in size and shape?",
+"o": ["Similarity", "Congruence", "Symmetry", "Proportionality"],
+"a": 1,
+"sol": "Congruent triangles have identical measurements."
+},
+{
+"q": "If you use two squares and one regular hexagon at a vertex, the total angle is:",
+"o": ["300°", "330°", "360°", "270°"],
+"a": 0,
+"sol": "90 + 90 + 120 = 300°. This leaves a 60° gap."
+},
+{
+"q": "Construction of a perpendicular bisector divides a line segment into:",
+"o": ["Three equal parts", "Two equal parts at 90°", "Two unequal parts", "A ratio of 1:2"],
+"a": 1,
+"sol": "It cuts the line in half at a right angle."
+},
+{
+"q": "In ASA construction, if the given side is 7 cm and angles are 50° and 60°, the third angle is:",
+"o": ["50°", "60°", "70°", "80°"],
+"a": 2,
+"sol": "180 - (50 + 60) = 70°."
+},
+{
+"q": "A tiling where every vertex is identical is called:",
+"o": ["Random tiling", "Vertex-transitive tiling", "Dual tiling", "Edge tiling"],
+"a": 1,
+"sol": "This is a key property of uniform or regular/semi-regular tilings."
+},
+{
+"q": "To construct a 90° angle, we can bisect a:",
+"o": ["60° angle", "120° angle", "180° (straight) angle", "45° angle"],
+"a": 2,
+"sol": "Bisecting a straight angle or constructing a perpendicular gives 90°."
+},
+{
+"q": "Which triangle cannot be constructed?",
+"o": ["SSS: 3, 4, 5", "SAS: 5, 40°, 6", "ASA: 40°, 5, 150°", "RHS: R=90°, H=10, S=6"],
+"a": 2,
+"sol": "40 + 150 = 190°, which is more than 180°."
+},
+{
+"q": "The measure of each interior angle of an equilateral triangle is:",
+"o": ["45°", "60°", "90°", "120°"],
+"a": 1,
+"sol": "180 / 3 = 60°."
+},
+{
+"q": "Can three regular octagons meet at a vertex to tile a plane?",
+"o": ["Yes", "No, sum is 405°", "No, sum is 360°", "Yes, only with squares"],
+"a": 1,
+"sol": "135 * 3 = 405°, which is greater than 360° (overlaps)."
+},
+{
+"q": "If the hypotenuse is 5 cm and one leg is 3 cm, the other leg must be:",
+"o": ["2 cm", "4 cm", "8 cm", "sqrt(34) cm"],
+"a": 1,
+"sol": "sqrt(5² - 3²) = sqrt(16) = 4."
+},
+{
+"q": "In SSS construction, we use which tool to mark lengths from the endpoints?",
+"o": ["Ruler", "Compass", "Protractor", "Divider"],
+"a": 1,
+"sol": "Arcs of specific radii are drawn using a compass."
+},
+{
+"q": "A pattern of 'bricks' on a wall is an example of:",
+"o": ["Symmetry", "Tiling", "Rotation", "Construction"],
+"a": 1,
+"sol": "Rectangular bricks cover the wall surface without gaps."
+},
+{
+"q": "If two sides of a triangle are 7 cm and 10 cm, the third side 'x' must be:",
+"o": ["x > 17", "x < 3", "3 < x < 17", "x = 3 or 17"],
+"a": 2,
+"sol": "Difference < x < Sum. (10-7) < x < (10+7)."
+},
+{
+"q": "To construct a 30° angle, we bisect a:",
+"o": ["90° angle", "60° angle", "45° angle", "15° angle"],
+"a": 1,
+"sol": "60 / 2 = 30°."
+},
+{
+"q": "Which shape tiles the plane perfectly?",
+"o": ["Circle", "Regular Heptagon", "Any Quadrilateral", "Regular Decagon"],
+"a": 2,
+"sol": "Any quadrilateral (even irregular) can tile the plane because its angles sum to 360°."
+},
+{
+"q": "In RHS, if Hypotenuse = 13 and Side = 5, the area is:",
+"o": ["65", "30", "60", "32.5"],
+"a": 1,
+"sol": "Other side = 12. Area = 1/2 * 5 * 12 = 30."
+},
+{
+"q": "A vertex in a tiling where a square, a hexagon, and a dodecagon meet has total angle:",
+"o": ["330°", "345°", "360°", "300°"],
+"a": 2,
+"sol": "90 (square) + 120 (hexagon) + 150 (dodecagon) = 360°."
+},
+{
+"q": "An exterior angle of a regular polygon is 60°. It is a:",
+"o": ["Square", "Pentagon", "Hexagon", "Octagon"],
+"a": 2,
+"sol": "360 / 60 = 6 sides (Hexagon)."
+},
+{
+"q": "To construct an angle of 75°, we can bisect the space between:",
+"o": ["0° and 150°", "60° and 90°", "45° and 90°", "30° and 60°"],
+"a": 1,
+"sol": "(60 + 90) / 2 = 75°."
+},
+{
+"q": "The sum of interior angles of a quadrilateral is:",
+"o": ["180°", "360°", "540°", "720°"],
+"a": 1,
+"sol": "Always 360° for any 4-sided polygon."
+},
+{
+"q": "Which tiling is found in a honeycomb?",
+"o": ["Square tiling", "Triangular tiling", "Hexagonal tiling", "Pentagonal tiling"],
+"a": 2,
+"sol": "Nature uses hexagons for efficiency and strength."
+},
+{
+"q": "If base = 6 cm and two base angles are 45°, the triangle is:",
+"o": ["Equilateral", "Isosceles Right-angled", "Scalene", "Obtuse"],
+"a": 1,
+"sol": "Third angle = 180 - (45+45) = 90°. Two angles are equal, so it's isosceles."
+},
+{
+"q": "Can a triangle be constructed with sides 8 cm, 1 cm, 1 cm?",
+"o": ["Yes", "No", "Only if isosceles", "Only if it has a right angle"],
+"a": 1,
+"sol": "1 + 1 is not greater than 8."
+},
+{
+"q": "A 'Regular Tiling' uses:",
+"o": ["One type of regular polygon", "Any shape", "Multiple regular polygons", "Rectangles"],
+"a": 0,
+"sol": "There are only three: using triangles, squares, or hexagons."
+},
+{
+"q": "To construct an angle of 120°, we mark two arcs of 60° on:",
+"o": ["A straight line", "A circle", "The same base arc", "Parallel lines"],
+"a": 2,
+"sol": "From the starting point on the arc, mark 60°, then from there mark another 60°."
+},
+{
+"q": "The ratio of the hypotenuse to a side in a 45-45-90 triangle is:",
+"o": ["1 : 1", "2 : 1", "sqrt(2) : 1", "sqrt(3) : 2"],
+"a": 2,
+"sol": "Hypotenuse = side * sqrt(2)."
+},
+{
+"q": "If a triangle has ASA: 30°, 10 cm, 30°, its shape is:",
+"o": ["Right-angled", "Isosceles", "Equilateral", "Scalene"],
+"a": 1,
+"sol": "Two angles are equal (30°), so two sides are equal."
+},
+{
+"q": "Which tool helps in measuring the angle constructed?",
+"o": ["Ruler", "Compass", "Protractor", "Eraser"],
+"a": 2,
+"sol": "Protractor is used to measure and verify angles."
+},
+{
+"q": "An 'irregular' tiling uses:",
+"o": ["Polygons with unequal sides/angles", "Only circles", "Overlapping shapes", "Empty gaps"],
+"a": 0,
+"sol": "Irregular shapes like certain triangles or quadrilaterals can still tile."
+},
+{
+"q": "To construct a line perpendicular to 'l' at point 'M' on 'l', we draw arcs from:",
+"o": ["Point M", "Equidistant points from M on line 'l'", "Anywhere on the plane", "The endpoints of 'l'"],
+"a": 1,
+"sol": "Mark two points on 'l' from M, then draw intersecting arcs from those points."
+},
+{
+"q": "How many squares meet at a vertex in a square tiling?",
+"o": ["2", "3", "4", "5"],
+"a": 2,
+"sol": "90 * 4 = 360°."
+},
+{
+"q": "If a triangle has SAS: 4 cm, 90°, 3 cm, its hypotenuse is:",
+"o": ["5 cm", "7 cm", "25 cm", "12 cm"],
+"a": 0,
+"sol": "3-4-5 is a standard right triangle triple."
+},
+{
+"q": "A tiling using squares and regular octagons is:",
+"o": ["Regular", "Semi-regular", "Irregular", "Non-tiling"],
+"a": 1,
+"sol": "Uses more than one type of regular polygon (135+135+90=360)."
+},
+{
+"q": "The measure of each interior angle of a regular decagon (10 sides) is:",
+"o": ["120°", "135°", "144°", "150°"],
+"a": 2,
+"sol": "(8 * 180) / 10 = 144°."
+},
+{
+"q": "To construct an angle of 45°, we bisect:",
+"o": ["60°", "90°", "30°", "180°"],
+"a": 1,
+"sol": "90 / 2 = 45°."
+},
+{
+"q": "Can an obtuse-angled triangle be isosceles?",
+"o": ["Never", "Always", "Yes", "Only if it is right-angled"],
+"a": 2,
+"sol": "Example: angles 120°, 30°, 30°."
+},
+{
+"q": "A 'Transversal' is a line that:",
+"o": ["Is parallel to another", "Intersects two or more lines", "Is very short", "Is vertical"],
+"a": 1,
+"sol": "Definition of a transversal in geometry."
+},
+{
+"q": "If exterior angle is 72°, the number of sides is:",
+"o": ["4", "5", "6", "8"],
+"a": 1,
+"sol": "360 / 72 = 5 (Pentagon)."
+},
+{
+"q": "In a tiling, 'no gaps' means:",
+"o": ["Area is zero", "Shapes overlap", "Surface is fully covered", "Shapes are small"],
+"a": 2,
+"sol": "Every part of the plane must belong to a shape."
+},
+{
+"q": "To construct a triangle with SSS: 5, 5, 5, you get an:",
+"o": ["Isosceles triangle", "Equilateral triangle", "Right triangle", "Scalene triangle"],
+"a": 1,
+"sol": "All sides equal means equilateral."
+},
+{
+"q": "A 'protractor' is usually shaped as a:",
+"o": ["Full circle", "Semi-circle", "Square", "Triangle"],
+"a": 1,
+"sol": "Most standard school protractors are semi-circular (0-180°)."
+},
+{
+"q": "In a tiling of triangles, if we meet 6 at a point, the vertex is:",
+"o": ["Regular", "Irregular", "Overlapping", "Gapped"],
+"a": 0,
+"sol": "Six 60° angles make 360°."
+},
+{
+"q": "If base = 8 cm, ∠A = 60°, and side AC = 8 cm, the triangle is:",
+"o": ["Scalene", "Right-angled", "Equilateral", "Obtuse"],
+"a": 2,
+"sol": "SAS with 8, 60°, 8 makes it equilateral (base angles will be 60° too)."
+},
+{
+"q": "Each interior angle of a square is:",
+"o": ["60°", "90°", "120°", "180°"],
+"a": 1,
+"sol": "90° by definition."
+},
+{
+"q": "Construction of a 150° angle involves:",
+"o": ["90 + 60", "180 - 30", "Bisecting 300", "All of the above"],
+"a": 3,
+"sol": "Multiple ways to achieve 150° using 60°, 90°, and bisection."
+},
+{
+"q": "Which polygon has interior angle 120°?",
+"o": ["Square", "Pentagon", "Hexagon", "Octagon"],
+"a": 2,
+"sol": "Regular hexagon."
+},
+{
+"q": "For tiling, the interior angle 'a' must satisfy:",
+"o": ["a > 360", "360 / a is an integer", "a < 90", "a is prime"],
+"a": 1,
+"sol": "An integer number of shapes must fit around 360°."
+},
+{
+"q": "Is a tiling using only circles possible?",
+"o": ["Yes", "No, always leaves gaps", "Yes, if they are large", "Only on a sphere"],
+"a": 1,
+"sol": "Circles cannot cover a flat plane without leaving gaps between them."
+},
+{
+"q": "To construct an angle of 105°, we bisect between:",
+"o": ["60 and 150", "90 and 120", "0 and 210", "45 and 150"],
+"a": 1,
+"sol": "(90 + 120) / 2 = 105°."
+},
+{
+"q": "The sum of exterior angles of any polygon is:",
+"o": ["180°", "360°", "Depends on sides", "720°"],
+"a": 1,
+"sol": "Always 360° for any convex polygon."
+},
+{
+"q": "A triangle with sides 3, 3, 4 is:",
+"o": ["Equilateral", "Isosceles", "Scalene", "Right-angled"],
+"a": 1,
+"sol": "Two sides are equal (3 cm)."
+},
+{
+"q": "In ASA construction, if side = 5, ∠1 = 30, ∠2 = 150, construction is:",
+"o": ["Possible", "Impossible (sum = 180)", "Easy", "Unique"],
+"a": 1,
+"sol": "Two angles summing to 180° means the lines are parallel and won't meet."
+},
+{
+"q": "The diagonal of a square with side 's' is:",
+"o": "s * sqrt(2)",
+"o": ["s * 2", "s * sqrt(2)", "s * 1.5", "s / 2"],
+"a": 1,
+"sol": "From Pythagoras: s² + s² = d²."
+},
+{
+"q": "How many types of regular tilings are there?",
+"o": ["1", "3", "5", "Infinite"],
+"a": 1,
+"sol": "Only Triangle, Square, and Hexagon tilings are regular."
+},
+{
+"q": "In RHS, the side opposite to the right angle is the:",
+"o": ["Base", "Altitude", "Hypotenuse", "Median"],
+"a": 2,
+"sol": "The longest side in a right triangle."
+},
+{
+"q": "Construction of a parallel line uses the 'Z' shape property, which is:",
+"o": ["Corresponding angles", "Alternate interior angles", "Co-interior angles", "Linear pair"],
+"a": 1,
+"sol": "Alternate interior angles form a Z-like configuration."
+},
+{
+"q": "A tiling using only one type of shape is called:",
+"o": ["Monohedral tiling", "Dihedral tiling", "Polyhedral tiling", "Gapped tiling"],
+"a": 0,
+"sol": "'Mono' means one; 'hedral' refers to the face or shape."
+},
+{
+"q": "If interior angle is 150°, number of sides is:",
+"o": ["6", "10", "12", "15"],
+"a": 2,
+"sol": "Exterior = 180-150 = 30. 360 / 30 = 12."
+},
+{
+"q": "To construct 135°, we can bisect the angle between:",
+"o": ["90 and 180", "120 and 150", "0 and 270", "100 and 170"],
+"a": 0,
+"sol": "(90 + 180) / 2 = 135°."
+},
+{
+"q": "Each angle of a regular pentagon is:",
+"o": ["72°", "90°", "108°", "120°"],
+"a": 2,
+"sol": "Total 540 / 5 = 108°."
+},
+{
+"q": "A 'Straight Edge' in constructions is essentially a:",
+"o": ["Protractor", "Unmarked ruler", "Compass", "Divider"],
+"a": 1,
+"sol": "Historically, Euclidean constructions used a ruler without markings."
+},
+{
+"q": "In a tiling, can shapes be rotated?",
+"o": ["Yes", "No", "Only if they are squares", "Only 90°"],
+"a": 0,
+"sol": "Rotation is often necessary to make shapes fit."
+},
+{
+"q": "If base = 10, ∠A = 40, ∠B = 40, the triangle is:",
+"o": ["Equilateral", "Scalene", "Isosceles", "Right-angled"],
+"a": 2,
+"sol": "Two equal angles mean an isosceles triangle."
+},
+{
+"q": "The sum of the angles of a triangle is:",
+"o": ["Two right angles", "One right angle", "Four right angles", "Three right angles"],
+"a": 0,
+"sol": "180° = 90° * 2."
+},
+{
+"q": "To construct an angle of 22.5°, we bisect:",
+"o": ["60°", "45°", "30°", "90°"],
+"a": 1,
+"sol": "45 / 2 = 22.5°."
+},
+{
+"q": "Which shape does not have a unique construction with only AAA?",
+"o": ["Square", "Triangle", "Hexagon", "Any Polygon"],
+"a": 3,
+"sol": "AAA or any all-angle data only gives shape, not size."
+},
+{
+"q": "In tiling, if shapes leave gaps, it is called a:",
+"o": ["Tessellation", "Non-tiling", "Fractal", "Mosaic"],
+"a": 1,
+"sol": "By definition, a tiling must have no gaps."
+},
+{
+"q": "To construct a line parallel to 'AB' at distance 3 cm, we draw:",
+"o": ["A circle of radius 3", "Perpendiculars of 3 cm", "An angle of 30°", "A median"],
+"a": 1,
+"sol": "Draw perpendiculars from two points and mark 3 cm to find the parallel line."
+},
+{
+"q": "If one angle of a triangle is obtuse, the other two must be:",
+"o": ["One acute, one obtuse", "Both obtuse", "Both acute", "One right, one acute"],
+"a": 2,
+"sol": "Sum must be 180. If one > 90, the other two must be < 90 together."
+},
+{
+"q": "The exterior angle of a square is:",
+"o": ["45°", "90°", "180°", "0°"],
+"a": 1,
+"sol": "180 - 90 = 90°."
+},
+{
+"q": "Can you tile a plane with regular heptagons?",
+"o": ["Yes", "No", "Only if they are small", "Only with triangles"],
+"a": 1,
+"sol": "Heptagon angle (~128.57°) does not divide 360°."
+},
+{
+"q": "A triangle with sides 5, 12, 13 is a:",
+"o": ["Right triangle", "Equilateral triangle", "Isosceles triangle", "Scalene triangle"],
+"a": 0,
+"sol": "5² + 12² = 13² (25+144=169)."
+},
+{
+"q": "To find the center of a line segment, we construct its:",
+"o": ["Altitude", "Perpendicular bisector", "Angle bisector", "Tangent"],
+"a": 1,
+"sol": "Perpendicular bisector intersects at the midpoint."
+},
+{
+"q": "In ASA, if the side is not 'included', the criterion is often called:",
+"o": ["SAS", "AAS", "SSA", "SSS"],
+"a": 1,
+"sol": "Angle-Angle-Side is equivalent to ASA because the 3rd angle is fixed."
+},
+{
+"q": "Each interior angle of a regular hexagon is:",
+"o": ["60°", "120°", "180°", "108°"],
+"a": 1,
+"sol": "720 / 6 = 120°."
+},
+{
+"q": "What happens if S1 + S2 = S3 in SSS construction?",
+"o": ["Large triangle", "Small triangle", "No triangle (Straight line)", "Circle"],
+"a": 2,
+"sol": "The 'triangle' collapses into a single line segment."
+},
+{
+"q": "A semi-regular tiling is also known as an:",
+"o": ["Archimedean tiling", "Euclidean tiling", "Platonic tiling", "Kepler tiling"],
+"a": 0,
+"sol": "Named after Archimedes who studied these patterns."
+},
+{
+"q": "To construct an angle of 45° without a protractor, you first construct:",
+"o": ["60°", "90°", "30°", "120°"],
+"a": 1,
+"sol": "Construct 90° and then bisect it."
+},
+{
+"q": "If a triangle has angles 90°, 45°, 45°, its sides are in ratio:",
+"o": ["1 : 1 : 1", "1 : 1 : sqrt(2)", "1 : 2 : 3", "3 : 4 : 5"],
+"a": 1,
+"sol": "Standard isosceles right triangle ratio."
+},
+{
+"q": "The angle of a regular dodecagon (12 sides) is:",
+"o": ["140°", "144°", "150°", "160°"],
+"a": 2,
+"sol": "(10 * 180) / 12 = 150°."
+},
+{
+"q": "In any tiling, the sum of angles around a vertex is always:",
+"o": ["180°", "360°", "540°", "Variable"],
+"a": 1,
+"sol": "A full circle is 360°."
+}
+]
