@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the value of 10 to the power of 4 (10⁴)?",
+"o": ["100", "1000", "10000", "100000"],
+"a": 2,
+"sol": "10 * 10 * 10 * 10 = 10,000."
+},
+{
+"q": "Which of the following is equivalent to 0.0001?",
+"o": ["10⁻⁴", "10⁻³", "10⁻²", "10⁻⁵"],
+"a": 0,
+"sol": "Four decimal places to the right of 1 is 10⁻⁴."
+},
+{
+"q": "How many millimeters are in 0.05 meters?",
+"o": ["0.5 mm", "5 mm", "50 mm", "500 mm"],
+"a": 2,
+"sol": "0.05 * 1000 = 50 mm."
+},
+{
+"q": "Solve: 0.12 ÷ 0.004",
+"o": ["3", "30", "300", "0.3"],
+"a": 1,
+"sol": "120 / 4 = 30."
+},
+{
+"q": "Express 456.78 in expanded form using powers of 10.",
+"o": ["4×10² + 5×10¹ + 6×10⁰ + 7×10⁻¹ + 8×10⁻²", "4×10³ + 5×10² + 6×10¹ + 7×10⁰", "456 + 0.78", "4×10² + 5×10¹ + 6×10⁰ + 7×10¹ + 8×10²"],
+"a": 0,
+"sol": "Standard place value expansion with negative exponents for decimals."
+},
+{
+"q": "What happens to the decimal point when a number is multiplied by 10⁻²?",
+"o": ["Moves 2 places right", "Moves 2 places left", "Remains same", "Moves 1 place left"],
+"a": 1,
+"sol": "Multiplying by 10⁻² is the same as dividing by 100."
+},
+{
+"q": "Which is the smallest?",
+"o": ["0.00101", "0.0011", "0.001001", "0.001"],
+"a": 3,
+"sol": "0.001 can be written as 0.001000, which is smaller than 0.001001."
+},
+{
+"q": "The product of 0.002 and 0.003 is:",
+"o": ["0.000006", "0.006", "0.00006", "0.0006"],
+"a": 0,
+"sol": "2 * 3 = 6; total 6 decimal places needed."
+},
+{
+"q": "A paper's thickness is 0.0015 cm. What is the thickness of 1000 such papers?",
+"o": ["0.15 cm", "1.5 cm", "15 cm", "150 cm"],
+"a": 1,
+"sol": "0.0015 * 1000 = 1.5."
+},
+{
+"q": "Round 12.3456 to two decimal places.",
+"o": ["12.34", "12.35", "12.36", "12.30"],
+"a": 1,
+"sol": "The third decimal is 5, so round up the second digit."
+},
+{
+"q": "Divide 1 by 0.125.",
+"o": ["4", "8", "10", "12.5"],
+"a": 1,
+"sol": "1 / (1/8) = 8."
+},
+{
+"q": "Standard form of 0.0000567 is:",
+"o": ["5.67 × 10⁻⁵", "56.7 × 10⁻⁶", "5.67 × 10⁻⁴", "0.567 × 10⁻⁴"],
+"a": 0,
+"sol": "Move decimal 5 places to the right to get 5.67."
+},
+{
+"q": "What is 0.75 of 1000?",
+"o": ["7.5", "75", "750", "7500"],
+"a": 2,
+"sol": "0.75 * 1000 = 750."
+},
+{
+"q": "Compare: 0.09 ____ 0.1",
+"o": [">", "<", "=", "None"],
+"a": 1,
+"sol": "0.09 < 0.10."
+},
+{
+"q": "If a ribbon is 0.45m long, how many cm is it?",
+"o": ["4.5 cm", "45 cm", "450 cm", "0.045 cm"],
+"a": 1,
+"sol": "0.45 * 100 = 45."
+},
+{
+"q": "Simplify: (0.2)³",
+"o": ["0.8", "0.08", "0.008", "0.0008"],
+"a": 2,
+"sol": "0.2 * 0.2 * 0.2 = 0.008."
+},
+{
+"q": "Find the value of 0.5 ÷ 0.05 + 0.5",
+"o": ["1.5", "10.5", "15", "1.05"],
+"a": 1,
+"sol": "(0.5 / 0.05) + 0.5 = 10 + 0.5 = 10.5."
+},
+{
+"q": "Express 7/1000 as a decimal.",
+"o": ["0.7", "0.07", "0.007", "0.0007"],
+"a": 2,
+"sol": "Divide by 1000 results in three decimal places."
+},
+{
+"q": "Which power of 10 is equal to 1,000,000?",
+"o": ["10⁵", "10⁶", "10⁷", "10⁸"],
+"a": 1,
+"sol": "Count the zeros: six zeros means 10⁶."
+},
+{
+"q": "What is 0.02 × 50?",
+"o": ["10", "1", "0.1", "100"],
+"a": 1,
+"sol": "2/100 * 50 = 100/100 = 1."
+},
+{
+"q": "Convert 1.2 kg to grams.",
+"o": ["120 g", "1200 g", "12 g", "0.012 g"],
+"a": 1,
+"sol": "1.2 * 1000 = 1200."
+},
+{
+"q": "A sprinter runs 100m in 9.58 seconds. What is the speed in m/s (approx)?",
+"o": ["10.44", "9.58", "10.0", "11.2"],
+"a": 0,
+"sol": "100 / 9.58 ≈ 10.44."
+},
+{
+"q": "The decimal part of 45.089 is:",
+"o": ["45", "089", "0.089", "89"],
+"a": 2,
+"sol": "The value after the decimal point is 0.089."
+},
+{
+"q": "Solve: 1.5 × 1.5",
+"o": ["2.25", "22.5", "0.225", "2.5"],
+"a": 0,
+"sol": "15 * 15 = 225; two decimal places."
+},
+{
+"q": "10⁻³ is called:",
+"o": ["One tenth", "One hundredth", "One thousandth", "One millionth"],
+"a": 2,
+"sol": "1/10³ = 1/1000."
+},
+{
+"q": "Find the difference: 1.001 - 0.999",
+"o": ["0.002", "0.02", "0.2", "0.001"],
+"a": 0,
+"sol": "Subtraction result is 0.002."
+},
+{
+"q": "If 10.5 x = 105, then x is:",
+"o": ["1", "10", "100", "0.1"],
+"a": 1,
+"sol": "105 / 10.5 = 10."
+},
+{
+"q": "0.04 is what percent of 1?",
+"o": ["0.4%", "4%", "40%", "0.04%"],
+"a": 1,
+"sol": "0.04 * 100 = 4%."
+},
+{
+"q": "Value of 100 ÷ 0.1?",
+"o": ["10", "100", "1000", "1"],
+"a": 2,
+"sol": "100 / (1/10) = 100 * 10 = 1000."
+},
+{
+"q": "Sum of 0.2, 0.02, and 0.002 is:",
+"o": ["0.6", "0.222", "0.202", "2.22"],
+"a": 1,
+"sol": "0.200 + 0.020 + 0.002 = 0.222."
+},
+{
+"q": "Reciprocal of 0.25 is:",
+"o": ["0.4", "4", "2.5", "40"],
+"a": 1,
+"sol": "1 / 0.25 = 1 / (1/4) = 4."
+},
+{
+"q": "0.007 × 100 =",
+"o": ["7", "0.7", "0.07", "70"],
+"a": 1,
+"sol": "Decimal moves two places right."
+},
+{
+"q": "How many decimal places in the product of 1.23 and 4.567?",
+"o": ["2", "3", "5", "6"],
+"a": 2,
+"sol": "2 + 3 = 5."
+},
+{
+"q": "Value of 0.1 + 0.1 × 0.1?",
+"o": ["0.2", "0.11", "0.02", "0.101"],
+"a": 1,
+"sol": "0.1 + 0.01 = 0.11."
+},
+{
+"q": "Express 5 mg in grams.",
+"o": ["0.05 g", "0.005 g", "0.5 g", "0.0005 g"],
+"a": 1,
+"sol": "5 / 1000 = 0.005."
+},
+{
+"q": "Which digit is in the thousandths place in 9.8765?",
+"o": ["8", "7", "6", "5"],
+"a": 2,
+"sol": "Places: tenths(8), hundredths(7), thousandths(6)."
+},
+{
+"q": "The expanded form of 0.034 is:",
+"o": ["3/10 + 4/100", "3/100 + 4/1000", "3/1000 + 4/10000", "3/10 + 4/1000"],
+"a": 1,
+"sol": "Second place is hundredths, third is thousandths."
+},
+{
+"q": "0.125 multiplied by what gives 1?",
+"o": ["4", "8", "10", "12.5"],
+"a": 1,
+"sol": "0.125 * 8 = 1."
+},
+{
+"q": "Round 0.999 to one decimal place.",
+"o": ["0.9", "1.0", "0.1", "0.99"],
+"a": 1,
+"sol": "Round up 0.9 because of the next 9."
+},
+{
+"q": "Multiply 0.0001 by 10000:",
+"o": ["1", "0.1", "10", "100"],
+"a": 0,
+"sol": "Move decimal 4 places right."
+},
+{
+"q": "What is 10 to the power 0 (10⁰)?",
+"o": ["0", "1", "10", "Undefined"],
+"a": 1,
+"sol": "Any non-zero number to power 0 is 1."
+},
+{
+"q": "Simplify: 0.8 ÷ 0.008",
+"o": ["10", "100", "1000", "0.1"],
+"a": 1,
+"sol": "800 / 8 = 100."
+},
+{
+"q": "Value of 0.5 + 0.5 / 0.5?",
+"o": ["1", "1.5", "2", "2.5"],
+"a": 1,
+"sol": "0.5 + 1 = 1.5 (BODMAS)."
+},
+{
+"q": "Which is greater: 10⁻¹ or 10⁻²?",
+"o": ["10⁻¹", "10⁻²", "Equal", "None"],
+"a": 0,
+"sol": "0.1 > 0.01."
+},
+{
+"q": "A hair width is 0.00005m. Express in scientific notation.",
+"o": ["5 × 10⁻⁵", "5 × 10⁻⁶", "5 × 10⁻⁴", "0.5 × 10⁻⁴"],
+"a": 0,
+"sol": "Count decimal shifts to the right."
+},
+{
+"q": "0.25 of 1 hour is how many minutes?",
+"o": ["15 min", "25 min", "30 min", "10 min"],
+"a": 0,
+"sol": "0.25 * 60 = 15."
+},
+{
+"q": "Value of 1.1 × 1.1 × 1.1?",
+"o": ["1.21", "1.331", "13.31", "0.1331"],
+"a": 1,
+"sol": "11 cubed is 1331; 3 decimals."
+},
+{
+"q": "Subtract 0.001 from 0.01:",
+"o": ["0.009", "0.09", "0.1", "0.011"],
+"a": 0,
+"sol": "0.010 - 0.001 = 0.009."
+},
+{
+"q": "0.4 kg + 400 g =",
+"o": ["0.8 kg", "4.4 kg", "440 g", "800 g"],
+"a": 0,
+"sol": "0.4kg + 0.4kg = 0.8kg."
+},
+{
+"q": "What is 10⁻³ × 10²?",
+"o": ["10⁻¹", "10⁻⁵", "10¹", "10⁻⁶"],
+"a": 0,
+"sol": "Add exponents: -3 + 2 = -1."
+},
+{
+"q": "If 1.44 ÷ x = 1.2, then x is:",
+"o": ["1.2", "0.12", "12", "1.44"],
+"a": 0,
+"sol": "1.44 / 1.2 = 1.2."
+},
+{
+"q": "Decimal for 1/20 is:",
+"o": ["0.5", "0.05", "0.2", "0.02"],
+"a": 1,
+"sol": "5/100 = 0.05."
+},
+{
+"q": "Simplify: 0.1 × 0.1 + 0.1 ÷ 0.1",
+"o": ["1.01", "0.11", "1.1", "0.02"],
+"a": 0,
+"sol": "0.01 + 1 = 1.01."
+},
+{
+"q": "How many decimal places in 10.000?",
+"o": ["0", "1", "3", "4"],
+"a": 2,
+"sol": "There are three zeros after the decimal point."
+},
+{
+"q": "0.06 is equivalent to which fraction?",
+"o": ["6/10", "3/50", "6/1000", "1/6"],
+"a": 1,
+"sol": "6/100 = 3/50."
+},
+{
+"q": "Value of 10³ / 10⁵?",
+"o": ["100", "0.01", "10⁻²", "Both B and C"],
+"a": 3,
+"sol": "10⁻² = 1/100 = 0.01."
+},
+{
+"q": "Scientific form of 1,230,000:",
+"o": ["1.23 × 10⁶", "12.3 × 10⁵", "1.23 × 10⁵", "0.123 × 10⁷"],
+"a": 0,
+"sol": "Move decimal 6 places left."
+},
+{
+"q": "Product of 0.4 and 0.5 is:",
+"o": ["0.2", "0.02", "2.0", "0.25"],
+"a": 0,
+"sol": "0.4 * 0.5 = 0.20."
+},
+{
+"q": "Express 150 cm in meters.",
+"o": ["1.5 m", "0.15 m", "15 m", "1500 m"],
+"a": 0,
+"sol": "Divide by 100."
+},
+{
+"q": "What is 10% of 0.1?",
+"o": ["0.1", "0.01", "1", "0.001"],
+"a": 1,
+"sol": "0.1 * 0.1 = 0.01."
+},
+{
+"q": "Find x if 0.2 x = 0.04",
+"o": ["0.2", "2", "0.02", "0.1"],
+"a": 0,
+"sol": "0.04 / 0.2 = 0.2."
+},
+{
+"q": "Expanded form: 0.506",
+"o": ["5/10 + 6/100", "5/10 + 6/1000", "5/100 + 6/1000", "5/10 + 0/100 + 6/1000"],
+"a": 3,
+"sol": "Zero is in the hundredths place."
+},
+{
+"q": "If speed = 0.5 m/s, distance in 1 minute is:",
+"o": ["30 m", "50 m", "60 m", "0.5 m"],
+"a": 0,
+"sol": "0.5 * 60 = 30."
+},
+{
+"q": "Divide 0.72 by 0.9:",
+"o": ["0.8", "0.08", "8", "80"],
+"a": 0,
+"sol": "7.2 / 9 = 0.8."
+},
+{
+"q": "Convert 0.003 km into meters.",
+"o": ["0.3 m", "3 m", "30 m", "0.000003 m"],
+"a": 1,
+"sol": "0.003 * 1000 = 3."
+},
+{
+"q": "Value of 2.5 ÷ 0.01?",
+"o": ["25", "250", "0.25", "2.5"],
+"a": 1,
+"sol": "2.5 * 100 = 250."
+},
+{
+"q": "Which number is between 0.1 and 0.2?",
+"o": ["0.05", "0.15", "0.25", "1.5"],
+"a": 1,
+"sol": "0.10 < 0.15 < 0.20."
+},
+{
+"q": "0.1 to the power of 2 is:",
+"o": ["0.1", "0.01", "0.2", "0.02"],
+"a": 1,
+"sol": "0.1 * 0.1 = 0.01."
+},
+{
+"q": "Reciprocal of 10⁻¹ is:",
+"o": ["0.1", "10", "1", "10⁻²"],
+"a": 1,
+"sol": "1 / 0.1 = 10."
+},
+{
+"q": "Which is correct?",
+"o": ["0.5 < 0.05", "0.5 > 0.55", "0.5 = 0.50", "0.5 < 0.49"],
+"a": 2,
+"sol": "Trailing zeros don't change decimal value."
+},
+{
+"q": "Multiply 0.08 by 0.125:",
+"o": ["0.1", "0.01", "0.001", "1"],
+"a": 1,
+"sol": "8/100 * 1/8 = 1/100 = 0.01."
+},
+{
+"q": "0.9 ÷ 1000 =",
+"o": ["0.09", "0.009", "0.0009", "900"],
+"a": 2,
+"sol": "Move decimal 3 places left."
+},
+{
+"q": "A rectangle has sides 0.2m and 0.3m. Area in sq cm?",
+"o": ["0.06", "6", "600", "60"],
+"a": 2,
+"sol": "20cm * 30cm = 600 sq cm."
+},
+{
+"q": "10⁵ / 10² = ?",
+"o": ["10³", "10⁷", "10¹⁰", "10⁰"],
+"a": 0,
+"sol": "Subtract exponents: 5 - 2 = 3."
+},
+{
+"q": "Decimal for 'three and five hundredths':",
+"o": ["3.5", "3.05", "3.005", "35.00"],
+"a": 1,
+"sol": "3 units + 5/100."
+},
+{
+"q": "Solve: 4.8 ÷ 0.6",
+"o": ["0.8", "8", "80", "4.2"],
+"a": 1,
+"sol": "48 / 6 = 8."
+},
+{
+"q": "Which digit is at 10⁻² place in 123.456?",
+"o": ["2", "4", "5", "6"],
+"a": 2,
+"sol": "10⁻² is hundredths place (5)."
+},
+{
+"q": "What is 0.001 × 0.001?",
+"o": ["10⁻³", "10⁻⁶", "10⁻⁹", "10⁻²"],
+"a": 1,
+"sol": "Add exponents: -3 + -3 = -6."
+},
+{
+"q": "Convert 25 paise to Rupees using power of 10.",
+"o": ["25 × 10⁻¹", "25 × 10⁻²", "2.5 × 10⁻²", "25 × 10⁻³"],
+"a": 1,
+"sol": "25 / 100 = 25 * 10⁻²."
+},
+{
+"q": "Value of (0.1)⁴:",
+"o": ["0.0001", "0.001", "0.00001", "0.1"],
+"a": 0,
+"sol": "Four decimal places."
+},
+{
+"q": "Sum of 10 and 0.1:",
+"o": ["10.1", "1.01", "10.01", "11"],
+"a": 0,
+"sol": "Direct addition."
+},
+{
+"q": "Difference between 1 and 0.001:",
+"o": ["0.9", "0.99", "0.999", "0.009"],
+"a": 2,
+"sol": "1.000 - 0.001 = 0.999."
+},
+{
+"q": "0.125 / 0.5 = ?",
+"o": ["0.25", "2.5", "0.025", "0.5"],
+"a": 0,
+"sol": "1.25 / 5 = 0.25."
+},
+{
+"q": "Scientific form of 0.00045:",
+"o": ["4.5 × 10⁻⁴", "4.5 × 10⁻³", "45 × 10⁻⁵", "0.45 × 10⁻³"],
+"a": 0,
+"sol": "Move decimal 4 places right."
+},
+{
+"q": "Multiply 0.7 by 0.7:",
+"o": ["4.9", "0.49", "0.049", "49"],
+"a": 1,
+"sol": "7*7=49; two decimals."
+},
+{
+"q": "Find x: 10⁻² x = 1",
+"o": ["10", "100", "0.01", "1"],
+"a": 1,
+"sol": "x = 1 / 10⁻² = 100."
+},
+{
+"q": "How many liters in 500 mL?",
+"o": ["5 L", "0.5 L", "0.05 L", "50 L"],
+"a": 1,
+"sol": "500 / 1000 = 0.5."
+},
+{
+"q": "Value of 0.3³?",
+"o": ["0.027", "0.27", "0.0027", "0.9"],
+"a": 0,
+"sol": "3 cubed is 27; three decimals."
+},
+{
+"q": "Add 10⁻¹ and 10⁻²:",
+"o": ["0.11", "1.1", "0.011", "0.2"],
+"a": 0,
+"sol": "0.1 + 0.01 = 0.11."
+},
+{
+"q": "If 0.5 of a number is 20, the number is:",
+"o": ["10", "40", "100", "50"],
+"a": 1,
+"sol": "20 / 0.5 = 40."
+},
+{
+"q": "10⁶ is also called:",
+"o": ["Lakh", "Million", "Crore", "Billion"],
+"a": 1,
+"sol": "1,000,000 is one million."
+},
+{
+"q": "What is 0.01 ÷ 0.01?",
+"o": ["0.1", "1", "0.01", "10"],
+"a": 1,
+"sol": "Any non-zero number divided by itself is 1."
+},
+{
+"q": "Express 4500 in scientific notation.",
+"o": ["4.5 × 10³", "45 × 10²", "4.5 × 10²", "0.45 × 10⁴"],
+"a": 0,
+"sol": "Move decimal 3 places left."
+},
+{
+"q": "Product of 1.5 and 0.02:",
+"o": ["0.3", "0.03", "3", "0.003"],
+"a": 1,
+"sol": "15 * 2 = 30; three decimal places = 0.030."
+},
+{
+"q": "Convert 0.75 to a percentage.",
+"o": ["7.5%", "75%", "0.75%", "750%"],
+"a": 1,
+"sol": "Multiply by 100."
+},
+{
+"q": "Solve: 0.1 + 0.2 + 0.3 + 0.4",
+"o": ["1", "0.1", "1.1", "0.10"],
+"a": 0,
+"sol": "Sum equals 1.0."
+},
+{
+"q": "Which is larger: 10⁻³ or 0.0009?",
+"o": ["10⁻³", "0.0009", "Equal", "None"],
+"a": 0,
+"sol": "0.0010 > 0.0009."
+},
+{
+"q": "Simplify: 10⁴ × 10⁻⁴",
+"o": ["1", "0", "10", "10⁸"],
+"a": 0,
+"sol": "10^(4-4) = 10⁰ = 1."
+},
+{
+"q": "Find 0.05 of 200.",
+"o": ["1", "10", "100", "0.1"],
+"a": 1,
+"sol": "5/100 * 200 = 10."
+},
+{
+"q": "What is the decimal equivalent of 10⁻⁵?",
+"o": ["0.0001", "0.00001", "0.000001", "0.001"],
+"a": 1,
+"sol": "1 divided by 1 followed by 5 zeros."
+}
+]
