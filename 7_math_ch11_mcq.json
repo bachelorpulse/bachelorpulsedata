@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the product of 3/4 and 8/9?",
+"o": ["27/32", "2/3", "24/13", "12/11"],
+"a": 1,
+"sol": "(3 * 8) / (4 * 9) = 24 / 36 = 2/3."
+},
+{
+"q": "The reciprocal of 1/7 is:",
+"o": ["-7", "1", "7", "0.7"],
+"a": 2,
+"sol": "Reciprocal of 1/a is a/1."
+},
+{
+"q": "Solve: 2.5 × 0.3",
+"o": ["7.5", "0.075", "0.75", "75"],
+"a": 2,
+"sol": "25 * 3 = 75; place decimal two spots from right: 0.75."
+},
+{
+"q": "What is 1/2 of 24?",
+"o": ["12", "48", "6", "24"],
+"a": 0,
+"sol": "1/2 * 24 = 12."
+},
+{
+"q": "Divide: 15 ÷ 3/5",
+"o": ["9", "25", "45", "5/45"],
+"a": 1,
+"sol": "15 * (5/3) = 5 * 5 = 25."
+},
+{
+"q": "Which is greater: 0.5 or 0.05?",
+"o": ["0.05", "They are equal", "0.5", "Cannot compare"],
+"a": 2,
+"sol": "0.5 = 0.50, which is greater than 0.05."
+},
+{
+"q": "The side of an equilateral triangle is 3.5 cm. Its perimeter is:",
+"o": ["7 cm", "10.5 cm", "12.25 cm", "3.5 cm"],
+"a": 1,
+"sol": "Perimeter = 3 * side = 3 * 3.5 = 10.5 cm."
+},
+{
+"q": "Express 7 paise as rupees using decimals:",
+"o": ["0.7", "0.007", "7.0", "0.07"],
+"a": 3,
+"sol": "7/100 = 0.07."
+},
+{
+"q": "A car covers 16 km using 1 litre of petrol. How much distance will it cover in 2.75 litres?",
+"o": ["44 km", "32 km", "40.5 km", "48 km"],
+"a": 0,
+"sol": "16 * 2.75 = 44 km."
+},
+{
+"q": "What is the value of 0.1 × 0.1 × 0.1?",
+"o": ["0.1", "0.01", "0.001", "1.0"],
+"a": 2,
+"sol": "Three decimal places: 0.001."
+},
+{
+"q": "The improper fraction for 3 and 1/4 is:",
+"o": ["7/4", "13/4", "12/4", "4/13"],
+"a": 1,
+"sol": "(3 * 4 + 1) / 4 = 13/4."
+},
+{
+"q": "Evaluate: 4/9 ÷ 2/3",
+"o": ["8/27", "2/3", "4/3", "1/2"],
+"a": 1,
+"sol": "4/9 * 3/2 = 12/18 = 2/3."
+},
+{
+"q": "How many centimeters are there in 1.5 meters?",
+"o": ["15", "150", "0.15", "1500"],
+"a": 1,
+"sol": "1.5 * 100 = 150 cm."
+},
+{
+"q": "The product of a fraction and its reciprocal is always:",
+"o": ["0", "The fraction itself", "1", "Infinity"],
+"a": 2,
+"sol": "(a/b) * (b/a) = 1."
+},
+{
+"q": "What is 4.8 ÷ 100?",
+"o": ["0.48", "0.048", "480", "48"],
+"a": 1,
+"sol": "Move decimal two places to the left."
+},
+{
+"q": "Lipika reads a book for 1 and 3/4 hours every day. She reads the entire book in 6 days. How many hours did she take?",
+"o": ["7 hours", "9 hours", "10.5 hours", "12 hours"],
+"a": 2,
+"sol": "7/4 * 6 = 42/4 = 10.5 hours."
+},
+{
+"q": "If 2/5 of a number is 10, the number is:",
+"o": ["4", "25", "20", "50"],
+"a": 1,
+"sol": "x = 10 * 5/2 = 25."
+},
+{
+"q": "Which of the following is a proper fraction?",
+"o": ["5/2", "3/3", "1/2", "7/4"],
+"a": 2,
+"sol": "Numerator < Denominator."
+},
+{
+"q": "Calculate: 10.05 × 1.05",
+"o": ["10.5525", "105.525", "11.1025", "10.1005"],
+"a": 0,
+"sol": "Perform multiplication and place 4 decimal spots."
+},
+{
+"q": "The decimal 0.25 is equivalent to the fraction:",
+"o": ["1/2", "1/5", "1/4", "2/5"],
+"a": 2,
+"sol": "25/100 = 1/4."
+},
+{
+"q": "Find 2/7 of 3/4:",
+"o": ["5/11", "6/28", "3/14", "8/21"],
+"a": 2,
+"sol": "(2 * 3) / (7 * 4) = 6/28 = 3/14."
+},
+{
+"q": "Divide 0.4 by 2:",
+"o": ["0.2", "0.02", "2.0", "0.8"],
+"a": 0,
+"sol": "4/10 * 1/2 = 2/10 = 0.2."
+},
+{
+"q": "What is 7/10 + 2/5?",
+"o": ["9/15", "1.1", "0.9", "11/10"],
+"a": 3,
+"sol": "7/10 + 4/10 = 11/10."
+},
+{
+"q": "A rectangular plot is 12.5m long and 8.2m wide. Its area is:",
+"o": ["102.5 sq m", "20.7 sq m", "100.25 sq m", "10.25 sq m"],
+"a": 0,
+"sol": "12.5 * 8.2 = 102.5."
+},
+{
+"q": "The reciprocal of 2 and 1/3 is:",
+"o": ["7/3", "3/7", "1/7", "2/3"],
+"a": 1,
+"sol": "2 1/3 = 7/3; reciprocal is 3/7."
+},
+{
+"q": "The value of 1.2 ÷ 0.03 is:",
+"o": ["4", "0.4", "40", "400"],
+"a": 2,
+"sol": "120 / 3 = 40."
+},
+{
+"q": "If 1 kg of sugar costs Rs 45.50, what is the cost of 3.5 kg?",
+"o": ["159.25", "136.50", "158.50", "160.00"],
+"a": 0,
+"sol": "45.5 * 3.5 = 159.25."
+},
+{
+"q": "Which of these is like fractions?",
+"o": ["1/2, 1/3", "2/5, 3/5", "4/7, 4/9", "None"],
+"a": 1,
+"sol": "Fractions with same denominators."
+},
+{
+"q": "3/1000 can be written in decimal as:",
+"o": ["0.3", "0.03", "0.003", "3.000"],
+"a": 2,
+"sol": "Three zeros in denominator mean three decimal places."
+},
+{
+"q": "What is 11.2 × 0.15?",
+"o": ["1.68", "16.8", "0.168", "168"],
+"a": 0,
+"sol": "112 * 15 = 1680; place 3 decimals: 1.680."
+},
+{
+"q": "Express 5 cm in kilometers:",
+"o": ["0.005 km", "0.00005 km", "0.0005 km", "0.5 km"],
+"a": 1,
+"sol": "5 / (100 * 1000) = 0.00005."
+},
+{
+"q": "The product of 0.03 and 0.9 is:",
+"o": ["2.7", "0.27", "0.027", "0.0027"],
+"a": 2,
+"sol": "3 * 9 = 27; three decimal places: 0.027."
+},
+{
+"q": "A piece of wire 3/4 m long is cut into 3 equal pieces. Length of each piece is:",
+"o": ["1/4 m", "1/3 m", "2/3 m", "9/4 m"],
+"a": 0,
+"sol": "3/4 ÷ 3 = 1/4."
+},
+{
+"q": "Which is greater: 2/3 or 3/4?",
+"o": ["2/3", "3/4", "They are equal", "Cannot say"],
+"a": 1,
+"sol": "2/3 = 0.66, 3/4 = 0.75."
+},
+{
+"q": "What is 0.2 × 6?",
+"o": ["12", "0.12", "1.2", "0.012"],
+"a": 2,
+"sol": "Standard multiplication."
+},
+{
+"q": "Convert 250g to kg:",
+"o": ["2.5 kg", "0.25 kg", "0.025 kg", "25 kg"],
+"a": 1,
+"sol": "250 / 1000 = 0.25."
+},
+{
+"q": "The value of 7.75 ÷ 0.25 is:",
+"o": ["31", "3.1", "310", "0.31"],
+"a": 0,
+"sol": "775 / 25 = 31."
+},
+{
+"q": "Half of a half is:",
+"o": ["1", "1/2", "1/4", "1/8"],
+"a": 2,
+"sol": "1/2 * 1/2 = 1/4."
+},
+{
+"q": "Simplify: 1/5 of [1/2 + 1/3]",
+"o": ["1/6", "5/6", "1/5", "1/2"],
+"a": 0,
+"sol": "1/5 * (5/6) = 1/6."
+},
+{
+"q": "Is multiplication of fractions commutative?",
+"o": ["No", "Yes", "Only for integers", "Only for proper fractions"],
+"a": 1,
+"sol": "a/b * c/d = c/d * a/b."
+},
+{
+"q": "Evaluate: 0.50 ÷ 0.10",
+"o": ["0.5", "5", "50", "0.05"],
+"a": 1,
+"sol": "50/10 = 5."
+},
+{
+"q": "Sum of 0.007 + 0.07 + 0.7 is:",
+"o": ["0.777", "7.77", "0.077", "0.0007"],
+"a": 0,
+"sol": "Alignment of decimal points."
+},
+{
+"q": "Which decimal is equivalent to 1/8?",
+"o": ["0.125", "0.8", "0.25", "0.5"],
+"a": 0,
+"sol": "1 divided by 8 is 0.125."
+},
+{
+"q": "Multiply: 2/3 × 5/7",
+"o": ["7/10", "10/21", "14/15", "10/14"],
+"a": 1,
+"sol": "25 / 37 = 10/21."
+},
+{
+"q": "A bottle contains 2.5 litres of water. If you drink 1.25 litres, how much is left?",
+"o": ["1.0 litre", "1.5 litres", "1.25 litres", "0.25 litre"],
+"a": 2,
+"sol": "2.5 - 1.25 = 1.25."
+},
+{
+"q": "What is the decimal form of 4 and 1/5?",
+"o": ["4.1", "4.5", "4.2", "4.05"],
+"a": 2,
+"sol": "4 + 0.2 = 4.2."
+},
+{
+"q": "Find 5/8 of 40:",
+"o": ["25", "20", "32", "15"],
+"a": 0,
+"sol": "(40/8) * 5 = 5 * 5 = 25."
+},
+{
+"q": "Reciprocal of a whole number (except 0) is always a:",
+"o": ["Whole number", "Proper fraction", "Improper fraction", "Zero"],
+"a": 1,
+"sol": "Reciprocal of 5 is 1/5, which is proper."
+},
+{
+"q": "0.3 ÷ 1000 =",
+"o": ["0.03", "0.003", "0.0003", "0.3000"],
+"a": 2,
+"sol": "Move decimal 3 places left."
+},
+{
+"q": "Product of 2.1 and 0.4 is:",
+"o": ["8.4", "0.84", "0.084", "84"],
+"a": 1,
+"sol": "21 * 4 = 84; two decimals: 0.84."
+},
+{
+"q": "If x/3 = 1.5, then x is:",
+"o": ["0.5", "4.5", "3.0", "1.5"],
+"a": 1,
+"sol": "1.5 * 3 = 4.5."
+},
+{
+"q": "How many 1/4s make 2?",
+"o": ["4", "8", "6", "2"],
+"a": 1,
+"sol": "2 ÷ 1/4 = 2 * 4 = 8."
+},
+{
+"q": "Value of 0.8 ÷ 0.2 is:",
+"o": ["4", "0.4", "1.6", "0.16"],
+"a": 0,
+"sol": "8/2 = 4."
+},
+{
+"q": "Fraction 2/5 as a percentage is:",
+"o": ["20%", "50%", "40%", "25%"],
+"a": 2,
+"sol": "2/5 * 100 = 40%."
+},
+{
+"q": "Reciprocal of 1 is:",
+"o": ["0", "-1", "1", "Not defined"],
+"a": 2,
+"sol": "1/1 = 1."
+},
+{
+"q": "A car travels 43.2 km in 2.4 litres of petrol. Distance in 1 litre?",
+"o": ["18 km", "20 km", "16 km", "15 km"],
+"a": 0,
+"sol": "43.2 / 2.4 = 18."
+},
+{
+"q": "What is 3/4 of 16?",
+"o": ["12", "8", "4", "16"],
+"a": 0,
+"sol": "16/4 * 3 = 12."
+},
+{
+"q": "0.78 ÷ 10 is:",
+"o": ["7.8", "0.078", "0.0078", "78"],
+"a": 1,
+"sol": "Decimal moves one place left."
+},
+{
+"q": "Product of 1.2, 1.2 and 1.2 is:",
+"o": ["1.728", "17.28", "172.8", "1.44"],
+"a": 0,
+"sol": "12^3 = 1728; 3 decimal places."
+},
+{
+"q": "If you multiply 0 by any fraction, the result is:",
+"o": ["The fraction", "1", "0", "Undefined"],
+"a": 2,
+"sol": "Zero property of multiplication."
+},
+{
+"q": "2.5 + 3.05 + 0.005 =",
+"o": ["5.555", "5.56", "6.0", "5.55"],
+"a": 0,
+"sol": "2.500 + 3.050 + 0.005 = 5.555."
+},
+{
+"q": "What is 1/3 of 1/3?",
+"o": ["1", "1/6", "1/9", "2/3"],
+"a": 2,
+"sol": "1/3 * 1/3 = 1/9."
+},
+{
+"q": "Decimal for 7/25 is:",
+"o": ["0.28", "0.7", "0.14", "0.25"],
+"a": 0,
+"sol": "7/25 * 4/4 = 28/100 = 0.28."
+},
+{
+"q": "30.94 ÷ 0.7 =",
+"o": ["44.2", "4.42", "442", "0.442"],
+"a": 0,
+"sol": "309.4 / 7 = 44.2."
+},
+{
+"q": "Reciprocal of an improper fraction is always a:",
+"o": ["Improper fraction", "Whole number", "Proper fraction", "Zero"],
+"a": 2,
+"sol": "Flip 5/4 to get 4/5 (proper)."
+},
+{
+"q": "Find 4/5 of 1 hour (in minutes):",
+"o": ["45 min", "48 min", "40 min", "50 min"],
+"a": 1,
+"sol": "4/5 * 60 = 48."
+},
+{
+"q": "Is 0.4 divided by 10 same as 0.4 multiplied by 0.1?",
+"o": ["Yes", "No", "Only for 4", "Depends"],
+"a": 0,
+"sol": "Both result in 0.04."
+},
+{
+"q": "0.05 × 0.05 =",
+"o": ["0.25", "0.025", "0.0025", "0.00025"],
+"a": 2,
+"sol": "55=25; four decimal places."
+},
+{
+"q": "Fraction for 0.125 is:",
+"o": ["1/4", "1/8", "1/6", "1/5"],
+"a": 1,
+"sol": "125/1000 = 1/8."
+},
+{
+"q": "Subtract 0.1 from 1:",
+"o": ["0", "0.9", "1.1", "0.99"],
+"a": 1,
+"sol": "1.0 - 0.1 = 0.9."
+},
+{
+"q": "What is 100 × 0.01?",
+"o": ["100", "10", "1", "0.1"],
+"a": 2,
+"sol": "100/100 = 1."
+},
+{
+"q": "How much more is 28 km than 15.5 km?",
+"o": ["12.5 km", "13.5 km", "14.5 km", "10.5 km"],
+"a": 0,
+"sol": "28.0 - 15.5 = 12.5."
+},
+{
+"q": "Product of 1/2, 2/3, 3/4 is:",
+"o": ["1/4", "1/2", "1/3", "1/6"],
+"a": 0,
+"sol": "The numbers cancel out to leave 1/4."
+},
+{
+"q": "Value of 3.25 + 0.75?",
+"o": ["3.1", "4", "4.1", "3.9"],
+"a": 1,
+"sol": "Simple addition."
+},
+{
+"q": "Divide 3/7 by 7:",
+"o": ["3", "3/49", "21/7", "1/7"],
+"a": 1,
+"sol": "3/7 * 1/7 = 3/49."
+},
+{
+"q": "Which is smallest: 0.1, 0.11, 0.01, 0.011?",
+"o": ["0.1", "0.11", "0.01", "0.011"],
+"a": 2,
+"sol": "0.010 is smaller than 0.011."
+},
+{
+"q": "15.5 ÷ 5 =",
+"o": ["3.1", "31", "0.31", "3.01"],
+"a": 0,
+"sol": "Standard division."
+},
+{
+"q": "Multiply 4/7 by 0:",
+"o": ["4/7", "1", "0", "7/4"],
+"a": 2,
+"sol": "Multiplication by zero."
+},
+{
+"q": "One-fourth of 100 is:",
+"o": ["20", "25", "40", "10"],
+"a": 1,
+"sol": "100/4 = 25."
+},
+{
+"q": "A side of a square is 2.5 cm. Area is:",
+"o": ["5 sq cm", "10 sq cm", "6.25 sq cm", "7.5 sq cm"],
+"a": 2,
+"sol": "2.5 * 2.5 = 6.25."
+},
+{
+"q": "The reciprocal of 0 is:",
+"o": ["0", "1", "Infinity", "Does not exist"],
+"a": 3,
+"sol": "Division by zero is undefined."
+},
+{
+"q": "Find 1/5 of 1/2 of 10:",
+"o": ["1", "2", "5", "0.5"],
+"a": 0,
+"sol": "1/5 * 5 = 1."
+},
+{
+"q": "What is 0.5 × 0.05?",
+"o": ["0.25", "0.025", "0.0025", "2.5"],
+"a": 1,
+"sol": "55=25; three decimals."
+},
+{
+"q": "Convert 5mm to cm:",
+"o": ["50 cm", "0.5 cm", "0.05 cm", "5 cm"],
+"a": 1,
+"sol": "5/10 = 0.5."
+},
+{
+"q": "Value of 1/2 + 1/4?",
+"o": ["2/6", "1/6", "3/4", "2/4"],
+"a": 2,
+"sol": "2/4 + 1/4 = 3/4."
+},
+{
+"q": "0.6 ÷ 0.3 =",
+"o": ["2", "0.2", "1.8", "0.18"],
+"a": 0,
+"sol": "6/3 = 2."
+},
+{
+"q": "Is 3/5 greater than 0.5?",
+"o": ["No", "Yes", "They are equal", "Depends"],
+"a": 1,
+"sol": "3/5 = 0.6; 0.6 > 0.5."
+},
+{
+"q": "Product of 1.1 and 1.1:",
+"o": ["1.21", "12.1", "121", "0.121"],
+"a": 0,
+"sol": "11*11=121; two decimals."
+},
+{
+"q": "How many meters in 0.25 km?",
+"o": ["25", "250", "2500", "2.5"],
+"a": 1,
+"sol": "0.25 * 1000 = 250."
+},
+{
+"q": "The fractional form of 0.6 is:",
+"o": ["3/5", "6/5", "1/6", "2/3"],
+"a": 0,
+"sol": "6/10 = 3/5."
+},
+{
+"q": "1 ÷ 0.5 =",
+"o": ["0.5", "1", "2", "5"],
+"a": 2,
+"sol": "10/5 = 2."
+},
+{
+"q": "Result of 2/3 * 3/2?",
+"o": ["0", "1", "4/9", "9/4"],
+"a": 1,
+"sol": "Multiplication by reciprocal."
+},
+{
+"q": "What is 0.09 ÷ 0.3?",
+"o": ["0.3", "0.03", "3", "30"],
+"a": 0,
+"sol": "9/30 = 0.3."
+},
+{
+"q": "A bag contains 5.5 kg of flour. How much is in 10 bags?",
+"o": ["550 kg", "55 kg", "0.55 kg", "5.50 kg"],
+"a": 1,
+"sol": "5.5 * 10 = 55."
+},
+{
+"q": "Which is greater: 0.7 or 7/10?",
+"o": ["0.7", "7/10", "They are equal", "None"],
+"a": 2,
+"sol": "Both represent 0.7."
+},
+{
+"q": "3/4 - 1/2 =",
+"o": ["2/2", "1/4", "1/2", "0"],
+"a": 1,
+"sol": "3/4 - 2/4 = 1/4."
+},
+{
+"q": "Reciprocal of 10 is:",
+"o": ["1", "0.1", "10", "0.01"],
+"a": 1,
+"sol": "1/10 = 0.1."
+},
+{
+"q": "0.1 × 50 =",
+"o": ["0.5", "5", "50", "500"],
+"a": 1,
+"sol": "Move decimal one place left."
+},
+{
+"q": "Sum of 1/3 and 1/3 is:",
+"o": ["2/3", "2/6", "1/6", "1"],
+"a": 0,
+"sol": "Same denominator addition."
+},
+{
+"q": "Value of 0.44 ÷ 4?",
+"o": ["1.1", "0.11", "11", "0.011"],
+"a": 1,
+"sol": "Standard division."
+}
+]
