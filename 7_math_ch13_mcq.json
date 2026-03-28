@@ -1,0 +1,602 @@
+[
+{
+"q": "What is the name of the horizontal axis in a coordinate plane?",
+"o": ["Y-axis", "Origin", "X-axis", "Quadrant"],
+"a": 2,
+"sol": "The horizontal axis is called the x-axis."
+},
+{
+"q": "The point where the x-axis and y-axis intersect is called the:",
+"o": ["Center", "Origin", "Midpoint", "Vertex"],
+"a": 1,
+"sol": "The intersection (0,0) is the origin."
+},
+{
+"q": "If a point is at (4, 0), where does it lie?",
+"o": ["On the Y-axis", "In Quadrant I", "On the X-axis", "At the Origin"],
+"a": 2,
+"sol": "When the y-coordinate is 0, the point is on the x-axis."
+},
+{
+"q": "In the coordinates (5, 8), what is the 'y-coordinate'?",
+"o": ["5", "13", "8", "3"],
+"a": 2,
+"sol": "In (x, y), the second number is the y-coordinate."
+},
+{
+"q": "Which point lies in the second quadrant?",
+"o": ["(2, 3)", "(-2, -3)", "(2, -3)", "(-2, 3)"],
+"a": 3,
+"sol": "Quadrant II has negative x and positive y."
+},
+{
+"q": "What are the coordinates of the origin?",
+"o": ["(1, 1)", "(0, 0)", "(0, 1)", "(1, 0)"],
+"a": 1,
+"sol": "The origin is always (0,0)."
+},
+{
+"q": "If x increases and y stays the same, the line connecting the dots will be:",
+"o": ["Vertical", "Slanting", "Horizontal", "A single dot"],
+"a": 2,
+"sol": "Constant y results in a horizontal line."
+},
+{
+"q": "A point is 3 units left of the y-axis and 4 units above the x-axis. Its coordinates are:",
+"o": ["(3, 4)", "(-3, 4)", "(4, -3)", "(-3, -4)"],
+"a": 1,
+"sol": "Left is negative x, above is positive y."
+},
+{
+"q": "If the points (1, 2), (2, 4), and (3, 6) are connected, what is the relationship?",
+"o": ["y = x + 1", "y = 2x", "y = x + 2", "y = x/2"],
+"a": 1,
+"sol": "In every case, y is twice the value of x."
+},
+{
+"q": "Identify the point that does not fit the pattern: (1, 5), (2, 10), (3, 12), (4, 20).",
+"o": ["(1, 5)", "(2, 10)", "(3, 12)", "(4, 20)"],
+"a": 2,
+"sol": "The pattern is y = 5x; 3 * 5 should be 15, not 12."
+},
+{
+"q": "The distance of the point (0, 7) from the x-axis is:",
+"o": ["0 units", "7 units", "14 units", "Cannot be determined"],
+"a": 1,
+"sol": "The y-coordinate represents the distance from the x-axis."
+},
+{
+"q": "In which quadrant are both x and y coordinates negative?",
+"o": ["Quadrant I", "Quadrant II", "Quadrant III", "Quadrant IV"],
+"a": 2,
+"sol": "(-, -) is the sign convention for the third quadrant."
+},
+{
+"q": "If you move 5 units down from (2, 3), the new coordinates are:",
+"o": ["(7, 3)", "(2, 8)", "(2, -2)", "(-3, 3)"],
+"a": 2,
+"sol": "3 - 5 = -2, so (2, -2)."
+},
+{
+"q": "What is the shape formed by connecting (0,0), (4,0), (4,4), and (0,4)?",
+"o": ["Rectangle", "Triangle", "Square", "Rhombus"],
+"a": 2,
+"sol": "All sides are 4 units long and meet at right angles."
+},
+{
+"q": "A line passes through (0,0) and (1,1). Which other point lies on this line?",
+"o": ["(2, 3)", "(5, 5)", "(-1, 1)", "(0, 5)"],
+"a": 1,
+"sol": "The line is y = x, so coordinates must be equal."
+},
+{
+"q": "The vertical distance from the x-axis is called:",
+"o": ["Abscissa", "Ordinate", "Origin", "Slope"],
+"a": 1,
+"sol": "The y-coordinate is known as the ordinate."
+},
+{
+"q": "To plot ( -4, -1), you move:",
+"o": ["4 right, 1 up", "4 left, 1 down", "4 up, 1 left", "4 down, 1 right"],
+"a": 1,
+"sol": "Negative x is left, negative y is down."
+},
+{
+"q": "The distance of point (5, 3) from the y-axis is:",
+"o": ["3 units", "5 units", "8 units", "2 units"],
+"a": 1,
+"sol": "The x-coordinate is the distance from the y-axis."
+},
+{
+"q": "If x represents time and y represents distance, a straight line through origin means:",
+"o": ["Constant Speed", "Increasing Speed", "Decreasing Speed", "Object at rest"],
+"a": 0,
+"sol": "Distance proportional to time implies uniform motion."
+},
+{
+"q": "Which point lies on the y-axis?",
+"o": ["(5, 0)", "(0, -2)", "(2, 2)", "(-1, 0)"],
+"a": 1,
+"sol": "Points on the y-axis have an x-coordinate of 0."
+},
+{
+"q": "If (x, y) = (y, x), which of the following must be true?",
+"o": ["x = 0", "y = 0", "x = y", "x = -y"],
+"a": 2,
+"sol": "For the coordinates to be identical when swapped, the values must be equal."
+},
+{
+"q": "How many quadrants is the coordinate plane divided into?",
+"o": ["2", "4", "6", "8"],
+"a": 1,
+"sol": "The axes divide the plane into four parts."
+},
+{
+"q": "What is the abscissa of the point (-3, 6)?",
+"o": ["6", "-3", "3", "-6"],
+"a": 1,
+"sol": "Abscissa is the x-coordinate."
+},
+{
+"q": "The coordinates of a point whose ordinate is -5 and abscissa is 2 are:",
+"o": ["(-5, 2)", "(2, -5)", "(5, -2)", "(-2, 5)"],
+"a": 1,
+"sol": "Format is (abscissa, ordinate)."
+},
+{
+"q": "Connecting (1,1), (2,2), (3,3) results in a:",
+"o": ["Curve", "Circle", "Straight Line", "Square"],
+"a": 2,
+"sol": "Points follow a linear equation y=x."
+},
+{
+"q": "A car travels 60km in 1 hour, 120km in 2 hours. The point for 3 hours is:",
+"o": ["(3, 150)", "(3, 180)", "(3, 200)", "(3, 240)"],
+"a": 1,
+"sol": "60 * 3 = 180."
+},
+{
+"q": "If you reflect (2, 3) over the x-axis, the new point is:",
+"o": ["(-2, 3)", "(2, -3)", "(-2, -3)", "(3, 2)"],
+"a": 1,
+"sol": "x stays same, y becomes negative."
+},
+{
+"q": "The point (0, 0) lies on:",
+"o": ["X-axis only", "Y-axis only", "Both axes", "Neither axis"],
+"a": 2,
+"sol": "Origin is the intersection of both."
+},
+{
+"q": "Which point is furthest from the origin?",
+"o": ["(1, 1)", "(0, 3)", "(-4, 0)", "(2, 2)"],
+"a": 2,
+"sol": "Distance of (-4,0) is 4 units; (0,3) is 3; (2,2) is approx 2.8."
+},
+{
+"q": "In a graph showing cost vs quantity, the independent variable is usually on the:",
+"o": ["Y-axis", "X-axis", "Origin", "Grid line"],
+"a": 1,
+"sol": "Independent variables (like quantity) are plotted on the x-axis."
+},
+{
+"q": "Points (2,5) and (2,9) are connected. The line is:",
+"o": ["Horizontal", "Vertical", "Diagonal", "Through origin"],
+"a": 1,
+"sol": "Same x-coordinate results in a vertical line."
+},
+{
+"q": "If y = x - 2, find y when x = 0.",
+"o": ["2", "0", "-2", "1"],
+"a": 2,
+"sol": "0 - 2 = -2."
+},
+{
+"q": "A point in Quadrant IV has coordinates of the form:",
+"o": ["(+, +)", "(-, +)", "(-, -)", "(+, -)"],
+"a": 3,
+"sol": "Right and Down is (+, -)."
+},
+{
+"q": "If we connect (0,2), (1,3), (2,4), what is the next point in the pattern?",
+"o": ["(3, 5)", "(3, 6)", "(4, 5)", "(4, 6)"],
+"a": 0,
+"sol": "y = x + 2."
+},
+{
+"q": "The point (-5, 0) is at a distance of how many units from the origin?",
+"o": ["0", "-5", "5", "10"],
+"a": 2,
+"sol": "Distance is always positive."
+},
+{
+"q": "On a graph, the 'scale' refers to:",
+"o": ["The size of the paper", "The unit value of grid divisions", "The length of the axes", "The color of the line"],
+"a": 1,
+"sol": "Scale defines what one unit on the grid represents."
+},
+{
+"q": "Find the missing coordinate if (x, 10) lies on y = 5x.",
+"o": ["50", "2", "15", "5"],
+"a": 1,
+"sol": "10 = 5x => x = 2."
+},
+{
+"q": "The line y = 4 is:",
+"o": ["A vertical line at x=4", "A horizontal line at y=4", "A point at (4,4)", "A diagonal line"],
+"a": 1,
+"sol": "y = constant is a horizontal line."
+},
+{
+"q": "If a point is in Quadrant I, which of these is possible?",
+"o": ["(-1, 5)", "(4, 2)", "(3, -3)", "(0, 5)"],
+"a": 1,
+"sol": "Both coordinates must be positive."
+},
+{
+"q": "The area of a triangle with vertices (0,0), (5,0), and (0,4) is:",
+"o": ["20 sq units", "9 sq units", "10 sq units", "12 sq units"],
+"a": 2,
+"sol": "1/2 * base * height = 1/2 * 5 * 4 = 10."
+},
+{
+"q": "Point (3, -4) is reflected over the y-axis. The new point is:",
+"o": ["(3, 4)", "(-3, -4)", "(-3, 4)", "(4, -3)"],
+"a": 1,
+"sol": "y stays same, x changes sign."
+},
+{
+"q": "If you move 3 units right and 2 units up from origin, you reach:",
+"o": ["(2, 3)", "(3, 2)", "(-3, 2)", "(3, -2)"],
+"a": 1,
+"sol": "Right is +x, Up is +y."
+},
+{
+"q": "Which of these points is on the line x = -2?",
+"o": ["(2, -2)", "(-2, 5)", "(0, -2)", "(-2, 0) and (-2, 5)"],
+"a": 3,
+"sol": "Any point where the first number is -2."
+},
+{
+"q": "The perimeter of a square with vertices (1,1), (3,1), (3,3), (1,3) is:",
+"o": ["4 units", "8 units", "16 units", "2 units"],
+"a": 1,
+"sol": "Side length is 2 units. Perimeter = 4 * 2 = 8."
+},
+{
+"q": "Is the point (2, 3) the same as (3, 2)?",
+"o": ["Yes", "No", "Depends on the scale", "Only at the origin"],
+"a": 1,
+"sol": "Order matters in coordinate pairs."
+},
+{
+"q": "A line segment joins (1, 1) and (1, 5). Its length is:",
+"o": ["6 units", "4 units", "5 units", "1 unit"],
+"a": 1,
+"sol": "Difference in y-coordinates: 5 - 1 = 4."
+},
+{
+"q": "Which quadrant is the point (10, -0.5) in?",
+"o": ["I", "II", "III", "IV"],
+"a": 3,
+"sol": "x is positive, y is negative."
+},
+{
+"q": "The point (-4, 3) is how many units away from the x-axis?",
+"o": ["4", "-4", "3", "7"],
+"a": 2,
+"sol": "Distance from x-axis is the absolute value of the y-coordinate."
+},
+{
+"q": "If y = 2x + 1, what is y when x = 3?",
+"o": ["6", "5", "7", "8"],
+"a": 2,
+"sol": "2(3) + 1 = 7."
+},
+{
+"q": "A linear graph is a:",
+"o": ["Curve", "Straight line", "Circle", "Zig-zag"],
+"a": 1,
+"sol": "Linear means straight line."
+},
+{
+"q": "To represent a set of coordinates on a plane, we use a:",
+"o": ["Bar chart", "Pie chart", "Cartesian plane", "Number line"],
+"a": 2,
+"sol": "The 2D grid is the Cartesian plane."
+},
+{
+"q": "If x=0, the point lies on the:",
+"o": ["X-axis", "Y-axis", "Origin", "Z-axis"],
+"a": 1,
+"sol": "x=0 is the equation for the y-axis."
+},
+{
+"q": "The point ( -2, 4) is in the same quadrant as:",
+"o": ["(2, 4)", "(-5, 1)", "(-2, -4)", "(2, -4)"],
+"a": 1,
+"sol": "Both (-2, 4) and (-5, 1) are in Quadrant II."
+},
+{
+"q": "Connecting (0,0) and (4,3). The distance is:",
+"o": ["7 units", "1 unit", "5 units", "25 units"],
+"a": 2,
+"sol": "Using Pythagoras: sqrt(4^2 + 3^2) = 5."
+},
+{
+"q": "A graph starting from origin and going up to the right represents:",
+"o": ["Inverse variation", "Direct variation", "No relationship", "Constant value"],
+"a": 1,
+"sol": "y increases as x increases, starting from 0."
+},
+{
+"q": "If a point has abscissa = ordinate, it lies on the line:",
+"o": ["y = -x", "y = x", "x = 0", "y = 1"],
+"a": 1,
+"sol": "x = y is the definition."
+},
+{
+"q": "The y-coordinate of every point on the x-axis is:",
+"o": ["1", "-1", "0", "Variable"],
+"a": 2,
+"sol": "By definition, y is zero on the horizontal axis."
+},
+{
+"q": "Which point is closer to the x-axis?",
+"o": ["(2, 5)", "(5, 2)", "(0, 4)", "(1, -3)"],
+"a": 1,
+"sol": "The one with the smallest absolute y-coordinate (2 < 3, 4, 5)."
+},
+{
+"q": "If you double the x-coordinates of (1,2), (2,2), (3,2), the line:",
+"o": ["Becomes longer", "Becomes steeper", "Stays horizontal", "Becomes vertical"],
+"a": 2,
+"sol": "The y-coordinates are still the same (all 2), so it remains horizontal."
+},
+{
+"q": "The point (-1, -1) is in:",
+"o": ["Quadrant I", "Quadrant II", "Quadrant III", "Quadrant IV"],
+"a": 2,
+"sol": "Negative x and negative y."
+},
+{
+"q": "Identify the relation: (1, 3), (2, 5), (3, 7).",
+"o": ["y = 3x", "y = 2x + 1", "y = x + 2", "y = 4x - 1"],
+"a": 1,
+"sol": "2(1)+1=3; 2(2)+1=5; 2(3)+1=7."
+},
+{
+"q": "A vertical line segment from (3,2) to (3, -2) has a midpoint at:",
+"o": ["(3, 0)", "(0, 3)", "(3, 2)", "(3, 1)"],
+"a": 0,
+"sol": "Average of y-values (2 + -2)/2 = 0."
+},
+{
+"q": "The point (4, 4) is reflected over the origin. New coordinates:",
+"o": ["(-4, 4)", "(4, -4)", "(-4, -4)", "(0, 0)"],
+"a": 2,
+"sol": "Reflection over origin changes signs of both coordinates."
+},
+{
+"q": "Which of these points is not on the x-axis?",
+"o": ["(0, 0)", "(5, 0)", "(0, 5)", "(-2, 0)"],
+"a": 2,
+"sol": "(0, 5) has a non-zero y-coordinate, so it's on the y-axis."
+},
+{
+"q": "If distance = 5t, the point at t=0 is:",
+"o": ["(1, 5)", "(0, 0)", "(5, 0)", "(0, 5)"],
+"a": 1,
+"sol": "5(0) = 0."
+},
+{
+"q": "A square has a side of 5. One vertex is (0,0). Another could be:",
+"o": ["(5, 5)", "(0, 6)", "(2, 3)", "(5, 0)"],
+"a": 3,
+"sol": "(5,0) is 5 units away along the axis."
+},
+{
+"q": "Point P is 4 units from Y-axis and 3 units from X-axis in Q-II. P is:",
+"o": ["(4, 3)", "(-4, 3)", "(3, -4)", "(-3, 4)"],
+"a": 1,
+"sol": "x is distance from y-axis (negative in Q-II), y is distance from x-axis."
+},
+{
+"q": "The equation of x-axis is:",
+"o": ["x = 0", "y = 0", "x = y", "x + y = 0"],
+"a": 1,
+"sol": "All points on x-axis have y = 0."
+},
+{
+"q": "Points (0,0), (0,3), (4,0) form a:",
+"o": ["Equilateral triangle", "Right angled triangle", "Isosceles triangle", "Straight line"],
+"a": 1,
+"sol": "The axes meet at 90 degrees."
+},
+{
+"q": "If x = -y, which point lies on this line?",
+"o": ["(1, 1)", "(-2, 2)", "(3, 3)", "(0, 5)"],
+"a": 1,
+"sol": "(-2) = - (2) is true."
+},
+{
+"q": "Coordinates of a point whose distance from X-axis is 3 and Y-axis is 2 in Q-I:",
+"o": ["(3, 2)", "(2, 3)", "(0, 3)", "(2, 0)"],
+"a": 1,
+"sol": "x-coord = distance from y-axis; y-coord = distance from x-axis."
+},
+{
+"q": "If a line is parallel to the x-axis, its equation is of the form:",
+"o": ["x = a", "y = b", "y = x", "x = 0"],
+"a": 1,
+"sol": "Horizontal lines have a constant y-value."
+},
+{
+"q": "Plotting data of 'Side of Square' vs 'Perimeter' gives a:",
+"o": ["Parabola", "Straight line", "Circle", "Hyperbola"],
+"a": 1,
+"sol": "P = 4s is a linear relationship."
+},
+{
+"q": "Which point lies on the line joining (2,4) and (4,8)?",
+"o": ["(3, 6)", "(3, 5)", "(1, 1)", "(5, 12)"],
+"a": 0,
+"sol": "The relationship is y = 2x. (3,6) fits."
+},
+{
+"q": "Value of y at x=2 for the equation y = x²:",
+"o": ["2", "4", "6", "8"],
+"a": 1,
+"sol": "2 * 2 = 4."
+},
+{
+"q": "Points with same x-coordinate lie on a line parallel to:",
+"o": ["X-axis", "Y-axis", "Origin", "None"],
+"a": 1,
+"sol": "Constant x means a vertical line (parallel to y-axis)."
+},
+{
+"q": "Area of rectangle with vertices (0,0), (6,0), (6,3), (0,3):",
+"o": ["9", "18", "12", "6"],
+"a": 1,
+"sol": "Length 6, Width 3. Area = 6*3 = 18."
+},
+{
+"q": "In ( -3, -7), the ordinate is:",
+"o": ["-3", "3", "-7", "7"],
+"a": 2,
+"sol": "Ordinate is the y-coordinate."
+},
+{
+"q": "A point whose abscissa is 0 and ordinate is 0 is the:",
+"o": ["Origin", "X-axis", "Y-axis", "Unit point"],
+"a": 0,
+"sol": "(0,0) is origin."
+},
+{
+"q": "Relationship for (1, 10), (2, 20), (3, 30) is:",
+"o": ["y = x + 9", "y = 10x", "y = x/10", "y = 10 + x"],
+"a": 1,
+"sol": "y is 10 times x."
+},
+{
+"q": "Reflect ( -2, -5) over the x-axis:",
+"o": ["(2, -5)", "(-2, 5)", "(2, 5)", "(-5, -2)"],
+"a": 1,
+"sol": "x stays, y changes sign."
+},
+{
+"q": "Quadrant where x is positive and y is negative:",
+"o": ["I", "II", "III", "IV"],
+"a": 3,
+"sol": "Quadrant IV."
+},
+{
+"q": "Distance between (2, 3) and (2, -3) is:",
+"o": ["0", "4", "6", "5"],
+"a": 2,
+"sol": "3 - (-3) = 6."
+},
+{
+"q": "Equation of y-axis is:",
+"o": ["y = 0", "x = 0", "y = x", "x = 1"],
+"a": 1,
+"sol": "All points on vertical axis have x = 0."
+},
+{
+"q": "If points A, B, C are collinear, they form a:",
+"o": ["Triangle", "Straight line", "Square", "Circle"],
+"a": 1,
+"sol": "Collinear means lying on the same line."
+},
+{
+"q": "A point at (-4, 0) is on the:",
+"o": ["Negative X-axis", "Positive X-axis", "Negative Y-axis", "Positive Y-axis"],
+"a": 0,
+"sol": "x is negative, y is 0."
+},
+{
+"q": "If y = x + 5, what is x when y = 5?",
+"o": ["5", "10", "0", "-5"],
+"a": 2,
+"sol": "5 = x + 5 => x = 0."
+},
+{
+"q": "Point (5, 2) is how far from the origin?",
+"o": ["7", "3", "sqrt(29)", "5"],
+"a": 2,
+"sol": "sqrt(5^2 + 2^2) = sqrt(29)."
+},
+{
+"q": "Which point lies on the line y = 2?",
+"o": ["(2, 0)", "(2, 2)", "(0, 2)", "Both (2,2) and (0,2)"],
+"a": 3,
+"sol": "Any point with y-coordinate 2."
+},
+{
+"q": "In (a, b), if b is zero, the point lies on:",
+"o": ["X-axis", "Y-axis", "Origin", "Line y=x"],
+"a": 0,
+"sol": "y-coord 0 means x-axis."
+},
+{
+"q": "Plotting 'Number of Pens' vs 'Total Cost' usually shows a line passing through:",
+"o": ["(1, 1)", "Origin", "(0, 1)", "X-axis only"],
+"a": 1,
+"sol": "0 pens cost 0 money."
+},
+{
+"q": "Point (-3, -3) is reflected over the origin. It becomes:",
+"o": ["(3, -3)", "(-3, 3)", "(3, 3)", "(0, 0)"],
+"a": 2,
+"sol": "Both signs change."
+},
+{
+"q": "Distance of (4, -6) from y-axis is:",
+"o": ["4", "6", "-6", "10"],
+"a": 0,
+"sol": "Absolute value of x-coordinate."
+},
+{
+"q": "If x=y, the line makes what angle with the x-axis?",
+"o": ["0", "90", "45", "180"],
+"a": 2,
+"sol": "It bisects the first quadrant at 45 degrees."
+},
+{
+"q": "Midpoint of (0,0) and (4,4) is:",
+"o": ["(1, 1)", "(2, 2)", "(4, 0)", "(0, 4)"],
+"a": 1,
+"sol": "Average of x and y values."
+},
+{
+"q": "Point in Q-III has abscissa negative and ordinate:",
+"o": ["Positive", "Negative", "Zero", "One"],
+"a": 1,
+"sol": "In Q-III, both are negative."
+},
+{
+"q": "If x = 5, the line is parallel to:",
+"o": ["X-axis", "Y-axis", "Origin", "None"],
+"a": 1,
+"sol": "x=constant is a vertical line."
+},
+{
+"q": "Points (1,2), (2,3), (3,4) follow y = ?",
+"o": ["x + 1", "x - 1", "2x", "x + 2"],
+"a": 0,
+"sol": "1+1=2, 2+1=3, 3+1=4."
+},
+{
+"q": "Origin is the only point where:",
+"o": ["x > y", "x < y", "x = y = 0", "x + y = 1"],
+"a": 2,
+"sol": "Definition of origin."
+},
+{
+"q": "To reach (-2, 5), starting from origin, we move:",
+"o": ["2 Left, 5 Up", "2 Right, 5 Up", "2 Left, 5 Down", "5 Left, 2 Up"],
+"a": 0,
+"sol": "Negative x is left, positive y is up."
+}
+]
