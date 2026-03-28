@@ -1,0 +1,602 @@
+[
+{
+"q": "Two figures are called 'Geometric Twins' or congruent if they have the same:",
+"o": ["Color and shape", "Shape and size", "Size and orientation", "Area only"],
+"a": 1,
+"sol": "Congruence requires both shape and size to be identical."
+},
+{
+"q": "If triangle ABC is congruent to triangle PQR, then side AB corresponds to:",
+"o": ["QR", "PR", "PQ", "BC"],
+"a": 2,
+"sol": "In congruent notation, the order of vertices determines the correspondence (AB matches PQ)."
+},
+{
+"q": "Two line segments are congruent if they have:",
+"o": ["Same length", "Same endpoints", "Different directions", "Same thickness"],
+"a": 0,
+"sol": "For line segments, only equal length is required for congruence."
+},
+{
+"q": "Which of the following is NOT a valid criterion for congruence of triangles?",
+"o": ["SSS", "SAS", "AAA", "RHS"],
+"a": 2,
+"sol": "AAA (Angle-Angle-Angle) only proves similarity, not necessarily congruence (size might differ)."
+},
+{
+"q": "Two angles are congruent if they have the same:",
+"o": ["Arm length", "Vertex point", "Measure in degrees", "Direction"],
+"a": 2,
+"sol": "Angle congruence depends solely on the magnitude of the opening (degree measure)."
+},
+{
+"q": "In the RHS congruence criterion, 'H' stands for:",
+"o": ["Height", "Horizontal", "Hypotenuse", "Heptagon"],
+"a": 2,
+"sol": "RHS = Right angle, Hypotenuse, and one Side."
+},
+{
+"q": "If ∆DEF ≅ ∆BCA, which angle of ∆BCA corresponds to ∠E?",
+"o": ["∠B", "∠C", "∠A", "None"],
+"a": 1,
+"sol": "Matching the second letter in both: E corresponds to C."
+},
+{
+"q": "Two circles are congruent if they have the same:",
+"o": ["Center", "Radius", "Chord length", "Circumference only"],
+"a": 1,
+"sol": "If the radii are equal, the circles are identical in size and shape."
+},
+{
+"q": "The symbol used to represent congruence is:",
+"o": ["=", "≈", "≅", "≡"],
+"a": 2,
+"sol": "The symbol ≅ denotes 'is congruent to'."
+},
+{
+"q": "Under a given correspondence, two triangles are congruent if three sides of one are equal to three sides of the other. This is:",
+"o": ["SAS", "SSS", "ASA", "RHS"],
+"a": 1,
+"sol": "Side-Side-Side criterion."
+},
+{
+"q": "In SAS criterion, the 'A' (angle) must be:",
+"o": ["Any angle", "The largest angle", "The included angle", "A right angle"],
+"a": 2,
+"sol": "The angle must be located between the two sides being compared."
+},
+{
+"q": "If two squares have the same area, are they congruent?",
+"o": ["Always", "Never", "Only if they share a vertex", "Sometimes"],
+"a": 0,
+"sol": "Since Area = side², if areas are equal, sides are equal, making the squares congruent."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR and BC = 5cm, then QR is:",
+"o": ["3cm", "10cm", "5cm", "Cannot be determined"],
+"a": 2,
+"sol": "Corresponding parts of congruent triangles (CPCT) are equal."
+},
+{
+"q": "Two rectangles are congruent if they have the same:",
+"o": ["Perimeter", "Diagonal only", "Length and Breadth", "Area only"],
+"a": 2,
+"sol": "Equal length and breadth ensure the rectangles are the same size."
+},
+{
+"q": "ASA congruence criterion stands for:",
+"o": ["Angle-Side-Angle", "Area-Side-Angle", "Angle-Surface-Area", "All-Sides-Aligned"],
+"a": 0,
+"sol": "Two angles and the side included between them."
+},
+{
+"q": "The property 'CPCT' stands for:",
+"o": ["Congruent Parts of Common Triangles", "Corresponding Parts of Congruent Triangles", "Calculated Parts of Congruent Triangles", "Common Perimeters of Congruent Triangles"],
+"a": 1,
+"sol": "Standard geometric term."
+},
+{
+"q": "If ∆LMN ≅ ∆XYZ, then MN corresponds to:",
+"o": ["XY", "YZ", "XZ", "LN"],
+"a": 1,
+"sol": "Matching the last two letters: MN matches YZ."
+},
+{
+"q": "Can two triangles be congruent if they have different perimeters?",
+"o": ["Yes", "No", "Only if right-angled", "Only if isosceles"],
+"a": 1,
+"sol": "Congruent triangles must have identical dimensions and thus equal perimeters."
+},
+{
+"q": "To apply RHS criterion, the triangles must be:",
+"o": ["Equilateral", "Isosceles", "Right-angled", "Scalene"],
+"a": 2,
+"sol": "RHS specifically requires one angle to be 90°."
+},
+{
+"q": "If AB = XY and BC = YZ and ∠B = ∠Y, which rule proves ∆ABC ≅ ∆XYZ?",
+"o": ["SSS", "SAS", "ASA", "RHS"],
+"a": 1,
+"sol": "Two sides and the included angle."
+},
+{
+"q": "Are all equilateral triangles of 5cm side congruent to each other?",
+"o": ["No", "Yes", "Only if they are in the same plane", "Only if their heights are different"],
+"a": 1,
+"sol": "If sides are equal, all corresponding parts will be equal."
+},
+{
+"q": "If ∆ABC ≅ ∆FED under the correspondence ABC ↔ FED, write the part of ∆FED that corresponds to ∠C.",
+"o": ["∠F", "∠E", "∠D", "None"],
+"a": 2,
+"sol": "C is the third letter, so it matches D."
+},
+{
+"q": "If two triangles are congruent, their areas are:",
+"o": ["Equal", "Unequal", "Double", "Half"],
+"a": 0,
+"sol": "Identical shapes must cover the same amount of space."
+},
+{
+"q": "If area of ∆A = area of ∆B, are they necessarily congruent?",
+"o": ["Yes", "No", "Only if they are right triangles", "Always"],
+"a": 1,
+"sol": "A triangle with base 4, height 3 has area 6; another with base 6, height 2 also has area 6, but they aren't congruent."
+},
+{
+"q": "Two photos produced from the same negative are:",
+"o": ["Similar", "Congruent", "Symmetrical", "Equilateral"],
+"a": 1,
+"sol": "They are exact copies in size and shape."
+},
+{
+"q": "In ASA criterion, if two angles are given, the side must be:",
+"o": ["Opposite to the first angle", "Included between the two angles", "Any of the three sides", "The longest side"],
+"a": 1,
+"sol": "ASA specifically requires the side between the two angles."
+},
+{
+"q": "If ∆PQR ≅ ∆XYZ, then ∠R corresponds to:",
+"o": ["∠X", "∠Y", "∠Z", "∠P"],
+"a": 2,
+"sol": "Third vertex matches third vertex."
+},
+{
+"q": "Two line segments PQ and RS are congruent. If PQ = 7.5 cm, then RS is:",
+"o": ["7.5 cm", "15 cm", "3.75 cm", "0 cm"],
+"a": 0,
+"sol": "Congruent segments have equal length."
+},
+{
+"q": "If two angles of a triangle are 60° each and the side between them is 4cm, and another triangle has the same, they are congruent by:",
+"o": ["SSS", "SAS", "ASA", "RHS"],
+"a": 2,
+"sol": "Angle-Side-Angle."
+},
+{
+"q": "A plane figure is congruent to itself. This property is called:",
+"o": ["Reflexive", "Symmetric", "Transitive", "Equivalence"],
+"a": 0,
+"sol": "Reflexive property: A ≅ A."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, then the vertex A falls on:",
+"o": ["Vertex Q", "Vertex R", "Vertex P", "Midpoint of PQ"],
+"a": 2,
+"sol": "First vertex corresponds to first vertex."
+},
+{
+"q": "Congruent objects are ______ of each other.",
+"o": ["Mirrors", "Carbon copies", "Enlargements", "Opposites"],
+"a": 1,
+"sol": "They are exactly the same."
+},
+{
+"q": "If ∠P = 40° and ∠Q = 40°, then ∠P and ∠Q are:",
+"o": ["Adjacent", "Congruent", "Complementary", "Supplementary"],
+"a": 1,
+"sol": "Equal measure implies congruence for angles."
+},
+{
+"q": "Which congruence criterion uses the length of the longest side of a right triangle?",
+"o": ["SAS", "SSS", "RHS", "ASA"],
+"a": 2,
+"sol": "RHS uses the hypotenuse, which is the longest side."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, which of these is FALSE?",
+"o": ["∠B = ∠Q", "AC = PR", "AB = QR", "BC = QR"],
+"a": 2,
+"sol": "AB must correspond to PQ, not QR."
+},
+{
+"q": "Two squares are congruent if their ______ are equal.",
+"o": ["Diagonals", "Sides", "Perimeters", "All of these"],
+"a": 3,
+"sol": "For squares, any of these being equal forces the others to be equal."
+},
+{
+"q": "If three angles of one triangle are equal to three angles of another, the triangles are:",
+"o": ["Congruent", "Similar but not necessarily congruent", "Always different", "Right-angled"],
+"a": 1,
+"sol": "AAA does not guarantee same size."
+},
+{
+"q": "If ∆STU ≅ ∆XYZ, then the side TU matches with:",
+"o": ["XY", "YZ", "XZ", "SU"],
+"a": 1,
+"sol": "Last two letters matching."
+},
+{
+"q": "In ∆ABC, AB = AC and AD is the bisector of ∠A meeting BC at D. Then ∆ABD ≅ ∆ACD by:",
+"o": ["SSS", "SAS", "ASA", "AAA"],
+"a": 1,
+"sol": "AB=AC, ∠BAD=∠CAD (bisector), and AD=AD (common side)."
+},
+{
+"q": "When we say ∠A = ∠B, we actually mean:",
+"o": ["m∠A = m∠B", "Vertex A = Vertex B", "Arm A = Arm B", "They are 90°"],
+"a": 0,
+"sol": "Geometric equality of angles refers to their measure."
+},
+{
+"q": "Two equilateral triangles are always congruent. True or False?",
+"o": ["True", "False", "Only if they are small", "Only if they are blue"],
+"a": 1,
+"sol": "False, because one could have side 2cm and the other 5cm."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, the perimeter of ∆ABC is 20cm. What is the perimeter of ∆PQR?",
+"o": ["10cm", "40cm", "20cm", "5cm"],
+"a": 2,
+"sol": "Identical triangles have identical perimeters."
+},
+{
+"q": "Two stamps of the same denomination from the same sheet are:",
+"o": ["Congruent", "Similar", "Unequal", "Parallel"],
+"a": 0,
+"sol": "Mass-produced items of the same type are congruent."
+},
+{
+"q": "Can two triangles be congruent if they have only one side and one angle equal?",
+"o": ["Yes", "No", "Only if right-angled", "Always"],
+"a": 1,
+"sol": "Need at least three elements (except for specific cases like RHS which implies 90°)."
+},
+{
+"q": "If ∠ABC ≅ ∠PQR, and ∠ABC = 65°, then ∠PQR is:",
+"o": ["25°", "115°", "65°", "90°"],
+"a": 2,
+"sol": "Congruent angles have equal measures."
+},
+{
+"q": "The congruence of triangles is an ______ relation.",
+"o": ["Equivalence", "Inverse", "Negative", "Partial"],
+"a": 0,
+"sol": "It is reflexive, symmetric, and transitive."
+},
+{
+"q": "If ∆ABC ≅ ∆LMN and ∆LMN ≅ ∆XYZ, then ∆ABC ≅ ∆XYZ. This is the ______ property.",
+"o": ["Reflexive", "Symmetric", "Transitive", "Commutative"],
+"a": 2,
+"sol": "If A=B and B=C, then A=C."
+},
+{
+"q": "In RHS criterion, if the hypotenuse and one side are equal, the third side is automatically equal due to:",
+"o": ["CPCT", "Pythagoras Theorem", "Angle Sum Property", "Parallel lines"],
+"a": 1,
+"sol": "a² + b² = c² forces the third side to be the same value."
+},
+{
+"q": "Which of these objects are usually congruent?",
+"o": ["Two leaves of a tree", "Biscuits in the same pack", "Two clouds", "Two stones"],
+"a": 1,
+"sol": "Manufacturing ensures biscuits in a pack are congruent."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, then ∠BAC is equal to:",
+"o": ["∠QPR", "∠PQR", "∠PRQ", "∠ABC"],
+"a": 0,
+"sol": "Maintaining the vertex order."
+},
+{
+"q": "If two circles have diameters 10cm and 10cm, they are:",
+"o": ["Not congruent", "Congruent", "Concentric", "Intersecting"],
+"a": 1,
+"sol": "Same diameter means same radius, thus congruent."
+},
+{
+"q": "In ∆PQR and ∆XYZ, if PQ=XY, PR=XZ and ∠Q=∠Y, are they congruent by SAS?",
+"o": ["Yes", "No", "Maybe", "Only if ∠P=∠X"],
+"a": 1,
+"sol": "No, because ∠Q is not the included angle between PQ and PR."
+},
+{
+"q": "What is the relation between two squares of side 4cm each?",
+"o": ["They are twins (congruent)", "They are similar only", "They are unequal", "They are vertical"],
+"a": 0,
+"sol": "Square congruence depends only on side length."
+},
+{
+"q": "If ∆ABC ≅ ∆FED, which side is equal to ED?",
+"o": ["AB", "BC", "AC", "None"],
+"a": 1,
+"sol": "ED (last two) matches BC (last two)."
+},
+{
+"q": "For two triangles to be congruent by SSS, how many pairs of corresponding sides must be equal?",
+"o": ["1", "2", "3", "0"],
+"a": 2,
+"sol": "SSS stands for three pairs of sides."
+},
+{
+"q": "Which criterion is used: Given ∠A=∠D, ∠B=∠E and AB=DE?",
+"o": ["SSS", "SAS", "ASA", "RHS"],
+"a": 2,
+"sol": "Two angles and the side between them."
+},
+{
+"q": "If two triangles are congruent, their corresponding altitudes are:",
+"o": ["Different", "Equal", "Sum to 180", "Parallel"],
+"a": 1,
+"sol": "All corresponding linear measurements (altitudes, medians, etc.) are equal."
+},
+{
+"q": "Are two rectangles with same area always congruent?",
+"o": ["Yes", "No", "Only if squares", "Always"],
+"a": 1,
+"sol": "2x6 and 3x4 both have area 12 but are not congruent."
+},
+{
+"q": "Two line segments are congruent if they have equal lengths. If AB ≅ CD, then:",
+"o": ["AB > CD", "AB < CD", "AB = CD", "AB + CD = 180"],
+"a": 2,
+"sol": "Congruence implies equality of length."
+},
+{
+"q": "In a right triangle, the side opposite to the right angle is called:",
+"o": ["Base", "Perpendicular", "Hypotenuse", "Median"],
+"a": 2,
+"sol": "Standard geometric term used in RHS."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, which vertex corresponds to B?",
+"o": ["P", "Q", "R", "None"],
+"a": 1,
+"sol": "Second letter matches second letter."
+},
+{
+"q": "SSS criterion requires equality of ______.",
+"o": ["Shapes", "Sizes", "Sides", "Surfaces"],
+"a": 2,
+"sol": "Side-Side-Side."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, then ∠C = ∠R is true because of:",
+"o": ["ASA", "SAS", "CPCT", "SSS"],
+"a": 2,
+"sol": "Corresponding Parts of Congruent Triangles."
+},
+{
+"q": "If the radius of circle A is 4cm and diameter of circle B is 8cm, they are:",
+"o": ["Unequal", "Congruent", "Similar only", "Different shapes"],
+"a": 1,
+"sol": "Radius 4 means diameter 8. They are the same."
+},
+{
+"q": "If two triangles have same base and same height, are they congruent?",
+"o": ["Always", "Not necessarily", "Never", "If right angled"],
+"a": 1,
+"sol": "They have same area, but shapes can be different (e.g., one right, one scalene)."
+},
+{
+"q": "Which of these geometric shapes is always congruent to its reflection?",
+"o": ["Only triangles", "Only circles", "All plane figures", "No figures"],
+"a": 2,
+"sol": "Reflection preserves size and shape."
+},
+{
+"q": "In SAS, if sides are 4cm and 5cm, the angle must be between them. If angle is 50°, and another triangle has same, they are:",
+"o": ["Congruent", "Not congruent", "Similar only", "Unequal"],
+"a": 0,
+"sol": "Matches the SAS criterion perfectly."
+},
+{
+"q": "If ∆ABC ≅ ∆DEF and ∆DEF ≅ ∆ABC, this shows ______ property.",
+"o": ["Reflexive", "Symmetric", "Transitive", "Distributive"],
+"a": 1,
+"sol": "If A is twin of B, then B is twin of A."
+},
+{
+"q": "Two angles of measures 30° and 30° are ______.",
+"o": ["Supplementary", "Congruent", "Linear pair", "Vertical"],
+"a": 1,
+"sol": "Equal measure means congruent for angles."
+},
+{
+"q": "Can a scalene triangle be congruent to an isosceles triangle?",
+"o": ["Yes", "No", "Only if right-angled", "Always"],
+"a": 1,
+"sol": "No, because an isosceles has two equal sides and a scalene has none."
+},
+{
+"q": "If we place one congruent figure over another, they will:",
+"o": ["Overlap partially", "Cover each other exactly", "Not touch", "Be perpendicular"],
+"a": 1,
+"sol": "Superposition is the physical test for congruence."
+},
+{
+"q": "The word 'Twins' in the chapter title refers to:",
+"o": ["Similarity", "Congruence", "Symmetry", "Parallelism"],
+"a": 1,
+"sol": "Twins are identical, just like congruent figures."
+},
+{
+"q": "In ∆ABC, if ∠B = ∠C, then the sides opposite to them are:",
+"o": ["Unequal", "Equal", "Parallel", "Zero"],
+"a": 1,
+"sol": "Isosceles triangle property."
+},
+{
+"q": "If ∆PQR ≅ ∆MNO, then PQ / MN =",
+"o": ["0", "1", "2", "0.5"],
+"a": 1,
+"sol": "Since PQ = MN, their ratio is 1."
+},
+{
+"q": "Which criterion involves two sides and an angle NOT included?",
+"o": ["SAS", "SSA (invalid)", "SSS", "ASA"],
+"a": 1,
+"sol": "SSA is generally not a congruence criterion."
+},
+{
+"q": "Two right triangles are congruent if their hypotenuses and one pair of corresponding angles are equal. This is:",
+"o": ["SSS", "SAS", "AAS/ASA", "RHS"],
+"a": 2,
+"sol": "Since we have 90°, another angle, and a side, it's ASA or AAS."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, then vertex C corresponds to:",
+"o": ["P", "Q", "R", "None"],
+"a": 2,
+"sol": "Third letter matches third letter."
+},
+{
+"q": "If two triangles have equal perimeters and are equilateral, are they congruent?",
+"o": ["Yes", "No", "Maybe", "Only if area is given"],
+"a": 0,
+"sol": "Equal perimeter for equilateral means equal sides, hence congruent."
+},
+{
+"q": "Which of these letters has rotational symmetry and its congruent 'twin' after 180° rotation?",
+"o": ["A", "S", "E", "T"],
+"a": 1,
+"sol": "Letter S looks the same after 180° rotation."
+},
+{
+"q": "To check if two bank notes are congruent, you should:",
+"o": ["Measure their area", "Place one over the other", "Check their serial numbers", "Fold them"],
+"a": 1,
+"sol": "Superposition test."
+},
+{
+"q": "If ∆ABC ≅ ∆FED, then AB is equal to:",
+"o": ["FE", "ED", "FD", "BC"],
+"a": 0,
+"sol": "First two letters match first two letters."
+},
+{
+"q": "Can two triangles be congruent if they have two sides and one angle equal, but the angle is not included?",
+"o": ["Always", "Never", "Not necessarily", "Only if it's 90° (RHS)"],
+"a": 3,
+"sol": "SSA only works if it's RHS."
+},
+{
+"q": "Two angles are congruent. One is 70°, what is the other?",
+"o": ["110°", "20°", "70°", "180°"],
+"a": 2,
+"sol": "Equal measures."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, then the side BC matches with:",
+"o": ["PQ", "QR", "PR", "AC"],
+"a": 1,
+"sol": "Second and third letters."
+},
+{
+"q": "What is the relation between a figure and its 'Geometric Twin'?",
+"o": ["Similar", "Congruent", "Equivalent", "Symmetric"],
+"a": 1,
+"sol": "Terminology used in the chapter."
+},
+{
+"q": "If ∆ABC ≅ ∆XYZ and ∠A=50°, ∠B=60°, find ∠Z.",
+"o": ["50°", "60°", "70°", "110°"],
+"a": 2,
+"sol": "∠C = 180-(50+60) = 70°. Since C corresponds to Z, ∠Z=70°."
+},
+{
+"q": "In ASA, if the side is NOT included, the triangles:",
+"o": ["Are still congruent (AAS)", "Are never congruent", "Are similar only", "Are parallel"],
+"a": 0,
+"sol": "AAS is a corollary of ASA because the third angle is also fixed."
+},
+{
+"q": "If a triangle is reflected in a mirror, the image is ______ to the original.",
+"o": ["Congruent", "Half size", "Double size", "Opposite shape"],
+"a": 0,
+"sol": "Reflection is a congruence transformation."
+},
+{
+"q": "If AB ≅ CD and CD ≅ EF, then AB ≅ EF. This is:",
+"o": ["Reflexive", "Transitive", "Symmetric", "SAS"],
+"a": 1,
+"sol": "Transitive property."
+},
+{
+"q": "Two triangles are congruent if two angles and any side of one are equal to corresponding parts of another. This is:",
+"o": ["SSS", "SAS", "AAS", "RHS"],
+"a": 2,
+"sol": "Angle-Angle-Side."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, what is the value of AB/PQ?",
+"o": ["0", "1", "0.5", "2"],
+"a": 1,
+"sol": "Equal lengths give a ratio of 1."
+},
+{
+"q": "In RHS, if hypotenuse is 5cm and one side is 3cm, the other side MUST be:",
+"o": ["2cm", "4cm", "8cm", "5cm"],
+"a": 1,
+"sol": "3² + 4² = 5² (Pythagorean triplet)."
+},
+{
+"q": "Two squares are congruent if their perimeters are 20cm and 20cm.",
+"o": ["True", "False", "Only if they are rotated", "Maybe"],
+"a": 0,
+"sol": "Same perimeter implies same side length."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, then ∠ABC corresponds to:",
+"o": ["∠PQR", "∠PRQ", "∠QPR", "∠ACB"],
+"a": 0,
+"sol": "Direct vertex correspondence."
+},
+{
+"q": "ASA criterion is not applicable if we only know two sides. True or False?",
+"o": ["True", "False", "Depends on angles", "None"],
+"a": 0,
+"sol": "ASA specifically needs two angles and one side."
+},
+{
+"q": "If ∆ABC ≅ ∆FED, is it correct to say ∆ABC ≅ ∆DEF?",
+"o": ["Yes", "No", "Always", "In some cases"],
+"a": 1,
+"sol": "No, vertex correspondence must be preserved (A matches F, not D)."
+},
+{
+"q": "Which shape is always congruent to its own copy?",
+"o": ["Circle", "Triangle", "Any shape", "None"],
+"a": 2,
+"sol": "A copy is by definition congruent."
+},
+{
+"q": "Two congruent triangles have same shape and ______.",
+"o": ["Height only", "Base only", "Size", "Color"],
+"a": 2,
+"sol": "Basic definition of congruence."
+},
+{
+"q": "If we rotate a triangle by 90°, is the new triangle congruent to the old one?",
+"o": ["Yes", "No", "Only if equilateral", "Only if right-angled"],
+"a": 0,
+"sol": "Rotation is a rigid motion that preserves congruence."
+},
+{
+"q": "If ∆ABC ≅ ∆PQR, then Area(ABC) / Area(PQR) =",
+"o": ["0", "1", "2", "0.5"],
+"a": 1,
+"sol": "Equal areas have a ratio of 1."
+}
+]
