@@ -1,0 +1,602 @@
+[
+{
+"q": "Find the value of x² + 2x + 1 when x = 3.",
+"o": ["10", "16", "15", "9"],
+"a": 1,
+"sol": "3² + 2(3) + 1 = 9 + 6 + 1 = 16."
+},
+{
+"q": "What is the coefficient of y in the expression 15 - 3y?",
+"o": ["3", "15", "-3", "y"],
+"a": 2,
+"sol": "-3 is the numerical factor of y."
+},
+{
+"q": "Identify the like terms in the following set.",
+"o": ["5x, 5y", "7ab, 3ba", "4m, 4m²", "x, x²"],
+"a": 1,
+"sol": "ab and ba are same literal factors."
+},
+{
+"q": "Subtract 5a² from 12a².",
+"o": ["7a²", "17a²", "-7a²", "7"],
+"a": 0,
+"sol": "12a² - 5a² = 7a²."
+},
+{
+"q": "The product of a and b is subtracted from 20.",
+"o": ["ab - 20", "20 + ab", "20 - ab", "20/ab"],
+"a": 2,
+"sol": "Subtraction from 20 means 20 comes first."
+},
+{
+"q": "Evaluate 10 - z³ for z = 2.",
+"o": ["6", "2", "8", "4"],
+"a": 1,
+"sol": "10 - 2³ = 10 - 8 = 2."
+},
+{
+"q": "How many terms are there in 5x²y - 3xy² + 7?",
+"o": ["1", "2", "3", "4"],
+"a": 2,
+"sol": "Terms are separated by + or - signs."
+},
+{
+"q": "Which of these is a binomial?",
+"o": ["4xyz", "x + y + z", "x² - 9", "100"],
+"a": 2,
+"sol": "A binomial has exactly two terms."
+},
+{
+"q": "If n = -1, find the value of n² + n.",
+"o": ["2", "1", "-1", "0"],
+"a": 3,
+"sol": "(-1)² + (-1) = 1 - 1 = 0."
+},
+{
+"q": "The constant term in 4p² - 3q + 8 is:",
+"o": ["4", "-3", "8", "p"],
+"a": 2,
+"sol": "The term without a variable is 8."
+},
+{
+"q": "Simplify: 10m - (5m - 2).",
+"o": ["5m - 2", "5m + 2", "15m - 2", "5m"],
+"a": 1,
+"sol": "10m - 5m + 2 = 5m + 2."
+},
+{
+"q": "Twice the square of x increased by 5.",
+"o": ["2x + 5", "x² + 10", "2x² + 5", "(2x)² + 5"],
+"a": 2,
+"sol": "Twice square of x is 2x², then add 5."
+},
+{
+"q": "What must be added to x to get 2x + y?",
+"o": ["x + y", "x - y", "y", "2x"],
+"a": 0,
+"sol": "(2x + y) - x = x + y."
+},
+{
+"q": "If a=2 and b=1, find a² - b².",
+"o": ["1", "3", "5", "4"],
+"a": 1,
+"sol": "2² - 1² = 4 - 1 = 3."
+},
+{
+"q": "Coefficient of x in -x is:",
+"o": ["0", "1", "x", "-1"],
+"a": 3,
+"sol": "-x means -1 multiplied by x."
+},
+{
+"q": "The perimeter of a square with side 's' is:",
+"o": ["s²", "2s", "4s", "s+4"],
+"a": 2,
+"sol": "Sum of 4 sides = 4 * s."
+},
+{
+"q": "Add 3xy, -5xy, and 8xy.",
+"o": ["16xy", "6xy", "0", "11xy"],
+"a": 1,
+"sol": "3 - 5 + 8 = 6."
+},
+{
+"q": "Value of y² - y - 2 for y = 2.",
+"o": ["4", "0", "2", "-2"],
+"a": 1,
+"sol": "2² - 2 - 2 = 4 - 4 = 0."
+},
+{
+"q": "A monomial is an expression with:",
+"o": ["Two terms", "Three terms", "One term", "No terms"],
+"a": 2,
+"sol": "'Mono' means one."
+},
+{
+"q": "Expression for: 5 subtracted from 'x' cubed.",
+"o": ["5 - x³", "x³ - 5", "3x - 5", "x/5"],
+"a": 1,
+"sol": "x cubed is x³, then subtract 5."
+},
+{
+"q": "Sum of p, q, and r squared.",
+"o": ["p+q+r²", "(p+q+r)²", "p²+q²+r²", "p+q+2r"],
+"a": 2,
+"sol": "The question implies individual squares sum."
+},
+{
+"q": "Degree of the expression 4x³ + 2x² + x + 1 is:",
+"o": ["1", "2", "3", "0"],
+"a": 2,
+"sol": "The highest power of the variable is 3."
+},
+{
+"q": "Simplify: 12z - 10 + 3z - 5.",
+"o": ["15z - 15", "9z - 15", "15z + 15", "15z - 5"],
+"a": 0,
+"sol": "(12+3)z + (-10-5) = 15z - 15."
+},
+{
+"q": "If x=1, y=2, find 3x²y.",
+"o": ["3", "12", "6", "9"],
+"a": 2,
+"sol": "3(1²)(2) = 3(1)(2) = 6."
+},
+{
+"q": "One-fourth of the product of p and q.",
+"o": ["4pq", "pq/4", "p+q/4", "4/pq"],
+"a": 1,
+"sol": "Product is pq, one-fourth is pq/4."
+},
+{
+"q": "Which are unlike terms?",
+"o": ["2x, 3x", "4ab, 5ba", "x², x", "y, 10y"],
+"a": 2,
+"sol": "Powers are different (2 and 1)."
+},
+{
+"q": "The sum of -10m² and 4m² is:",
+"o": ["-14m²", "6m²", "-6m²", "14m²"],
+"a": 2,
+"sol": "-10 + 4 = -6."
+},
+{
+"q": "Find value of 5x - 4 for x = 0.",
+"o": ["1", "4", "0", "-4"],
+"a": 3,
+"sol": "5(0) - 4 = -4."
+},
+{
+"q": "Coefficient of x² in 7 - x² + 5x.",
+"o": ["1", "-1", "7", "5"],
+"a": 1,
+"sol": "The term is -x², so coefficient is -1."
+},
+{
+"q": "Subtract -y² from y².",
+"o": ["0", "y⁴", "-2y²", "2y²"],
+"a": 3,
+"sol": "y² - (-y²) = y² + y² = 2y²."
+},
+{
+"q": "If a=3, find a³ + a².",
+"o": ["36", "15", "27", "54"],
+"a": 0,
+"sol": "3³ + 3² = 27 + 9 = 36."
+},
+{
+"q": "Expression for: 10 times y added to 7.",
+"o": ["10y + 7", "7y + 10", "10 + 7 + y", "70y"],
+"a": 0,
+"sol": "10 * y + 7."
+},
+{
+"q": "Number of days in 'd' weeks and 3 days.",
+"o": ["7d", "d + 3", "7d + 3", "3d + 7"],
+"a": 2,
+"sol": "7 days per week + 3 extra days."
+},
+{
+"q": "Value of (x+1)² when x = -2.",
+"o": ["1", "9", "-1", "0"],
+"a": 0,
+"sol": "(-2+1)² = (-1)² = 1."
+},
+{
+"q": "Which is a trinomial?",
+"o": ["x+y", "3x²y", "a+b+c", "x²+4"],
+"a": 2,
+"sol": "Has three terms."
+},
+{
+"q": "Coefficient of xy in -5xyz.",
+"o": ["-5", "-5z", "5z", "z"],
+"a": 1,
+"sol": "Remove x and y: -5z remains."
+},
+{
+"q": "Subtract x - y from x + y.",
+"o": ["2x", "0", "2y", "-2y"],
+"a": 2,
+"sol": "(x+y) - x + y = 2y."
+},
+{
+"q": "Sum of m² - n² and n² - m².",
+"o": ["2m²", "2n²", "0", "m²n²"],
+"a": 2,
+"sol": "All terms cancel out."
+},
+{
+"q": "If p=10, value of p²/10 is:",
+"o": ["1", "10", "100", "0.1"],
+"a": 1,
+"sol": "100 / 10 = 10."
+},
+{
+"q": "Twice a number 'k' minus 11.",
+"o": ["k² - 11", "2k + 11", "11 - 2k", "2k - 11"],
+"a": 3,
+"sol": "2 times k then subtract 11."
+},
+{
+"q": "Simplify: a² + 2ab + b² - (a² - 2ab + b²).",
+"o": ["0", "4ab", "2a² + 2b²", "2ab"],
+"a": 1,
+"sol": "Terms a² and b² cancel, 2ab - (-2ab) = 4ab."
+},
+{
+"q": "What is the result of 0 - x²?",
+"o": ["x²", "0", "-x²", "1"],
+"a": 2,
+"sol": "Negative of x²."
+},
+{
+"q": "If x=2, y=-2, find x + y.",
+"o": ["4", "-4", "0", "2"],
+"a": 2,
+"sol": "2 + (-2) = 0."
+},
+{
+"q": "Literal factor in -12p²q is:",
+"o": ["-12", "p²q", "p", "12"],
+"a": 1,
+"sol": "The variable part."
+},
+{
+"q": "Degree of a constant term (like 7) is:",
+"o": ["1", "0", "Undefined", "7"],
+"a": 1,
+"sol": "Can be written as 7x⁰."
+},
+{
+"q": "Add: 4x, 5x, and -10x.",
+"o": ["x", "19x", "-x", "0"],
+"a": 2,
+"sol": "4 + 5 - 10 = -1."
+},
+{
+"q": "Value of 3x - 5y for x=5, y=3.",
+"o": ["30", "0", "15", "10"],
+"a": 1,
+"sol": "3(5) - 5(3) = 15 - 15 = 0."
+},
+{
+"q": "The sum of a number and its square.",
+"o": ["2x", "x + x²", "x²", "x + 2x"],
+"a": 1,
+"sol": "x added to x²."
+},
+{
+"q": "Evaluate x³ for x = -2.",
+"o": ["8", "-8", "4", "-4"],
+"a": 1,
+"sol": "(-2)(-2)(-2) = -8."
+},
+{
+"q": "Coefficient of b² in 8ab²c.",
+"o": ["8", "8ac", "ac", "8a"],
+"a": 1,
+"sol": "Remove b² from the term."
+},
+{
+"q": "Simplify: 5x + 3 - 2x + 7.",
+"o": ["3x + 10", "7x + 10", "3x - 4", "10x + 3"],
+"a": 0,
+"sol": "(5-2)x + (3+7) = 3x + 10."
+},
+{
+"q": "If n=5, find 2n² - 50.",
+"o": ["50", "0", "-25", "25"],
+"a": 1,
+"sol": "2(25) - 50 = 50 - 50 = 0."
+},
+{
+"q": "Which is not a polynomial?",
+"o": ["x² + 1", "3x + 5", "x + 1/x", "10"],
+"a": 2,
+"sol": "Variables cannot be in the denominator."
+},
+{
+"q": "Sum of xy, yz, and zx is:",
+"o": ["3xyz", "xy+yz+zx", "0", "xyz"],
+"a": 1,
+"sol": "They are unlike terms."
+},
+{
+"q": "Value of 100 - x² for x = 10.",
+"o": ["90", "110", "0", "10"],
+"a": 2,
+"sol": "100 - 100 = 0."
+},
+{
+"q": "Write expression: y multiplied by 10 and then 7 subtracted.",
+"o": ["10y - 7", "7 - 10y", "10 - 7y", "17y"],
+"a": 0,
+"sol": "10y then - 7."
+},
+{
+"q": "Coefficient of x in 5x² + 3x.",
+"o": ["5", "2", "3", "x"],
+"a": 2,
+"sol": "The multiplier of x is 3."
+},
+{
+"q": "Like term for -7m²n is:",
+"o": ["7mn²", "10m²n", "m²", "mn"],
+"a": 1,
+"sol": "Must have m² and n."
+},
+{
+"q": "Result of adding 2ab and -2ab.",
+"o": ["4ab", "0", "1", "-4ab"],
+"a": 1,
+"sol": "Additive inverses."
+},
+{
+"q": "If x=3, find x² - 9.",
+"o": ["0", "9", "18", "3"],
+"a": 0,
+"sol": "9 - 9 = 0."
+},
+{
+"q": "A symbol which can take various numerical values is:",
+"o": ["Constant", "Variable", "Equation", "Term"],
+"a": 1,
+"sol": "Definition of a variable."
+},
+{
+"q": "Perimeter of an equilateral triangle of side 'a'.",
+"o": ["a²", "3a", "4a", "a+3"],
+"a": 1,
+"sol": "3 sides are equal."
+},
+{
+"q": "Find value of a + b + c if a=1, b=1, c=-2.",
+"o": ["4", "2", "0", "-1"],
+"a": 2,
+"sol": "1 + 1 - 2 = 0."
+},
+{
+"q": "What is the value of x² + y² if x=0, y=5?",
+"o": ["0", "5", "10", "25"],
+"a": 3,
+"sol": "0² + 5² = 25."
+},
+{
+"q": "Terms of 5x - 3y + 2 are:",
+"o": ["5x, 3y, 2", "5, -3, 2", "5x, -3y, 2", "x, y, 2"],
+"a": 2,
+"sol": "Include the signs with terms."
+},
+{
+"q": "Subtract a² from -a².",
+"o": ["0", "-2a²", "2a²", "a⁴"],
+"a": 1,
+"sol": "-a² - a² = -2a²."
+},
+{
+"q": "One-third of x plus 10.",
+"o": ["x/3 + 10", "3x + 10", "x + 30", "10x/3"],
+"a": 0,
+"sol": "x/3 then add 10."
+},
+{
+"q": "If m = 2, value of 3m³ is:",
+"o": ["18", "54", "24", "12"],
+"a": 2,
+"sol": "3 * 2³ = 3 * 8 = 24."
+},
+{
+"q": "Like term for x²y² is:",
+"o": ["xy", "-5x²y²", "x²y", "xy²"],
+"a": 1,
+"sol": "Same literal factor."
+},
+{
+"q": "Result of 5x + 5x.",
+"o": ["10x", "25x²", "10x²", "5x"],
+"a": 0,
+"sol": "Addition of like terms."
+},
+{
+"q": "Evaluate (a-b)² for a=10, b=7.",
+"o": ["3", "149", "9", "49"],
+"a": 2,
+"sol": "(10-7)² = 3² = 9."
+},
+{
+"q": "Numerical coefficient of -x²y is:",
+"o": ["1", "-1", "0", "x"],
+"a": 1,
+"sol": "-1 multiplier."
+},
+{
+"q": "Add: p², -p², 2p².",
+"o": ["2p²", "0", "4p²", "p²"],
+"a": 0,
+"sol": "1 - 1 + 2 = 2."
+},
+{
+"q": "Degree of xy + yz + zx.",
+"o": ["1", "2", "3", "0"],
+"a": 1,
+"sol": "Each term has sum of powers = 1+1=2."
+},
+{
+"q": "Value of 4x² - 1 for x = 1/2.",
+"o": ["1", "0", "3", "-1"],
+"a": 1,
+"sol": "4(1/4) - 1 = 1 - 1 = 0."
+},
+{
+"q": "Which is a constant?",
+"o": ["x", "y", "5", "z"],
+"a": 2,
+"sol": "Fixed value."
+},
+{
+"q": "Subtract 3x from 2x.",
+"o": ["x", "5x", "-x", "-5x"],
+"a": 2,
+"sol": "2x - 3x = -x."
+},
+{
+"q": "If x=4, find sqrt(x) + x.",
+"o": ["8", "4", "6", "10"],
+"a": 2,
+"sol": "2 + 4 = 6."
+},
+{
+"q": "Expression for 'square of sum of a and b'.",
+"o": ["a² + b²", "(a+b)²", "2(a+b)", "a+b²"],
+"a": 1,
+"sol": "Add first, then square."
+},
+{
+"q": "Coefficient of z² in -z².",
+"o": ["1", "-1", "0", "z"],
+"a": 1,
+"sol": "-1 factor."
+},
+{
+"q": "Simplify: 3p - 2q + 4p + q.",
+"o": ["7p - q", "7p + 3q", "p + q", "12pq"],
+"a": 0,
+"sol": "7p - q."
+},
+{
+"q": "If y = -3, find y² + 1.",
+"o": ["-8", "10", "7", "-5"],
+"a": 1,
+"sol": "(-3)² + 1 = 9 + 1 = 10."
+},
+{
+"q": "Sum of first 3 terms of x, x², x³ for x=1.",
+"o": ["1", "2", "3", "6"],
+"a": 2,
+"sol": "1 + 1 + 1 = 3."
+},
+{
+"q": "Value of x/y when x=0, y=10.",
+"o": ["10", "1", "0", "Undefined"],
+"a": 2,
+"sol": "0 divided by anything is 0."
+},
+{
+"q": "Twice the product of x and y.",
+"o": ["x²y²", "2xy", "2+x+y", "(xy)²"],
+"a": 1,
+"sol": "2 * x * y."
+},
+{
+"q": "Subtract 10 from -10.",
+"o": ["0", "20", "-20", "-100"],
+"a": 2,
+"sol": "-10 - 10 = -20."
+},
+{
+"q": "If x = 2, find 2x³.",
+"o": ["8", "16", "12", "4"],
+"a": 1,
+"sol": "2 * 2³ = 2 * 8 = 16."
+},
+{
+"q": "Constant in x² + x + 1.",
+"o": ["x²", "x", "1", "0"],
+"a": 2,
+"sol": "The number 1."
+},
+{
+"q": "Coefficient of a in 2a + 3b.",
+"o": ["2", "3", "a", "b"],
+"a": 0,
+"sol": "The multiplier is 2."
+},
+{
+"q": "Simplify: x + x + x + x.",
+"o": ["x⁴", "4x", "4+x", "x+4"],
+"a": 1,
+"sol": "Repeated addition."
+},
+{
+"q": "Evaluate 5n - 2 for n = -2.",
+"o": ["8", "-8", "-12", "12"],
+"a": 2,
+"sol": "5(-2) - 2 = -10 - 2 = -12."
+},
+{
+"q": "Product of p and q added to 5.",
+"o": ["5pq", "p+q+5", "pq+5", "5/pq"],
+"a": 2,
+"sol": "pq + 5."
+},
+{
+"q": "If x=5, find x² - 2x.",
+"o": ["15", "25", "5", "35"],
+"a": 0,
+"sol": "25 - 10 = 15."
+},
+{
+"q": "Degree of x²y² + x + y.",
+"o": ["2", "4", "1", "0"],
+"a": 1,
+"sol": "Max power sum is 2+2=4."
+},
+{
+"q": "Like term for 3abc is:",
+"o": ["3a", "3b", "-abc", "abc²"],
+"a": 2,
+"sol": "Same literal factor abc."
+},
+{
+"q": "Subtract 5x² from 0.",
+"o": ["5x²", "0", "-5x²", "-x²"],
+"a": 2,
+"sol": "0 - 5x² = -5x²."
+},
+{
+"q": "If x=1, y=1, find x² + 2xy + y².",
+"o": ["2", "4", "3", "1"],
+"a": 1,
+"sol": "1 + 2(1) + 1 = 4."
+},
+{
+"q": "Half of the sum of x and y.",
+"o": ["(x+y)/2", "x/2 + y", "x + y/2", "2(x+y)"],
+"a": 0,
+"sol": "Sum (x+y) then divide by 2."
+},
+{
+"q": "Value of a²b for a=2, b=3.",
+"o": ["6", "12", "18", "36"],
+"a": 1,
+"sol": "2² * 3 = 4 * 3 = 12."
+},
+{
+"q": "Simplify: 10x² - 5x² + x².",
+"o": ["6x²", "5x²", "15x²", "x²"],
+"a": 0,
+"sol": "(10 - 5 + 1)x² = 6x²."
+}
+]
