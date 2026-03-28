@@ -1,0 +1,602 @@
+[
+{
+"q": "If two lines intersect at a point, then the vertically opposite angles are always:",
+"o": ["Complementary", "Supplementary", "Equal", "Unequal"],
+"a": 2,
+"sol": "Vertically opposite angles formed by intersecting lines are always equal."
+},
+{
+"q": "Two angles are called supplementary if the sum of their measures is:",
+"o": ["90°", "180°", "360°", "270°"],
+"a": 1,
+"sol": "The definition of supplementary angles is that they sum up to 180 degrees."
+},
+{
+"q": "A line that intersects two or more lines at distinct points is called a:",
+"o": ["Parallel line", "Transversal", "Intersecting line", "Perpendicular line"],
+"a": 1,
+"sol": "A transversal is a line that crosses at least two other lines."
+},
+{
+"q": "If two parallel lines are cut by a transversal, each pair of alternate interior angles is:",
+"o": ["Supplementary", "Complementary", "Equal", "Unequal"],
+"a": 2,
+"sol": "Alternate interior angles are equal when the lines are parallel."
+},
+{
+"q": "The measure of an angle which is equal to its complement is:",
+"o": ["90°", "180°", "45°", "60°"],
+"a": 2,
+"sol": "x + x = 90 implies 2x = 90, so x = 45°."
+},
+{
+"q": "If one angle of a linear pair is acute, then the other angle must be:",
+"o": ["Acute", "Obtuse", "Right", "Reflex"],
+"a": 1,
+"sol": "Since they sum to 180°, if one is less than 90°, the other must be more than 90°."
+},
+{
+"q": "Two lines in a plane which do not intersect at any point are called:",
+"o": ["Intersecting lines", "Concurrent lines", "Parallel lines", "Perpendicular lines"],
+"a": 2,
+"sol": "Parallel lines never meet regardless of how far they are extended."
+},
+{
+"q": "The sum of interior angles on the same side of a transversal is 180° if the lines are:",
+"o": ["Intersecting", "Parallel", "Perpendicular", "Coincident"],
+"a": 1,
+"sol": "Consecutive interior angles are supplementary only for parallel lines."
+},
+{
+"q": "If an angle is 30°, what is its supplement?",
+"o": ["60°", "150°", "90°", "120°"],
+"a": 1,
+"sol": "180° - 30° = 150°."
+},
+{
+"q": "Which of the following describes vertically opposite angles?",
+"o": ["They share a common arm", "They are adjacent", "They are formed by two intersecting lines", "Their sum is 90°"],
+"a": 2,
+"sol": "They are the non-adjacent angles formed by intersection."
+},
+{
+"q": "If two lines are parallel to the same line, then they are:",
+"o": ["Perpendicular to each other", "Intersecting", "Parallel to each other", "Unequal"],
+"a": 2,
+"sol": "Lines parallel to the same line are parallel to each other."
+},
+{
+"q": "Find the angle which is four times its complement.",
+"o": ["18°", "72°", "36°", "54°"],
+"a": 1,
+"sol": "x = 4(90-x) => x = 360 - 4x => 5x = 360 => x = 72°."
+},
+{
+"q": "An angle is 20° less than its supplement. Find the angle.",
+"o": ["80°", "100°", "70°", "90°"],
+"a": 0,
+"sol": "x = (180-x) - 20 => 2x = 160 => x = 80°."
+},
+{
+"q": "Pairs of corresponding angles are equal when lines are:",
+"o": ["Intersecting", "Parallel", "Perpendicular", "Curved"],
+"a": 1,
+"sol": "Corresponding angles postulate applies to parallel lines."
+},
+{
+"q": "The supplement of a right angle is a/an:",
+"o": ["Acute angle", "Obtuse angle", "Right angle", "Reflex angle"],
+"a": 2,
+"sol": "180° - 90° = 90° (Right angle)."
+},
+{
+"q": "If the transversal is perpendicular to two parallel lines, the angles formed are all:",
+"o": ["45°", "180°", "90°", "60°"],
+"a": 2,
+"sol": "Perpendicularity implies 90 degree angles."
+},
+{
+"q": "Two adjacent angles whose sum is 180° form a:",
+"o": ["Vertical pair", "Complementary pair", "Linear pair", "Parallel pair"],
+"a": 2,
+"sol": "A linear pair consists of adjacent angles summing to 180°."
+},
+{
+"q": "The distance between two parallel lines:",
+"o": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+"a": 2,
+"sol": "Parallel lines are equidistant everywhere."
+},
+{
+"q": "If two lines intersect, how many pairs of vertically opposite angles are formed?",
+"o": ["1", "4", "2", "3"],
+"a": 2,
+"sol": "Two pairs are formed (top-bottom and left-right)."
+},
+{
+"q": "Angles in a linear pair are always:",
+"o": ["Equal", "Complementary", "Supplementary", "Acute"],
+"a": 2,
+"sol": "Linear pair angles always add up to 180°."
+},
+{
+"q": "If an angle is twice its supplement, the angle is:",
+"o": ["60°", "120°", "90°", "45°"],
+"a": 1,
+"sol": "x = 2(180-x) => 3x = 360 => x = 120°."
+},
+{
+"q": "A transversal intersects two lines. If corresponding angles are equal, then the lines are:",
+"o": ["Intersecting", "Parallel", "Perpendicular", "Divergent"],
+"a": 1,
+"sol": "This is the converse of the corresponding angles postulate."
+},
+{
+"q": "The complement of 72° is:",
+"o": ["108°", "28°", "18°", "90°"],
+"a": 2,
+"sol": "90° - 72° = 18°."
+},
+{
+"q": "Which of the following can never form a linear pair?",
+"o": ["Two acute angles", "Two right angles", "An acute and an obtuse angle", "None of these"],
+"a": 0,
+"sol": "Sum of two acute angles is always less than 180°."
+},
+{
+"q": "If three lines meet at a single point, they are called:",
+"o": ["Parallel lines", "Transversals", "Concurrent lines", "Collinear lines"],
+"a": 2,
+"sol": "Concurrent lines pass through the same point."
+},
+{
+"q": "Find the supplement of 105°.",
+"o": ["75°", "85°", "95°", "65°"],
+"a": 0,
+"sol": "180° - 105° = 75°."
+},
+{
+"q": "Two angles are adjacent if they have a common vertex, a common arm and:",
+"o": ["Are equal", "Non-common arms on same side", "Non-common arms on opposite sides", "Sum is 180°"],
+"a": 2,
+"sol": "Definition of adjacent angles."
+},
+{
+"q": "If a transversal cuts two parallel lines, then the sum of interior angles on same side is:",
+"o": ["90°", "180°", "360°", "0°"],
+"a": 1,
+"sol": "Interior angles on the same side are supplementary."
+},
+{
+"q": "An obtuse angle's supplement is always:",
+"o": ["Obtuse", "Right", "Acute", "Straight"],
+"a": 2,
+"sol": "180 - (something > 90) = (something < 90)."
+},
+{
+"q": "Can two obtuse angles be supplementary?",
+"o": ["Yes", "No", "Sometimes", "Only if equal"],
+"a": 1,
+"sol": "Sum would be > 180°."
+},
+{
+"q": "If x + 50° = 180°, then x is:",
+"o": ["40°", "130°", "50°", "150°"],
+"a": 1,
+"sol": "Simple subtraction: 180 - 50 = 130."
+},
+{
+"q": "When two lines are parallel, the alternate exterior angles are:",
+"o": ["Equal", "Supplementary", "Complementary", "Unequal"],
+"a": 0,
+"sol": "Alternate exterior angles are congruent for parallel lines."
+},
+{
+"q": "Find the value of x if x and 2x form a linear pair.",
+"o": ["90°", "45°", "60°", "30°"],
+"a": 2,
+"sol": "x + 2x = 180 => 3x = 180 => x = 60°."
+},
+{
+"q": "If an angle is 90°, its complement is:",
+"o": ["90°", "180°", "0°", "45°"],
+"a": 2,
+"sol": "90 - 90 = 0."
+},
+{
+"q": "Two lines are cut by a transversal. If alternate interior angles are equal, the lines are:",
+"o": ["Parallel", "Intersecting", "Perpendicular", "Skew"],
+"a": 0,
+"sol": "Converse of alternate interior angles theorem."
+},
+{
+"q": "The sum of all angles around a point is:",
+"o": ["180°", "90°", "270°", "360°"],
+"a": 3,
+"sol": "Complete rotation is 360°."
+},
+{
+"q": "If two angles are complementary and equal, each is:",
+"o": ["90°", "45°", "180°", "30°"],
+"a": 1,
+"sol": "90 / 2 = 45."
+},
+{
+"q": "Vertically opposite angles are always non-adjacent. True/False?",
+"o": ["True", "False", "Only if parallel", "Depends on lines"],
+"a": 0,
+"sol": "They are opposite and do not share a common arm."
+},
+{
+"q": "If a line l is parallel to m, and m is parallel to n, then:",
+"o": ["l is perpendicular to n", "l is parallel to n", "l intersects n", "l is equal to n"],
+"a": 1,
+"sol": "Transitivity of parallel lines."
+},
+{
+"q": "Find the complement of 45°.",
+"o": ["45°", "135°", "90°", "55°"],
+"a": 0,
+"sol": "90 - 45 = 45."
+},
+{
+"q": "A reflex angle is more than ____ and less than 360°.",
+"o": ["90°", "180°", "270°", "0°"],
+"a": 1,
+"sol": "Definition of reflex angle."
+},
+{
+"q": "If two lines intersect such that one angle is 90°, the other three are:",
+"o": ["45°", "180°", "90°", "Unknown"],
+"a": 2,
+"sol": "Linear pair and vertical angles make all four 90°."
+},
+{
+"q": "An angle is 1/3 of its supplement. Find it.",
+"o": ["45°", "135°", "60°", "120°"],
+"a": 0,
+"sol": "x = (180-x)/3 => 3x = 180-x => 4x = 180 => x = 45°."
+},
+{
+"q": "Corresponding angles lie on the _____ side of the transversal.",
+"o": ["Opposite", "Same", "Alternative", "None"],
+"a": 1,
+"sol": "Corresponding angles are on the same side and matching positions."
+},
+{
+"q": "If two lines l and m are parallel, and a transversal t is perpendicular to l, then t is:",
+"o": ["Parallel to m", "Perpendicular to m", "Intersecting m at 45°", "Not meeting m"],
+"a": 1,
+"sol": "If a line is perpendicular to one of two parallel lines, it is perpendicular to the other."
+},
+{
+"q": "The supplement of an acute angle is always:",
+"o": ["Acute", "Obtuse", "Right", "Reflex"],
+"a": 1,
+"sol": "180 - (something < 90) results in something > 90."
+},
+{
+"q": "If two supplementary angles are in ratio 2:3, the angles are:",
+"o": ["36°, 54°", "72°, 108°", "40°, 60°", "80°, 120°"],
+"a": 1,
+"sol": "2x + 3x = 180 => 5x = 180 => x = 36. Angles: 72, 108."
+},
+{
+"q": "Can two acute angles be complementary?",
+"o": ["Yes", "No", "Only if equal", "Always"],
+"a": 0,
+"sol": "Yes, e.g., 30° and 60°."
+},
+{
+"q": "If the sum of two angles is 90°, they are:",
+"o": ["Supplementary", "Complementary", "Linear pair", "Vertical"],
+"a": 1,
+"sol": "Definition of complementary angles."
+},
+{
+"q": "Alternate interior angles are on the _____ side of the transversal.",
+"o": ["Same", "Opposite", "Corresponding", "Left"],
+"a": 1,
+"sol": "They are on alternate (opposite) sides."
+},
+{
+"q": "Measure of an angle which is 5 times its supplement.",
+"o": ["150°", "30°", "144°", "36°"],
+"a": 0,
+"sol": "x = 5(180-x) => 6x = 900 => x = 150°."
+},
+{
+"q": "Two lines intersect. If one pair of vertically opposite angles is 40° each, the other pair is:",
+"o": ["40°", "140°", "50°", "180°"],
+"a": 1,
+"sol": "Linear pair: 180 - 40 = 140."
+},
+{
+"q": "Find complement of 10°.",
+"o": ["170°", "90°", "80°", "20°"],
+"a": 2,
+"sol": "90 - 10 = 80."
+},
+{
+"q": "A line meeting another line at 90° is called:",
+"o": ["Parallel", "Perpendicular", "Transversal", "Oblique"],
+"a": 1,
+"sol": "Definition of perpendicularity."
+},
+{
+"q": "If lines are not parallel, will the interior angles on the same side sum to 180°?",
+"o": ["Yes", "No", "Only if intersecting", "Depends on transversal"],
+"a": 1,
+"sol": "No, they only sum to 180° for parallel lines."
+},
+{
+"q": "Complement of 0° is:",
+"o": ["0°", "90°", "180°", "Undefined"],
+"a": 1,
+"sol": "90 - 0 = 90."
+},
+{
+"q": "Supplement of 0° is:",
+"o": ["90°", "180°", "0°", "360°"],
+"a": 1,
+"sol": "180 - 0 = 180."
+},
+{
+"q": "If a transversal cuts two parallel lines, how many angles are formed in total?",
+"o": ["4", "6", "8", "10"],
+"a": 2,
+"sol": "4 at each intersection point."
+},
+{
+"q": "An angle is 40° more than its complement. Find the angle.",
+"o": ["25°", "65°", "50°", "40°"],
+"a": 1,
+"sol": "x = (90-x) + 40 => 2x = 130 => x = 65°."
+},
+{
+"q": "Which angle is its own supplement?",
+"o": ["45°", "180°", "90°", "0°"],
+"a": 2,
+"sol": "90 + 90 = 180."
+},
+{
+"q": "Two lines parallel to each other have _____ transversal angle(s).",
+"o": ["Equal corresponding", "Unequal alternate", "Complementary interior", "Different"],
+"a": 0,
+"sol": "Corresponding angles are equal for parallel lines."
+},
+{
+"q": "If x and y are vertically opposite angles, and x = 55°, then y = ?",
+"o": ["125°", "55°", "35°", "180°"],
+"a": 1,
+"sol": "Vertically opposite angles are equal."
+},
+{
+"q": "Sum of two complementary angles is:",
+"o": ["180°", "360°", "90°", "45°"],
+"a": 2,
+"sol": "By definition."
+},
+{
+"q": "The angle between South and West directions is:",
+"o": ["45°", "90°", "180°", "0°"],
+"a": 1,
+"sol": "Cardinal directions are perpendicular."
+},
+{
+"q": "If a transversal intersects two lines such that alternate interior angles are equal, the lines are:",
+"o": ["Parallel", "Perpendicular", "Intersecting", "Vertical"],
+"a": 0,
+"sol": "Standard geometric theorem."
+},
+{
+"q": "Which pair of angles are supplementary?",
+"o": ["30°, 60°", "45°, 45°", "110°, 70°", "100°, 100°"],
+"a": 2,
+"sol": "110 + 70 = 180."
+},
+{
+"q": "Which pair of angles are complementary?",
+"o": ["120°, 60°", "35°, 55°", "90°, 90°", "20°, 160°"],
+"a": 1,
+"sol": "35 + 55 = 90."
+},
+{
+"q": "A straight angle is equal to:",
+"o": ["90°", "360°", "180°", "270°"],
+"a": 2,
+"sol": "Straight line angle is 180°."
+},
+{
+"q": "If two parallel lines are cut by a transversal, the pairs of alternate exterior angles are:",
+"o": ["Supplementary", "Equal", "Complementary", "Unequal"],
+"a": 1,
+"sol": "Alternate exterior angles are congruent."
+},
+{
+"q": "If an angle is 1/5 of a right angle, its measure is:",
+"o": ["18°", "20°", "15°", "25°"],
+"a": 0,
+"sol": "90 / 5 = 18."
+},
+{
+"q": "Find x if 2x and 3x+20 are supplementary.",
+"o": ["32°", "40°", "20°", "50°"],
+"a": 0,
+"sol": "2x + 3x + 20 = 180 => 5x = 160 => x = 32."
+},
+{
+"q": "If two lines intersect at 90°, they are called:",
+"o": ["Parallel", "Concurrent", "Perpendicular", "Linear"],
+"a": 2,
+"sol": "Definition."
+},
+{
+"q": "The sum of adjacent angles on a straight line is:",
+"o": ["90°", "180°", "360°", "0°"],
+"a": 1,
+"sol": "Linear pair property."
+},
+{
+"q": "Are vertically opposite angles always adjacent?",
+"o": ["Yes", "No", "Only if 90°", "Sometimes"],
+"a": 1,
+"sol": "They are never adjacent; they only share a vertex."
+},
+{
+"q": "If line AB is parallel to CD, and CD is parallel to EF, then AB is _____ to EF.",
+"o": ["Perpendicular", "Parallel", "Intersecting", "Skew"],
+"a": 1,
+"sol": "Lines parallel to same line are parallel."
+},
+{
+"q": "The complement of an angle 'x' is:",
+"o": ["180 - x", "90 - x", "x - 90", "360 - x"],
+"a": 1,
+"sol": "Formula for complement."
+},
+{
+"q": "Supplement of 180° is:",
+"o": ["180°", "90°", "0°", "360°"],
+"a": 2,
+"sol": "180 - 180 = 0."
+},
+{
+"q": "Can two right angles be complementary?",
+"o": ["Yes", "No", "Always", "Depends"],
+"a": 1,
+"sol": "90 + 90 = 180 (Not 90)."
+},
+{
+"q": "Can two right angles be supplementary?",
+"o": ["Yes", "No", "Only if adjacent", "Never"],
+"a": 0,
+"sol": "90 + 90 = 180."
+},
+{
+"q": "Find x if x and 5x are complementary.",
+"o": ["15°", "18°", "30°", "45°"],
+"a": 0,
+"sol": "x + 5x = 90 => 6x = 90 => x = 15."
+},
+{
+"q": "An angle measuring 180° is a:",
+"o": ["Right angle", "Straight angle", "Reflex angle", "Complete angle"],
+"a": 1,
+"sol": "Known as a straight angle."
+},
+{
+"q": "If two parallel lines are cut by a transversal, corresponding angles are on _____ side(s).",
+"o": ["Opposite", "The same", "Top", "Bottom"],
+"a": 1,
+"sol": "They match on the same side."
+},
+{
+"q": "The supplement of 123° is:",
+"o": ["57°", "67°", "77°", "47°"],
+"a": 0,
+"sol": "180 - 123 = 57."
+},
+{
+"q": "If x = 40°, its complement is y. Then y = ?",
+"o": ["140°", "50°", "40°", "60°"],
+"a": 1,
+"sol": "90 - 40 = 50."
+},
+{
+"q": "How many transversals can be drawn for two given lines?",
+"o": ["1", "2", "Infinite", "0"],
+"a": 2,
+"sol": "Any line crossing them is a transversal."
+},
+{
+"q": "Angles formed inside two lines cut by a transversal are:",
+"o": ["Exterior angles", "Interior angles", "Adjacent angles", "Linear angles"],
+"a": 1,
+"sol": "They are within the space between the lines."
+},
+{
+"q": "The sum of interior angles on same side of transversal is 180° for parallel lines. These are also called:",
+"o": ["Alternate angles", "Corresponding angles", "Co-interior angles", "Vertical angles"],
+"a": 2,
+"sol": "Also known as consecutive interior angles."
+},
+{
+"q": "Two angles that share a common vertex and common arm but no common interior points are:",
+"o": ["Vertical", "Adjacent", "Supplementary", "Complementary"],
+"a": 1,
+"sol": "Standard definition of adjacent angles."
+},
+{
+"q": "If line 'a' is perpendicular to 'b', then angle between them is:",
+"o": ["0°", "180°", "90°", "45°"],
+"a": 2,
+"sol": "Definition of perpendicular lines."
+},
+{
+"q": "Can two acute angles be supplementary?",
+"o": ["Yes", "No", "Sometimes", "Always"],
+"a": 1,
+"sol": "Sum of two < 90 angles is < 180."
+},
+{
+"q": "Find angle which is 8 times its supplement.",
+"o": ["160°", "20°", "140°", "40°"],
+"a": 0,
+"sol": "x = 8(180-x) => 9x = 1440 => x = 160°."
+},
+{
+"q": "Linear pair angles are always adjacent. True/False?",
+"o": ["True", "False", "Sometimes", "Never"],
+"a": 0,
+"sol": "They must share an arm and vertex to form a straight line."
+},
+{
+"q": "If x=60° and y=120°, they are:",
+"o": ["Complementary", "Supplementary", "Equal", "Acute"],
+"a": 1,
+"sol": "60 + 120 = 180."
+},
+{
+"q": "One angle is 30° more than its complement. Find it.",
+"o": ["60°", "30°", "45°", "75°"],
+"a": 0,
+"sol": "x = (90-x) + 30 => 2x = 120 => x = 60."
+},
+{
+"q": "The symbol || denotes:",
+"o": ["Perpendicular", "Equal", "Parallel", "Intersecting"],
+"a": 2,
+"sol": "Mathematical symbol for parallel lines."
+},
+{
+"q": "If two lines intersect, adjacent angles are supplementary. True/False?",
+"o": ["True", "False", "Only if parallel", "Always"],
+"a": 0,
+"sol": "Intersecting lines form linear pairs which are supplementary."
+},
+{
+"q": "What is the angle between the hour and minute hand at 3 o'clock?",
+"o": ["45°", "90°", "180°", "0°"],
+"a": 1,
+"sol": "The hands are at 12 and 3, which is a 90° angle."
+},
+{
+"q": "Supplementary angle of 90° is:",
+"o": ["90°", "0°", "180°", "270°"],
+"a": 0,
+"sol": "180 - 90 = 90."
+},
+{
+"q": "Complementary angle of 60° is:",
+"o": ["30°", "120°", "90°", "60°"],
+"a": 0,
+"sol": "90 - 60 = 30."
+},
+{
+"q": "A point where three or more lines meet is point of:",
+"o": ["Intersection", "Concurrency", "Contact", "Origin"],
+"a": 1,
+"sol": "Definition of point of concurrency."
+}
+]
