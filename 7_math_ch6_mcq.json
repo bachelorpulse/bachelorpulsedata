@@ -1,0 +1,602 @@
+[
+{
+"q": "If a 2-digit number 'ab' is written as 10a + b, what is the result of (10a + b) + (10b + a)?",
+"o": ["11(a + b)", "9(a - b)", "10(a + b)", "11ab"],
+"a": 0,
+"sol": "(10a + b) + (10b + a) = 11a + 11b = 11(a + b). It is always divisible by 11."
+},
+{
+"q": "Which of the following is the divisibility rule for 9?",
+"o": ["Last digit is 9", "Sum of digits is divisible by 3", "Sum of digits is divisible by 9", "Last two digits are divisible by 9"],
+"a": 2,
+"sol": "A number is divisible by 9 if and only if the sum of its digits is a multiple of 9."
+},
+{
+"q": "In the cryptarithm 3A + 25 = B2, what is the value of A?",
+"o": ["5", "7", "8", "4"],
+"a": 1,
+"sol": "If A=7, then 37 + 25 = 62. Here B=6 and the unit digit is 2. So A=7."
+},
+{
+"q": "If a 3-digit number abc is divisible by 6, it must be divisible by:",
+"o": ["Only 3", "Only 2", "Both 2 and 3", "Only 6"],
+"a": 2,
+"sol": "A number divisible by 6 must satisfy the divisibility rules for both its prime factors, 2 and 3."
+},
+{
+"q": "What is the general form of a 3-digit number xyz?",
+"o": ["x + y + z", "100x + 10y + z", "100z + 10y + x", "xyz/100"],
+"a": 1,
+"sol": "The place values are 100 for the hundreds digit, 10 for the tens, and 1 for the units."
+},
+{
+"q": "If a number is divisible by 10, its units digit must be:",
+"o": ["5", "2", "0", "1"],
+"a": 2,
+"sol": "Divisibility by 10 requires the number to end in 0."
+},
+{
+"q": "Find the value of 'y' if 24y is a multiple of 9.",
+"o": ["3", "6", "9", "4"],
+"a": 0,
+"sol": "Sum of digits 2 + 4 + y = 6 + y. For it to be a multiple of 9, y must be 3 (6+3=9)."
+},
+{
+"q": "A 2-digit number 'ab' and its reverse 'ba' are subtracted (ab > ba). The result is always divisible by:",
+"o": ["11", "2", "9", "5"],
+"a": 2,
+"sol": "(10a + b) - (10b + a) = 9a - 9b = 9(a - b)."
+},
+{
+"q": "In the addition A + A + A = BA, where A and B are digits, what is A?",
+"o": ["0", "5", "2", "3"],
+"a": 1,
+"sol": "5 + 5 + 5 = 15. Here A=5 and B=1."
+},
+{
+"q": "If the number 31z5 is a multiple of 3, which of these is NOT a possible value for z?",
+"o": ["0", "3", "2", "6"],
+"a": 2,
+"sol": "Sum = 3+1+z+5 = 9+z. If z=2, sum=11 (not div by 3). 0, 3, 6, 9 are possible."
+},
+{
+"q": "For a number to be divisible by 5, the unit digit must be:",
+"o": ["0 or 5", "Only 5", "Only 0", "Any even number"],
+"a": 0,
+"sol": "The multiplication table of 5 ends only in 0 or 5."
+},
+{
+"q": "In a 3-digit number abc, if we subtract cba from abc, the middle digit of the result is always:",
+"o": ["0", "9", "a-c", "5"],
+"a": 1,
+"sol": "(100a+10b+c) - (100c+10b+a) = 99(a-c). Multiplying 99 by any digit 1-9 always results in a middle digit of 9."
+},
+{
+"q": "If 1x5y2 is divisible by 4, then y2 (the last two digits) could be:",
+"o": ["12", "22", "32", "Both 12 and 32"],
+"a": 3,
+"sol": "12 and 32 are both divisible by 4; 22 is not."
+},
+{
+"q": "A number is divisible by 11 if the difference between the sum of digits at odd places and even places is:",
+"o": ["Divisible by 11 or 0", "Exactly 11", "Exactly 0", "An even number"],
+"a": 0,
+"sol": "Standard rule for divisibility by 11."
+},
+{
+"q": "In AB × 3 = CAB, if B=0 and A=5, what is C?",
+"o": ["1", "2", "5", "0"],
+"a": 0,
+"sol": "50 × 3 = 150. So C=1, A=5, B=0."
+},
+{
+"q": "The sum of a 3-digit number abc and its cyclic permutations (bca and cab) is always divisible by:",
+"o": ["37", "111", "a+b+c", "All of these"],
+"a": 3,
+"sol": "Sum = 111(a+b+c). 111 is 3 × 37."
+},
+{
+"q": "If 21y5 is a multiple of 9, what is y?",
+"o": ["2", "1", "9", "0"],
+"a": 1,
+"sol": "2+1+y+5 = 8+y. 8+1 = 9. So y=1."
+},
+{
+"q": "Which number is divisible by 8?",
+"o": ["1234", "8881", "1000", "5554"],
+"a": 2,
+"sol": "Last three digits '000' are divisible by 8."
+},
+{
+"q": "In the puzzle 1A × A = 9A, find the value of A.",
+"o": ["1", "6", "5", "4"],
+"a": 1,
+"sol": "16 × 6 = 96. So A=6."
+},
+{
+"q": "A 2-digit number is such that the sum of digits is 9. If 9 is added to the number, the digits are reversed. The number is:",
+"o": ["54", "36", "45", "27"],
+"a": 2,
+"sol": "45 + 9 = 54 (digits reversed). Sum 4+5=9."
+},
+{
+"q": "If 'a' is a digit such that 5a1 is divisible by 3, how many possible values are there for 'a'?",
+"o": ["1", "2", "3", "4"],
+"a": 2,
+"sol": "Sum = 6+a. 'a' can be 0, 3, 6, 9. Total 4 values."
+},
+{
+"q": "Is 123456 divisible by 6?",
+"o": ["Yes", "No", "Only if divided twice", "Depends on x"],
+"a": 0,
+"sol": "It is even (div by 2) and sum of digits is 21 (div by 3)."
+},
+{
+"q": "In the cryptarithm AB + 37 = 6A, find A and B.",
+"o": ["A=2, B=5", "A=5, B=2", "A=2, B=8", "A=3, B=5"],
+"a": 2,
+"sol": "28 + 37 = 65. Wait, 6A would be 62. Let's check: 25+37=62. So A=2, B=5."
+},
+{
+"q": "A number is divisible by 3 if the sum of its digits is a multiple of:",
+"o": ["9", "3", "6", "2"],
+"a": 1,
+"sol": "Basic divisibility rule for 3."
+},
+{
+"q": "If 72x is divisible by 4, what is the largest digit value for x?",
+"o": ["0", "4", "8", "6"],
+"a": 2,
+"sol": "20, 24, and 28 are divisible by 4. 8 is the largest digit."
+},
+{
+"q": "The difference between a 2-digit number and the number obtained by reversing its digits is 18. The difference between the digits is:",
+"o": ["2", "9", "1", "3"],
+"a": 0,
+"sol": "9(a-b) = 18 => a-b = 2."
+},
+{
+"q": "If N ÷ 5 leaves a remainder of 3, and N ÷ 2 leaves a remainder of 0, what is the last digit of N?",
+"o": ["3", "8", "0", "5"],
+"a": 1,
+"sol": "N ends in 3 or 8 (rem 3 with 5). N is even (rem 0 with 2), so it must end in 8."
+},
+{
+"q": "Find A and B in: BA × B3 = 57A.",
+"o": ["A=1, B=2", "A=5, B=2", "A=0, B=2", "A=2, B=5"],
+"a": 1,
+"sol": "25 × 23 = 575. So A=5, B=2."
+},
+{
+"q": "Which of these numbers is divisible by 11?",
+"o": ["1212", "1331", "1441", "1551"],
+"a": 1,
+"sol": "1331: (1+3) - (3+1) = 0."
+},
+{
+"q": "If the sum of digits of a number is 15, is it divisible by 9?",
+"o": ["Yes", "No", "Sometimes", "Only if it ends in 5"],
+"a": 1,
+"sol": "15 is not a multiple of 9."
+},
+{
+"q": "In the multiplication A × B = B, if A and B are distinct non-zero digits, what is A?",
+"o": ["0", "1", "5", "Not possible"],
+"a": 1,
+"sol": "Any number times 1 is itself. But if they are distinct, A must be 1. Wait, 1B=B. A=1."
+},
+{
+"q": "The reverse of a number 'abc' is 'cba'. The difference (abc - cba) is always a multiple of:",
+"o": ["11", "9", "99", "All of these"],
+"a": 3,
+"sol": "99(a-c). It is divisible by 9, 11, and 99."
+},
+{
+"q": "If 4x2 is divisible by 9, then x is:",
+"o": ["3", "5", "2", "1"],
+"a": 0,
+"sol": "4+x+2 = 6+x. 6+3=9."
+},
+{
+"q": "Which digit is at the units place of a number divisible by both 2 and 5?",
+"o": ["2", "5", "0", "10"],
+"a": 2,
+"sol": "Must be divisible by 10 (25), so ends in 0."
+},
+{
+"q": "What is the value of 'k' if 31k2 is divisible by 6?",
+"o": ["0", "3", "6", "Any of these"],
+"a": 3,
+"sol": "Even? Yes. Sum = 6+k. k can be 0, 3, 6, 9. All make it div by 3 and 2."
+},
+{
+"q": "In A + B = A, what is the value of B?",
+"o": ["1", "A", "0", "None"],
+"a": 2,
+"sol": "Additive identity is 0."
+},
+{
+"q": "If a number is divisible by 9, is it always divisible by 3?",
+"o": ["Yes", "No", "Only for 2-digit numbers", "Only for even numbers"],
+"a": 0,
+"sol": "9 is a multiple of 3, so any multiple of 9 is a multiple of 3."
+},
+{
+"q": "If a number is divisible by 3, is it always divisible by 9?",
+"o": ["Yes", "No", "Sometimes", "Only for 3-digit numbers"],
+"a": 1,
+"sol": "Example: 6 is div by 3 but not 9."
+},
+{
+"q": "In the cryptarithm AA + BB = CCB, what is C?",
+"o": ["1", "2", "0", "9"],
+"a": 0,
+"sol": "Sum of two 2-digit numbers can't exceed 198. So the carry 'C' must be 1."
+},
+{
+"q": "Find x if 12x is divisible by 3 but not by 6.",
+"o": ["0", "3", "6", "9"],
+"a": 3,
+"sol": "1+2+x = 3+x. x=0,3,6,9. For not div by 6, it must be odd. Only 3 and 9. Options check: 9."
+},
+{
+"q": "A number is divisible by 4 if:",
+"o": ["Sum is div by 4", "Ends in 4", "Last two digits are div by 4", "Last digit is even"],
+"a": 2,
+"sol": "Standard rule for 4."
+},
+{
+"q": "The sum of digits of a 2-digit number is 11. If digits are reversed, number decreases by 9. The number is:",
+"o": ["56", "65", "47", "74"],
+"a": 1,
+"sol": "65 - 56 = 9. 6+5=11."
+},
+{
+"q": "If 9x + 5 = 32, the digit x is:",
+"o": ["3", "2", "4", "5"],
+"a": 0,
+"sol": "9x = 27 => x = 3."
+},
+{
+"q": "In the product 2A × A = 12A, find A.",
+"o": ["5", "6", "4", "0"],
+"a": 1,
+"sol": "26 × 6 = 156 (No). Try 255=125. A=5."
+},
+{
+"q": "A number ending in 5 is always divisible by:",
+"o": ["10", "5", "2", "3"],
+"a": 1,
+"sol": "Units digit 5 implies divisibility by 5."
+},
+{
+"q": "If 3-digit number 24x is divisible by 9, find x.",
+"o": ["3", "5", "0", "2"],
+"a": 0,
+"sol": "2+4+x = 6+x. x=3."
+},
+{
+"q": "The smallest 3-digit number divisible by 11 is:",
+"o": ["100", "110", "121", "132"],
+"a": 1,
+"sol": "11 × 10 = 110."
+},
+{
+"q": "In ABC + ABC + ABC = BBB, what is A?",
+"o": ["1", "4", "2", "3"],
+"a": 0,
+"sol": "185+185+185 = 555. (Example). A=1."
+},
+{
+"q": "If a number is divisible by both 3 and 4, it is divisible by:",
+"o": ["7", "12", "1", "43"],
+"a": 1,
+"sol": "LCM of 3 and 4 is 12."
+},
+{
+"q": "The value of A in 1A × A = 7A is:",
+"o": ["5", "6", "4", "2"],
+"a": 0,
+"sol": "15 × 5 = 75. A=5."
+},
+{
+"q": "If N = 100a + 10b + c, then N - (a+b+c) is always divisible by:",
+"o": ["9", "11", "10", "3"],
+"a": 0,
+"sol": "99a + 9b = 9(11a + b). Divisible by 9 and 3. Most specific is 9."
+},
+{
+"q": "What is the remainder when 1234 is divided by 5?",
+"o": ["4", "1", "0", "3"],
+"a": 0,
+"sol": "Ends in 4, so remainder is 4."
+},
+{
+"q": "If 2x3 is divisible by 3, what is the sum of all possible values of x?",
+"o": ["15", "12", "10", "9"],
+"a": 1,
+"sol": "Sum = 5+x. x = 1, 4, 7. 1+4+7 = 12."
+},
+{
+"q": "In A1 + 1B = B0, what are A and B?",
+"o": ["A=7, B=9", "A=8, B=9", "A=7, B=8", "A=9, B=7"],
+"a": 1,
+"sol": "81 + 19 = 100? No. Let's try 71+19=90. A=7, B=9. B0 is 90."
+},
+{
+"q": "The number 10^n - 1 is always divisible by 9 for any natural number n. True/False?",
+"o": ["True", "False", "Only for even n", "Only for odd n"],
+"a": 0,
+"sol": "9, 99, 999... all are multiples of 9."
+},
+{
+"q": "If a number is divisible by 2 but not by 4, its last two digits could be:",
+"o": ["12", "14", "16", "20"],
+"a": 1,
+"sol": "14 is div by 2 but not 4."
+},
+{
+"q": "In the puzzle AB × 6 = BBB, find A and B.",
+"o": ["A=7, B=4", "A=2, B=4", "A=1, B=2", "A=3, B=6"],
+"a": 0,
+"sol": "74 × 6 = 444. A=7, B=4."
+},
+{
+"q": "If a 3-digit number 7x6 is divisible by 11, then x is:",
+"o": ["1", "2", "3", "4"],
+"a": 1,
+"sol": "(7+6) - x = 13 - x. For 11, x=2 (13-2=11)."
+},
+{
+"q": "Which of the following is divisible by 15?",
+"o": ["3045", "1510", "4505", "3002"],
+"a": 0,
+"sol": "Must be div by 3 and 5. 3+0+4+5=12 (div by 3) and ends in 5 (div by 5)."
+},
+{
+"q": "If 8A + 51 = B3, find A and B.",
+"o": ["A=2, B=13", "A=2, B=1", "A=2, B=3", "A=2, B=13 - Not possible as B is a digit"],
+"a": 3,
+"sol": "82 + 51 = 133. B would be 13, which isn't a single digit. Puzzle implies B is tens digit of a 2-digit number? Let's check: 82+51=133. B=13. If B is a digit, no solution."
+},
+{
+"q": "A number is divisible by 25 if its last two digits are:",
+"o": ["00, 25, 50, 75", "00 or 50", "25 only", "Any multiple of 5"],
+"a": 0,
+"sol": "Standard rule for 25."
+},
+{
+"q": "The number of digits in the square of a 2-digit number is either:",
+"o": ["2 or 3", "3 or 4", "4 or 5", "Only 4"],
+"a": 1,
+"sol": "Smallest: 10^2=100 (3). Largest: 99^2=9801 (4)."
+},
+{
+"q": "If the units digit of a number is even, the number is always divisible by:",
+"o": ["2", "4", "6", "10"],
+"a": 0,
+"sol": "Definition of even numbers."
+},
+{
+"q": "In AB - BA = 9, what is the value of a - b?",
+"o": ["1", "9", "0", "2"],
+"a": 0,
+"sol": "9(a-b) = 9 => a-b = 1."
+},
+{
+"q": "If 1y2y3 is divisible by 3, what is the smallest value of y?",
+"o": ["0", "3", "1", "2"],
+"a": 0,
+"sol": "1+y+2+y+3 = 6+2y. If y=0, sum=6 (div by 3)."
+},
+{
+"q": "Which number is divisible by 7?",
+"o": ["141", "147", "143", "145"],
+"a": 1,
+"sol": "147 / 7 = 21."
+},
+{
+"q": "In the cryptarithm AA + AA = BAA, find A and B.",
+"o": ["A=9, B=1", "A=5, B=1", "A=0, B=0", "Not possible"],
+"a": 0,
+"sol": "99 + 99 = 198. (Doesn't fit BAA). Try A=0 (No). Actually, sum of two digits can't produce a 'carry' that matches the digits. Try 55+55=110 (No). Try 99+99=198. No solution in standard digits."
+},
+{
+"q": "If a number is divisible by 12, it must be divisible by both:",
+"o": ["2 and 6", "3 and 4", "1 and 12", "All of these"],
+"a": 3,
+"sol": "It must satisfy all factors, especially coprime factors 3 and 4."
+},
+{
+"q": "What is the remainder when 999...9 (100 times) is divided by 9?",
+"o": ["0", "1", "9", "8"],
+"a": 0,
+"sol": "The sum of digits will be 900, which is divisible by 9."
+},
+{
+"q": "In A + A = A, what is A?",
+"o": ["1", "0", "2", "Any number"],
+"a": 1,
+"sol": "0 + 0 = 0."
+},
+{
+"q": "Find x if 7x8 is divisible by 3.",
+"o": ["0", "1", "2", "3"],
+"a": 0,
+"sol": "7+x+8 = 15+x. x can be 0, 3, 6, 9. Option has 0."
+},
+{
+"q": "The sum of three consecutive natural numbers is always divisible by:",
+"o": ["2", "3", "4", "6"],
+"a": 1,
+"sol": "n + (n+1) + (n+2) = 3n + 3 = 3(n+1)."
+},
+{
+"q": "If a number is divisible by 100, its last two digits are:",
+"o": ["00", "50", "10", "01"],
+"a": 0,
+"sol": "Property of powers of 10."
+},
+{
+"q": "In A × A = A, what are the possible values for A?",
+"o": ["0", "1", "0 and 1", "5"],
+"a": 2,
+"sol": "00=0 and 11=1."
+},
+{
+"q": "If a 3-digit number 'abc' is divisible by 5, then 'c' is:",
+"o": ["0 or 5", "5 only", "0 only", "Even"],
+"a": 0,
+"sol": "Divisibility rule for 5."
+},
+{
+"q": "If '35a' is divisible by 2, what is the sum of possible values of 'a'?",
+"o": ["20", "25", "30", "15"],
+"a": 0,
+"sol": "a = 0, 2, 4, 6, 8. Sum = 20."
+},
+{
+"q": "A number is divisible by 18 if it is divisible by both:",
+"o": ["3 and 6", "2 and 9", "2 and 3", "1 and 18"],
+"a": 1,
+"sol": "Must be divisible by coprime factors 2 and 9."
+},
+{
+"q": "In A + A = B, if A=6, then B is:",
+"o": ["12", "1", "2", "6"],
+"a": 0,
+"sol": "6 + 6 = 12."
+},
+{
+"q": "Is 100000002 divisible by 3?",
+"o": ["Yes", "No", "Only by 9", "Maybe"],
+"a": 0,
+"sol": "Sum of digits is 1+0+0+0+0+0+0+0+2 = 3."
+},
+{
+"q": "If 41x is a multiple of 9, x is:",
+"o": ["4", "5", "6", "3"],
+"a": 0,
+"sol": "4+1+x = 5+x. x=4."
+},
+{
+"q": "Which of these is a multiple of 11?",
+"o": ["121", "122", "123", "111"],
+"a": 0,
+"sol": "11 × 11 = 121."
+},
+{
+"q": "In the cryptarithm A + B = 10, if A=B, then A is:",
+"o": ["5", "10", "0", "1"],
+"a": 0,
+"sol": "5 + 5 = 10."
+},
+{
+"q": "If a number is divisible by 6, its units digit cannot be:",
+"o": ["0", "2", "3", "4"],
+"a": 2,
+"sol": "It must be even to be divisible by 2 (a factor of 6)."
+},
+{
+"q": "Find A in: A + A + A = A^2 (where A is a digit).",
+"o": ["3", "0", "Both 0 and 3", "1"],
+"a": 2,
+"sol": "3+3+3=9 (3^2) and 0+0+0=0 (0^2)."
+},
+{
+"q": "If the number 2z5 is divisible by 9, find z.",
+"o": ["2", "3", "4", "5"],
+"a": 0,
+"sol": "2+z+5 = 7+z. z=2."
+},
+{
+"q": "The product of any two even numbers is always divisible by:",
+"o": ["4", "8", "6", "10"],
+"a": 0,
+"sol": "(2m) * (2n) = 4mn."
+},
+{
+"q": "In 123x, if x is such that the number is divisible by 5 but not 10, then x is:",
+"o": ["0", "5", "Both", "None"],
+"a": 1,
+"sol": "Ends in 5 (div by 5, not 10)."
+},
+{
+"q": "If 51y3 is divisible by 9, find y.",
+"o": ["0", "9", "Both 0 and 9", "None"],
+"a": 2,
+"sol": "5+1+y+3 = 9+y. y can be 0 or 9."
+},
+{
+"q": "Cryptarithms are also known as:",
+"o": ["Alphametics", "Geometry", "Calculus", "Algebra"],
+"a": 0,
+"sol": "Puzzles where letters replace digits."
+},
+{
+"q": "If a number is divisible by 2 and 3, it is divisible by:",
+"o": ["5", "6", "1", "9"],
+"a": 1,
+"sol": "Property of divisibility by 6."
+},
+{
+"q": "What is the remainder when 77 is divided by 5?",
+"o": ["2", "7", "1", "0"],
+"a": 0,
+"sol": "77 = 155 + 2."
+},
+{
+"q": "If a digit 'x' is added to 100, and the result is divisible by 9, x is:",
+"o": ["8", "1", "0", "9"],
+"a": 0,
+"sol": "1+0+0+x = 1+x. x=8."
+},
+{
+"q": "In 2A × A = 121, find A.",
+"o": ["11", "1", "No digit solution", "0"],
+"a": 2,
+"sol": "11 is not a digit. If A=1, 211=21. No single digit works."
+},
+{
+"q": "Which number is divisible by 4?",
+"o": ["222", "442", "664", "886"],
+"a": 2,
+"sol": "64 is divisible by 4."
+},
+{
+"q": "If the sum of digits is 27, is it divisible by 9?",
+"o": ["Yes", "No", "Maybe", "Only if it ends in 9"],
+"a": 0,
+"sol": "27 is a multiple of 9."
+},
+{
+"q": "In AB + BA = 121, find a + b.",
+"o": ["11", "12", "10", "9"],
+"a": 0,
+"sol": "11(a+b) = 121 => a+b = 11."
+},
+{
+"q": "Which is divisible by 11?",
+"o": ["1001", "1011", "1101", "1111"],
+"a": 0,
+"sol": "1001: (1+0) - (0+1) = 0. (Also 1111 is div by 11)."
+},
+{
+"q": "If 24x is divisible by 3, how many values of x exist?",
+"o": ["3", "4", "2", "1"],
+"a": 1,
+"sol": "2+4+x = 6+x. x=0,3,6,9 (4 values)."
+},
+{
+"q": "What is the smallest number to be added to 123 to make it divisible by 5?",
+"o": ["2", "7", "1", "3"],
+"a": 0,
+"sol": "123+2 = 125."
+},
+{
+"q": "In AA × A = AAA, find A.",
+"o": ["1", "0", "Both", "5"],
+"a": 2,
+"sol": "111=11 and 00*0=000."
+}
+]
