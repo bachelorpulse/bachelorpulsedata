@@ -718,9 +718,9 @@ window.scrollTo({top:0,behavior:'smooth'});
 }
 function updateBreadcrumb(){
 const bc=document.getElementById('breadcrumb');
-let p=['<span onclick="goHome()" style="cursor:pointer">🏠 Home</span>'];
-if(selClass)   p.push(`<span class="sep">›</span><span>Class ${selClass}</span>`);
-if(selSubject) p.push(`<span class="sep">›</span><span>${subjectNames[selSubject]}</span>`);
+let p=['<span onclick="goHome()" style="cursor:pointer;color:var(--accent)">🏠 Home</span>'];
+if(selClass)   p.push(`<span class="sep">›</span><span onclick="if(selSubject||selChapter){selSubject=null;selChapter=null;selCount=null;selMode=null;selLearnType=null;updateBreadcrumb();showScreen('subject');}" style="cursor:${selSubject?'pointer':'default'};${selSubject?'color:var(--accent)':''}">Class ${selClass}</span>`);
+if(selSubject) p.push(`<span class="sep">›</span><span onclick="if(selChapter){selChapter=null;selCount=null;selMode=null;selLearnType=null;buildChapterScreen();updateBreadcrumb();showScreen('chapter');}" style="cursor:${selChapter?'pointer':'default'};${selChapter?'color:var(--accent)':''}"">${subjectNames[selSubject]}</span>`);
 if(selChapter) p.push(`<span class="sep">›</span><span>${selChapter===ALL_KEY?'All Chapters':selChapter}</span>`);
 if(selMode){
 const modeLabel = selMode==='mcq'?'MCQ':selMode==='solution'?'Solution':'Learn';
