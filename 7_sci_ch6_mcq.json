@@ -64,7 +64,7 @@
   { "q": "Hoarseness in the voice of boys at puberty is caused by:", "o": ["Cough", "Muscles of the growing voice box going out of control", "Lack of water", "Too much shouting"], "a": 1, "sol": "The rapid growth of the larynx causes temporary voice cracking." },
   { "q": "Which of these is part of the 'Balanced Diet'?", "o": ["Pizza", "Pulses and vegetables", "Burger", "French fries"], "a": 1, "sol": "Pulses provide proteins and vegetables provide vitamins/minerals." },
   { "q": "Which gland secretes hormones that maintain correct salt balance in the blood?", "o": ["Pancreas", "Adrenal", "Thyroid", "Pituitary"], "a": 1, "sol": "Adrenal glands help manage salt and water balance." },
-  { "q": "Growth hormone is secreted by the:", "o": ["Ovary", "Testes", "Pituitary", "Adrenal"], "a : 2", "sol": "Pituitary gland regulates overall body growth." },
+  { "q": "Growth hormone is secreted by the:", "o": ["Ovary", "Testes", "Pituitary", "Adrenal"], "a": 2, "sol": "Pituitary gland regulates overall body growth." },
   { "q": "The life cycle of a silk moth is: Egg -> ________ -> Pupa -> Adult.", "o": ["Tadpole", "Caterpillar", "Fry", "Nymph"], "a": 1, "sol": "The larva stage of a silk moth is the caterpillar." },
   { "q": "Adolescents may feel insecure because of:", "o": ["Changes in the body and mind", "Getting tall", "Eating more", "Studying science"], "a": 0, "sol": "Rapid physical and mental shifts can cause temporary anxiety." },
   { "q": "An unfertilized human egg always contains one ________ chromosome.", "o": ["Y", "X", "Z", "XY"], "a": 1, "sol": "Eggs always carry the X chromosome." },
