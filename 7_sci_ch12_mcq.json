@@ -1,152 +1,102 @@
 [
-{
-"q": "Which of these causes the phenomenon of day and night on Earth?",
-"o": ["Revolution", "Rotation", "Gravity", "Atmosphere"],
-"a": 1,
-"sol": "The Earth rotates on its axis once every 24 hours, causing different parts to face the Sun."
-},
-{
-"q": "The Moon completes one revolution around the Earth in approximately how many days?",
-"o": ["365 days", "24 days", "27.3 days", "15 days"],
-"a": 2,
-"sol": "It takes about 27.3 days for the Moon to orbit the Earth, which is roughly a month."
-},
-{
-"q": "What is the imaginary line on which the Earth rotates called?",
-"o": ["Equator", "Orbit", "Axis", "Tropic of Cancer"],
-"a": 2,
-"sol": "The axis is an imaginary line passing through the North and South poles."
-},
-{
-"q": "A solar eclipse occurs when ________ comes between the Sun and the Earth.",
-"o": ["The Moon", "Mars", "Jupiter", "A Comet"],
-"a": 0,
-"sol": "During a solar eclipse, the Moon blocks the sunlight from reaching parts of the Earth."
-},
-{
-"q": "Which planet is known as the 'Blue Planet'?",
-"o": ["Mars", "Venus", "Earth", "Neptune"],
-"a": 2,
-"sol": "Earth is called the Blue Planet because nearly 71% of its surface is covered by water."
-},
-{
-"q": "The changing shapes of the visible part of the Moon are called:",
-"o": ["Moon Cycles", "Lunar Shadows", "Phases of the Moon", "Orbital Shifts"],
-"a": 2,
-"sol": "Phases occur because we see different amounts of the Moon's illuminated side as it orbits Earth."
-},
-{
-"q": "What is the primary cause of seasons on Earth?",
-"o": ["Distance from Sun", "Earth's tilted axis", "Moon's gravity", "Ocean currents"],
-"a": 1,
-"sol": "The 23.5-degree tilt of Earth's axis as it revolves around the Sun creates seasonal changes."
-},
-{
-"q": "The Earth's path around the Sun is called its:",
-"o": ["Axis", "Rotation", "Orbit", "Belt"],
-"a": 2,
-"sol": "An orbit is the fixed path followed by a celestial body under the influence of gravity."
-},
-{
-"q": "Which of these is the largest object in our solar system?",
-"o": ["Earth", "Jupiter", "The Sun", "The Moon"],
-"a": 2,
-"sol": "The Sun contains more than 99% of the total mass of the entire solar system."
-},
-{
-"q": "When the Moon is between the Earth and the Sun, we see a:",
-"o": ["Full Moon", "New Moon", "Gibbous Moon", "Crescent Moon"],
-"a": 1,
-"sol": "At New Moon, the side of the Moon facing Earth is dark because it is not receiving direct sunlight."
-},
-{
-"q": "What is the force that keeps the planets in orbit around the Sun?",
-"o": ["Magnetism", "Friction", "Gravity", "Static Electricity"],
-"a": 2,
-"sol": "The Sun's massive gravitational pull keeps all planets, including Earth, in their orbits."
-},
-{
-"q": "A leap year has 366 days because Earth takes ________ to orbit the Sun.",
-"o": ["365 days", "365 and 1/4 days", "364 days", "360 days"],
-"a": 1,
-"sol": "The extra quarter day adds up to one full day every four years."
-},
-{
-"q": "The dark, flat areas on the Moon's surface are called:",
-"o": ["Craters", "Mountains", "Maria (Seas)", "Valleys"],
-"a": 2,
-"sol": "Early astronomers thought these dark volcanic plains were actual seas of water."
-},
-{
-"q": "Which layer of the Earth do we live on?",
-"o": ["Mantle", "Outer Core", "Inner Core", "Crust"],
-"a": 3,
-"sol": "The crust is the thin, outermost rocky shell of the Earth."
-},
-{
-"q": "A lunar eclipse can only happen during which moon phase?",
-"o": ["New Moon", "First Quarter", "Full Moon", "Third Quarter"],
-"a": 2,
-"sol": "A lunar eclipse occurs when Earth is directly between the Sun and a Full Moon."
-},
-{
-"q": "What protects the Earth from harmful solar radiation?",
-"o": ["The Moon", "Atmosphere", "Clouds", "Ice caps"],
-"a": 1,
-"sol": "The atmosphere, specifically the ozone layer, filters out dangerous UV rays."
-},
-{
-"q": "The time taken for one complete revolution of Earth is:",
-"o": ["24 hours", "30 days", "365.25 days", "100 days"],
-"a": 2,
-"sol": "One revolution around the Sun defines a solar year."
-},
-{
-"q": "Tides in the Earth's oceans are primarily caused by:",
-"o": ["Wind", "Earth's rotation", "Moon's gravity", "Underwater volcanoes"],
-"a": 2,
-"sol": "The Moon's gravitational pull creates a 'bulge' in the oceans, leading to high and low tides."
-},
-{
-"q": "The Sun is actually a:",
-"o": ["Planet", "Moon", "Star", "Asteroid"],
-"a": 2,
-"sol": "The Sun is a medium-sized star made of hot, glowing gases."
-},
-{
-"q": "What are the bowl-shaped holes on the Moon's surface called?",
-"o": ["Pits", "Craters", "Vents", "Tunnels"],
-"a": 1,
-"sol": "Craters are formed by the impact of meteoroids hitting the Moon's surface."
-},
-{
-"q": "Which part of the Earth receives direct sunlight all year round?",
-"o": ["North Pole", "South Pole", "Equator", "Antarctica"],
-"a": 2,
-"sol": "The Equator is the middle belt of the Earth and receives consistent solar energy."
-},
-{
-"q": "How many planets are there in our solar system?",
-"o": ["7", "8", "9", "10"],
-"a": 1,
-"sol": "There are eight recognized planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
-},
-{
-"q": "The Sun rises in the East and sets in the West because Earth rotates from:",
-"o": ["North to South", "East to West", "West to East", "South to North"],
-"a": 2,
-"sol": "The counter-clockwise (West to East) rotation makes the Sun appear to move across the sky."
-},
-{
-"q": "The outermost part of the Sun's atmosphere seen during a total eclipse is the:",
-"o": ["Core", "Photosphere", "Corona", "Crust"],
-"a": 2,
-"sol": "The Corona appears as a pearly white glow around the dark silhouette of the Moon."
-},
-{
-"q": "There is no sound on the Moon because it lacks:",
-"o": ["Gravity", "Light", "Atmosphere", "Water"],
-"a": 2,
-"sol": "Sound needs a medium like air to travel; without an atmosphere, the Moon is silent."
-}
+  { "q": "The Earth rotates on its axis from:", "o": ["North to South", "East to West", "West to East", "South to North"], "a": 2, "sol": "Earth rotates from west to east, which is why the Sun appears to rise in the east." },
+  { "q": "The time taken by the Earth to complete one rotation is approximately:", "o": ["12 hours", "24 hours", "365 days", "48 hours"], "a": 1, "sol": "One rotation takes about 24 hours, defining a solar day." },
+  { "q": "The imaginary line around which the Earth rotates is called its:", "o": ["Orbit", "Equator", "Axis", "Radius"], "a": 2, "sol": "The axis is the imaginary line passing through the North and South poles." },
+  { "q": "Day and night are caused by the Earth's:", "o": ["Revolution", "Rotation", "Tilt", "Distance from Sun"], "a": 1, "sol": "As Earth rotates, different parts face the Sun, causing day and night." },
+  { "q": "The Earth revolves around the Sun in a fixed path called:", "o": ["Axis", "Orbit", "Plane", "Circle"], "a": 1, "sol": "An orbit is the elliptical path followed by a celestial body." },
+  { "q": "How long does it take for the Earth to complete one revolution?", "o": ["24 hours", "30 days", "365.25 days", "100 days"], "a": 2, "sol": "One revolution takes about 365 and 1/4 days, leading to a leap year every 4 years." },
+  { "q": "The change in seasons is mainly caused by:", "o": ["Rotation only", "Revolution and tilted axis", "Distance from the Moon", "Wind patterns"], "a": 1, "sol": "The tilt of Earth's axis combined with its revolution causes varying sunlight angles." },
+  { "q": "The Moon is a ________ of the Earth.", "o": ["Natural satellite", "Planet", "Star", "Comet"], "a": 0, "sol": "The Moon orbits the Earth, making it a natural satellite." },
+  { "q": "The Moon completes one revolution around the Earth in about:", "o": ["24 hours", "27.3 days", "365 days", "15 days"], "a": 1, "sol": "It takes approximately 27 days for the Moon to orbit the Earth once." },
+  { "q": "We always see the same side of the Moon because:", "o": ["It does not rotate", "Rotation and revolution periods are equal", "It is fixed in space", "Earth does not rotate"], "a": 1, "sol": "Synchronous rotation means the Moon rotates once for every orbit it completes." },
+  { "q": "The various shapes of the bright part of the Moon as seen from Earth are called:", "o": ["Lunar cycles", "Phases of the Moon", "Solar spots", "Eclipses"], "a": 1, "sol": "Phases occur due to the relative positions of the Sun, Moon, and Earth." },
+  { "q": "When the Moon is between the Earth and the Sun, we see a:", "o": ["Full Moon", "New Moon", "Crescent Moon", "Gibbous Moon"], "a": 1, "sol": "In the New Moon phase, the dark side faces Earth." },
+  { "q": "A Full Moon occurs when:", "o": ["Moon is between Earth and Sun", "Earth is between Sun and Moon", "Sun is between Earth and Moon", "Moon is far away"], "a": 1, "sol": "The entire sunlit side of the Moon faces the Earth." },
+  { "q": "The phase where the visible part of the Moon is increasing is called:", "o": ["Waning", "Waxing", "Full", "New"], "a": 1, "sol": "Waxing means growing; the moon appears larger each night." },
+  { "q": "What do we call the Moon when it appears more than half but less than full?", "o": ["Crescent", "Gibbous", "Quarter", "New"], "a": 1, "sol": "Gibbous refers to the phase where more than half is illuminated." },
+  { "q": "A solar eclipse occurs only on a:", "o": ["Full Moon day", "New Moon day", "Equinox", "Solstice"], "a": 1, "sol": "During a solar eclipse, the Moon passes between the Sun and Earth." },
+  { "q": "In a lunar eclipse, the ________ comes between the Sun and the Moon.", "o": ["Earth", "Mars", "Venus", "Jupiter"], "a": 0, "sol": "Earth's shadow falls on the Moon during a lunar eclipse." },
+  { "q": "A lunar eclipse occurs only on a:", "o": ["New Moon day", "Full Moon day", "Quarter Moon day", "Sunday"], "a": 1, "sol": "The alignment for Earth's shadow to hit the Moon requires a Full Moon." },
+  { "q": "The dark central part of a shadow during an eclipse is called:", "o": ["Penumbra", "Umbra", "Orbit", "Axis"], "a": 1, "sol": "The umbra is the darkest part where light is completely blocked." },
+  { "q": "The outer partial shadow during an eclipse is called:", "o": ["Umbra", "Penumbra", "Corona", "Halo"], "a": 1, "sol": "The penumbra is the region of partial shadow." },
+  { "q": "The Sun is a:", "o": ["Planet", "Satellite", "Star", "Asteroid"], "a": 2, "sol": "The Sun is a medium-sized star at the center of our solar system." },
+  { "q": "The main source of energy for the Earth is the:", "o": ["Moon", "Sun", "Stars", "Core"], "a": 1, "sol": "Solar energy powers almost all biological and physical processes on Earth." },
+  { "q": "Which force keeps the planets in orbit around the Sun?", "o": ["Magnetic force", "Frictional force", "Gravitational force", "Electrostatic force"], "a": 2, "sol": "Gravity provides the centripetal force for orbital motion." },
+  { "q": "The Earth is the ________ planet from the Sun.", "o": ["First", "Second", "Third", "Fourth"], "a": 2, "sol": "Mercury, Venus, then Earth." },
+  { "q": "The tilt of the Earth's axis is approximately:", "o": ["90 degrees", "23.5 degrees", "45 degrees", "0 degrees"], "a": 1, "sol": "The 23.5° tilt is responsible for the seasons." },
+  { "q": "The leap year occurs every 4 years because:", "o": ["Earth slows down", "A year is actually 365.25 days", "The Moon changes orbit", "Calendars are short"], "a": 1, "sol": "The extra 0.25 days per year add up to one full day every four years." },
+  { "q": "During a total solar eclipse, which part of the Sun is visible?", "o": ["Core", "Corona", "Entire Sun", "Nothing"], "a": 1, "sol": "The corona is the Sun's outer atmosphere, visible when the disk is blocked." },
+  { "q": "Why don't eclipses happen every month?", "o": ["Sun is too bright", "Moon's orbit is tilted", "Earth moves too fast", "Moon is too small"], "a": 1, "sol": "The Moon's orbit is tilted about 5 degrees relative to Earth's orbit." },
+  { "q": "The path of the Sun across the sky appears to change because of:", "o": ["Sun's movement", "Earth's rotation", "Moon's gravity", "Clouds"], "a": 1, "sol": "Apparent motion is caused by the observer's movement on rotating Earth." },
+  { "q": "The period from one New Moon to the next is approximately:", "o": ["24 hours", "29.5 days", "365 days", "7 days"], "a": 1, "sol": "A synodic month (lunar cycle) is about 29.5 days." },
+  { "q": "Which of these is a luminous object?", "o": ["Earth", "Moon", "Sun", "Mars"], "a": 2, "sol": "Luminous objects produce their own light; stars do this." },
+  { "q": "The point on Earth's surface directly above the rotation axis in the north is:", "o": ["Equator", "North Pole", "South Pole", "Tropic of Cancer"], "a": 1, "sol": "The poles are the endpoints of the rotation axis." },
+  { "q": "In summer, the hemisphere tilted towards the Sun receives:", "o": ["Less light", "Direct sunlight", "No light", "Slanting rays"], "a": 1, "sol": "Direct rays are more concentrated and cause higher temperatures." },
+  { "q": "When it is summer in the Northern Hemisphere, it is ________ in the Southern Hemisphere.", "o": ["Summer", "Autumn", "Winter", "Spring"], "a": 2, "sol": "Seasons are reversed between hemispheres due to the axial tilt." },
+  { "q": "The word 'lunar' refers to the:", "o": ["Sun", "Stars", "Moon", "Earth"], "a": 2, "sol": "Lunar is derived from the Latin word 'Luna' for Moon." },
+  { "q": "The word 'solar' refers to the:", "o": ["Moon", "Sun", "Planets", "Galaxies"], "a": 1, "sol": "Solar is derived from 'Sol' for Sun." },
+  { "q": "Tides in the ocean are mainly caused by the gravitational pull of the:", "o": ["Sun", "Moon", "Mars", "Jupiter"], "a": 1, "sol": "The Moon's proximity makes its gravitational pull the primary cause of tides." },
+  { "q": "During a New Moon, the Moon is seen during the:", "o": ["Night", "Day (but invisible)", "Midnight", "Evening"], "a": 1, "sol": "The New Moon rises and sets with the Sun." },
+  { "q": "The shape of Earth's orbit around the Sun is:", "o": ["Perfectly circular", "Slightly elliptical", "Square", "Triangular"], "a": 1, "sol": "Orbits are ellipses, as described by Kepler's laws." },
+  { "q": "Which planet is known as the 'Red Planet'?", "o": ["Venus", "Mars", "Jupiter", "Saturn"], "a": 1, "sol": "Iron oxide on Mars' surface gives it a reddish appearance." },
+  { "q": "The largest planet in our solar system is:", "o": ["Earth", "Neptune", "Jupiter", "Saturn"], "a": 2, "sol": "Jupiter is a gas giant and the most massive planet." },
+  { "q": "Which planet is closest to the Sun?", "o": ["Venus", "Earth", "Mercury", "Mars"], "a": 2, "sol": "Mercury is the innermost planet." },
+  { "q": "Which phase comes immediately after New Moon?", "o": ["Full Moon", "Waxing Crescent", "Waning Gibbous", "First Quarter"], "a": 1, "sol": "The moon begins to 'grow' (wax) after the new phase." },
+  { "q": "The 'Crescent' phase looks like a:", "o": ["Full circle", "Half circle", "Curved sickle shape", "Square"], "a": 2, "sol": "A crescent is a thin sliver of light." },
+  { "q": "When we see the Moon getting smaller, it is:", "o": ["Waxing", "Waning", "Growing", "Rising"], "a": 1, "sol": "Waning means shrinking in appearance." },
+  { "q": "The atmosphere of the Earth protects us from:", "o": ["Moonlight", "Harmful solar radiation", "Gravity", "Stars"], "a": 1, "sol": "The atmosphere filters UV rays and protects from meteors." },
+  { "q": "Which of these does the Moon NOT have?", "o": ["Craters", "Mountains", "Atmosphere", "Rocks"], "a": 2, "sol": "The Moon lacks a significant atmosphere, which is why there is no weather." },
+  { "q": "The footprints on the Moon stay for a long time because there is no:", "o": ["Gravity", "Wind or Water", "Sunlight", "Rocks"], "a": 1, "sol": "Without an atmosphere, there is no erosion from wind or rain." },
+  { "q": "How many planets are there in our solar system?", "o": ["7", "8", "9", "10"], "a": 1, "sol": "According to current astronomical definitions, there are 8 planets." },
+  { "q": "The Sun's gravity is ________ than the Earth's gravity.", "o": ["Much weaker", "Much stronger", "Same", "Zero"], "a": 1, "sol": "Massive objects have stronger gravitational pulls." },
+  { "q": "A total solar eclipse can be seen from:", "o": ["Everywhere on Earth", "A narrow path on Earth", "Only the North Pole", "Only at night"], "a": 1, "sol": "Only those in the umbra of the Moon's shadow see a total eclipse." },
+  { "q": "The Moon shines because it:", "o": ["Has fire", "Reflects sunlight", "Has electricity", "Is a star"], "a": 1, "sol": "The Moon is non-luminous and acts as a reflector." },
+  { "q": "What is an Equinox?", "o": ["Longest day", "Shortest day", "Equal day and night", "No sun day"], "a : 2", "sol : Equinoxes occur when the Sun is directly above the equator." },
+  { "q": "Which season has the shortest days?", "o": ["Summer", "Spring", "Winter", "Autumn"], "a": 2, "sol": "During winter solstice, the hemisphere has the least daylight." },
+  { "q": "Which of the following is the 'Evening Star'?", "o": ["Mars", "Venus", "Jupiter", "Saturn"], "a": 1, "sol": "Venus is often visible shortly after sunset." },
+  { "q": "The Earth's axis is tilted with respect to its:", "o": ["Equator", "Orbital plane", "Moon", "Atmosphere"], "a": 1, "sol": "The tilt is 23.5 degrees relative to the vertical of the orbital plane." },
+  { "q": "If the Earth stopped rotating, what would happen?", "o": ["No more gravity", "No more day/night cycle", "No more seasons", "Earth would fall"], "a": 1, "sol": "One side would face the Sun permanently, the other would be in permanent darkness." },
+  { "q": "Stars appear to move from East to West because:", "o": ["They actually move", "Earth rotates West to East", "Wind blows them", "Sun pushes them"], "a": 1, "sol": "Relative motion makes stationary objects appear to move opposite to the observer." },
+  { "q": "The Pole Star (Polaris) appears stationary because:", "o": ["It doesn't move", "It lies on the Earth's axis line", "It is very close", "It is too bright"], "a": 1, "sol": "Objects on the line of the axis of rotation do not appear to move." },
+  { "q": "The distance between Earth and Sun is approximately:", "o": ["150 million km", "384,000 km", "1 million km", "10,000 km"], "a": 0, "sol": "This distance is known as 1 Astronomical Unit (AU)." },
+  { "q": "The distance between Earth and Moon is approximately:", "o": ["150 million km", "384,000 km", "1 billion km", "50,000 km"], "a": 1, "sol": "The Moon is much closer to Earth than the Sun." },
+  { "q": "Why is it dangerous to look at a solar eclipse directly?", "o": ["Moon is poisonous", "Intense solar radiation can damage eyes", "It causes rain", "It makes you dizzy"], "a": 1, "sol": "Even during an eclipse, the Sun's rays can cause permanent retinal damage." },
+  { "q": "A group of stars forming a pattern is called a:", "o": ["Galaxy", "Constellation", "Solar system", "Orbit"], "a": 1, "sol": "Constellations like Orion or Ursa Major are recognized star patterns." },
+  { "q": "Which constellation is also known as the 'Great Bear'?", "o": ["Orion", "Cassiopeia", "Ursa Major", "Leo"], "a": 2, "sol": "Ursa Major is easily identifiable in the northern sky." },
+  { "q": "The 'Hunter' constellation is called:", "o": ["Orion", "Ursa Minor", "Scorpius", "Taurus"], "a": 0, "sol": "Orion is visible in winter and features a prominent 'belt'." },
+  { "q": "Is the Sun the largest star in the universe?", "o": ["Yes", "No", "Only in summer", "It is not a star"], "a": 1, "sol": "The Sun is an average-sized star; many others are much larger." },
+  { "q": "During a lunar eclipse, the Moon often appears:", "o": ["Bright white", "Reddish", "Blue", "Green"], "a": 1, "sol": "Earth's atmosphere scatters sunlight, making the Moon look 'blood red'." },
+  { "q": "The First Quarter Moon appears as a:", "o": ["Full circle", "Half circle", "Sliver", "Nothing"], "a": 1, "sol": "Half of the moon's visible disk is illuminated." },
+  { "q": "Waning Crescent means the Moon is:", "o": ["Getting bigger", "Nearly full", "Almost new and shrinking", "A half moon"], "a": 2, "sol": "It is the last phase before the New Moon." },
+  { "q": "The Sun rises in the East and sets in the West. This is ________ motion.", "o": ["Real", "Apparent", "Orbital", "Backward"], "a": 1, "sol": "It is an illusion caused by Earth's rotation." },
+  { "q": "Gravity on the Moon is ________ of the Earth's gravity.", "o": ["1/2", "1/6", "Double", "Same"], "a": 1, "sol": "Because the Moon has less mass, its gravity is much weaker." },
+  { "q": "If you weigh 60kg on Earth, you would weigh about ________ on the Moon.", "o": ["60kg", "10kg", "120kg", "0kg"], "a": 1, "sol": "Weight is force (mass x gravity); 60 / 6 = 10." },
+  { "q": "Which planet has beautiful rings around it?", "o": ["Mars", "Venus", "Saturn", "Mercury"], "a": 2, "sol": "Saturn is famous for its extensive and bright ring system." },
+  { "q": "Planets reflect light from the:", "o": ["Moon", "Sun", "Stars", "Earth"], "a": 1, "sol": "Planets are non-luminous and visible due to reflected sunlight." },
+  { "q": "The 'Morning Star' is usually:", "o": ["Sirius", "Venus", "Mars", "Polaris"], "a": 1, "sol": "Venus is the brightest object in the sky after the Sun and Moon." },
+  { "q": "A 'leap year' has ________ days.", "o": ["365", "364", "366", "360"], "a": 2, "sol": "An extra day is added to February." },
+  { "q": "The phases of the Moon repeat every ________ days.", "o": ["30", "29.5", "365", "7"], "a": 1, "sol": "The lunar cycle takes about 29.5 days." },
+  { "q": "Which part of the Moon is lit by the Sun?", "o": ["Always the top", "Always the half facing the Sun", "The whole Moon", "The center"], "a": 1, "sol": "Like any sphere in space, only the side facing the light source is illuminated." },
+  { "q": "Shadows are formed because light travels in:", "o": ["Curves", "Straight lines", "Circles", "Waves"], "a": 1, "sol": "Rectilinear propagation means light cannot bend around objects." },
+  { "q": "The Earth's orbit is ________ path.", "o": ["A circular", "An elliptical", "A linear", "A random"], "a": 1, "sol": "Planetary orbits are slightly flattened circles (ellipses)." },
+  { "q": "The Sun is at the ________ of the solar system.", "o": ["Edge", "Center", "Top", "Bottom"], "a": 1, "sol": "The solar system is heliocentric (Sun-centered)." },
+  { "q": "Small rocky bodies orbiting the Sun, mostly between Mars and Jupiter, are:", "o": ["Comets", "Asteroids", "Stars", "Moons"], "a : 1", "sol : This region is called the Asteroid Belt." },
+  { "q": "Icy bodies that develop a 'tail' when close to the Sun are:", "o": ["Meteors", "Asteroids", "Comets", "Planets"], "a": 2, "sol : Comets are made of ice and dust." },
+  { "q": "A 'shooting star' is actually a:", "o": ["Falling star", "Meteor", "Planet", "Comet"], "a": 1, "sol : Meteors are small particles burning up in the atmosphere." },
+  { "q": "If the Moon is in the waning phase, it is moving towards:", "o": ["Full Moon", "New Moon", "Gibbous Moon", "Half Moon"], "a : 1", "sol : Waning leads to New Moon; Waxing leads to Full Moon." },
+  { "q": "What causes the 'Day' to be 24 hours?", "o": ["Revolution", "Rotation", "Tilt", "Orbit size"], "a": 1, "sol : 24 hours is the time for one full rotation." },
+  { "q": "The Sun appears to be the same size as the Moon in the sky because:", "o": ["They are same size", "Sun is farther but larger", "Moon is closer but smaller", "Both B and C"], "a": 3, "sol : Their angular diameter is almost identical due to the ratio of distance and size." },
+  { "q": "We can see the New Moon on:", "o": ["A clear night", "During the day with a telescope", "Never (it is not visible)", "Only during an eclipse"], "a : 2", "sol : The sunlit side faces away from us, making it invisible." },
+  { "q": "A total eclipse is a ________ event.", "o": ["Common", "Rare for a specific location", "Daily", "Weekly"], "a": 1, "sol : While eclipses happen often, seeing a total one from a specific city is rare." },
+  { "q": "Which hemisphere is tilted toward the sun in June?", "o": ["Northern", "Southern", "Eastern", "Western"], "a": 0, "sol : This causes summer in the Northern hemisphere." },
+  { "q": "The Earth is like a giant ________ because of its rotation.", "o": ["Magnet", "Top (spinning toy)", "Ball of ice", "Static rock"], "a": 1, "sol : It spins around an axis like a top." },
+  { "q": "Which of the following does NOT orbit the Sun?", "o": ["Earth", "Mars", "The Moon", "Asteroids"], "a : 2", "sol : The Moon orbits the Earth." },
+  { "q": "Daylight is longer in ________.", "o": ["Winter", "Summer", "Autumn", "Equinox"], "a": 1, "sol : The tilt exposes the hemisphere to more hours of sun." },
+  { "q": "Tides happen ________ times a day in most places.", "o": ["One", "Two", "Four", "Ten"], "a": 1, "sol : There are generally two high and two low tides every day." },
+  { "q": "The Moon has ________ of its own light.", "o": ["A lot", "None", "Faint", "Blue"], "a : 1", "sol : It is a non-luminous body." },
+  { "q": "The Earth's revolution causes ________.", "o": ["Day/Night", "Seasons", "Tides", "Wind"], "a": 1, "sol : Combined with tilt, revolution changes season." },
+  { "q": "The Sun's diameter is about ________ times that of Earth.", "o": ["10", "109", "1000", "5"], "a": 1, "sol : The Sun is massive compared to the planets." },
+  { "q": "Which of these is a dwarf planet?", "o": ["Mars", "Pluto", "Neptune", "Mercury"], "a": 1, "sol : Pluto was reclassified in 2006." },
+  { "q": "How many stars are in our solar system?", "o": ["Millions", "Thousands", "One", "Eight"], "a : 2", "sol : Only the Sun is a star in our solar system." },
+  { "q": "The study of celestial objects is called:", "o": ["Biology", "Astronomy", "Geology", "Physics"], "a": 1, "sol : Astronomy is the science of space and stars." }
 ]
