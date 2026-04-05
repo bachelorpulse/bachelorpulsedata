@@ -1,152 +1,102 @@
 [
-{
-"q": "The process of breaking down complex food into simpler substances is called:",
-"o": ["Respiration", "Digestion", "Excretion", "Circulation"],
-"a": 1,
-"sol": "Digestion is the mechanical and chemical breakdown of food into forms that cells can absorb."
-},
-{
-"q": "Which organ in the human body is responsible for the absorption of most nutrients?",
-"o": ["Stomach", "Large Intestine", "Small Intestine", "Liver"],
-"a": 2,
-"sol": "The small intestine has villi that increase the surface area for efficient nutrient absorption."
-},
-{
-"q": "In which part of the cell does aerobic respiration primarily occur?",
-"o": ["Nucleus", "Mitochondria", "Ribosome", "Cytoplasm"],
-"a": 1,
-"sol": "Mitochondria are known as the powerhouse of the cell where ATP is produced during respiration."
-},
-{
-"q": "The movement of blood from the heart to the lungs and back is called:",
-"o": ["Systemic circulation", "Pulmonary circulation", "Single circulation", "Open circulation"],
-"a": 1,
-"sol": "Pulmonary refers to the lungs; this circuit oxygenates the blood."
-},
-{
-"q": "Which of these animals breathes through its skin?",
-"o": ["Fish", "Earthworm", "Cockroach", "Bird"],
-"a": 1,
-"sol": "Earthworms have moist skin that allows for the exchange of gases directly with the environment."
-},
-{
-"q": "The functional unit of the human kidney is called:",
-"o": ["Neuron", "Nephron", "Alveoli", "Villi"],
-"a": 1,
-"sol": "Nephrons filter the blood and form urine by removing waste products."
-},
-{
-"q": "Bile juice, which helps in the digestion of fats, is produced by the:",
-"o": ["Pancreas", "Gallbladder", "Liver", "Stomach"],
-"a": 2,
-"sol": "The liver produces bile, which is then stored in the gallbladder until needed."
-},
-{
-"q": "What is the rhythmic contraction and relaxation of the alimentary canal called?",
-"o": ["Peristalsis", "Assimilation", "Egestion", "Mastication"],
-"a": 0,
-"sol": "Peristalsis pushes food down the digestive tract towards the stomach."
-},
-{
-"q": "Which component of blood is responsible for clotting at the site of an injury?",
-"o": ["Red Blood Cells", "White Blood Cells", "Plasma", "Platelets"],
-"a": 3,
-"sol": "Platelets (thrombocytes) aggregate to form a plug and prevent excessive bleeding."
-},
-{
-"q": "The gas exchange in human lungs takes place in tiny air sacs called:",
-"o": ["Bronchi", "Trachea", "Alveoli", "Diaphragm"],
-"a": 2,
-"sol": "Alveoli provide a large surface area for oxygen to enter the blood and CO2 to leave."
-},
-{
-"q": "Which of the following is a nitrogenous waste excreted by humans?",
-"o": ["Ammonia", "Uric Acid", "Urea", "Carbon Dioxide"],
-"a": 2,
-"sol": "Humans are ureotelic, meaning we excrete nitrogenous waste mainly as urea."
-},
-{
-"q": "The human heart has how many chambers?",
-"o": ["Two", "Three", "Four", "One"],
-"a": 2,
-"sol": "A four-chambered heart prevents the mixing of oxygenated and deoxygenated blood."
-},
-{
-"q": "Which enzyme present in saliva starts the digestion of starch?",
-"o": ["Pepsin", "Lipase", "Salivary Amylase", "Trypsin"],
-"a": 2,
-"sol": "Amylase breaks down starch into simpler sugars like maltose in the mouth."
-},
-{
-"q": "Anaerobic respiration in muscle cells during heavy exercise produces:",
-"o": ["Ethanol", "Lactic Acid", "Citric Acid", "Acetic Acid"],
-"a": 1,
-"sol": "The buildup of lactic acid can cause muscle cramps due to insufficient oxygen."
-},
-{
-"q": "The main function of White Blood Cells (WBCs) is to:",
-"o": ["Transport Oxygen", "Help in clotting", "Fight infections", "Carry nutrients"],
-"a": 2,
-"sol": "WBCs are part of the immune system and protect the body against pathogens."
-},
-{
-"q": "Arteries carry blood:",
-"o": ["Towards the heart", "Away from the heart", "Only to the brain", "From lungs to heart"],
-"a": 1,
-"sol": "Arteries typically carry oxygenated blood away from the heart to various body parts."
-},
-{
-"q": "Which pigment gives red color to the blood and carries oxygen?",
-"o": ["Chlorophyll", "Hemoglobin", "Melanin", "Bilirubin"],
-"a": 1,
-"sol": "Hemoglobin binds with oxygen to transport it throughout the body."
-},
-{
-"q": "Excretion in Amoeba takes place through:",
-"o": ["Kidneys", "Contractile vacuole", "Nephridia", "Malpighian tubules"],
-"a": 1,
-"sol": "Unicellular organisms like Amoeba use vacuoles to expel waste and excess water."
-},
-{
-"q": "The muscular sheet that separates the chest cavity from the abdominal cavity is the:",
-"o": ["Pleura", "Rib cage", "Diaphragm", "Sternum"],
-"a": 2,
-"sol": "The diaphragm moves up and down to facilitate the breathing process."
-},
-{
-"q": "Digestion of proteins begins in the:",
-"o": ["Mouth", "Esophagus", "Stomach", "Small Intestine"],
-"a": 2,
-"sol": "The stomach secretes HCl and pepsin, which start the breakdown of proteins."
-},
-{
-"q": "Pulse rate is measured from which blood vessel?",
-"o": ["Vein", "Artery", "Capillary", "Nerve"],
-"a": 1,
-"sol": "The pulse is the rhythmic expansion of arteries as blood is pumped by the heart."
-},
-{
-"q": "Which part of the digestive system absorbs water from undigested food?",
-"o": ["Small Intestine", "Large Intestine", "Rectum", "Anus"],
-"a": 1,
-"sol": "The large intestine's primary role is to reabsorb water and form solid waste."
-},
-{
-"q": "In fish, the heart is:",
-"o": ["2-chambered", "3-chambered", "4-chambered", "Not present"],
-"a": 0,
-"sol": "Fish have a single circuit circulation with one atrium and one ventricle."
-},
-{
-"q": "Which instrument is used to measure blood pressure?",
-"o": ["Stethoscope", "Thermometer", "Sphygmomanometer", "Barometer"],
-"a": 2,
-"sol": "A sphygmomanometer measures the pressure exerted by blood against artery walls."
-},
-{
-"q": "The process by which digested food is taken up by the cells for energy is:",
-"o": ["Absorption", "Ingestion", "Assimilation", "Egestion"],
-"a": 2,
-"sol": "Assimilation is the final step where nutrients become part of the living tissues."
-}
+  { "q": "The process of taking food into the body is called:", "o": ["Digestion", "Absorption", "Ingestion", "Egestion"], "a": 2, "sol": "Ingestion is the initial process of taking food through the mouth." },
+  { "q": "Which of the following components of food is broken down into glucose during digestion?", "o": ["Proteins", "Fats", "Vitamins", "Carbohydrates"], "a": 3, "sol": "Carbohydrates like starch are complex sugars that break down into simple glucose." },
+  { "q": "The rhythmic contraction and expansion of the heart is known as:", "o": ["Pulse", "Heartbeat", "Circulation", "Respiration"], "a": 1, "sol": "Heartbeat is the regular movement of heart muscles to pump blood." },
+  { "q": "In which part of the digestive system is water absorbed from undigested food?", "o": ["Small Intestine", "Large Intestine", "Stomach", "Oesophagus"], "a": 1, "sol": "The large intestine's primary function is to absorb water and some salts from waste." },
+  { "q": "Which blood vessel carries oxygen-rich blood from the lungs to the heart?", "o": ["Pulmonary Artery", "Pulmonary Vein", "Aorta", "Vena Cava"], "a": 1, "sol": "Unlike other veins, the pulmonary vein carries oxygenated blood to the left atrium." },
+  { "q": "The muscular floor of the chest cavity is called the:", "o": ["Rib cage", "Diaphragm", "Lungs", "Trachea"], "a": 1, "sol": "The diaphragm is a large, flat muscle that aids in breathing." },
+  { "q": "Bile juice is stored in a sac-like organ called the:", "o": ["Liver", "Pancreas", "Gall bladder", "Stomach"], "a": 2, "sol": "Bile is produced in the liver but stored in the gall bladder until needed." },
+  { "q": "Which of the following organisms breathes through its skin?", "o": ["Fish", "Earthworm", "Cockroach", "Human"], "a": 1, "sol": "Earthworms have moist, slimy skin through which gases can easily pass." },
+  { "q": "The finger-like outgrowths in the inner wall of the small intestine are called:", "o": ["Villi", "Pseudopodia", "Cilia", "Flagella"], "a": 0, "sol": "Villi increase the surface area for efficient absorption of digested food." },
+  { "q": "What is the function of Red Blood Cells (RBCs)?", "o": ["Fight germs", "Clot blood", "Transport oxygen", "Produce hormones"], "a": 2, "sol": "RBCs contain hemoglobin, which binds with oxygen for transport." },
+  { "q": "The process of removal of toxic waste products produced in the cells is:", "o": ["Digestion", "Excretion", "Egestion", "Respiration"], "a": 1, "sol": "Excretion involves filtering metabolic wastes from the blood." },
+  { "q": "Which enzyme is present in saliva that breaks down starch into sugar?", "o": ["Pepsin", "Lipase", "Amylase", "Trypsin"], "a : 2", "sol": "Salivary amylase begins the chemical digestion of carbohydrates in the mouth." },
+  { "q": "Amoeba captures its food with the help of:", "o": ["Tentacles", "Cilia", "Pseudopodia", "Food vacuole"], "a : 2", "sol": "Pseudopodia or 'false feet' surround and engulf food particles." },
+  { "q": "The chamber of the heart that receives oxygenated blood from the lungs is the:", "o": ["Right Atrium", "Right Ventricle", "Left Atrium", "Left Ventricle"], "a : 2", "sol": "Oxygenated blood from the pulmonary vein enters the left atrium." },
+  { "q": "During exhalation, the ribs move:", "o": ["Upwards and outwards", "Downwards and inwards", "Only upwards", "Do not move"], "a": 1, "sol": "Exhalation involves the ribs moving down and in to decrease chest volume." },
+  { "q": "Which organ filters blood to produce urine?", "o": ["Heart", "Lungs", "Liver", "Kidneys"], "a": 3, "sol": "Kidneys contain nephrons that filter waste and excess water from blood." },
+  { "q": "The acid produced in the stomach to kill bacteria is:", "o": ["Sulfuric acid", "Nitric acid", "Hydrochloric acid", "Acetic acid"], "a : 2", "sol": "HCl provides an acidic medium and kills harmful microbes in food." },
+  { "q": "Platelets help in:", "o": ["Transporting oxygen", "Clotting of blood", "Immunity", "Digestion"], "a": 1, "sol": "Platelets form a plug to stop bleeding at the site of an injury." },
+  { "q": "The common passage for both food and air is the:", "o : ["Larynx", "Pharynx", "Trachea", "Oesophagus"], "a": 1, "sol": "The pharynx serves as a crossroad for the respiratory and digestive tracts." },
+  { "q": "In ruminants, the partially digested food is called:", "o": ["Chyme", "Cud", "Bolus", "Pellet"], "a": 1, "sol": "Cud is food brought back from the rumen to the mouth for further chewing." },
+  { "q": "Which of the following is NOT a part of the human excretory system?", "o": ["Ureters", "Urethra", "Uinary bladder", "Anus"], "a": 3, "sol": "The anus is part of the digestive system for egestion, not excretion." },
+  { "q": "The breaking of glucose into alcohol and CO2 without oxygen is:", "o": ["Aerobic respiration", "Anaerobic respiration", "Photosynthesis", "Fermentation"], "a": 1, "sol": "Anaerobic respiration occurs in the absence of oxygen, producing less energy." },
+  { "q": "The main excretory product in humans is:", "o": ["Ammonia", "Uric acid", "Urea", "Carbon dioxide"], "a : 2", "sol": "Urea is the nitrogenous waste filtered by human kidneys." },
+  { "q": "The part of the digestive tract where no digestion takes place is:", "o": ["Mouth", "Stomach", "Oesophagus", "Small Intestine"], "a : 2", "sol": "The oesophagus only acts as a conduit to move food to the stomach." },
+  { "q": "Which component of blood gives it the red color?", "o": ["Plasma", "Platelets", "Hemoglobin", "WBCs"], "a : 2", "sol": "Hemoglobin is an iron-rich protein that appears red." },
+  { "q": "Spiracles are respiratory openings found in:", "o": ["Fish", "Insects", "Birds", "Mammals"], "a": 1, "sol": "Insects like cockroaches breathe through small openings called spiracles." },
+  { "q": "The digestion of fats is completed in the:", "o": ["Stomach", "Mouth", "Small Intestine", "Large Intestine"], "a : 2", "sol": "The small intestine is the site for complete digestion of all food components." },
+  { "q": "Pulse rate is measured from:", "o": ["Veins", "Capillaries", "Arteries", "Nerves"], "a : 2", "sol": "Pulse is the throbbing of arteries as blood is pumped through them." },
+  { "q": "Fish use ________ to absorb oxygen dissolved in water.", "o": ["Lungs", "Skin", "Gills", "Trachea"], "a : 2", "sol": "Gills are rich in blood vessels for gas exchange in water." },
+  { "q": "The correct sequence of the digestive process is:", "o": ["Ingestion -> Digestion -> Absorption -> Assimilation -> Egestion", "Digestion -> Ingestion -> Absorption -> Egestion -> Assimilation", "Ingestion -> Absorption -> Digestion -> Assimilation -> Egestion", "Assimilation -> Digestion -> Absorption -> Ingestion -> Egestion"], "a": 0, "sol": "This is the logical order of processing food in animals." },
+  { "q": "White Blood Cells (WBCs) are often called 'soldiers' because they:", "o": ["Carry oxygen", "Help in clotting", "Fight against germs", "Digests food"], "a : 2", "sol": "WBCs are a key part of the immune system." },
+  { "q": "A normal human adult at rest breathes ________ times per minute.", "o": ["72-80", "15-18", "50-60", "5-10"], "a": 1, "sol": "The average resting breathing rate is 15 to 18 times per minute." },
+  { "q": "The largest gland in the human body is the:", "o": ["Pancreas", "Thyroid", "Liver", "Salivary gland"], "a : 2", "sol": "The liver is the largest internal organ and gland." },
+  { "q": "Which blood vessels have thin walls to allow exchange of materials?", "o": ["Arteries", "Veins", "Capillaries", "Aorta"], "a : 2", "sol": "Capillaries are one-cell thick to facilitate diffusion." },
+  { "q": "Lactic acid accumulation in muscles causes:", "o": ["Energy boost", "Muscle cramps", "Better growth", "Increased oxygen"], "a": 1, "sol": "Anaerobic respiration in muscle cells produces lactic acid during heavy exercise." },
+  { "q": "The semi-solid waste eliminated from the body through the anus is:", "o": ["Urine", "Sweat", "Faeces", "Saliva"], "a : 2", "sol": "This is the process of egestion of undigested food." },
+  { "q": "The instrument used to listen to the heartbeat is:", "o": ["Sphygmomanometer", "Stethoscope", "Thermometer", "Microscope"], "a": 1, "sol": "A stethoscope amplifies the sound of heart valves closing." },
+  { "q": "During inhalation, the diaphragm moves:", "o": ["Up", "Down", "Remains stationary", "Sideways"], "a": 1, "sol": "The diaphragm flattens (moves down) to increase chest space for air." },
+  { "q": "The movement of digested food into the blood vessels is:", "o": ["Assimilation", "Absorption", "Digestion", "Egestion"], "a": 1, "sol": "Absorption happens mainly in the small intestine." },
+  { "q": "Which part of the heart prevents the backflow of blood?", "o": ["Atria", "Ventricles", "Valves", "Septum"], "a : 2", "sol": "Valves ensure blood flows in only one direction." },
+  { "q": "Dialysis is a treatment used when ________ fail.", "o": ["Lungs", "Heart", "Kidneys", "Liver"], "a : 2", "sol": "Artificial kidneys filter blood in dialysis patients." },
+  { "q": "Proteins are broken down into simpler substances called:", "o": ["Fatty acids", "Amino acids", "Glucose", "Glycerol"], "a": 1, "sol": "Amino acids are the building blocks of proteins." },
+  { "q": "Which blood vessel has valves to prevent backflow?", "o": ["Artery", "Vein", "Capillary", "All of these"], "a": 1, "sol": "Veins carry blood at lower pressure and require valves." },
+  { "q": "Yeast is used to make wine and beer because it produces:", "o": ["Oxygen", "Lactic acid", "Alcohol", "Water"], "a : 2", "sol": "Anaerobic respiration in yeast (fermentation) yields ethanol." },
+  { "q": "The wall that separates the right and left sides of the heart is the:", "o": ["Valves", "Septum", "Atrium", "Pericardium"], "a": 1, "sol": "The septum prevents mixing of oxygenated and deoxygenated blood." },
+  { "q": "The long tube that carries urine from kidneys to the bladder is the:", "o": ["Urethra", "Ureter", "Nephron", "Oviduct"], "a": 1, "sol": "Ureters are the two tubes connecting kidneys to the urinary bladder." },
+  { "q": "Cellulose is a type of ________ that humans cannot digest.", "o": ["Protein", "Vitamin", "Carbohydrate", "Fat"], "a : 2", "sol": "Humans lack the bacteria/enzymes needed to break down cellulose fiber." },
+  { "q": "The rate of heartbeat of a normal adult person is about:", "o": ["15-18 per min", "72-80 per min", "100-120 per min", "40-50 per min"], "a": 1, "sol": "Pulse rate and heartbeat are usually the same." },
+  { "q": "Increased physical activity leads to a/an ________ in the breathing rate.", "o": ["Decrease", "Increase", "No change", "Stop"], "a": 1, "sol": "The body needs more oxygen to produce energy quickly." },
+  { "q": "Which of the following contains digestive enzymes and is secreted by the pancreas?", "o": ["Bile", "Saliva", "Pancreatic juice", "Mucus"], "a : 2", "sol": "Pancreatic juice breaks down carbs, proteins, and fats." },
+  { "q": "Sweat contains water and:", "o": ["Glucose", "Salts", "Proteins", "Oxygen"], "a": 1, "sol": "Sweat helps in excretion of salts and cooling the body." },
+  { "q": "Which of these is the correct path of air during inhalation?", "o": ["Nostrils -> Pharynx -> Larynx -> Trachea -> Lungs", "Lungs -> Trachea -> Pharynx -> Nostrils", "Nostrils -> Lungs -> Trachea -> Pharynx", "Mouth -> Stomach -> Lungs"], "a": 0, "sol": "This represents the respiratory tract." },
+  { "q": "Where does the 'assimilation' of food take place?", "o": ["Stomach", "Small Intestine", "Body cells", "Large Intestine"], "a : 2", "sol": "Assimilation is the utilization of absorbed food by cells for energy and growth." },
+  { "q": "Blood from the heart is transported to all parts of the body by:", "o": ["Veins", "Arteries", "Capillaries", "Nerves"], "a": 1, "sol": "Arteries carry blood away from the heart under high pressure." },
+  { "q": "Frogs can breathe through both:", "o": ["Gills and Lungs", "Lungs and Skin", "Skin and Gills", "Trachea and Lungs"], "a": 1, "sol": "Frogs use lungs on land and moist skin in water." },
+  { "q": "The muscular bag where urine is stored is the:", "o": ["Kidney", "Gall bladder", "Urinary bladder", "Urethra"], "a : 2", "sol": "The bladder holds urine until it is excreted." },
+  { "q": "Which animal has a four-chambered stomach (rumen, reticulum, omasum, abomasum)?", "o": ["Lion", "Cow", "Human", "Rabbit"], "a": 1, "sol": "Ruminants have specialized stomachs to digest grass." },
+  { "q": "The liquid part of the blood is called:", "o": ["Serum", "Plasma", "Lymph", "Water"], "a": 1, "sol": "Plasma is a straw-colored fluid containing 90% water." },
+  { "q": "Which of the following is produced during aerobic respiration?", "o": ["Alcohol + CO2", "Lactic acid + Energy", "CO2 + Water + Energy", "Glucose + Oxygen"], "a : 2", "sol": "Full breakdown of glucose with oxygen produces CO2 and water." },
+  { "q": "Mastication is the process of:", "o": ["Swallowing food", "Chewing food", "Absorbing food", "Eliminating food"], "a": 1, "sol": "Teeth help in mechanical breakdown (mastication) in the mouth." },
+  { "q": "Arteries have thick elastic walls because:", "o": ["Blood flows slowly", "Blood flows under high pressure", "They carry deoxygenated blood", "To prevent backflow"], "a": 1, "sol": "The thick walls withstand the pressure of blood pumped by the heart." },
+  { "q": "Insects have a network of air tubes called ________ for gas exchange.", "o": ["Gills", "Alveoli", "Tracheae", "Bronchi"], "a : 2", "sol": "Tracheal systems carry air directly to the cells." },
+  { "q": "Which vitamin is synthesized by bacteria in the large intestine?", "o": ["Vitamin A", "Vitamin C", "Vitamin K", "Vitamin D"], "a : 2", "sol": "Symbiotic bacteria in the gut help produce Vitamin K." },
+  { "q": "The pulmonary artery carries ________ blood.", "o": ["Oxygenated", "Deoxygenated", "Mixed", "Nutrient-rich"], "a": 1, "sol": "It carries blood from the heart to the lungs for oxygenation." },
+  { "q": "The end products of fat digestion are fatty acids and:", "o": ["Glucose", "Glycerol", "Amino acids", "Starch"], "a": 1, "sol": "Fats break down into fatty acids and glycerol." },
+  { "q": "The number of teeth in a permanent set of a human adult is:", "o": ["20", "28", "32", "24"], "a : 2", "sol": "An adult usually has 32 permanent teeth." },
+  { "q": "Exchange of gases in the lungs takes place at the:", "o": ["Trachea", "Bronchi", "Alveoli", "Pharynx"], "a : 2", "sol": "Alveoli are tiny air sacs where diffusion happens." },
+  { "q": "Bile helps in the digestion of:", "o": ["Proteins", "Carbohydrates", "Fats", "Vitamins"], "a : 2", "sol": "Bile emulsifies fats into smaller droplets." },
+  { "q": "Which chamber of the heart pumps deoxygenated blood to the lungs?", "o": ["Right Atrium", "Right Ventricle", "Left Atrium", "Left Ventricle"], "a": 1, "sol": "The right ventricle pumps blood into the pulmonary artery." },
+  { "q": "Hydra uses ________ to capture its prey.", "o": ["Cilia", "Pseudopodia", "Tentacles", "Tongue"], "a : 2", "sol": "Tentacles sting and pull food into the mouth." },
+  { "q": "The opening through which urine is passed out of the body is:", "o": ["Ureter", "Urethra", "Anus", "Nephron"], "a": 1, "sol": "The urethra is the terminal part of the urinary system." },
+  { "q": "Which part of the tooth is the hardest substance in the body?", "o": ["Dentine", "Pulp", "Enamel", "Gum"], "a : 2", "sol": "Enamel protects the tooth crown." },
+  { "q": "Hemoglobin binds most strongly with:", "o": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"], "a": 1, "sol": "Oxygen transport is the primary role of hemoglobin." },
+  { "q": "An adult human excretes about ________ liters of urine per day.", "o": ["5-10 L", "1-1.8 L", "0.5 L", "100 ml"], "a": 1, "sol": "This is the typical range for a healthy adult." },
+  { "q": "Which of these is an example of an organism that performs only anaerobic respiration?", "o": ["Earthworm", "Yeast", "Fish", "Ant"], "a": 1, "sol": "Yeast can survive without oxygen for long periods." },
+  { "q": "The rhythmic movement of the food pipe walls is called:", "o": ["Circulation", "Peristalsis", "Digestion", "Oscillation"], "a": 1, "sol": "Peristalsis pushes food down the digestive tract." },
+  { "q": "Aorta is the:", "o": ["Largest vein", "Largest artery", "Part of the lung", "Part of the kidney"], "a": 1, "sol": "The aorta carries oxygenated blood from the heart to the whole body." },
+  { "q": "Whales and dolphins breathe through:", "o": ["Gills", "Blowholes (Lungs)", "Skin", "Fins"], "a": 1, "sol": "They are mammals and must come to the surface to breathe air." },
+  { "q": "Which type of teeth are used for tearing food?", "o": ["Incisors", "Canines", "Molars", "Premolars"], "a": 1, "sol": "Canines are sharp and pointed for tearing meat." },
+  { "q": "Excretory system helps in maintaining ________ balance in the body.", "o": ["Oxygen", "Water and Salt", "Temperature", "Sugar"], "a": 1, "sol": "Osmoregulation is a key function of kidneys." },
+  { "q": "The percentage of oxygen in exhaled air is approximately:", "o": ["21%", "16.4%", "0.04%", "4.4%"], "a": 1, "sol": "Inhaled air is 21% O2; we use some and exhale about 16.4%." },
+  { "q": "Trypsin is an enzyme that digests:", "o": ["Fats", "Proteins", "Sugars", "Minerals"], "a": 1, "sol": "It is a protease secreted by the pancreas." },
+  { "q": "Heart failure occurs when the ________ is unable to pump blood effectively.", "o": ["Lungs", "Heart", "Liver", "Brain"], "a": 1, "sol": "It is a chronic condition of the cardiovascular system." },
+  { "q": "The process by which energy is released from food in the cells is:", "o": ["Cellular respiration", "Digestion", "Photosynthesis", "Circulation"], "a": 0, "sol": "This occurs inside the mitochondria." },
+  { "q": "Tongue helps in:", "o": ["Mixing food with saliva", "Swallowing", "Tasting", "All of these"], "a": 3, "sol": "The tongue is a versatile muscular organ for digestion and speech." },
+  { "q": "Capillaries join together to form:", "o": ["Arteries", "Veins", "Nerves", "Tissues"], "a": 1, "sol": "Capillaries merge into venules, which then form veins." },
+  { "q": "During heavy exercise, we get cramps in legs due to the accumulation of:", "o": ["Carbon dioxide", "Lactic acid", "Alcohol", "Water"], "a": 1, "sol": "Partial breakdown of glucose produces lactic acid." },
+  { "q": "The small intestine is about ________ meters long.", "o": ["1.5", "7.5", "5", "10"], "a": 1, "sol": "It is highly coiled to fit in the abdomen." },
+  { "q": "Oxygenated blood is ________ in color.", "o": ["Dark red", "Bright red", "Blue", "Green"], "a": 1, "sol": "Hemoglobin turns bright red when saturated with oxygen." },
+  { "q": "The thin-walled upper chambers of the heart are called:", "o": ["Ventricles", "Atria", "Aorta", "Vena cava"], "a": 1, "sol": "Atria receive blood, while ventricles pump it." },
+  { "q": "Which organ produces urea?", "o": ["Kidney", "Liver", "Bladder", "Pancreas"], "a": 1, "sol": "Urea is formed in the liver from the breakdown of proteins." },
+  { "q": "In humans, the right lung has ________ lobes.", "o": ["Two", "Three", "One", "Four"], "a": 1, "sol": "The right lung is slightly larger than the left." },
+  { "q": "Villi are rich in ________ to carry away absorbed food.", "o": ["Air spaces", "Nerves", "Blood vessels", "Muscle fibers"], "a : 2", "sol": "Nutrients pass directly from villi into the bloodstream." },
+  { "q": "Carbon dioxide is removed from the body primarily by:", "o": ["Kidneys", "Skin", "Lungs", "Intestine"], "a : 2", "sol": "CO2 is a gaseous waste expelled during exhalation." },
+  { "q": "The stomach is a ________ shaped bag.", "o": ["U", "J", "O", "L"], "a": 1, "sol": "The stomach is a J-shaped muscular organ." },
+  { "q": "Pulse is felt in the wrist due to blood flowing in the:", "o": ["Radial artery", "Jugular vein", "Pulmonary vein", "Vena cava"], "a": 0, "sol": "The radial artery is close to the skin at the wrist." },
+  { "q": "Which part of the respiratory system is also known as the voice box?", "o": ["Pharynx", "Trachea", "Larynx", "Bronchi"], "a : 2", "sol": "The larynx contains vocal cords." },
+  { "q": "The pH of gastric juice in the stomach is highly:", "o": ["Alkaline", "Acidic", "Neutral", "Saline"], "a": 1, "sol": "HCl makes it highly acidic (pH around 1.5-2.5)." },
+  { "q": "One complete contraction and relaxation of the heart is one:", "o": ["Pulse", "Heartbeat", "Cycle", "Rhythm"], "a": 1, "sol": "This constitutes the cardiac cycle." },
+  { "q": "Egestion is the removal of ________ waste.", "o": ["Nitrogenous", "Undigested food", "Liquid", "Gaseous"], "a": 1, "sol": "Egestion is specific to the digestive system." }
 ]
