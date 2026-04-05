@@ -1,4 +1,4 @@
-
+[
   { "q": "Which of the following is the primary source of heat for all natural processes on Earth?", "o": ["The Moon", "The Sun", "Geothermal energy", "Ocean currents"], "a": 1, "sol": "The Sun provides the solar energy that drives temperature changes and heat transfer in nature." },
   { "q": "In solids, heat is primarily transferred through which process?", "o": ["Convection", "Radiation", "Conduction", "Absorption"], "a": 2, "sol": "Conduction is the transfer of heat between objects in direct contact or within a solid." },
   { "q": "Sea breeze is a result of which mode of heat transfer?", "o": ["Radiation", "Conduction", "Convection", "Refraction"], "a": 2, "sol": "Convection in the air causes the movement of cool air from the sea toward the land during the day." },
