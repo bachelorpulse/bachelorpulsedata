@@ -1,152 +1,102 @@
 [
-{
-"q": "What type of object does not allow any light to pass through it?",
-"o": ["Transparent", "Opaque", "Translucent", "Luminous"],
-"a": 1,
-"sol": "Opaque objects block light completely, creating a dark area called a shadow behind them."
-},
-{
-"q": "Which of the following is a natural source of light?",
-"o": ["Electric bulb", "Moon", "Sun", "Mirror"],
-"a": 2,
-"sol": "The Sun is a primary natural source of light; the Moon only reflects sunlight and doesn't produce its own."
-},
-{
-"q": "A shadow is formed when an ________ object comes in the path of light.",
-"o": ["Opaque", "Transparent", "Luminous", "Smooth"],
-"a": 0,
-"sol": "Shadows occur because light travels in straight lines and cannot pass through opaque materials."
-},
-{
-"q": "What is the phenomenon called when light bounces off a surface?",
-"o": ["Refraction", "Absorption", "Reflection", "Transmission"],
-"a": 2,
-"sol": "Reflection is the process where a surface (like a mirror) sends back the light that falls on it."
-},
-{
-"q": "Which device uses the principle of reflection to see objects that are out of direct line of sight?",
-"o": ["Microscope", "Periscope", "Telescope", "Magnifying glass"],
-"a": 1,
-"sol": "A periscope uses two mirrors placed at angles to reflect light and allow the user to see over obstacles."
-},
-{
-"q": "In a pinhole camera, the image formed is always:",
-"o": ["Erect and small", "Inverted and real", "Erect and large", "Virtual and upright"],
-"a": 1,
-"sol": "Because light travels in straight lines, the rays from the top of an object reach the bottom of the screen in a pinhole camera, creating an inverted image."
-},
-{
-"q": "What describes a 'translucent' object?",
-"o": ["Allows all light to pass", "Allows no light to pass", "Allows light to pass partially", "Reflects all light"],
-"a": 2,
-"sol": "Translucent objects, like butter paper or frosted glass, allow some light through but we cannot see clearly through them."
-},
-{
-"q": "The color of a shadow is always:",
-"o": ["Same as the object", "White", "Black/Dark", "Red"],
-"a": 2,
-"sol": "A shadow is simply the absence of light, so it appears dark regardless of the object's color."
-},
-{
-"q": "Which of the following is non-luminous?",
-"o": ["Star", "Glow-worm", "Burning candle", "Earth"],
-"a": 3,
-"sol": "The Earth does not emit its own light; it reflects the light of the Sun."
-},
-{
-"q": "The size of a shadow depends on:",
-"o": ["Distance between light source and object", "Distance between object and screen", "Size of the light source", "All of the above"],
-"a": 3,
-"sol": "The geometry of the light, the object, and the screen determines how large or small the shadow will appear."
-},
-{
-"q": "Light travels in a ________ line.",
-"o": ["Curved", "Straight", "Zig-zag", "Circular"],
-"a": 1,
-"sol": "This property is known as the rectilinear propagation of light."
-},
-{
-"q": "A plane mirror forms an image that is:",
-"o": ["Laterally inverted", "Upside down", "Blurred", "Always smaller"],
-"a": 0,
-"sol": "Lateral inversion means the left side of the object appears as the right side in the mirror image."
-},
-{
-"q": "To see a shadow, we need a source of light, an opaque object, and a ________.",
-"o": ["Mirror", "Lens", "Screen", "Glass"],
-"a": 2,
-"sol": "A screen (like a wall or the ground) is necessary for the shadow to be cast and visible."
-},
-{
-"q": "Which material is transparent?",
-"o": ["Wood", "Clear water", "Cardboard", "Stone"],
-"a": 1,
-"sol": "Clear water allows light to pass through it almost completely, making it transparent."
-},
-{
-"q": "Shadows are longest during:",
-"o": ["Noon", "Early morning and late evening", "Midnight", "They are always the same"],
-"a": 1,
-"sol": "When the sun is low on the horizon, the angle of light creates longer shadows."
-},
-{
-"q": "An image is different from a shadow because an image shows:",
-"o": ["Only shape", "Color and details", "Only darkness", "Nothing"],
-"a": 1,
-"sol": "Images are formed by reflection or refraction and show the actual colors and details of the object."
-},
-{
-"q": "What happens when light falls on a highly polished surface?",
-"o": ["It gets absorbed", "It passes through", "It gets reflected", "It vanishes"],
-"a": 2,
-"sol": "Polished surfaces like mirrors provide regular reflection."
-},
-{
-"q": "The Moon is visible to us because it:",
-"o": ["Has its own light", "Reflects sunlight", "Is a star", "Is transparent"],
-"a": 1,
-"sol": "The Moon acts like a giant reflector for the Sun's light."
-},
-{
-"q": "Which of these is a translucent material?",
-"o": ["Air", "Glass", "Oily paper", "Steel"],
-"a": 2,
-"sol": "Oil makes paper translucent, allowing some light to pass through in a scattered way."
-},
-{
-"q": "What is a 'Beam' of light?",
-"o": ["A single ray", "A collection of many rays", "A dark spot", "A type of mirror"],
-"a": 1,
-"sol": "A beam is a bundle of many individual rays of light traveling together."
-},
-{
-"q": "Eclipse is a natural phenomenon based on the formation of:",
-"o": ["Reflection", "Refraction", "Shadows", "Rainbows"],
-"a": 2,
-"sol": "Eclipses occur when one celestial body (like the Earth or Moon) casts a shadow on another."
-},
-{
-"q": "If you move an object closer to the light source, the shadow on a distant screen will:",
-"o": ["Become smaller", "Become larger", "Stay the same", "Disappear"],
-"a": 1,
-"sol": "Moving the object closer to the source blocks more of the light 'cone', creating a larger shadow."
-},
-{
-"q": "Which surface will give a clear reflection?",
-"o": ["Rough wall", "Still water in a lake", "Piece of cloth", "Sand"],
-"a": 1,
-"sol": "Smooth, still water acts like a plane mirror, producing a clear image."
-},
-{
-"q": "The property of light to travel in straight lines can be demonstrated by:",
-"o": ["Using a bent pipe", "Using a straight pipe", "Looking at a mirror", "Using a lens"],
-"a": 1,
-"sol": "You can only see a candle flame through a straight pipe; if the pipe is bent, the light is blocked."
-},
-{
-"q": "Opaque objects create ________ shadows.",
-"o": ["Faint", "No", "Clear and dark", "Colored"],
-"a": 2,
-"sol": "Since no light passes through, the area behind the object is completely devoid of light."
-}
+  { "q": "Objects that emit light of their own are called:", "o": ["Non-luminous objects", "Luminous objects", "Opaque objects", "Transparent objects"], "a": 1, "sol": "Luminous objects like the Sun or a bulb produce their own light." },
+  { "q": "Which of the following is a natural source of light?", "o": ["Electric bulb", "Torch", "Sun", "Candle"], "a": 2, "sol": "The Sun is a natural star that emits light, unlike man-made sources." },
+  { "q": "Light travels in a:", "o": ["Curved line", "Zigzag path", "Straight line", "Random direction"], "a": 2, "sol": "Rectilinear propagation of light means it travels in straight lines." },
+  { "q": "An object through which we can see clearly is:", "o": ["Opaque", "Translucent", "Transparent", "Reflective"], "a": 2, "sol": "Transparent objects allow light to pass through them completely." },
+  { "q": "Which of these is an example of a translucent object?", "o": ["Clear water", "Frosted glass", "Wooden board", "Iron sheet"], "a": 1, "sol": "Translucent objects allow light to pass partially, making images blurred." },
+  { "q": "Shadows are formed when an ________ object comes in the path of light.", "o": ["Transparent", "Translucent", "Opaque", "Luminous"], "a": 2, "sol": "Opaque objects block light completely, creating a dark area behind them." },
+  { "q": "To see a shadow, we need a source of light, an opaque object, and a:", "o": ["Mirror", "Lens", "Screen", "Glass"], "a : 2", "sol : A shadow must be cast on a surface or screen to be visible." },
+  { "q": "The image formed in a pinhole camera is always:", "o": ["Erect", "Inverted", "Lateral", "Blurred"], "a": 1, "sol": "Due to straight-line travel of light, top rays go to the bottom of the screen." },
+  { "q": "What happens to the size of a shadow when an object moves closer to the light source?", "o": ["Decreases", "Increases", "Stays same", "Disappears"], "a": 1, "sol": "The closer the object is to the source, the more light it intercepts, making the shadow larger." },
+  { "q": "A polished or smooth surface that forms an image by reflection is a:", "o": ["Wall", "Mirror", "Paper", "Stone"], "a": 1, "sol": "Mirrors have smooth surfaces that reflect light regularly." },
+  { "q": "The phenomenon of bouncing back of light from a surface is:", "o": ["Refraction", "Absorption", "Reflection", "Transmission"], "a : 2", "sol : Reflection is when light hits a surface and returns." },
+  { "q": "In a plane mirror, the left of an object appears as the right of the image. This is:", "o": ["Vertical inversion", "Lateral inversion", "Optical illusion", "Refraction"], "a": 1, "sol": "Lateral inversion is the side-to-side reversal in mirrors." },
+  { "q": "Which of these is a non-luminous object?", "o": ["Star", "Moon", "Firefly", "Glow-worm"], "a": 1, "sol": "The Moon does not produce light; it reflects sunlight." },
+  { "q": "The shape of a shadow depends on the:", "o": ["Color of object", "Shape of object", "Weight of object", "Temperature"], "a": 1, "sol": "The outline of the blocked light matches the object's shape." },
+  { "q": "A pinhole camera works on the principle of:", "o": ["Reflection", "Refraction", "Rectilinear propagation", "Dispersion"], "a : 2", "sol : It proves that light travels in straight lines." },
+  { "q": "Opaque objects ________ most of the light falling on them.", "o": ["Pass", "Refract", "Block/Absorb", "Magnify"], "a : 2", "sol : Opaque materials do not let light pass through." },
+  { "q": "Which of the following will not form a shadow?", "o": ["A piece of rock", "A clear glass pane", "A book", "A person"], "a": 1, "sol": "Transparent objects allow light to pass through, so no shadow is formed." },
+  { "q": "The color of a shadow is always:", "o": ["Same as object", "White", "Dark/Black", "Red"], "a : 2", "sol : Since light is absent in that area, it is dark regardless of object color." },
+  { "q": "A mirror changes the ________ of light falling on it.", "o": ["Speed", "Color", "Direction", "Frequency"], "a : 2", "sol : Reflection redirects the light rays." },
+  { "q": "Shadows are longest during:", "o": ["Noon", "Early morning", "Midnight", "They never change"], "a": 1, "sol": "When the Sun is low, the angle of light creates longer shadows." },
+  { "q": "Which of these surfaces will give a clear reflection?", "o": ["A piece of cloth", "A wooden table", "Still water", "Sand"], "a : 2", "sol : Smooth, still water acts like a mirror." },
+  { "q": "If you are standing in a dark room, can you see a mirror in it?", "o": ["Yes", "No", "Only if it is large", "Only if it is silvered"], "a": 1, "sol": "We see objects only when light from them reaches our eyes." },
+  { "q": "In a pinhole camera, if the hole is made larger, the image becomes:", "o": ["Sharper", "Inverted", "Blurred", "Darker"], "a : 2", "sol : Multiple rays enter from different points, overlapping and causing blurriness." },
+  { "q": "A shadow is ________ at noon because the Sun is directly overhead.", "o": ["Longest", "Shortest", "Circular", "Disappeared"], "a": 1, "sol": "The angle of incidence is smallest at noon, resulting in the smallest shadow." },
+  { "q": "Light is a form of:", "o": ["Matter", "Energy", "Gas", "Force"], "a": 1, "sol": "Light is electromagnetic radiation that provides energy for vision." },
+  { "q": "Which of the following is an opaque object?", "o": ["Water", "Air", "Wooden box", "Cellophane paper"], "a : 2", "sol : Wood does not allow any light to pass." },
+  { "q": "The image in a plane mirror is always at the same ________ as the object.", "o": ["Height", "Distance from mirror", "Both of these", "None of these"], "a : 2", "sol : Plane mirrors form virtual images of equal size and distance." },
+  { "q": "Which type of object allows us to see partially through it?", "o": ["Transparent", "Opaque", "Translucent", "Mirror"], "a : 2", "sol : Translucent materials scatter light." },
+  { "q": "To get a shadow on a screen, the object must be placed:", "o": ["Behind the screen", "Between source and screen", "Behind the source", "On the screen"], "a": 1, "sol : The object must block the light path reaching the screen." },
+  { "q": "Which of the following shows lateral inversion?", "o": ["Pinhole camera", "Plain mirror", "Glass slab", "Cardboard"], "a": 1, "sol : Mirrored reflections reverse left and right." },
+  { "q": "Stars are ________ sources of light.", "o": ["Artificial", "Natural", "Non-luminous", "Translucent"], "a": 1, "sol : Stars like our Sun are natural luminous bodies." },
+  { "q": "If an object is placed 2 meters from a plane mirror, its image is ________ from the mirror.", "o": ["1 meter", "2 meters", "4 meters", "0.5 meters"], "a": 1, "sol : Object distance equals image distance in plane mirrors." },
+  { "q": "Which of these is not needed to form a shadow?", "o": ["Source of light", "Opaque object", "Mirror", "Screen"], "a : 2", "sol : Mirrors are for reflection, not essential for shadow formation." },
+  { "q": "The path of light is visible when it passes through:", "o": ["Vacuum", "Dusty air in a dark room", "Clear air", "Pure water"], "a": 1, "sol : Dust particles reflect light (Tyndall effect), making the path visible." },
+  { "q": "Which alphabet will look the same in a plane mirror?", "o": ["B", "C", "A", "G"], "a : 2", "sol : 'A' is vertically symmetrical and doesn't show visible lateral inversion." },
+  { "q": "If we use a red object, the color of its shadow will be:", "o": ["Red", "Pink", "Black", "Grey"], "a : 2", "sol : Shadows are always dark/black as they represent an absence of light." },
+  { "q": "A 'ray' of light is represented by a:", "o": ["Dot", "Straight line with arrow", "Curve", "Circle"], "a": 1, "sol : The arrow shows the direction of light travel." },
+  { "q": "Tracing paper is an example of ________ material.", "o": ["Transparent", "Opaque", "Translucent", "Reflective"], "a : 2", "sol : It allows only some light to pass through." },
+  { "q": "What is the shape of the image of the Sun in a pinhole camera?", "o": ["Square", "Circular", "Triangular", "Oval"], "a": 1, "sol : The pinhole forms a circular image of the spherical Sun." },
+  { "q": "Shadows give us information about the ________ of an object.", "o": ["Color", "Texture", "Shape", "Internal structure"], "a : 2", "sol : Shadows only show the outer silhouette/outline." },
+  { "q": "When light hits a rough surface, it undergoes ________ reflection.", "o": ["Regular", "Diffuse", "No", "Transparent"], "a": 1, "sol : Rough surfaces scatter light in many directions (diffuse reflection)." },
+  { "q": "A beam of light is a collection of:", "o": ["Particles", "Rays", "Shadows", "Mirrors"], "a": 1, "sol : Many rays traveling together form a beam." },
+  { "q": "Air is generally a ________ medium.", "o": ["Opaque", "Translucent", "Transparent", "Luminous"], "a : 2", "sol : We can see clearly through air." },
+  { "q": "A mirror can be used to redirect a beam of light to a specific spot. This is:", "o": ["Refraction", "Reflection", "Blocking", "Absorbing"], "a": 1, "sol : Changing the path of light using a mirror is reflection." },
+  { "q": "If you move 1 meter away from a mirror, your image moves ________ from you.", "o": ["1 meter", "2 meters", "0.5 meters", "Stay still"], "a": 1, "sol : Total distance between you and image increases by 2m (1m you + 1m image)." },
+  { "q": "A piece of burning charcoal is a ________ source of light.", "o": ["Natural", "Artificial", "Non-luminous", "Translucent"], "a": 1, "sol : It is a man-made/incandescent source." },
+  { "q": "Which of these can act as a screen for a shadow?", "o": ["Ground", "Wall of a room", "Sheet of paper", "All of these"], "a : 3", "sol : Any opaque or translucent surface can catch a shadow." },
+  { "q": "Which of the following is not a property of light?", "o": ["Travels in straight lines", "Forms shadows", "Requires a medium to travel", "Can be reflected"], "a : 2", "sol : Light can travel through vacuum (unlike sound)." },
+  { "q": "The word AMBULANCE is written laterally inverted on vehicles so it can be read correctly in a:", "o": ["Pinhole camera", "Rear-view mirror", "Window", "Lens"], "a": 1, "sol : Mirrors reverse the inversion back to normal." },
+  { "q": "Eclipse of the Sun occurs when the ________ blocks the light.", "o": ["Earth", "Moon", "Mars", "Cloud"], "a": 1, "sol : The Moon's shadow falls on the Earth." },
+  { "q": "Which of the following is an example of a luminous body?", "o": ["Earth", "Venus", "Sirius (Star)", "Jupiter"], "a : 2", "sol : Stars are self-luminous." },
+  { "q": "What happens if an object is transparent?", "o": ["Shadow is dark", "Shadow is faint", "No shadow is formed", "Shadow is colorful"], "a : 2", "sol : It doesn't obstruct the light rays." },
+  { "q": "A shadow cast by a point source of light has:", "o": ["Only sharp edges", "Only blurred edges", "No edges", "Colorful edges"], "a": 0, "sol : Point sources produce very sharp silhouettes." },
+  { "q": "In a pinhole camera, the distance between the pinhole and the screen affects the ________ of the image.", "o": ["Color", "Size", "Inversion", "Nature"], "a": 1, "sol : Moving the screen further away increases the image size." },
+  { "q": "Why can't we see around a corner?", "o": ["Light is slow", "Light travels in straight lines", "Light is absorbed by air", "Eyes are weak"], "a": 1, "sol : Light doesn't bend on its own around obstacles." },
+  { "q": "The moon is visible because it ________ sunlight.", "o": ["Emits", "Absorbs", "Reflects", "Refracts"], "a : 2", "sol : It acts like a giant non-luminous reflector." },
+  { "q": "Which object would you use to make a pinhole camera?", "o": ["Glass bottle", "Cardboard box", "Steel plate", "Clear plastic"], "a": 1, "sol : You need opaque sides to keep the inside dark." },
+  { "q": "Which of the following reflects light most effectively?", "o": ["White paper", "Polished metal", "Black cloth", "Soil"], "a": 1, "sol : Smooth, shiny metal surfaces are excellent reflectors." },
+  { "q": "To see your full height in a mirror, the mirror must be at least ________ your height.", "o": ["Equal to", "Double", "Half", "Quarter"], "a : 2", "sol : This is a basic property of plane mirror reflection geometry." },
+  { "q": "Oily paper behaves as a ________ material.", "o": ["Transparent", "Opaque", "Translucent", "Luminous"], "a : 2", "sol : Oil fills air gaps in paper, allowing partial light transmission." },
+  { "q": "The image of a candle in a pinhole camera is upside down. This is called:", "o": ["Reflection", "Inversion", "Lateral inversion", "Refraction"], "a": 1, "sol : Real images in pinhole cameras are vertically inverted." },
+  { "q": "Shadows formed by a large light source (like a tube light) have:", "o": ["Sharp edges", "Blurred edges", "No center", "Colors"], "a": 1, "sol : Extended sources create regions of partial shadow (penumbra)." },
+  { "q": "Which of these will reflect light to show a 'glare'?", "o": ["Wet road", "Dry grass", "Stone wall", "Carpet"], "a": 0, "sol : Smooth wet surfaces cause regular reflection (glare)." },
+  { "q": "Light is ________ when it hits a black surface.", "o": ["Reflected", "Absorbed", "Transmitted", "Created"], "a": 1, "sol : Black objects absorb most incident light." },
+  { "q": "An image that can be obtained on a screen is a ________ image.", "o": ["Virtual", "Real", "Fake", "Mirror"], "a": 1, "sol : Real images are formed by actual intersection of light rays." },
+  { "q": "The image formed by a plane mirror is a ________ image.", "o": ["Real", "Virtual", "Inverted", "Blurred"], "a": 1, "sol : It cannot be caught on a screen; it appears behind the mirror." },
+  { "q": "When we see our face in a mirror, what are we seeing?", "o": ["Shadow", "Reflection", "Both", "None"], "a": 1, "sol : Our face reflects light into the mirror, which reflects it back." },
+  { "q": "In a periscope, how many mirrors are usually used?", "o": ["One", "Two", "Three", "Four"], "a": 1, "sol : Two mirrors at 45 degree angles allow us to see over obstacles." },
+  { "q": "Which of these is used to see objects hidden from direct view?", "o": ["Microscope", "Periscope", "Telescope", "Stethoscope"], "a": 1, "sol : Periscopes use reflection to see around or over things." },
+  { "q": "What happens when an object is placed in total darkness?", "o": ["It glows", "It forms a shadow", "It is invisible", "It turns white"], "a : 2", "sol : Visibility requires a light source." },
+  { "q": "A shadow is always ________ to the light source.", "o": ["Next", "Opposite", "Above", "Below"], "a": 1, "sol : Shadows are cast on the side away from the light." },
+  { "q": "Luminous objects are the ________ of light.", "o": ["Absorbers", "Sources", "Screens", "Reflectors"], "a": 1, "sol : They provide the light needed to see." },
+  { "q": "Which of these represents 'Rectilinear Propagation'?", "o": ["A ray hitting a mirror", "Light passing through a tube", "A shadow being cast", "Light bending in water"], "a : 2", "sol : Formation of shadows proves light travels in straight lines." },
+  { "q": "If you look through a bent pipe at a candle, can you see the flame?", "o": ["Yes", "No", "Only if it is wide", "Only if it is short"], "a": 1, "sol : Light travels in straight lines and cannot curve through the pipe." },
+  { "q": "A solar eclipse is evidence that:", "o": ["Earth is round", "Light travels in straight lines", "Sun is hot", "Moon has no light"], "a": 1, "sol : Shadow formation (eclipses) is a result of rectilinear propagation." },
+  { "q": "Which of these is not a translucent material?", "o": ["Butter paper", "Thin muslin cloth", "Clean water", "Smoke"], "a : 2", "sol : Clean water is transparent." },
+  { "q": "The length of a shadow is minimum when the light source is:", "o": ["Low", "Directly overhead", "Very far", "Very dim"], "a": 1, "sol : Vertical light blocks the least amount of lateral space." },
+  { "q": "If we move the screen further from the object, the shadow becomes:", "o": ["Larger and clearer", "Larger and fainter", "Smaller and clearer", "Smaller and fainter"], "a": 1, "sol : Distance increases size but decreases intensity/sharpness." },
+  { "q": "Which of the following is a man-made luminous source?", "o": ["Firefly", "Neon sign", "Meteors", "Light from a planet"], "a": 1, "sol : Neon signs use electricity to produce light." },
+  { "q": "Shadows do not show the ________ of the object.", "o": ["Outline", "Size", "Color", "Position"], "a : 2", "sol : All shadows are black/dark regardless of the object's color." },
+  { "q": "What is 'Light'?", "o": ["A invisible force", "A visible energy", "A solid matter", "A sound wave"], "a": 1, "sol : Light is the form of energy that makes things visible." },
+  { "q": "Which of these objects will cast a very dark shadow?", "o": ["Glass plate", "Iron sheet", "Water vapor", "Plastic wrap"], "a": 1, "sol : Opaque materials cast the darkest shadows." },
+  { "q": "In a pinhole camera, we use ________ for the screen.", "o": ["Opaque card", "Translucent paper", "Glass mirror", "Empty space"], "a": 1, "sol : We need to see the image from the other side, so it must be translucent." },
+  { "q": "Which property of light explains the working of a mirror?", "o": ["Rectilinear propagation", "Reflection", "Shadow formation", "Absorption"], "a": 1, "sol : Mirrors function based on the laws of reflection." },
+  { "q": "If you touch your right ear, your image in the mirror touches its:", "o": ["Right ear", "Left ear", "Nose", "None"], "a": 1, "sol : Lateral inversion causes left and right to swap." },
+  { "q": "A shadow is the ________ of light by an object.", "o": ["Absorption", "Obstruction", "Creation", "Bending"], "a": 1, "sol : Objects block/obstruct the light to form shadows." },
+  { "q": "A highly polished surface acts like a:", "o": ["Window", "Mirror", "Shadow", "Pinhole"], "a": 1, "sol : Smoothness is the key to mirror-like reflection." },
+  { "q": "The image formed by a pinhole camera is ________ than the object.", "o": ["Always smaller", "Always larger", "May be smaller or larger", "Same size"], "a : 2", "sol : Depends on the distance of the object and screen from the pinhole." },
+  { "q": "Which of these will not reflect light?", "o": ["Wall", "Book", "Perfectly black object", "Mirror"], "a : 2", "sol : An ideal black body absorbs all incident light." },
+  { "q": "The Moon is a ________ object.", "o": ["Luminous", "Non-luminous", "Translucent", "Transparent"], "a": 1, "sol : It shines because of reflected sunlight." },
+  { "q": "Can a shadow be bigger than the object?", "o": ["No", "Yes", "Only at night", "Only in space"], "a": 1, "sol : If the object is close to the source, the shadow is enlarged." },
+  { "q": "Can a transparent object form a shadow?", "o": ["Yes", "No", "Only if it is colored", "Only if it is glass"], "a": 1, "sol : It lets all light through, leaving no dark patch." },
+  { "q": "Shadows help us detect ________ around corners.", "o": ["Colors", "Movement", "Temperature", "Sounds"], "a": 1, "sol : A person's shadow might appear before they do." },
+  { "q": "If a light source is moved further from an object, the shadow:", "o": ["Grows larger", "Grows smaller", "Becomes brighter", "Disappears"], "a": 1, "sol : Moving the source away narrows the angle of the blocked rays." },
+  { "q": "Which of these materials is used in sunglasses?", "o": ["Opaque", "Transparent", "Translucent", "Mirror"], "a : 2", "sol : They allow some light to see while blocking the glare." },
+  { "q": "The darkest part of a shadow is called:", "o": ["Penumbra", "Umbra", "Aura", "Reflection"], "a": 1, "sol : Umbra is the region where light is completely blocked." },
+  { "q": "Reflection occurs when light ________ a surface.", "o": ["Enters", "Hits and bounces off", "Passes through", "Dissolves in"], "a": 1, "sol : Bouncing back is the key action of reflection." },
+  { "q": "Which of the following is an example of an extended source of light?", "o": ["A star", "A tube light", "A single LED", "The Sun (viewed from Earth)"], "a : 1", "sol : Tube lights have a large emitting surface area." },
+  { "q": "The pinhole in the camera should be:", "o": ["As small as a needle point", "1 cm wide", "As big as the box", "Square shaped"], "a": 0, "sol : Smaller holes produce sharper images." },
+  { "q": "Without light, there are no:", "o": ["Sounds", "Shadows", "Solid objects", "Heat"], "a": 1, "sol : Shadows are a phenomenon dependent entirely on the presence and blocking of light." }
 ]
