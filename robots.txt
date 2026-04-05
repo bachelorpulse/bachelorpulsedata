@@ -1,11 +1,9 @@
 User-agent: *
 Allow: /
+Disallow: /data/
 
-# Block AI training crawlers
+# Block AI training bots
 User-agent: GPTBot
-Disallow: /
-
-User-agent: Google-Extended
 Disallow: /
 
 User-agent: CCBot
@@ -14,10 +12,13 @@ Disallow: /
 User-agent: anthropic-ai
 Disallow: /
 
-User-agent: ClaudeBot
+User-agent: Google-Extended
 Disallow: /
 
-User-agent: Omgilibot
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Bytespider
 Disallow: /
 
 User-agent: FacebookBot
