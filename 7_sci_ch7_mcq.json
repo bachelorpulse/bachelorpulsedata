@@ -1,152 +1,102 @@
-[
-{
-"q": "The process of transfer of heat from the hotter end to the colder end of an object is called:",
-"o": ["Radiation", "Convection", "Conduction", "Insulation"],
-"a": 2,
-"sol": "Conduction is the primary mode of heat transfer in solids."
-},
-{
-"q": "Which of the following is a good conductor of heat?",
-"o": ["Wood", "Plastic", "Copper", "Air"],
-"a": 2,
-"sol": "Metals like copper allow heat to pass through them easily."
-},
-{
-"q": "The materials which do not allow heat to pass through them easily are called:",
-"o": ["Insulators", "Conductors", "Radiators", "Absorbers"],
-"a": 0,
-"sol": "Insulators like rubber and wood resist the flow of heat."
-},
-{
-"q": "In liquids and gases, heat is transferred primarily by:",
-"o": ["Conduction", "Convection", "Radiation", "Vibration"],
-"a": 1,
-"sol": "Convection involves the actual movement of particles in fluids."
-},
-{
-"q": "Which mode of heat transfer does not require any medium?",
-"o": ["Conduction", "Convection", "Radiation", "None of these"],
-"a": 2,
-"sol": "Radiation can transfer heat even through a vacuum, like sunlight reaching Earth."
-},
-{
-"q": "Sea breeze blows during the:",
-"o": ["Night", "Day", "Winter", "Evening only"],
-"a": 1,
-"sol": "During the day, land heats up faster than water, causing cool air from the sea to blow towards the land."
-},
-{
-"q": "Land breeze blows from:",
-"o": ["Sea to land", "Land to sea", "North to south", "Sky to ground"],
-"a": 1,
-"sol": "At night, land cools faster than the sea, so air moves from land to sea."
-},
-{
-"q": "Dark-coloured surfaces are ________ absorbers of heat than light-coloured surfaces.",
-"o": ["Poorer", "Equal", "Better", "Slower"],
-"a": 2,
-"sol": "Dark colors absorb more radiant heat, which is why we wear light colors in summer."
-},
-{
-"q": "A clinical thermometer reads temperature from:",
-"o": ["0°C to 100°C", "35°C to 42°C", "32°C to 212°C", "-10°C to 110°C"],
-"a": 1,
-"sol": "Clinical thermometers are designed to measure human body temperature."
-},
-{
-"q": "The normal temperature of the human body is:",
-"o": ["98.6°C", "37°C", "35°C", "42°C"],
-"a": 1,
-"sol": "37°C is the average normal body temperature for a healthy human."
-},
-{
-"q": "Why do we wear woolen clothes in winter?",
-"o": ["Wool is a good conductor", "Wool traps air, which is an insulator", "Wool reflects heat", "Wool is very heavy"],
-"a": 1,
-"sol": "Air trapped in wool fibers prevents body heat from escaping."
-},
-{
-"q": "Which of these is an example of heat transfer by radiation?",
-"o": ["Heating a metal rod", "Boiling water in a pan", "Feeling the heat of a bonfire from a distance", "Touching a hot cup"],
-"a": 2,
-"sol": "The heat from a fire reaches you through electromagnetic waves (radiation)."
-},
-{
-"q": "The 'kink' in a clinical thermometer prevents:",
-"o": ["The mercury from breaking", "The mercury level from falling on its own", "The thermometer from exploding", "Expansion of glass"],
-"a": 1,
-"sol": "The kink allows us to read the temperature accurately after removing it from the mouth."
-},
-{
-"q": "Heat always flows from a body at ________ temperature to a body at ________ temperature.",
-"o": ["Lower, Higher", "Higher, Lower", "Constant, Variable", "Colder, Warmer"],
-"a": 1,
-"sol": "Heat energy moves down a temperature gradient."
-},
-{
-"q": "Which substance expands the most on heating?",
-"o": ["Solids", "Liquids", "Gases", "All expand equally"],
-"a": 2,
-"sol": "Gases have the highest rate of thermal expansion due to weak intermolecular forces."
-},
-{
-"q": "Stainless steel pans are usually provided with copper bottoms because:",
-"o": ["Copper is easier to clean", "Copper is a better conductor of heat than stainless steel", "Copper makes the pan look beautiful", "Copper is cheaper"],
-"a": 1,
-"sol": "Copper helps in distributing heat quickly and evenly to the food."
-},
-{
-"q": "Ventilators in houses are provided near the ceiling because:",
-"o": ["Hot air rises up by convection", "It looks modern", "To let sunlight in", "To prevent rain from entering"],
-"a": 0,
-"sol": "Warm air is lighter and rises; ventilators allow it to escape the room."
-},
-{
-"q": "In which mode of heat transfer do the particles move from one place to another?",
-"o": ["Conduction", "Radiation", "Convection", "None of these"],
-"a": 2,
-"sol": "In convection, heated particles actually travel to transfer energy."
-},
-{
-"q": "A wooden spoon is dipped in a cup of ice cream. Its other end:",
-"o": ["Becomes cold by conduction", "Becomes cold by convection", "Does not become cold", "Becomes cold by radiation"],
-"a": 2,
-"sol": "Wood is an insulator, so heat transfer does not occur easily."
-},
-{
-"q": "The temperature of boiling water cannot be measured by a:",
-"o": ["Laboratory thermometer", "Clinical thermometer", "Digital thermometer", "Both A and B"],
-"a": 1,
-"sol": "Clinical thermometers have a limited range and can break at high boiling temperatures."
-},
-{
-"q": "Why are the handles of cooking utensils made of plastic or wood?",
-"o": ["They are good conductors", "They are insulators", "They are cheaper", "They are more durable"],
-"a": 1,
-"sol": "They protect our hands from getting burnt by blocking the heat flow."
-},
-{
-"q": "What happens when a cold object is brought in contact with a hot object?",
-"o": ["Heat flows from cold to hot", "Heat flows from hot to cold", "Both objects remain at same temperature", "Heat disappears"],
-"a": 1,
-"sol": "Energy transfer continues until thermal equilibrium is reached."
-},
-{
-"q": "Which of the following is a poor conductor of heat?",
-"o": ["Silver", "Iron", "Aluminum", "Distilled Water"],
-"a": 3,
-"sol": "Pure water is a poor conductor; air and glass are also poor conductors."
-},
-{
-"q": "Which color absorbs the least amount of heat?",
-"o": ["Black", "Red", "White", "Blue"],
-"a": 2,
-"sol": "White reflects most of the radiant heat."
-},
-{
-"q": "Radiation can take place in:",
-"o": ["Solid medium only", "Liquid medium only", "Air and Vacuum", "None of these"],
-"a": 2,
-"sol": "Radiation doesn't need physical contact or a specific medium."
-}
+
+  { "q": "Which of the following is the primary source of heat for all natural processes on Earth?", "o": ["The Moon", "The Sun", "Geothermal energy", "Ocean currents"], "a": 1, "sol": "The Sun provides the solar energy that drives temperature changes and heat transfer in nature." },
+  { "q": "In solids, heat is primarily transferred through which process?", "o": ["Convection", "Radiation", "Conduction", "Absorption"], "a": 2, "sol": "Conduction is the transfer of heat between objects in direct contact or within a solid." },
+  { "q": "Sea breeze is a result of which mode of heat transfer?", "o": ["Radiation", "Conduction", "Convection", "Refraction"], "a": 2, "sol": "Convection in the air causes the movement of cool air from the sea toward the land during the day." },
+  { "q": "During the day, which of the following heats up faster?", "o": ["Water in the sea", "Land", "Both heat at the same rate", "Neither heats up"], "a": 1, "sol": "Land absorbs heat and increases in temperature much faster than water." },
+  { "q": "The transfer of heat from the Sun to the Earth occurs via:", "o": ["Conduction", "Convection", "Insulation", "Radiation"], "a": 3, "sol": "Radiation is the only mode of heat transfer that can travel through the vacuum of space." },
+  { "q": "In which direction does a 'Land Breeze' flow?", "o": ["From sea to land", "From sky to ground", "From land to sea", "From mountains to valleys"], "a": 2, "sol": "At night, land cools faster than water, causing air to move from the land toward the sea." },
+  { "q": "Materials that do not allow heat to pass through them easily are called:", "o": ["Conductors", "Radiators", "Convectors", "Insulators"], "a": 3, "sol": "Insulators or poor conductors prevent the easy flow of thermal energy." },
+  { "q": "Which of the following is a good conductor of heat found in nature?", "o": ["Wood", "Water", "Copper ore", "Air"], "a": 2, "sol": "Metals like copper are excellent conductors of heat compared to air, wood, or water." },
+  { "q": "Why do we wear light-colored clothes in summer?", "o": ["They absorb more heat", "They reflect most of the heat", "They allow convection", "They are better conductors"], "a": 1, "sol": "Light colors reflect radiant heat, keeping the body cooler in natural sunlight." },
+  { "q": "The process where hot air rises and cool air sinks to take its place is called:", "o": ["Conduction", "Radiation", "Convection", "Evaporation"], "a : 2", "sol": "Convection involves the actual movement of particles in fluids (liquids and gases)." },
+  { "q": "What happens to the molecules of a substance when it is heated?", "o": ["They stop moving", "They move slower", "They move faster", "They turn into atoms"], "a": 2, "sol": "Heating increases the kinetic energy of molecules, making them vibrate or move more rapidly." },
+  { "q": "A clinical thermometer is used to measure the temperature of:", "o": ["Boiling water", "Human body", "The atmosphere", "Chemical reactions"], "a": 1, "sol": "Clinical thermometers are specifically designed for the narrow range of human body temperature." },
+  { "q": "What is the normal temperature of a healthy human body in Celsius?", "o": ["98.6°C", "35°C", "37°C", "42°C"], "a": 2, "sol": "The average normal human body temperature is approximately 37°C." },
+  { "q": "Which scale is most commonly used for scientific temperature measurements in NCERT?", "o": ["Fahrenheit", "Kelvin", "Celsius", "Newton"], "a": 2, "sol": "The Celsius scale is the standard unit discussed for temperature in this curriculum." },
+  { "q": "At what time does the Land Breeze usually occur?", "o": ["At noon", "During the day", "Early morning only", "During the night"], "a": 3, "sol": "Land breeze occurs at night when the land loses heat faster than the sea." },
+  { "q": "Which medium is required for heat transfer by conduction?", "o": ["Vacuum", "Solid/Matter", "Gas only", "None"], "a": 1, "sol": "Conduction requires a material medium where particles can collide." },
+  { "q": "Dark-colored objects are better ________ of radiant heat.", "o": ["Reflectors", "Insulators", "Absorbers", "Conductors"], "a": 2, "sol": "Dark surfaces absorb more thermal radiation than light-colored surfaces." },
+  { "q": "The 'kink' in a clinical thermometer prevents:", "o": ["Breaking of glass", "Expansion of mercury", "Backflow of mercury", "Measurement of heat"], "a": 2, "sol": "The kink ensures the mercury level doesn't fall immediately after removing it from the mouth." },
+  { "q": "In liquids, the primary mode of heat transfer is:", "o": ["Radiation", "Convection", "Conduction", "Vibration"], "a": 1, "sol": "Convection is the main method of heat transfer in fluids like water." },
+  { "q": "Which of these is an example of heat transfer by radiation in nature?", "o": ["Heating of a metal rod", "Warmth felt from a campfire", "Boiling of milk", "Formation of land breeze"], "a": 1, "sol": "The heat from a fire reaches us through radiation as it doesn't rely on the air moving toward us." },
+  { "q": "Air is a ________ of heat.", "o": ["Good conductor", "Poor conductor", "Perfect radiator", "Superconductor"], "a": 1, "sol": "Air is an insulator, which is why trapped air in woolens keeps us warm." },
+  { "q": "Which of the following is used in thermometers because it expands uniformly?", "o": ["Water", "Alcohol", "Mercury", "Oil"], "a": 2, "sol": "Mercury is a liquid metal that shows uniform expansion with temperature change." },
+  { "q": "The range of a laboratory thermometer is usually:", "o": ["35°C to 42°C", "-10°C to 110°C", "0°C to 100°C", "32°F to 212°F"], "a": 1, "sol": "Laboratory thermometers have a wider range for various scientific experiments." },
+  { "q": "Why is the bottom of a cooking pan often black?", "o": ["To look clean", "To reflect heat", "To absorb more heat", "To act as an insulator"], "a": 2, "sol": "A black surface absorbs more heat from the flame, making cooking faster." },
+  { "q": "Woolen clothes keep us warm in winter because:", "o": ["Wool is a good conductor", "They reflect body heat", "Air is trapped between fibers", "Wool generates its own heat"], "a : 2", "sol": "Trapped air acts as an insulator, preventing body heat from escaping into the cold surroundings." },
+  { "q": "Heat always flows from:", "o": ["Cold to hot object", "Hot to cold object", "Lower to higher altitude", "Liquid to solid"], "a": 1, "sol": "Thermal energy naturally moves from a region of higher temperature to a region of lower temperature." },
+  { "q": "In coastal areas, the wind blowing from the sea during the day is called:", "o": ["Land breeze", "Sea breeze", "Monsoon", "Cyclone"], "a": 1, "sol": "Cool air from the sea moving to land during the day is the sea breeze." },
+  { "q": "Stainless steel pans are often provided with copper bottoms because:", "o": ["Copper is easier to clean", "Copper is a better conductor", "Copper is cheaper", "Copper is more durable"], "a": 1, "sol": "Copper transfers heat from the stove to the food much faster than steel." },
+  { "q": "Which of the following does NOT require a medium for heat transfer?", "o": ["Conduction", "Convection", "Radiation", "Both A and B"], "a : 2", "sol": "Radiation can occur in a vacuum (space)." },
+  { "q": "The temperature of an object is a measure of its:", "o": ["Total heat", "Degree of hotness", "Weight", "Volume"], "a": 1, "sol": "Temperature indicates how hot or cold an object is relative to a standard." },
+  { "q": "If you hold one end of a metal spoon in boiling water, the other end gets hot due to:", "o": ["Radiation", "Convection", "Conduction", "Insulation"], "a : 2", "sol": "Heat travels through the metal particles of the spoon via conduction." },
+  { "q": "What is the use of a Max-Min thermometer?", "o": ["Measuring body temperature", "Measuring chemical heat", "Measuring daily weather extremes", "Measuring oven heat"], "a : 2", "sol": "It records the highest and lowest temperatures of the day for weather reports." },
+  { "q": "One liter of water at 30°C is mixed with one liter of water at 50°C. The temperature of the mixture will be:", "o": ["80°C", "More than 50°C", "20°C", "Between 30°C and 50°C"], "a": 3, "sol": "The final temperature will be an average value between the two initial temperatures." },
+  { "q": "A wooden spoon is dipped in a cup of ice cream. Its other end:", "o": ["Becomes cold by conduction", "Becomes cold by convection", "Becomes cold by radiation", "Does not become cold"], "a": 3, "sol": "Wood is an insulator and does not conduct cold (or heat) effectively." },
+  { "q": "Which of the following is the best insulator found in nature?", "o": ["Iron", "Water", "Air", "Silver"], "a : 2", "sol": "Air is a very poor conductor of heat compared to the other options." },
+  { "q": "During convection, which part of the fluid moves upward?", "o": ["The cooler part", "The denser part", "The hotter part", "The heavier part"], "a : 2", "sol": "Hotter fluids become less dense and rise." },
+  { "q": "The movement of air in the atmosphere is primarily driven by:", "o": ["Conduction", "Convection currents", "Radiation from Moon", "Earth's rotation only"], "a": 1, "sol": "Uneven heating of the Earth's surface creates convection currents in the air." },
+  { "q": "Why are two thin blankets warmer than one thick blanket?", "o": ["They are heavier", "Layer of air is trapped between them", "They have more wool", "They reflect more light"], "a": 1, "sol": "The extra layer of air between the two blankets provides additional insulation." },
+  { "q": "Which of the following does NOT happen when an object is heated?", "o": ["Expansion", "Rise in temperature", "Increase in mass", "Change of state"], "a : 2", "sol": "Heating changes temperature and volume, but the mass remains constant." },
+  { "q": "Radiation is the process of heat transfer that:", "o": ["Is very slow", "Needs a solid rod", "Is the fastest", "Needs water"], "a : 2", "sol": "Radiation travels at the speed of light and is the fastest mode of heat transfer." },
+  { "q": "Handle of a pressure cooker is made of 'Bakelite' because it is a:", "o": ["Good conductor", "Poor conductor", "Good radiator", "Metal alloy"], "a": 1, "sol": "Bakelite is an insulator, protecting our hands from the heat of the cooker." },
+  { "q": "Water is a ________ of heat.", "o": ["Good conductor", "Poor conductor", "Non-conductor", "Superconductor"], "a": 1, "sol": "Water is a poor conductor; it transfers heat mostly by convection." },
+  { "q": "Heat transfer by convection is NOT possible in:", "o": ["Air", "Water", "Iron", "Milk"], "a : 2", "sol": "Convection requires movement of particles, which is not possible in rigid solids like iron." },
+  { "q": "A cold steel spoon is dipped in a cup of hot milk. It transfers heat to its other end by the process of:", "o": ["Convection", "Conduction", "Radiation", "Absorption"], "a": 1, "sol": "The solid metal spoon transfers heat through conduction." },
+  { "q": "Which color is best for the outer walls of a house in a hot tropical climate?", "o": ["Black", "Dark Blue", "White", "Red"], "a : 2", "sol": "White reflects most of the solar radiation, keeping the house cool." },
+  { "q": "The sun's heat reaches us even through a vacuum. This proves:", "o": ["Air is a good conductor", "Radiation needs no medium", "Convection happens in space", "The sun is touching Earth"], "a": 1, "sol": "Space is a vacuum, yet heat reaches us, proving radiation needs no material medium." },
+  { "q": "In the process of conduction, particles of the medium:", "o": ["Move from one end to another", "Vibrate at their positions", "Disappear", "Turn into gas"], "a": 1, "sol": "In solids, particles transfer energy to neighbors without leaving their fixed positions." },
+  { "q": "When we come out in the sun, we feel warm. This is due to:", "o": ["Convection", "Conduction", "Radiation", "Friction"], "a : 2", "sol": "Direct warmth from the sun is thermal radiation." },
+  { "q": "The transfer of heat by convection occurs in:", "o": ["Solids only", "Liquids only", "Gases only", "Liquids and Gases"], "a": 3, "sol": "Convection happens in fluids where particles are free to move." },
+  { "q": "Which of the following is an example of a good conductor?", "o": ["Plastic", "Rubber", "Aluminum", "Paper"], "a : 2", "sol": "Metals like aluminum allow heat to flow through them easily." },
+  { "q": "Before measuring body temperature, the thermometer is given a few jerks to:", "o": ["Clean the bulb", "Bring mercury below 35°C", "Increase mercury temperature", "Check if it is broken"], "a": 1, "sol": "Jerking ensures the mercury column is reset below the normal range." },
+  { "q": "Which of the following is true for the Sea Breeze?", "o": ["Blows during night", "Blows from land to sea", "Blows during day", "Is very hot"], "a : 2", "sol": "Sea breeze is the cool air blowing from the sea to land during the daytime." },
+  { "q": "Heat is a form of:", "o": ["Power", "Work", "Energy", "Matter"], "a : 2", "sol": "Heat is thermal energy in transit." },
+  { "q": "A person standing near a fire feels heat primarily on the side facing the fire due to:", "o": ["Conduction", "Convection", "Radiation", "Insulation"], "a : 2", "sol": "Since air is a poor conductor, the heat felt is mostly through radiation." },
+  { "q": "In a thermos flask, the vacuum between the double walls prevents heat loss by:", "o": ["Conduction only", "Convection only", "Conduction and Convection", "Radiation only"], "a : 2", "sol": "Vacuum lacks matter, so conduction and convection (which need matter) cannot occur." },
+  { "q": "In which case will the rate of cooling be fastest?", "o": ["In a black container", "In a shiny silver container", "In a white container", "Color doesn't matter"], "a": 0, "sol": "Black objects are good absorbers and also good emitters (radiators) of heat." },
+  { "q": "Why is mercury used in thermometers instead of water?", "o": ["Water is transparent", "Mercury does not stick to glass", "Water expands more than mercury", "Mercury is cheaper"], "a": 1, "sol": "Mercury's non-sticking property and opacity make it ideal for reading levels." },
+  { "q": "Temperature is measured by an instrument called:", "o": ["Ammeter", "Barometer", "Thermometer", "Speedometer"], "a : 2", "sol": "Thermometers are specifically for temperature measurement." },
+  { "q": "What happens to the density of air when it is heated?", "o": ["It increases", "It decreases", "It remains the same", "It becomes zero"], "a": 1, "sol": "Heating causes air to expand and become lighter (less dense)." },
+  { "q": "The heat from a room heater reaches someone sitting at a distance by:", "o": ["Conduction", "Convection", "Radiation", "Circulation"], "a : 2", "sol": "Most of the heat from a heater at a distance is felt via radiation." },
+  { "q": "What is the reading range of a clinical thermometer in Fahrenheit?", "o": ["35-42", "94-108", "0-100", "32-212"], "a": 1, "sol": "The Fahrenheit scale on clinical thermometers typically ranges from 94°F to 108°F." },
+  { "q": "Which of the following is a natural insulator used by birds?", "o": ["Beaks", "Feathers", "Talons", "Eyes"], "a": 1, "sol": "Feathers trap air, which acts as an insulator to keep birds warm." },
+  { "q": "Sea breeze occurs because:", "o": ["Land cools faster than water", "Sea heats up faster than land", "Land heats up faster than water", "Wind always blows from sea"], "a : 2", "sol": "Land heating faster creates a low-pressure area, pulling cool air from the sea." },
+  { "q": "The direction of heat flow is determined by:", "o": ["Mass", "Temperature", "Density", "Volume"], "a": 1, "sol": "Temperature difference determines the direction of heat transfer." },
+  { "q": "What kind of clothes are preferred in cold climates?", "o": ["Light colored cotton", "Dark colored woolens", "Synthetic nylon", "Transparent plastic"], "a": 1, "sol": "Dark woolens absorb heat and provide insulation." },
+  { "q": "If we touch a metal block and a wooden block kept in the sun, the metal feels hotter because:", "o": ["Metal has more heat", "Metal is a better conductor", "Wood reflects more heat", "Metal is a better insulator"], "a": 1, "sol": "The metal conducts heat to our hand much faster than wood." },
+  { "q": "Which of these is NOT a unit of temperature?", "o": ["Celsius", "Fahrenheit", "Joule", "Kelvin"], "a : 2", "sol": "Joule is the unit of energy or work, not temperature." },
+  { "q": "Which process explains the heating of the entire volume of water in a kettle?", "o": ["Conduction", "Convection", "Radiation", "Sublimation"], "a": 1, "sol": "Convection currents circulate the hot water from the bottom to the top." },
+  { "q": "Snow acts as a good ________.", "o": ["Conductor", "Insulator", "Reflector", "Radiator"], "a": 1, "sol": "Snow contains trapped air, making it an insulator (often used in igloos)." },
+  { "q": "The boiling point of water on the Celsius scale is:", "o": ["0°C", "37°C", "100°C", "212°C"], "a : 2", "sol": "Water boils at 100°C under standard pressure." },
+  { "q": "The freezing point of water on the Celsius scale is:", "o": ["0°C", "32°C", "100°C", "-10°C"], "a": 0, "sol": "Water freezes at 0°C." },
+  { "q": "Heat transfer in a solid rod stops when:", "o": ["It is removed from fire", "Both ends have same temperature", "One end is melting", "It is painted white"], "a": 1, "sol": "Thermal equilibrium occurs when there is no temperature difference." },
+  { "q": "A marble floor feels colder than a carpet in winter because marble:", "o": ["Is a better conductor than carpet", "Is a better insulator than carpet", "Reflects more heat", "Is at a lower temperature"], "a": 0, "sol": "Marble conducts heat away from our feet faster than a carpet does." },
+  { "q": "Which of the following describes radiation?", "o": ["Transfer by touch", "Transfer by movement of fluid", "Transfer through waves", "Transfer through sound"], "a : 2", "sol": "Radiation is the transfer of energy through electromagnetic waves." },
+  { "q": "During the night, air above the sea is ________ than air above the land.", "o": ["Colder", "Warmer", "Same temperature", "Drier"], "a": 1, "sol": "Water retains heat longer, keeping the air above it warmer at night." },
+  { "q": "Which of these devices uses the principle of convection?", "o": ["Solar cooker", "Room heater with blower", "Electric iron", "Thermometer"], "a": 1, "sol": "Blowers move warm air throughout the room via convection." },
+  { "q": "An iron ball at 40°C is dropped in a mug containing water at 40°C. The heat will:", "o": ["Flow from iron to water", "Flow from water to iron", "Not flow from either", "Flow and then stop"], "a : 2", "sol": "Since both are at the same temperature, no net heat transfer occurs." },
+  { "q": "Ventilators in rooms are provided near the ceiling because:", "o": ["Cool air rises up", "Hot air rises up", "It looks good", "To let in more sunlight"], "a": 1, "sol": "Hot, stale air rises and escapes through ventilators via convection." },
+  { "q": "Which part of the solar cooker helps in trapping heat?", "o": ["Mirror", "Glass sheet", "Black container", "Outer wooden box"], "a": 1, "sol": "The glass sheet allows light in but traps the heat (greenhouse effect)." },
+  { "q": "In a vacuum flask, heat loss by radiation is minimized by:", "o": ["The vacuum", "Silvering of walls", "The plastic cap", "The double glass"], "a": 1, "sol": "Silvered surfaces reflect radiant heat back to the source." },
+  { "q": "Which of the following is a poor conductor of heat?", "o": ["Iron", "Copper", "Water", "Silver"], "a : 2", "sol": "While water is a better conductor than air, it is very poor compared to metals." },
+  { "q": "When we step on a cold floor, heat is transferred from our feet by:", "o": ["Conduction", "Convection", "Radiation", "Insulation"], "a": 0, "sol": "Heat moves from our warm feet to the cold floor via direct contact (conduction)." },
+  { "q": "Radiant heat travels at:", "o": ["Speed of sound", "Speed of light", "Speed of wind", "100 km/h"], "a": 1, "sol": "Thermal radiation consists of electromagnetic waves traveling at light speed." },
+  { "q": "The transfer of heat that can happen through a solid, liquid, or gas is:", "o": ["Conduction only", "Radiation only", "Convection only", "All of these"], "a: 1", "sol": "Radiation does not require any matter but can still pass through transparent media." },
+  { "q": "Solar heaters work best with ________ surfaces.", "o": ["Polished", "White", "Black", "Transparent"], "a : 2", "sol": "Black surfaces maximize heat absorption from the sun." },
+  { "q": "The sense of touch is not a ________ method to measure temperature.", "o": ["Fast", "Reliable", "Simple", "Common"], "a": 1, "sol": "Our sense of touch is relative and can be deceptive regarding temperature." },
+  { "q": "Which of the following represents a temperature difference?", "o": ["10 kg", "10 meters", "10 degrees", "10 seconds"], "a : 2", "sol": "Degrees (Celsius or Fahrenheit) measure temperature." },
+  { "q": "If you are in a desert, which clothes will keep you safer from the sun's heat?", "o": ["Black cotton", "White cotton", "Nylon", "Silk"], "a": 1, "sol": "White reflects heat and cotton allows sweat to evaporate." },
+  { "q": "How does heat from a light bulb reach your hand if you hold it underneath?", "o": ["Conduction", "Convection", "Radiation", "Gravity"], "a : 2", "sol": "Since hot air rises, heat felt below the bulb must be radiation." },
+  { "q": "Which is the correct relation between Celsius (C) and Fahrenheit (F) scale?", "o": ["C = F", "C/5 = (F-32)/9", "C/9 = (F-32)/5", "C+273 = F"], "a": 1, "sol": "The standard conversion formula is C/5 = (F-32)/9." },
+  { "q": "Water does not get heated by conduction because:", "o": ["Its molecules are fixed", "Its molecules are far apart", "It is an insulator", "It is a poor conductor"], "a": 3, "sol": "The weak thermal contact between liquid molecules makes conduction inefficient." },
+  { "q": "The mode of heat transfer that involves the bulk movement of matter is:", "o": ["Conduction", "Radiation", "Convection", "Expansion"], "a : 2", "sol": "Convection is defined by the mass movement of fluids." },
+  { "q": "A solar water heater cannot be used to get hot water on:", "o": ["A sunny day", "A cloudy day", "A hot day", "A windy day"], "a": 1, "sol": "Clouds block the solar radiation needed to heat the water." },
+  { "q": "The temperature of boiling water cannot be measured by a:", "o": ["Laboratory thermometer", "Clinical thermometer", "Digital thermometer", "All of these"], "a": 1, "sol": "A clinical thermometer's range is too low and it would break at 100°C." },
+  { "q": "Land and Sea breezes are examples of ________ in nature.", "o": ["Conduction", "Convection", "Radiation", "Sublimation"], "a": 1, "sol": "They are atmospheric convection currents." },
+  { "q": "Which of the following is a unit of heat energy?", "o": ["Calorie", "Newton", "Pascal", "Watt"], "a": 0, "sol": "Calories and Joules are units used to measure heat." },
+  { "q": "The substance which shows a change in property with temperature in a thermometer is called:", "o": ["Insulator", "Thermometric liquid", "Conductor", "Radiator"], "a": 1, "sol": "Mercury or alcohol are thermometric liquids." },
+  { "q": "Which part of the atmosphere protects Earth from becoming too cold at night by trapping heat?", "o": ["Oxygen", "Greenhouse gases", "Ozone layer", "Nitrogen"], "a": 1, "sol": "Gases like CO2 trap heat (radiation) via the greenhouse effect." },
+  { "q": "At thermal equilibrium, the temperature of two bodies is:", "o": ["Different", "Zero", "Equal", "Maximum"], "a : 2", "sol": "Equilibrium means no further net heat transfer occurs because temperatures are the same." },
+  { "q": "Which of these is the fastest way to cool a hot cup of tea?", "o": ["Leaving it on the table", "Blowing air over it", "Putting a metal spoon in it", "B and C together"], "a": 3, "sol": "Blowing increases convection/evaporation, and the spoon adds conduction." }
 ]
