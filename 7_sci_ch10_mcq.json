@@ -1,152 +1,102 @@
 [
-{
-"q": "Which plant tissue is responsible for the translocation of synthesized food (sucrose) from leaves to other parts?",
-"o": ["Xylem", "Phloem", "Parenchyma", "Collenchyma"],
-"a": 1,
-"sol": "Phloem is the specialized vascular tissue that transports organic nutrients, particularly sugars, produced during photosynthesis."
-},
-{
-"q": "During photosynthesis, the oxygen gas released as a byproduct comes from the splitting of which molecule?",
-"o": ["Carbon Dioxide", "Glucose", "Chlorophyll", "Water"],
-"a": 3,
-"sol": "Photolysis involves the splitting of water molecules (H2O) into hydrogen ions, electrons, and oxygen gas."
-},
-{
-"q": "What is the primary function of the tiny pores called 'stomata' found on the surface of leaves?",
-"o": ["Storage of starch", "Gaseous exchange and transpiration", "Absorption of minerals", "Mechanical support"],
-"a": 1,
-"sol": "Stomata allow for the entry of CO2 and exit of O2, and are also the main sites for water loss via transpiration."
-},
-{
-"q": "The upward movement of water and minerals from roots to leaves is primarily driven by which phenomenon?",
-"o": ["Transpiration pull", "Photosynthesis", "Phloem pressure", "Respiration"],
-"a": 0,
-"sol": "Transpiration pull creates a negative pressure (suction) that lifts the water column through the xylem vessels."
-},
-{
-"q": "In which cellular organelle does the process of photosynthesis take place?",
-"o": ["Mitochondria", "Nucleus", "Chloroplast", "Vacuole"],
-"a": 2,
-"sol": "Chloroplasts contain chlorophyll, which captures light energy to convert CO2 and water into glucose."
-},
-{
-"q": "Which of the following is NOT required for the process of photosynthesis?",
-"o": ["Sunlight", "Water", "Oxygen", "Carbon dioxide"],
-"a": 2,
-"sol": "Oxygen is a product of photosynthesis; the plant requires CO2, H2O, and light to initiate the process."
-},
-{
-"q": "Plants store their excess glucose in the form of which complex carbohydrate?",
-"o": ["Glycogen", "Starch", "Cellulose", "Sucrose"],
-"a": 1,
-"sol": "Plants convert excess glucose into starch for long-term energy storage in roots and seeds."
-},
-{
-"q": "Desert plants (CAM plants) differ from normal plants because they:",
-"o": ["Open stomata during the day", "Open stomata at night", "Do not perform photosynthesis", "Do not have roots"],
-"a": 1,
-"sol": "To prevent water loss in heat, desert plants open stomata at night to take in CO2 and store it as an intermediate acid."
-},
-{
-"q": "The opening and closing of the stomatal pore is a function of which specific cells?",
-"o": ["Epidermal cells", "Xylem vessels", "Guard cells", "Mesophyll cells"],
-"a": 2,
-"sol": "Guard cells swell (turgid) to open the pore and shrink (flaccid) to close it by regulating water movement."
-},
-{
-"q": "Which component of the vascular bundle consists of dead cells at maturity and acts like a hollow pipe?",
-"o": ["Xylem", "Phloem", "Sieve tubes", "Companion cells"],
-"a": 0,
-"sol": "Xylem tracheids and vessels are dead, lignified cells that provide a continuous path for water transport."
-},
-{
-"q": "What happens to the rate of transpiration when the surrounding humidity is very high?",
-"o": ["It increases", "It stays the same", "It decreases", "It stops completely"],
-"a": 2,
-"sol": "High humidity reduces the concentration gradient of water vapor between the leaf and air, slowing down evaporation."
-},
-{
-"q": "Translocation in phloem is an 'active' process. What does this mean?",
-"o": ["It happens by gravity", "It requires energy in the form of ATP", "It only moves downwards", "It occurs without any force"],
-"a": 1,
-"sol": "Loading of sugar into phloem requires energy (ATP) to move molecules against a concentration gradient."
-},
-{
-"q": "Identify the chemical equation that correctly represents photosynthesis:",
-"o": ["6CO2 + 6H2O -> C6H12O6 + 6O2", "C6H12O6 + 6O2 -> 6CO2 + 6H2O", "6CO2 + 6O2 -> C6H12O6 + 6H2O", "H2O + O2 -> Glucose + CO2"],
-"a": 0,
-"sol": "The standard balanced equation shows 6 molecules of CO2 and water forming one molecule of glucose and 6 of oxygen."
-},
-{
-"q": "What is the function of root hairs in a plant?",
-"o": ["Anchoring the plant to the ground", "Performing photosynthesis", "Increasing surface area for water absorption", "Protecting the root tip"],
-"a": 2,
-"sol": "Root hairs provide a massive surface area to maximize the absorption of water and minerals from the soil via osmosis."
-},
-{
-"q": "At night, since photosynthesis is not occurring, what is the major gas exchange activity in plants?",
-"o": ["Oxygen release", "Carbon dioxide release", "Nitrogen fixation", "No gas exchange"],
-"a": 1,
-"sol": "At night, plants only perform respiration, taking in Oxygen and releasing Carbon Dioxide."
-},
-{
-"q": "Which part of the plant is commonly known as the 'Food Factory'?",
-"o": ["Root", "Stem", "Leaf", "Flower"],
-"a": 2,
-"sol": "Leaves contain the highest concentration of chloroplasts where food is synthesized."
-},
-{
-"q": "Gaseous exchange in woody stems of old trees takes place through:",
-"o": ["Stomata", "Lenticels", "Xylem", "Casparian strips"],
-"a": 1,
-"sol": "Lenticels are small, lens-shaped openings in the bark of woody stems that allow gas exchange."
-},
-{
-"q": "Which ions play a crucial role in the movement of water into guard cells to open stomata?",
-"o": ["Calcium ions", "Iron ions", "Potassium ions", "Magnesium ions"],
-"a": 2,
-"sol": "The accumulation of Potassium ions (K+) in guard cells lowers their water potential, causing water to enter by osmosis."
-},
-{
-"q": "The movement of food in phloem is:",
-"o": ["Always downward", "Always upward", "Bidirectional", "Unidirectional"],
-"a": 2,
-"sol": "Phloem can move nutrients both upwards (to growing buds/fruits) and downwards (to roots for storage)."
-},
-{
-"q": "What prevents the collapse of xylem vessels under the high tension of the transpiration pull?",
-"o": ["Cytoplasm", "Cellulose only", "Lignin", "Air pressure"],
-"a": 2,
-"sol": "Lignin is a strong, waterproof substance that reinforces the cell walls of xylem, preventing collapse."
-},
-{
-"q": "In which form is nitrogen usually absorbed by plants from the soil?",
-"o": ["Atmospheric N2 gas", "Nitrates and Nitrites", "Amino acids", "Urea only"],
-"a": 1,
-"sol": "Plants cannot use N2 gas directly; they absorb nitrogen in inorganic forms like nitrates or nitrites."
-},
-{
-"q": "The loss of water in the form of droplets from the margins of leaves in some herbaceous plants is called:",
-"o": ["Transpiration", "Evaporation", "Guttation", "Excretion"],
-"a": 2,
-"sol": "Guttation occurs due to root pressure when transpiration is low and soil moisture is high."
-},
-{
-"q": "What is the role of Magnesium in plants?",
-"o": ["Transport of water", "Core component of Chlorophyll", "Opening of stomata", "Root growth"],
-"a": 1,
-"sol": "Magnesium is the central atom in the chlorophyll molecule, essential for absorbing light."
-},
-{
-"q": "Autotrophic nutrition refers to:",
-"o": ["Obtaining food from others", "Organisms making their own food", "Breaking down dead matter", "Parasitic behavior"],
-"a": 1,
-"sol": "Autotrophs (like plants) use simple inorganic substances to synthesize complex organic food."
-},
-{
-"q": "Which force is mainly responsible for water movement in small plants or during the night?",
-"o": ["Root Pressure", "Transpiration pull", "Magnetic force", "Atmospheric pressure"],
-"a": 0,
-"sol": "When transpiration is low, root pressure (generated by active transport of ions) helps push water up the stem."
-}
+  { "q": "The process by which green plants prepare their own food is called:", "o": ["Respiration", "Transpiration", "Photosynthesis", "Absorption"], "a": 2, "sol": "Photosynthesis is the process of using sunlight, water, and CO2 to make glucose." },
+  { "q": "Which part of the plant is known as the 'food factory'?", "o": ["Root", "Stem", "Leaf", "Flower"], "a": 2, "sol": "Leaves contain chlorophyll and are the primary site for photosynthesis." },
+  { "q": "The tiny pores on the surface of leaves for gas exchange are called:", "o": ["Xylem", "Stomata", "Phloem", "Vessels"], "a": 1, "sol": "Stomata allow carbon dioxide to enter and oxygen to exit the leaf." },
+  { "q": "Which tissue is responsible for the transport of water and minerals in plants?", "o": ["Phloem", "Xylem", "Cortex", "Epidermis"], "a": 1, "sol": "Xylem forms a continuous network of channels from roots to leaves for water transport." },
+  { "q": "The green pigment present in leaves that captures solar energy is:", "o": ["Hemoglobin", "Chlorophyll", "Anthocyanin", "Xanthophyll"], "a": 1, "sol": "Chlorophyll is essential for absorbing light energy for photosynthesis." },
+  { "q": "In plants, food is transported to all parts of the body through:", "o": ["Xylem", "Root hairs", "Phloem", "Stomata"], "a": 2, "sol": "Phloem tissue carries synthesized food (sugar) from leaves to other parts." },
+  { "q": "Water enters the root hair from the soil through the process of:", "o": ["Diffusion", "Osmosis", "Transpiration", "Respiration"], "a": 1, "sol": "Osmosis is the movement of water from high concentration to low concentration through a membrane." },
+  { "q": "The process of loss of water in the form of vapor from leaves is:", "o": ["Evaporation", "Transpiration", "Condensation", "Precipitation"], "a": 1, "sol": "Transpiration occurs mainly through stomata and helps in cooling the plant." },
+  { "q": "Which of the following is a byproduct of photosynthesis?", "o": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"], "a": 2, "sol": "Oxygen is released into the atmosphere as a result of photosynthesis." },
+  { "q": "Plants store their prepared food in the form of:", "o": ["Glucose", "Starch", "Protein", "Fats"], "a": 1, "sol": "Simple glucose is converted into complex starch for long-term storage." },
+  { "q": "The cells that surround and control the opening/closing of stomata are:", "o": ["Subsidiary cells", "Guard cells", "Epidermal cells", "Mesophyll cells"], "a": 1, "sol": "Guard cells swell or shrink to regulate the stomatal pore." },
+  { "q": "During cellular respiration in plants, energy is released by breaking down:", "o": ["Starch", "Glucose", "Water", "Chlorophyll"], "a": 1, "sol": "Glucose reacts with oxygen to release chemical energy (ATP)." },
+  { "q": "Which force helps in pulling water to great heights in tall trees?", "o": ["Gravitational pull", "Transpiration pull", "Magnetic force", "Frictional force"], "a": 1, "sol": "Evaporation of water from leaves creates a suction force called transpiration pull." },
+  { "q": "Root hairs increase the ________ for absorption of water.", "o": ["Volume", "Length", "Surface area", "Density"], "a": 2, "sol": "More surface area allows for faster and more efficient absorption from soil." },
+  { "q": "Which gas is taken in by plants during the day for photosynthesis?", "o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"], "a": 2, "sol": "Carbon dioxide is a raw material for making carbohydrates." },
+  { "q": "The vascular tissue in plants is composed of:", "o": ["Only Xylem", "Only Phloem", "Xylem and Phloem", "Stomata and Chlorophyll"], "a": 2, "sol": "Xylem and Phloem together form the vascular system or conducting tissue." },
+  { "q": "Anaerobic respiration in plants (like yeast) produces:", "o": ["Lactic acid", "Alcohol and CO2", "Water and CO2", "Oxygen"], "a": 1, "sol": "Fermentation in yeast yields ethanol (alcohol) and carbon dioxide." },
+  { "q": "Plants that derive nutrition from dead and decaying matter are called:", "o": ["Autotrophs", "Parasites", "Saprophytes", "Insectivores"], "a": 2, "sol": "Saprophytic plants like fungi break down organic matter externally." },
+  { "q": "The movement of food in phloem is called:", "o": ["Transpiration", "Translocation", "Transformation", "Transfusion"], "a": 1, "sol": "Translocation is the transport of soluble products of photosynthesis." },
+  { "q": "Chlorophyll is located in which cell organelle?", "o": ["Mitochondria", "Nucleus", "Chloroplast", "Vacuole"], "a": 2, "sol": "Chloroplasts are the sites of photosynthesis containing chlorophyll." },
+  { "q": "Which mineral is a central component of the chlorophyll molecule?", "o": ["Iron", "Calcium", "Magnesium", "Potassium"], "a": 2, "sol": "Magnesium is essential for the structure of chlorophyll." },
+  { "q": "Transpiration helps the plant in:", "o": ["Absorption of minerals", "Cooling the plant", "Water movement", "All of these"], "a": 3, "sol": "It aids mineral transport, temperature regulation, and the ascent of sap." },
+  { "q": "In the absence of light, plants primarily perform:", "o": ["Photosynthesis", "Transpiration", "Respiration", "None of these"], "a": 2, "sol": "Respiration occurs continuously (day and night), but photosynthesis stops at night." },
+  { "q": "The raw materials for photosynthesis are:", "o": ["CO2 and Water", "Oxygen and Glucose", "CO2 and Oxygen", "Water and Starch"], "a": 0, "sol": "Water from soil and CO2 from air are combined using sunlight." },
+  { "q": "Which part of the plant absorbs water from the soil?", "o": ["Stem", "Leaves", "Roots", "Flowers"], "a": 2, "sol": "Roots have root hairs that are in contact with soil water." },
+  { "q": "Lenticels are structures found in woody stems used for:", "o": ["Photosynthesis", "Gaseous exchange", "Water storage", "Protection"], "a": 1, "sol": "Lenticels allow oxygen to reach the living cells in the woody stem." },
+  { "q": "A plant that traps and feeds on insects is:", "o": ["Cuscuta", "Pitcher plant", "Mushroom", "China rose"], "a": 1, "sol": "Insectivorous plants grow in nitrogen-deficient soil and get nitrogen from insects." },
+  { "q": "The end products of aerobic respiration in plants are:", "o": ["Glucose and Oxygen", "CO2, Water and Energy", "Alcohol and CO2", "Starch and Water"], "a": 1, "sol": "Cellular respiration breaks down glucose completely into CO2, water, and energy." },
+  { "q": "Why do plants wilt if they are not watered?", "o": ["Excess photosynthesis", "Loss of turgor pressure", "Too much oxygen", "Lack of CO2"], "a": 1, "sol": "Water keeps cells turgid; without it, the plant loses structural support." },
+  { "q": "Which of these is not required for photosynthesis?", "o": ["Sunlight", "Chlorophyll", "Nitrogen gas", "Water"], "a": 2, "sol": "While nitrogen is needed for growth, it is not a direct raw material for photosynthesis." },
+  { "q": "Iodine test is used to detect the presence of ________ in leaves.", "o": ["Proteins", "Fats", "Starch", "Vitamins"], "a": 2, "sol": "Starch turns blue-black in the presence of iodine solution." },
+  { "q": "The movement of water through xylem is:", "o": ["Unidirectional (upwards)", "Bidirectional", "Only downwards", "Radially only"], "a": 0, "sol": "Water moves from roots to leaves in a one-way flow." },
+  { "q": "The 'sap' in plants refers to:", "o": ["Only water", "Water and dissolved minerals", "Only food", "Chlorophyll"], "a": 1, "sol": "Ascent of sap is the upward movement of water and minerals." },
+  { "q": "Guard cells differ from other epidermal cells as they contain:", "o": ["Nucleus", "Large vacuole", "Chloroplasts", "Cell wall"], "a": 2, "sol": "Guard cells can photosynthesize, which helps in stomatal movement." },
+  { "q": "Autotrophic nutrition is found in:", "o": ["Fungi", "Green plants", "Humans", "Cuscuta"], "a": 1, "sol": "Autotrophs make their own food using inorganic sources." },
+  { "q": "Plants breathe through ________ in their roots.", "o": ["Stomata", "Lenticels", "Root hairs", "Xylem"], "a": 2, "sol": "Root cells take in oxygen from air spaces in the soil." },
+  { "q": "Which process is considered a 'necessary evil' for plants?", "o": ["Photosynthesis", "Respiration", "Transpiration", "Absorption"], "a": 2, "sol": "It causes water loss but is essential for transport and cooling." },
+  { "q": "In pitcher plants, the leaf is modified into a:", "o": ["Spine", "Tendril", "Pitcher", "Root"], "a": 2, "sol": "The pitcher-like structure is a leaf modification to trap insects." },
+  { "q": "The glucose produced in photosynthesis is a type of:", "o": ["Simple Carbohydrate", "Complex Protein", "Liquid Fat", "Mineral"], "a": 0, "sol": "Glucose is a simple sugar ($C_6H_{12}O_6$)." },
+  { "q": "Over-watering a potted plant can kill it because:", "o": ["Roots get too much water", "Roots cannot breathe", "Leaves stop photosynthesis", "Xylem bursts"], "a": 1, "sol": "Water fills air spaces in soil, preventing roots from getting oxygen (asphyxiation)." },
+  { "q": "The rate of transpiration increases with:", "o": ["High humidity", "Increased wind speed", "Low temperature", "Darkness"], "a": 1, "sol": "Wind removes water vapor from the leaf surface, speeding up evaporation." },
+  { "q": "Symbiotic relationship is seen in:", "o": ["Mushrooms", "Lichens", "Cuscuta", "Pitcher plant"], "a": 1, "sol": "Lichens are an association between an alga (food) and a fungus (shelter)." },
+  { "q": "Which tissue in plants has 'sieve tubes' and 'companion cells'?", "o": ["Xylem", "Phloem", "Epidermis", "Parenchyma"], "a": 1, "sol": "These are specialized cells for transporting organic nutrients." },
+  { "q": "Oxygen is used in which process in plants?", "o": ["Photosynthesis", "Transpiration", "Respiration", "Absorption"], "a": 2, "sol": "Respiration requires oxygen to oxidize glucose and release energy." },
+  { "q": "The energy currency of the cell produced during respiration is:", "o": ["Glucose", "ATP", "Starch", "NADPH"], "a": 1, "sol": "Adenosine Triphosphate (ATP) is the molecule used for energy by cells." },
+  { "q": "Rhizobium bacteria help plants by providing:", "o": ["Water", "Carbon dioxide", "Nitrogen", "Glucose"], "a": 2, "sol": "They fix atmospheric nitrogen into a form plants can absorb." },
+  { "q": "If all stomata of a leaf are blocked with wax, the leaf will:", "o": ["Photosynthesize faster", "Stop gas exchange", "Absorb more water", "Grow bigger"], "a": 1, "sol": "Blocking stomata prevents CO2 entry and O2 exit, stopping photosynthesis." },
+  { "q": "Mistletoe is an example of a:", "o": ["Total parasite", "Partial parasite", "Saprophyte", "Autotroph"], "a": 1, "sol": "It has green leaves but depends on the host for water and minerals." },
+  { "q": "Water loss through transpiration is highest under:", "o": ["Hot, dry, and windy conditions", "Cold and humid conditions", "Calm and cloudy days", "Rainy days"], "a": 0, "sol": "These conditions maximize the evaporation rate." },
+  { "q": "The transport of water in plants is ________ process.", "o": ["An active", "A passive", "A chemical", "A slow"], "a": 1, "sol": "Transpiration pull is a physical force that doesn't require cellular energy (passive)." },
+  { "q": "What is the primary source of energy for all life on Earth?", "o": ["Electricity", "Solar energy", "Chemical energy", "Wind energy"], "a": 1, "sol": "Sunlight is the energy source for photosynthesis, the base of the food chain." },
+  { "q": "Mangrove plants have ________ roots to breathe in salty marshes.", "o": ["Tap", "Fibrous", "Pneumatophores", "Adventitious"], "a": 2, "sol": "Pneumatophores (breathing roots) grow upwards out of the water to get air." },
+  { "q": "Sieve tubes of phloem do not have a:", "o": ["Cell wall", "Cytoplasm", "Nucleus", "Cell membrane"], "a : 2", "sol": "Mature sieve tube elements lack a nucleus to allow easy flow of food." },
+  { "q": "The chemical equation for photosynthesis is:", "o": ["$CO_2 + H_2O + \text{Light} \rightarrow \text{Glucose} + O_2$", "$Glucose + O_2 \rightarrow CO_2 + H_2O$", "$CO_2 + O_2 \rightarrow \text{Glucose}$", "$Starch + H_2O \rightarrow \text{Glucose}$"], "a": 0, "sol": "Carbon dioxide and water are converted to glucose and oxygen." },
+  { "q": "Desert plants (like cactus) photosynthesize through their:", "o": ["Leaves", "Spines", "Green stem", "Roots"], "a : 2", "sol": "Leaves are modified into spines to save water, so the stem takes over food production." },
+  { "q": "In 'Saprophytic' nutrition, digestion takes place:", "o": ["Inside the body", "Outside the body", "In the stomach", "In the leaf"], "a": 1, "sol": "Saprophytes secrete enzymes onto dead matter and absorb the nutrients." },
+  { "q": "The opening and closing of stomata is triggered by changes in:", "o": ["Light intensity", "Water content of guard cells", "Temperature", "Oxygen levels"], "a": 1, "sol": "Turgidity of guard cells causes them to open or close the pore." },
+  { "q": "Non-green plants like 'Cuscuta' (Amarbel) are:", "o": ["Autotrophs", "Parasites", "Saprophytes", "Symbionts"], "a": 1, "sol": "Cuscuta climbs on other plants and sucks nutrients from them." },
+  { "q": "The term 'Stoma' means:", "o": ["Green", "Mouth", "Leaf", "Pipe"], "a": 1, "sol": "Stoma is derived from the Greek word for 'mouth' or 'opening'." },
+  { "q": "Water moves upwards in a plant because of:", "o": ["Suction force", "Pressure from top", "Gravity", "Magnetic pull"], "a": 0, "sol": "Transpiration pull acts like a straw pulling water up." },
+  { "q": "Bread mold (Rhizopus) is a:", "o": ["Parasite", "Autotroph", "Saprophyte", "Insectivore"], "a : 2", "sol": "It grows on stale bread and absorbs nutrients from it." },
+  { "q": "During photosynthesis, solar energy is converted into ________ energy.", "o": ["Mechanical", "Heat", "Chemical", "Electrical"], "a : 2", "sol": "The energy is stored in the chemical bonds of glucose." },
+  { "q": "Which tissue contains dead cells (vessels and tracheids) at maturity?", "o": ["Phloem", "Xylem", "Epidermis", "Pith"], "a": 1, "sol": "The hollow, dead cells of xylem are efficient for water transport." },
+  { "q": "The 'Dark Reaction' of photosynthesis:", "o": ["Happens only in the dark", "Does not require light directly", "Happens only at night", "Produces oxygen"], "a": 1, "sol": "It follows the light-dependent stage and uses stored energy to fix CO2." },
+  { "q": "Translocation in plants is ________ process.", "o": ["An active", "A passive", "A random", "A fast"], "a": 0, "sol": "Loading and unloading of sugar in phloem requires energy (ATP)." },
+  { "q": "Which of the following is not an insectivorous plant?", "o": ["Venus flytrap", "Sundew", "Bladderwort", "Mushroom"], "a": 3, "sol": "Mushrooms are saprophytes, not insect eaters." },
+  { "q": "A leaf looks green because it ________ green light.", "o": ["Absorbs", "Reflects", "Transmits", "Refracts"], "a": 1, "sol": "Chlorophyll absorbs red and blue light and reflects green light." },
+  { "q": "Alcoholic fermentation in yeast occurs in the:", "o": ["Absence of oxygen", "Presence of oxygen", "Presence of light", "Absence of sugar"], "a": 0, "sol": "Yeast breaks down sugar anaerobically." },
+  { "q": "Phloem transport is ________.", "o": ["Unidirectional", "Multidirectional", "Only upwards", "Only downwards"], "a": 1, "sol": "Food moves from 'source' (leaves) to 'sink' (any part needing food)." },
+  { "q": "Rhizobium is usually found in the roots of ________ plants.", "o": ["Cereal", "Leguminous", "Citrus", "Aquatic"], "a": 1, "sol": "Plants like peas, beans, and grams have root nodules for these bacteria." },
+  { "q": "What is the function of the 'cuticle' on a leaf?", "o": ["Absorb CO2", "Reduce water loss", "Protect against heat", "Carry food"], "a": 1, "sol": "The waxy layer prevents excessive evaporation." },
+  { "q": "Starch gives a blue-black color with:", "o": ["Salt", "Iodine", "Sugar", "Water"], "a": 1, "sol": "This is a classic chemical test for starch." },
+  { "q": "Which cell organelle is the 'Powerhouse of the cell'?", "o": ["Chloroplast", "Mitochondria", "Ribosome", "Lysosome"], "a": 1, "sol": "Mitochondria are where respiration releases energy." },
+  { "q": "Algae are usually green because they contain:", "o": ["Chlorophyll", "Hemoglobin", "Iodine", "Salt"], "a": 0, "sol": "Algae are autotrophs and photosynthesize like plants." },
+  { "q": "The mode of nutrition in 'Monotropa' (Indian Pipe) is:", "o": ["Parasitic", "Saprophytic", "Autotrophic", "Holozoic"], "a": 1, "sol": "It is a non-green plant that gets nutrients from dead matter." },
+  { "q": "Guard cells become ________ to open the stomata.", "o": ["Flaccid", "Turgid", "Smaller", "Empty"], "a": 1, "sol": "When water enters, they curve outward and open the pore." },
+  { "q": "Excessive transpiration can cause a plant to:", "o": ["Grow faster", "Wilt", "Stay cool", "Die instantly"], "a": 1, "sol": "If water loss exceeds absorption, cells lose pressure and wilt." },
+  { "q": "Photosynthesis occurs only in those parts of the plant that are:", "o": ["White", "Green", "Woody", "Underground"], "a": 1, "sol": "Presence of chlorophyll is mandatory." },
+  { "q": "Which gas is released during respiration in plants?", "o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"], "a : 2", "sol": "Respiration releases CO2 as a metabolic byproduct." },
+  { "q": "In a leaf, the midrib and veins consist of:", "o": ["Only Xylem", "Vascular bundles", "Stomata", "Chloroplasts"], "a": 1, "sol": "Veins carry xylem and phloem for transport." },
+  { "q": "Plants like 'Dionaea' (Venus flytrap) use ________ to capture insects.", "o": ["Hairs", "Sticky fluid", "Snap traps", "Suction"], "a : 2", "sol": "The leaf blades close quickly when an insect touches the trigger hairs." },
+  { "q": "Water molecules stick to each other because of:", "o": ["Adhesion", "Cohesion", "Suction", "Gravity"], "a": 1, "sol": "Cohesion is the attraction between similar molecules (water-water)." },
+  { "q": "Xylem vessels are continuous tubes because their ________ are dissolved.", "o": ["Cell membranes", "Side walls", "End walls", "Nuclei"], "a : 2", "sol": "The end walls disappear to form a long pipe-like structure." },
+  { "q": "Food is moved through phloem with the help of ________ cells.", "o": ["Guard", "Companion", "Epidermal", "Root"], "a": 1, "sol": "Companion cells provide the energy and metabolic support for sieve tubes." },
+  { "q": "A plant leaf that has both green and non-green areas is called:", "o": ["Simple leaf", "Compound leaf", "Variegated leaf", "Modified leaf"], "a : 2", "sol": "Examples include Coleus and Money plant." },
+  { "q": "Plants require magnesium for the synthesis of:", "o": ["Starch", "Proteins", "Chlorophyll", "Fats"], "a : 2", "sol": "Magnesium deficiency causes yellowing of leaves (chlorosis)." },
+  { "q": "The main site for gaseous exchange in a leaf is:", "o": ["Xylem", "Stomata", "Midrib", "Petiole"], "a": 1, "sol": "Stomata are the 'nose' of the plant leaf." },
+  { "q": "What happens to the rate of photosynthesis if CO2 concentration increases?", "o": ["Decreases", "Stays the same", "Increases (up to a limit)", "Stops immediately"], "a : 2", "sol": "More raw material usually speeds up the reaction until another factor becomes limiting." },
+  { "q": "Which of the following is an example of a total stem parasite?", "o": ["Mistletoe", "Cuscuta", "Santalum", "Rafflesia"], "a": 1, "sol": "Cuscuta depends entirely on the host stem for nutrition." },
+  { "q": "The loss of water through stomata is regulated by:", "o": ["Roots", "Xylem", "Guard cells", "Sunlight directly"], "a : 2", "sol": "Guard cells are the biological regulators of the stomatal opening." },
+  { "q": "Root pressure is mainly responsible for water movement in:", "o": ["Tall trees", "Small herbs", "Desert plants", "Seaweed"], "a": 1, "sol": "Root pressure is a weak force, sufficient only for small heights." },
+  { "q": "Photosynthesis is the ________ of solar energy into chemical energy.", "o": ["Destruction", "Conversion", "Storage only", "Reflection"], "a": 1, "sol": "Energy transformation is the fundamental principle here." },
+  { "q": "Which part of the plant stores food in a potato?", "o": ["Root", "Stem (Tuber)", "Leaf", "Seed"], "a": 1, "sol": "Potato is a modified underground stem." },
+  { "q": "The color of iodine changes from brown to ________ in the presence of starch.", "o": ["Red", "Green", "Blue-black", "Yellow"], "a : 2", "sol": "This is a specific reaction of starch with iodine." },
+  { "q": "Plants that grow in nitrogen-deficient soil are:", "o": ["Parasites", "Insectivores", "Saprophytes", "Autotrophs"], "a": 1, "sol": "They supplement nitrogen by digesting insects." },
+  { "q": "During the day, which process is faster in plants?", "o": ["Respiration", "Photosynthesis", "Transpiration", "Growth"], "a": 1, "sol": "Net gas exchange shows CO2 intake because photosynthesis outpaces respiration." },
+  { "q": "Small pores on the surface of fruits for gas exchange are:", "o": ["Stomata", "Lenticels", "Root hairs", "Hydathodes"], "a": 1, "sol": "Lenticels are also found on some fruits like pears." },
+  { "q": "A symbiotic relationship benefits:", "o": ["Only one partner", "Both partners", "Neither partner", "The environment only"], "a": 1, "sol": "Mutual benefit is the definition of symbiosis." },
+  { "q": "The sugar produced in leaves is mostly ________.", "o": ["Glucose", "Sucrose", "Starch", "Fructose"], "a": 1, "sol": "Food is usually transported as sucrose in the phloem." },
+  { "q": "Which pigment reflects orange/yellow light in leaves?", "o": ["Chlorophyll", "Carotenoids", "Hemoglobin", "Melanin"], "a": 1, "sol": "Carotenoids are accessory pigments that show up in autumn." }
 ]
