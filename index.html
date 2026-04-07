@@ -238,6 +238,16 @@ setTimeout(function(){d.head.appendChild(s);},0);
     </div>
   </div>
 
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="footer-copy">© 2024 BachelorPulse. Made with ❤️ for Indian students.</div>
+    <div class="footer-links">
+      <a onclick="openModal('about')" role="button" tabindex="0">ℹ️ About</a>
+      <a onclick="openModal('privacy')" role="button" tabindex="0">🔒 Privacy Policy</a>
+      <a onclick="openModal('contact')" role="button" tabindex="0">📬 Contact</a>
+    </div>
+  </footer>
+
   <!-- Feedback Modal Overlay -->
   <div class="fbk-overlay" id="fbkOverlay" onclick="if(event.target===this)FeedbackSystem.close()">
     <div class="fbk-modal">
@@ -406,7 +416,7 @@ setTimeout(function(){d.head.appendChild(s);},0);
     <div class="ham-divider"></div>
     <div class="ham-section-label">Info</div>
     <div class="ham-item" onclick="closeHamPanel(); openModal('about')" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}">ℹ️ About</div>
-    <div class="ham-item" onclick="closeHamPanel(); window.location.href='https://bachelorpulse.in/privacy_policy.html'" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}">🔒 Privacy Policy</div>
+    <div class="ham-item" onclick="closeHamPanel(); openModal('privacy')" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}">🔒 Privacy Policy</div>
     <div class="ham-item" onclick="closeHamPanel(); openModal('contact')" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}">📬 Contact Us</div>
   </div>
 </div>
@@ -2150,7 +2160,16 @@ contact: `<h2>📬 Contact Us</h2>
 <p>We'd love to hear from you! Whether you have a suggestion, a bug report, a content request, or just want to say hello — reach out anytime.</p>
 <p style="margin-top:12px"><strong>Email:</strong> <a href="mailto:sirshashwatsingh@gmail.com">sirshashwatsingh@gmail.com</a></p>
 <p style="margin-top:12px">We aim to respond within 2–3 business days. For chapter or subject requests, please mention your class, subject, and chapter name in the email so we can prioritise accordingly.</p>
-<p style="margin-top:12px">Thank you for being a part of the BachelorPulse learning community! 🚀</p>`
+<p style="margin-top:12px">Thank you for being a part of the BachelorPulse learning community! 🚀</p>`,
+privacy: `<h2>🔒 Privacy Policy</h2>
+<p><strong>Last updated:</strong> 2024</p>
+<p style="margin-top:12px">BachelorPulse ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our platform at <a href="https://bachelorpulse.in" target="_blank">bachelorpulse.in</a>.</p>
+<p style="margin-top:16px"><strong style="color:var(--accent)">1. No Account Required</strong><br>BachelorPulse does not require you to create an account or provide any personal information to use the platform. You can access all quizzes, mind maps, and study materials completely anonymously.</p>
+<p style="margin-top:12px"><strong style="color:var(--accent)">2. Data We Store Locally</strong><br>Your quiz progress, streaks, badges, and bookmarks are stored only in your browser's local storage on your device. This data never leaves your device and is not transmitted to our servers.</p>
+<p style="margin-top:12px"><strong style="color:var(--accent)">3. Cookies & Analytics</strong><br>We may use basic analytics to understand how users interact with the platform in aggregate (e.g., which pages are visited). No personally identifiable information is collected through analytics.</p>
+<p style="margin-top:12px"><strong style="color:var(--accent)">4. Third-Party Services</strong><br>We may embed content from third-party services such as YouTube. These services have their own privacy policies and may collect data as per their terms.</p>
+<p style="margin-top:12px"><strong style="color:var(--accent)">5. Children's Privacy</strong><br>BachelorPulse is designed for students of all ages, including children under 13. We do not knowingly collect personal information from any user.</p>
+<p style="margin-top:12px"><strong style="color:var(--accent)">6. Contact</strong><br>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:sirshashwatsingh@gmail.com">sirshashwatsingh@gmail.com</a>.</p>`
 };
 function openModal(key) {
 document.getElementById('bpModalBody').innerHTML = MODAL_CONTENT[key] || '';
