@@ -264,22 +264,6 @@ setTimeout(function(){d.head.appendChild(s);},0);
   </div>
 
   
-<section id="seo-content" style="width:100%;max-width:880px;padding:24px 16px 12px;margin:0 auto;min-height:200px;contain:layout;overflow:hidden;">
-  <h2 style="font-family:sans-serif;font-size:1rem;font-weight:700;color:#93a8c0;margin-bottom:8px;">Free NCERT MCQ Practice for Class 6, 7, 8, 9, 10</h2>
-  <p style="font-size:0.82rem;color:#6b7a90;line-height:1.6;max-width:720px;">BachelorPulse provides free chapter-wise MCQs, Mind Maps, Short Notes and Solutions for NCERT Class 6 to 10 — Science, Mathematics and Social Science. Practice 100+ chapters covering Physics, Chemistry, Biology, Algebra, Geometry, History, Geography and Civics. No login or signup needed. Perfect for board exam preparation and daily revision.</p>
-  <div style="margin-top:14px;display:flex;flex-wrap:wrap;gap:8px;max-width:720px;">
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 10 Science Chapter 1 — Chemical Reactions and Equations MCQ</span>
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 10 Science Chapter 2 — Acids Bases and Salts MCQ</span>
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 9 Science Chapter 1 — Matter in Our Surroundings MCQ</span>
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 9 Science Chapter 3 — Atoms and Molecules MCQ</span>
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 10 Maths Chapter 1 — Real Numbers MCQ</span>
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 9 Maths Chapter 2 — Polynomials MCQ</span>
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 9 SST Chapter 1 — The French Revolution MCQ</span>
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 10 SST Chapter 2 — Nationalism in India MCQ</span>
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 8 Science Chapter 4 — Electricity Magnetic and Heating Effects MCQ</span>
-    <span style="font-size:0.75rem;color:#6b7a90;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:3px 10px;">Class 8 SST Chapter 1 — Natural Resources and Their Use MCQ</span>
-  </div>
-</section>
 </div>
 
 <button class="pd-fab" onclick="PerfDash.open()" title="Performance Dashboard" aria-label="Open Performance Dashboard">📊 My Progress</button>
@@ -422,7 +406,7 @@ setTimeout(function(){d.head.appendChild(s);},0);
     <div class="ham-divider"></div>
     <div class="ham-section-label">Info</div>
     <div class="ham-item" onclick="closeHamPanel(); openModal('about')" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}">ℹ️ About</div>
-    <div class="ham-item" onclick="closeHamPanel(); openModal('privacy')" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}">🔒 Privacy Policy</div>
+    <div class="ham-item" onclick="closeHamPanel(); window.location.href='https://bachelorpulse.in/privacy_policy.html'" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}">🔒 Privacy Policy</div>
     <div class="ham-item" onclick="closeHamPanel(); openModal('contact')" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}">📬 Contact Us</div>
   </div>
 </div>
@@ -1439,31 +1423,68 @@ pushURL(null);
 
 // ── URL ROUTING ────────────────────────────────────────────
 const SLUG_MAP = {
-"ncert-class-9-science-chapter-1-matter-in-our-surroundings-mcq":{cls:9,subj:"science",ch:"Chapter 1: Matter in Our Surroundings",json:"9_sci_ch1_mcq.json"},
-"ncert-class-9-science-chapter-2-is-matter-around-us-pure-mcq":{cls:9,subj:"science",ch:"Chapter 2: Is Matter Around Us Pure?",json:"9_sci_ch2_mcq.json"},
-"ncert-class-9-science-chapter-3-atoms-and-molecules-mcq":{cls:9,subj:"science",ch:"Chapter 3: Atoms and Molecules",json:"9_sci_ch3_mcq.json"},
-"ncert-class-9-science-chapter-4-structure-of-the-atom-mcq":{cls:9,subj:"science",ch:"Chapter 4: Structure of the Atom",json:"9_sci_ch4_mcq.json"},
-"ncert-class-9-science-chapter-5-the-fundamental-unit-of-life-mcq":{cls:9,subj:"science",ch:"Chapter 5: The Fundamental Unit of Life",json:"9_sci_ch5_mcq.json"},
-"ncert-class-9-science-chapter-6-tissues-mcq":{cls:9,subj:"science",ch:"Chapter 6: Tissues",json:"9_sci_ch6_mcq.json"},
-"ncert-class-9-science-chapter-7-motion-mcq":{cls:9,subj:"science",ch:"Chapter 7: Motion",json:"9_sci_ch7_mcq.json"},
-"ncert-class-9-science-chapter-8-force-and-laws-of-motion-mcq":{cls:9,subj:"science",ch:"Chapter 8: Force and Laws of Motion",json:"9_sci_ch8_mcq.json"},
-"ncert-class-9-science-chapter-9-gravitation-mcq":{cls:9,subj:"science",ch:"Chapter 9: Gravitation",json:"9_sci_ch9_mcq.json"},
-"ncert-class-9-science-chapter-10-work-and-energy-mcq":{cls:9,subj:"science",ch:"Chapter 10: Work and Energy",json:"9_sci_ch10_mcq.json"},
-"ncert-class-9-science-chapter-11-sound-mcq":{cls:9,subj:"science",ch:"Chapter 11: Sound",json:"9_sci_ch11_mcq.json"},
-"ncert-class-9-science-chapter-12-improvement-in-food-resources-mcq":{cls:9,subj:"science",ch:"Chapter 12: Improvement in Food Resources",json:"9_sci_ch12_mcq.json"},
-"ncert-class-10-science-chapter-1-chemical-reactions-and-equations-mcq":{cls:10,subj:"science",ch:"Chapter 1: Chemical Reactions and Equations",json:"10_sci_ch1_mcq.json"},
-"ncert-class-10-science-chapter-2-acids-bases-and-salts-mcq":{cls:10,subj:"science",ch:"Chapter 2: Acids, Bases and Salts",json:"10_sci_ch2_mcq.json"},
-"ncert-class-10-science-chapter-3-metals-and-non-metals-mcq":{cls:10,subj:"science",ch:"Chapter 3: Metals and Non-metals",json:"10_sci_ch3_mcq.json"},
-"ncert-class-10-science-chapter-4-carbon-and-its-compounds-mcq":{cls:10,subj:"science",ch:"Chapter 4: Carbon and its Compounds",json:"10_sci_ch4_mcq.json"},
-"ncert-class-10-science-chapter-5-life-processes-mcq":{cls:10,subj:"science",ch:"Chapter 5: Life Processes",json:"10_sci_ch5_mcq.json"},
-"ncert-class-10-science-chapter-6-control-and-coordination-mcq":{cls:10,subj:"science",ch:"Chapter 6: Control and Coordination",json:"10_sci_ch6_mcq.json"},
-"ncert-class-10-science-chapter-7-how-do-organisms-reproduce-mcq":{cls:10,subj:"science",ch:"Chapter 7: How do Organisms Reproduce?",json:"10_sci_ch7_mcq.json"},
-"ncert-class-10-science-chapter-8-heredity-mcq":{cls:10,subj:"science",ch:"Chapter 8: Heredity",json:"10_sci_ch8_mcq.json"},
-"ncert-class-10-science-chapter-9-light-reflection-and-refraction-mcq":{cls:10,subj:"science",ch:"Chapter 9: Light \u2014 Reflection and Refraction",json:"10_sci_ch9_mcq.json"},
-"ncert-class-10-science-chapter-10-the-human-eye-and-the-colourful-world-mcq":{cls:10,subj:"science",ch:"Chapter 10: The Human Eye and the Colourful World",json:"10_sci_ch10_mcq.json"},
-"ncert-class-10-science-chapter-11-electricity-mcq":{cls:10,subj:"science",ch:"Chapter 11: Electricity",json:"10_sci_ch11_mcq.json"},
-"ncert-class-10-science-chapter-12-magnetic-effects-of-electric-current-mcq":{cls:10,subj:"science",ch:"Chapter 12: Magnetic Effects of Electric Current",json:"10_sci_ch12_mcq.json"},
-"ncert-class-10-science-chapter-13-our-environment-mcq":{cls:10,subj:"science",ch:"Chapter 13: Our Environment",json:"10_sci_ch13_mcq.json"},
+"class6_science_chapter1_the_wonderful_world_of_science_mcq":{cls:6,subj:"science",ch:"Chapter 1: The Wonderful World of Science",json:"6_sci_ch1_mcq.json"},
+"class6_science_chapter2_diversity_in_the_living_world_mcq":{cls:6,subj:"science",ch:"Chapter 2: Diversity in the Living World",json:"6_sci_ch2_mcq.json"},
+"class6_science_chapter3_mindful_eating_a_path_to_a_healthy_body_mcq":{cls:6,subj:"science",ch:"Chapter 3: Mindful Eating: A Path to a Healthy Body",json:"6_sci_ch3_mcq.json"},
+"class6_science_chapter4_exploring_magnets_mcq":{cls:6,subj:"science",ch:"Chapter 4: Exploring Magnets",json:"6_sci_ch4_mcq.json"},
+"class6_science_chapter5_measurement_of_length_and_motion_mcq":{cls:6,subj:"science",ch:"Chapter 5: Measurement of Length and Motion",json:"6_sci_ch5_mcq.json"},
+"class6_science_chapter6_materials_around_us_mcq":{cls:6,subj:"science",ch:"Chapter 6: Materials Around Us",json:"6_sci_ch6_mcq.json"},
+"class6_science_chapter7_temperature_and_its_measurement_mcq":{cls:6,subj:"science",ch:"Chapter 7: Temperature and its Measurement",json:"6_sci_ch7_mcq.json"},
+"class6_science_chapter8_a_journey_through_states_of_water_mcq":{cls:6,subj:"science",ch:"Chapter 8: A Journey through States of Water",json:"6_sci_ch8_mcq.json"},
+"class6_science_chapter9_methods_of_separation_in_everyday_life_mcq":{cls:6,subj:"science",ch:"Chapter 9: Methods of Separation in Everyday Life",json:"6_sci_ch9_mcq.json"},
+"class6_science_chapter10_living_creatures_exploring_their_characteristics_mcq":{cls:6,subj:"science",ch:"Chapter 10: Living Creatures: Exploring their Characteristics",json:"6_sci_ch10_mcq.json"},
+"class6_science_chapter11_nature_s_treasures_mcq":{cls:6,subj:"science",ch:"Chapter 11: Nature\'s Treasures",json:"6_sci_ch11_mcq.json"},
+"class6_science_chapter12_beyond_earth_mcq":{cls:6,subj:"science",ch:"Chapter 12: Beyond Earth",json:"6_sci_ch12_mcq.json"},
+"class7_science_chapter1_the_ever_evolving_world_of_science_mcq":{cls:7,subj:"science",ch:"Chapter 1: The Ever-Evolving World of Science",json:"7_sci_ch1_mcq.json"},
+"class7_science_chapter2_exploring_substances_acidic_basic_and_neutral_mcq":{cls:7,subj:"science",ch:"Chapter 2: Exploring Substances: Acidic, Basic, and Neutral",json:"7_sci_ch2_mcq.json"},
+"class7_science_chapter3_electricity_circuits_and_their_components_mcq":{cls:7,subj:"science",ch:"Chapter 3: Electricity: Circuits and their Components",json:"7_sci_ch3_mcq.json"},
+"class7_science_chapter4_the_world_of_metals_and_non_metals_mcq":{cls:7,subj:"science",ch:"Chapter 4: The World of Metals and Non-metals",json:"7_sci_ch4_mcq.json"},
+"class7_science_chapter5_changes_around_us_physical_and_chemical_mcq":{cls:7,subj:"science",ch:"Chapter 5: Changes Around Us: Physical and Chemical",json:"7_sci_ch5_mcq.json"},
+"class7_science_chapter6_adolescence_a_stage_of_growth_and_change_mcq":{cls:7,subj:"science",ch:"Chapter 6: Adolescence: A Stage of Growth and Change",json:"7_sci_ch6_mcq.json"},
+"class7_science_chapter7_heat_transfer_in_nature_mcq":{cls:7,subj:"science",ch:"Chapter 7: Heat Transfer in Nature",json:"7_sci_ch7_mcq.json"},
+"class7_science_chapter8_measurement_of_time_and_motion_mcq":{cls:7,subj:"science",ch:"Chapter 8: Measurement of Time and Motion",json:"7_sci_ch8_mcq.json"},
+"class7_science_chapter9_life_processes_in_animals_mcq":{cls:7,subj:"science",ch:"Chapter 9: Life Processes in Animals",json:"7_sci_ch9_mcq.json"},
+"class7_science_chapter10_life_processes_in_plants_mcq":{cls:7,subj:"science",ch:"Chapter 10: Life Processes in Plants",json:"7_sci_ch10_mcq.json"},
+"class7_science_chapter11_light_shadows_and_reflections_mcq":{cls:7,subj:"science",ch:"Chapter 11: Light: Shadows and Reflections",json:"7_sci_ch11_mcq.json"},
+"class7_science_chapter12_earth_moon_and_the_sun_mcq":{cls:7,subj:"science",ch:"Chapter 12: Earth, Moon, and the Sun",json:"7_sci_ch12_mcq.json"},
+"class8_science_chapter1_exploring_the_investigative_world_of_science_mcq":{cls:8,subj:"science",ch:"Chapter 1: Exploring the Investigative World of Science",json:"8_sci_ch1_mcq.json"},
+"class8_science_chapter2_the_invisible_living_world_beyond_our_naked_eye_mcq":{cls:8,subj:"science",ch:"Chapter 2: The Invisible Living World: Beyond Our Naked Eye",json:"8_sci_ch2_mcq.json"},
+"class8_science_chapter3_health_the_ultimate_treasure_mcq":{cls:8,subj:"science",ch:"Chapter 3: Health: The Ultimate Treasure",json:"8_sci_ch3_mcq.json"},
+"class8_science_chapter4_electricity_magnetic_and_heating_effects_mcq":{cls:8,subj:"science",ch:"Chapter 4: Electricity: Magnetic and Heating Effects",json:"8_sci_ch4_mcq.json"},
+"class8_science_chapter5_exploring_forces_mcq":{cls:8,subj:"science",ch:"Chapter 5: Exploring Forces",json:"8_sci_ch5_mcq.json"},
+"class8_science_chapter6_pressure_winds_storms_and_cyclones_mcq":{cls:8,subj:"science",ch:"Chapter 6: Pressure, Winds, Storms, and Cyclones",json:"8_sci_ch6_mcq.json"},
+"class8_science_chapter7_particulate_nature_of_matter_mcq":{cls:8,subj:"science",ch:"Chapter 7: Particulate Nature of Matter",json:"8_sci_ch7_mcq.json"},
+"class8_science_chapter8_nature_of_matter_elements_compounds_and_mixtures_mcq":{cls:8,subj:"science",ch:"Chapter 8: Nature of Matter: Elements, Compounds, and Mixtures",json:"8_sci_ch8_mcq.json"},
+"class8_science_chapter9_the_amazing_world_of_solutes_solvents_and_solutions_mcq":{cls:8,subj:"science",ch:"Chapter 9: The Amazing World of Solutes, Solvents, and Solutions",json:"8_sci_ch9_mcq.json"},
+"class8_science_chapter10_light_mirrors_and_lenses_mcq":{cls:8,subj:"science",ch:"Chapter 10: Light: Mirrors and Lenses",json:"8_sci_ch10_mcq.json"},
+"class8_science_chapter11_keeping_time_with_the_skies_mcq":{cls:8,subj:"science",ch:"Chapter 11: Keeping Time with the Skies",json:"8_sci_ch11_mcq.json"},
+"class8_science_chapter12_how_nature_works_in_harmony_mcq":{cls:8,subj:"science",ch:"Chapter 12: How Nature Works in Harmony",json:"8_sci_ch12_mcq.json"},
+"class8_science_chapter13_our_home_earth_a_unique_life_sustaining_planet_mcq":{cls:8,subj:"science",ch:"Chapter 13: Our Home: Earth, a Unique Life Sustaining Planet",json:"8_sci_ch13_mcq.json"},
+"class9_science_chapter1_matter_in_our_surroundings_mcq":{cls:9,subj:"science",ch:"Chapter 1: Matter in Our Surroundings",json:"9_sci_ch1_mcq.json"},
+"class9_science_chapter2_is_matter_around_us_pure_mcq":{cls:9,subj:"science",ch:"Chapter 2: Is Matter Around Us Pure?",json:"9_sci_ch2_mcq.json"},
+"class9_science_chapter3_atoms_and_molecules_mcq":{cls:9,subj:"science",ch:"Chapter 3: Atoms and Molecules",json:"9_sci_ch3_mcq.json"},
+"class9_science_chapter4_structure_of_the_atom_mcq":{cls:9,subj:"science",ch:"Chapter 4: Structure of the Atom",json:"9_sci_ch4_mcq.json"},
+"class9_science_chapter5_the_fundamental_unit_of_life_mcq":{cls:9,subj:"science",ch:"Chapter 5: The Fundamental Unit of Life",json:"9_sci_ch5_mcq.json"},
+"class9_science_chapter6_tissues_mcq":{cls:9,subj:"science",ch:"Chapter 6: Tissues",json:"9_sci_ch6_mcq.json"},
+"class9_science_chapter7_motion_mcq":{cls:9,subj:"science",ch:"Chapter 7: Motion",json:"9_sci_ch7_mcq.json"},
+"class9_science_chapter8_force_and_laws_of_motion_mcq":{cls:9,subj:"science",ch:"Chapter 8: Force and Laws of Motion",json:"9_sci_ch8_mcq.json"},
+"class9_science_chapter9_gravitation_mcq":{cls:9,subj:"science",ch:"Chapter 9: Gravitation",json:"9_sci_ch9_mcq.json"},
+"class9_science_chapter10_work_and_energy_mcq":{cls:9,subj:"science",ch:"Chapter 10: Work and Energy",json:"9_sci_ch10_mcq.json"},
+"class9_science_chapter11_sound_mcq":{cls:9,subj:"science",ch:"Chapter 11: Sound",json:"9_sci_ch11_mcq.json"},
+"class9_science_chapter12_improvement_in_food_resources_mcq":{cls:9,subj:"science",ch:"Chapter 12: Improvement in Food Resources",json:"9_sci_ch12_mcq.json"},
+"class10_science_chapter1_chemical_reactions_and_equations_mcq":{cls:10,subj:"science",ch:"Chapter 1: Chemical Reactions and Equations",json:"10_sci_ch1_mcq.json"},
+"class10_science_chapter2_acids_bases_and_salts_mcq":{cls:10,subj:"science",ch:"Chapter 2: Acids, Bases and Salts",json:"10_sci_ch2_mcq.json"},
+"class10_science_chapter3_metals_and_non_metals_mcq":{cls:10,subj:"science",ch:"Chapter 3: Metals and Non-metals",json:"10_sci_ch3_mcq.json"},
+"class10_science_chapter4_carbon_and_its_compounds_mcq":{cls:10,subj:"science",ch:"Chapter 4: Carbon and its Compounds",json:"10_sci_ch4_mcq.json"},
+"class10_science_chapter5_life_processes_mcq":{cls:10,subj:"science",ch:"Chapter 5: Life Processes",json:"10_sci_ch5_mcq.json"},
+"class10_science_chapter6_control_and_coordination_mcq":{cls:10,subj:"science",ch:"Chapter 6: Control and Coordination",json:"10_sci_ch6_mcq.json"},
+"class10_science_chapter7_how_do_organisms_reproduce_mcq":{cls:10,subj:"science",ch:"Chapter 7: How do Organisms Reproduce?",json:"10_sci_ch7_mcq.json"},
+"class10_science_chapter8_heredity_mcq":{cls:10,subj:"science",ch:"Chapter 8: Heredity",json:"10_sci_ch8_mcq.json"},
+"class10_science_chapter9_light_reflection_and_refraction_mcq":{cls:10,subj:"science",ch:"Chapter 9: Light — Reflection and Refraction",json:"10_sci_ch9_mcq.json"},
+"class10_science_chapter10_the_human_eye_and_the_colourful_world_mcq":{cls:10,subj:"science",ch:"Chapter 10: The Human Eye and the Colourful World",json:"10_sci_ch10_mcq.json"},
+"class10_science_chapter11_electricity_mcq":{cls:10,subj:"science",ch:"Chapter 11: Electricity",json:"10_sci_ch11_mcq.json"},
+"class10_science_chapter12_magnetic_effects_of_electric_current_mcq":{cls:10,subj:"science",ch:"Chapter 12: Magnetic Effects of Electric Current",json:"10_sci_ch12_mcq.json"},
+"class10_science_chapter13_our_environment_mcq":{cls:10,subj:"science",ch:"Chapter 13: Our Environment",json:"10_sci_ch13_mcq.json"}
 };
 
 // Reverse map: build slug from (cls, subj, ch)
@@ -1471,7 +1492,11 @@ function buildSlug(cls, subj, ch) {
   for (const [slug, data] of Object.entries(SLUG_MAP)) {
     if (data.cls === cls && data.subj === subj && data.ch === ch) return slug;
   }
-  return null;
+  // Fallback: generate slug dynamically for new format
+  const num = String(ch).match(/[Cc]hapter\s*(\d+)/)?.[1];
+  if (!num) return null;
+  const name = ch.replace(/^Chapter\s*\d+:\s*/i, '').toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_|_$/g, '');
+  return 'class' + cls + '_' + subj + '_chapter' + num + '_' + name + '_mcq';
 }
 
 function getPageURL(slug) {
@@ -2121,28 +2146,6 @@ about: `<h2>🎓 About BachelorPulse</h2>
 <p style="margin-top:12px">With BachelorPulse, students can take MCQ quizzes, read concise chapter solutions, and explore AI-generated mind maps and short notes — all without leaving the app. Our streak system and scoring engine keep learners motivated and on track.</p>
 <p style="margin-top:12px">We believe quality education should be free, accessible, and available in every corner of India — from metro cities to small towns. Built with love for students who dream big, BachelorPulse is your daily study companion for Classes 6, 7, 8, 9, and 10 — covering Science, Mathematics, and Social Science as per the latest NCERT syllabus.</p>
 <p style="margin-top:12px">Start your learning journey today. Attempt a quiz, earn a streak, and ace your exams — one chapter at a time.</p>`,
-privacy: `<h2>🔒 Privacy Policy</h2>
-<p><strong>Effective Date:</strong> January 1, 2025 &nbsp;|&nbsp; <strong>Last Updated:</strong> March 2025</p>
-<p style="margin-top:14px">BachelorPulse ("we", "our", or "us") operates the BachelorPulse educational application (the "App"). This Privacy Policy explains how we collect, use, and share information when you use our App. By using BachelorPulse, you agree to the terms described in this policy.</p>
-<h3 style="margin-top:18px;color:var(--accent2);font-family:'Baloo 2',cursive">1. Information We Collect</h3>
-<p style="margin-top:8px"><strong>a) Automatically Collected Information:</strong> We and our third-party advertising partners (including Google AdMob) may automatically collect certain information when you use the App, including: device identifiers (such as Advertising ID / IDFA), device type, operating system version, IP address, general location (country/region), app usage data such as pages viewed and features used, and crash logs and performance data.</p>
-<p style="margin-top:8px"><strong>b) Information You Provide:</strong> We do not require account registration. Any quiz scores and learning streaks are stored locally on your device using your browser's localStorage and are never transmitted to our servers.</p>
-<h3 style="margin-top:16px;color:var(--accent2);font-family:'Baloo 2',cursive">2. How We Use Your Information</h3>
-<p style="margin-top:8px">We use the information collected to: operate and improve the App; display relevant advertisements through Google AdMob and other advertising networks; analyse usage trends to improve content and features; and ensure technical functionality and prevent abuse.</p>
-<h3 style="margin-top:16px;color:var(--accent2);font-family:'Baloo 2',cursive">3. Advertising</h3>
-<p style="margin-top:8px">BachelorPulse is a free app supported by advertising. We use <strong>Google AdMob</strong> to serve ads. Google AdMob may use your Advertising ID and other data to show you personalised advertisements based on your interests. You can opt out of personalised advertising at any time by adjusting your device settings (Android: Settings → Google → Ads; iOS: Settings → Privacy → Advertising). For more information on how Google uses data from apps, visit: <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">policies.google.com/technologies/partner-sites</a>.</p>
-<h3 style="margin-top:16px;color:var(--accent2);font-family:'Baloo 2',cursive">4. Children's Privacy</h3>
-<p style="margin-top:8px">BachelorPulse is designed for students of Classes 6–10 (generally ages 11–16). We do not knowingly collect personally identifiable information from children under 13. Advertising served within the App is configured for a mixed or general audience and complies with applicable children's privacy laws, including COPPA and India's IT Act. Parents and guardians who believe their child has provided personal information should contact us at <a href="mailto:sirshashwatsingh@gmail.com">sirshashwatsingh@gmail.com</a>.</p>
-<h3 style="margin-top:16px;color:var(--accent2);font-family:'Baloo 2',cursive">5. Third-Party Services</h3>
-<p style="margin-top:8px">The App may use the following third-party services, each with their own privacy policies: <strong>Google AdMob</strong> (advertising); <strong>Google Firebase</strong> (analytics and crash reporting, if enabled); <strong>GitHub</strong> (content hosting via raw GitHub URLs). We are not responsible for the privacy practices of these third parties.</p>
-<h3 style="margin-top:16px;color:var(--accent2);font-family:'Baloo 2',cursive">6. Data Retention & Security</h3>
-<p style="margin-top:8px">We retain usage and advertising data only as long as necessary for the purposes described above. We implement reasonable technical measures to protect your data, but no method of electronic transmission or storage is 100% secure.</p>
-<h3 style="margin-top:16px;color:var(--accent2);font-family:'Baloo 2',cursive">7. Your Rights</h3>
-<p style="margin-top:8px">Depending on your location, you may have the right to access, correct, or delete personal data associated with your use of the App. To exercise these rights or to opt out of data collection, please contact us at <a href="mailto:sirshashwatsingh@gmail.com">sirshashwatsingh@gmail.com</a>.</p>
-<h3 style="margin-top:16px;color:var(--accent2);font-family:'Baloo 2',cursive">8. Changes to This Policy</h3>
-<p style="margin-top:8px">We may update this Privacy Policy from time to time. Any changes will be reflected within the App with an updated "Last Updated" date. Continued use of the App after changes constitutes acceptance of the revised policy.</p>
-<h3 style="margin-top:16px;color:var(--accent2);font-family:'Baloo 2',cursive">9. Contact Us</h3>
-<p style="margin-top:8px">If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:sirshashwatsingh@gmail.com">sirshashwatsingh@gmail.com</a></p>`,
 contact: `<h2>📬 Contact Us</h2>
 <p>We'd love to hear from you! Whether you have a suggestion, a bug report, a content request, or just want to say hello — reach out anytime.</p>
 <p style="margin-top:12px"><strong>Email:</strong> <a href="mailto:sirshashwatsingh@gmail.com">sirshashwatsingh@gmail.com</a></p>
