@@ -276,6 +276,12 @@ setTimeout(function(){d.head.appendChild(s);},0);
     </div>
   </footer>
 
+  <div style="text-align:center;padding:10px 16px 20px;font-size:.78rem;color:#4b6380;">
+    <a href="https://amzn.to/4ciDLQ1" target="_blank" rel="noopener" style="color:#4b6380;">https://amzn.to/4ciDLQ1</a>
+    &nbsp;·&nbsp;
+    <a href="https://amzn.to/4miIHsR" target="_blank" rel="noopener" style="color:#4b6380;">https://amzn.to/4miIHsR</a>
+  </div>
+
 </div>
 
 
@@ -1174,7 +1180,7 @@ window.open(url, '_blank', 'noopener');
 }
 }
 (function () {
-let mmInitDist = 0, mmInitWidth = 0, mmPinching = false;
+let mmInitDist = 0, mmInitWidth = 0, mmWrapWidth = 0, mmPinching = false;
 function getMmDist(t) {
 const dx = t[0].clientX - t[1].clientX;
 const dy = t[0].clientY - t[1].clientY;
@@ -1187,7 +1193,9 @@ if (!img || !wrap || e.touches.length !== 2) return;
 if (!wrap.contains(e.target)) return;
 mmPinching = true;
 mmInitDist = getMmDist(e.touches);
+// Read geometry ONCE on touchstart (no prior style write in this frame)
 mmInitWidth = img.offsetWidth;
+mmWrapWidth = wrap.offsetWidth;
 e.preventDefault();
 }, { passive: false });
 document.addEventListener('touchmove', function (e) {
@@ -1196,8 +1204,8 @@ const wrap = document.getElementById('mmScrollWrap');
 if (!mmPinching || !img || !wrap || e.touches.length !== 2) return;
 const dist = getMmDist(e.touches);
 const ratio = dist / mmInitDist;
-const wrapWidth = wrap.offsetWidth;
-const newPct = Math.min(400, Math.max(100, (mmInitWidth * ratio / wrapWidth) * 100));
+// Use cached wrapWidth — avoids forced reflow (read after write)
+const newPct = Math.min(400, Math.max(100, (mmInitWidth * ratio / mmWrapWidth) * 100));
 img.style.width = newPct + '%';
 img.dataset.zoomed = newPct > 110 ? '1' : '0';
 img.style.cursor = newPct > 110 ? 'zoom-out' : 'zoom-in';
@@ -1303,11 +1311,15 @@ img.style.opacity = '1';
 };
 loader.src = src;
 let isDragging = false, startX = 0, startY = 0, scrollLeft = 0, scrollTop = 0;
+let _scrollOffLeft = 0, _scrollOffTop = 0;
 function onMouseDown(e) {
 if (e.button !== 0) return;
 isDragging = true;
-startX = e.pageX - scroll.offsetLeft;
-startY = e.pageY - scroll.offsetTop;
+// Read ALL geometry before any style writes — avoids forced reflow
+_scrollOffLeft = scroll.offsetLeft;
+_scrollOffTop  = scroll.offsetTop;
+startX     = e.pageX - _scrollOffLeft;
+startY     = e.pageY - _scrollOffTop;
 scrollLeft = scroll.scrollLeft;
 scrollTop  = scroll.scrollTop;
 img.style.cursor = 'grabbing';
@@ -1315,8 +1327,9 @@ e.preventDefault();
 }
 function onMouseMove(e) {
 if (!isDragging) return;
-const dx = e.pageX - scroll.offsetLeft - startX;
-const dy = e.pageY - scroll.offsetTop  - startY;
+// Use cached offsets — no geometry read after scroll write
+const dx = e.pageX - _scrollOffLeft - startX;
+const dy = e.pageY - _scrollOffTop  - startY;
 scroll.scrollLeft = scrollLeft - dx;
 scroll.scrollTop  = scrollTop  - dy;
 }
@@ -2520,7 +2533,8 @@ const fresh = load().filter(x => x.id !== b.id);
 save(fresh);              // sync write
 _updateHamCount();
 card.style.transition = 'opacity .18s';
-card.style.opacity    = '0';
+// Use rAF so transition is committed before opacity write — prevents forced reflow
+requestAnimationFrame(() => { card.style.opacity = '0'; });
 setTimeout(() => _renderList(), 200); // re-render after fade
 });
 frag.appendChild(card);
