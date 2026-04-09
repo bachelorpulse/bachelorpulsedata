@@ -3003,9 +3003,7 @@ return { open, close, recordClick };
 
 <script>
 (function(){
-  /* ── CONFIG — apna Formspree form ID yahan daalein ── */
-  var FORMSPREE_URL = 'https://formspree.io/f/FORMSPREE_FORM_ID';
-  var TO_EMAIL      = 'sirshashwatsingh@gmail.com';
+  var ACCESS_KEY = 'a4ea2a83-10f2-473c-ba41-f21e6b4ec004';
 
   var btn   = document.getElementById('rprtFab');
   var toast = document.getElementById('rprtToast');
@@ -3017,91 +3015,98 @@ return { open, close, recordClick };
     toast.style.borderColor = isErr ? 'rgba(239,68,68,.5)' : 'rgba(16,185,129,.5)';
     toast.style.color        = isErr ? '#fca5a5' : '#6ee7b7';
     toast.classList.add('show');
-    _t = setTimeout(function(){ toast.classList.remove('show'); }, 3200);
+    _t = setTimeout(function(){ toast.classList.remove('show'); }, 3500);
   }
 
   function getPageContext(){
     var url   = window.location.href;
     var title = document.title || 'BachelorPulse';
 
-    /* Active screen */
-    var activeScreen = '';
+    var activeScreen = 'N/A';
     var screens = document.querySelectorAll('.screen.active');
-    if(screens.length){ activeScreen = screens[0].id || ''; }
+    if(screens.length){ activeScreen = screens[0].id || 'N/A'; }
 
-    /* Current question details */
     var questionText = 'N/A';
     var questionNum  = 'N/A';
     var jsonFile     = 'N/A';
 
-    /* Inline quiz (MCQ mode) */
-    var curQEl = document.querySelector('.qcard .q-text');
+    var curQEl   = document.querySelector('.qcard .q-text');
     var curNumEl = document.querySelector('.qcard .q-num');
-    if(curQEl)  questionText = curQEl.textContent.trim().substring(0, 200);
+    if(curQEl)   questionText = curQEl.textContent.trim().substring(0, 200);
     if(curNumEl) questionNum  = curNumEl.textContent.trim();
 
-    /* Poll mode question */
     if(questionText === 'N/A'){
-      var pollQ = document.querySelector('.poll-q-text');
+      var pollQ   = document.querySelector('.poll-q-text');
       var pollNum = document.querySelector('.poll-q-num');
       if(pollQ)   questionText = pollQ.textContent.trim().substring(0, 200);
       if(pollNum) questionNum  = pollNum.textContent.trim();
     }
 
-    /* JSON filename from current selection */
     try {
       if(typeof selClass !== 'undefined' && selClass &&
          typeof selSubject !== 'undefined' && selSubject &&
          typeof selChapter !== 'undefined' && selChapter &&
          typeof buildURL === 'function'){
         var fullUrl = buildURL(selClass, selSubject, selChapter, 'mcq');
-        if(fullUrl) jsonFile = fullUrl.split('/').pop(); // just filename
+        if(fullUrl) jsonFile = fullUrl.split('/').pop();
       }
     } catch(e){}
 
-    return 'Page: ' + title +
-           '\nURL: ' + url +
-           '\nScreen: ' + activeScreen +
-           '\n\n--- Reported Question ---' +
-           '\nQuestion No: ' + questionNum +
-           '\nQuestion: ' + questionText +
-           '\nJSON File: ' + jsonFile +
-           '\n\nUser Agent: ' + navigator.userAgent.substring(0,80);
+    return {
+      questionNum:  questionNum,
+      questionText: questionText,
+      jsonFile:     jsonFile,
+      activeScreen: activeScreen,
+      pageUrl:      url,
+      pageTitle:    title,
+      reportTime:   new Date().toLocaleString('en-IN', {timeZone:'Asia/Kolkata'}),
+      userAgent:    navigator.userAgent.substring(0, 120)
+    };
   }
 
   function sendReport(){
-    /* Button ko disable karo taaki double-click na ho */
     btn.disabled = true;
     btn.style.opacity = '0.5';
 
     var ctx = getPageContext();
 
-    var body = new FormData();
-    body.append('name',    'user');
-    body.append('email',   TO_EMAIL);
-    body.append('_replyto', TO_EMAIL);
-    body.append('subject', '🚩 BachelorPulse — Problem Report');
-    body.append('message', 'Ek user ne problem report ki hai.\n\n' + ctx + '\n\nTime: ' + new Date().toLocaleString('en-IN',{timeZone:'Asia/Kolkata'}));
-    /* Formspree honeypot — spam se bachao */
-    body.append('_gotcha', '');
+    var message =
+      'BachelorPulse — Problem Report\n' +
+      '================================\n\n' +
+      'Page Title : ' + ctx.pageTitle    + '\n' +
+      'Page URL   : ' + ctx.pageUrl      + '\n' +
+      'Screen     : ' + ctx.activeScreen + '\n\n' +
+      '--- Reported Question ---\n' +
+      'Question No: ' + ctx.questionNum  + '\n' +
+      'Question   : ' + ctx.questionText + '\n' +
+      'JSON File  : ' + ctx.jsonFile     + '\n\n' +
+      'Time       : ' + ctx.reportTime   + '\n' +
+      'User Agent : ' + ctx.userAgent;
 
-    fetch(FORMSPREE_URL, {
+    var payload = {
+      access_key: ACCESS_KEY,
+      subject:    '🚩 BachelorPulse — Problem Report',
+      from_name:  'BachelorPulse User',
+      message:    message
+    };
+
+    fetch('https://api.web3forms.com/submit', {
       method:  'POST',
-      body:    body,
-      headers: { 'Accept': 'application/json' }
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body:    JSON.stringify(payload)
     })
-    .then(function(res){
-      if(res.ok){
-        showToast('✅ Report bhej diya gaya! Dhanyavaad 🙏', false);
+    .then(function(res){ return res.json(); })
+    .then(function(data){
+      if(data.success){
+        showToast('✅ Report mil gaya! Shukriya 🙏', false);
       } else {
-        showToast('⚠️ Thodi dikkat aayi, dobara try karein.', true);
+        showToast('⚠️ Nahi hua, dobara try karein.', true);
       }
     })
     .catch(function(){
       showToast('⚠️ Network error — dobara try karein.', true);
     })
     .finally(function(){
-      /* 4 sec baad phir enable karo */
       setTimeout(function(){
         btn.disabled = false;
         btn.style.opacity = '1';
