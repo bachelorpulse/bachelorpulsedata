@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+d<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -425,6 +425,14 @@
       <div style="flex:1;">
         <div style="font-size:.87rem;font-weight:700;color:#fcd34d;">Disclaimer</div>
         <div style="font-size:.72rem;color:var(--muted);margin-top:1px;">Terms & content policy</div>
+      </div>
+      <span style="font-size:.75rem;color:var(--muted);">↗</span>
+    </a>
+    <a class="ham-item ham-info-card" href="privacy_policy.html" onclick="closeHamPanel()" style="background:linear-gradient(135deg,rgba(99,102,241,.10),rgba(79,70,229,.06));border-radius:10px;border:1px solid rgba(99,102,241,.2);text-decoration:none;margin-top:6px;">
+      <span style="font-size:1.2rem;">🔒</span>
+      <div style="flex:1;">
+        <div style="font-size:.87rem;font-weight:700;color:#a5b4fc;">Privacy Policy</div>
+        <div style="font-size:.72rem;color:var(--muted);margin-top:1px;">How we handle your data</div>
       </div>
       <span style="font-size:.75rem;color:var(--muted);">↗</span>
     </a>
@@ -1413,6 +1421,7 @@ cb.classList.add('done');
 cb.innerHTML = '✅';
 badge.classList.add('visible');
 StrikeManager.recordActivity(); // 🔥 Trigger strike update
+try{if(typeof BadgeSystem!=='undefined'){const _bs=BadgeSystem._ls();_bs.chapDone=Object.keys(localStorage).filter(k=>k.startsWith('bp_done_')&&localStorage.getItem(k)==='1').length;BadgeSystem._ss(_bs);BadgeSystem._cb(_bs);}}catch(e){}
 }
 }
 
@@ -2270,30 +2279,47 @@ const BadgeSystem = (() => {
 const STATS_KEY  = 'bp_stats';
 const EARNED_KEY = 'bp_badges';
 const BADGES = [
-{ id:'mcq_100',   cat:'MCQ',      icon:'📝', name:'First 100',    sub:'100 MCQs done',   req: s => s.totalMCQ >= 100   },
-{ id:'mcq_500',   cat:'MCQ',      icon:'✏️', name:'500 Club',     sub:'500 MCQs done',   req: s => s.totalMCQ >= 500   },
-{ id:'mcq_1k',    cat:'MCQ',      icon:'🎯', name:'1K Champ',     sub:'1000 MCQs done',  req: s => s.totalMCQ >= 1000  },
-{ id:'mcq_5k',    cat:'MCQ',      icon:'🚀', name:'5K Legend',    sub:'5000 MCQs done',  req: s => s.totalMCQ >= 5000  },
-{ id:'mcq_10k',   cat:'MCQ',      icon:'👑', name:'10K God',      sub:'10000 MCQs done', req: s => s.totalMCQ >= 10000 },
-{ id:'acc_80',    cat:'Accuracy', icon:'✅', name:'Sharpshooter', sub:'80%+ accuracy',   req: s => s.bestAccuracy >= 80  },
-{ id:'acc_90',    cat:'Accuracy', icon:'🎖️', name:'Excellence',   sub:'90%+ accuracy',   req: s => s.bestAccuracy >= 90  },
-{ id:'acc_100',   cat:'Accuracy', icon:'🏆', name:'Perfect',      sub:'100% accuracy',   req: s => s.bestAccuracy >= 100 },
-{ id:'str_3',     cat:'Streak',   icon:'🔥', name:'On Fire',      sub:'3-day streak',    req: s => s.bestStreak >= 3  },
-{ id:'str_7',     cat:'Streak',   icon:'⚡', name:'Week Warrior', sub:'7-day streak',    req: s => s.bestStreak >= 7  },
-{ id:'str_30',    cat:'Streak',   icon:'💎', name:'Iron Scholar', sub:'30-day streak',   req: s => s.bestStreak >= 30 },
+{ id:'mcq_1',     cat:'MCQ',      icon:'🌱', name:'First Step',    sub:'Complete your first quiz',          req: s => (s.totalMCQ||0) >= 1    },
+{ id:'mcq_100',   cat:'MCQ',      icon:'📝', name:'First 100',     sub:'100 MCQs done',                     req: s => (s.totalMCQ||0) >= 100  },
+{ id:'mcq_500',   cat:'MCQ',      icon:'✏️', name:'500 Club',      sub:'500 MCQs done',                     req: s => (s.totalMCQ||0) >= 500  },
+{ id:'mcq_1k',    cat:'MCQ',      icon:'🎯', name:'1K Champ',      sub:'1,000 MCQs done',                   req: s => (s.totalMCQ||0) >= 1000 },
+{ id:'mcq_5k',    cat:'MCQ',      icon:'🚀', name:'5K Legend',     sub:'5,000 MCQs done',                   req: s => (s.totalMCQ||0) >= 5000 },
+{ id:'acc_50',    cat:'Accuracy', icon:'🎯', name:'Getting There', sub:'Score 50%+ in any quiz',            req: s => (s.bestAccuracy||0) >= 50  },
+{ id:'acc_80',    cat:'Accuracy', icon:'✅', name:'Sharpshooter',  sub:'Score 80%+ in any quiz',            req: s => (s.bestAccuracy||0) >= 80  },
+{ id:'acc_90',    cat:'Accuracy', icon:'🎖️', name:'Excellence',    sub:'Score 90%+ in any quiz',            req: s => (s.bestAccuracy||0) >= 90  },
+{ id:'acc_100',   cat:'Accuracy', icon:'🏆', name:'Perfect Score', sub:'Score 100% in any quiz',            req: s => (s.bestAccuracy||0) >= 100 },
+{ id:'acc80_5',   cat:'Accuracy', icon:'💫', name:'Consistent',    sub:'Score 80%+ in 5 quizzes',           req: s => (s.acc80Count||0) >= 5  },
+{ id:'acc80_10',  cat:'Accuracy', icon:'🌠', name:'Sharp Mind',    sub:'Score 80%+ in 10 quizzes',          req: s => (s.acc80Count||0) >= 10 },
+{ id:'acc90_5',   cat:'Accuracy', icon:'🔬', name:'Precision',     sub:'Score 90%+ in 5 quizzes',           req: s => (s.acc90Count||0) >= 5  },
+{ id:'acc90_10',  cat:'Accuracy', icon:'🧠', name:'Mastermind',    sub:'Score 90%+ in 10 quizzes',          req: s => (s.acc90Count||0) >= 10 },
+{ id:'acc100_5',  cat:'Accuracy', icon:'💎', name:'Diamond Brain', sub:'Score 100% in 5 quizzes',           req: s => (s.acc100Count||0) >= 5 },
+{ id:'str_1',     cat:'Streak',   icon:'✨', name:'Day One',       sub:'Study for 1 day',                   req: s => (s.bestStreak||0) >= 1  },
+{ id:'str_3',     cat:'Streak',   icon:'🔥', name:'On Fire',       sub:'3-day streak',                      req: s => (s.bestStreak||0) >= 3  },
+{ id:'str_7',     cat:'Streak',   icon:'⚡', name:'Week Warrior',  sub:'7-day streak',                      req: s => (s.bestStreak||0) >= 7  },
+{ id:'str_14',    cat:'Streak',   icon:'🌟', name:'Fortnight Pro', sub:'14-day streak',                     req: s => (s.bestStreak||0) >= 14 },
+{ id:'str_30',    cat:'Streak',   icon:'💎', name:'Iron Scholar',  sub:'30-day streak',                     req: s => (s.bestStreak||0) >= 30 },
+{ id:'ch_1',      cat:'Chapters', icon:'📖', name:'Chapter 1',     sub:'Complete 1 chapter',                req: s => (s.chapDone||0) >= 1    },
+{ id:'ch_5',      cat:'Chapters', icon:'📚', name:'Bookworm',      sub:'Complete 5 chapters',               req: s => (s.chapDone||0) >= 5    },
+{ id:'ch_10',     cat:'Chapters', icon:'🧑‍🎓', name:'Dedicated',   sub:'Complete 10 chapters',              req: s => (s.chapDone||0) >= 10   },
+{ id:'ch_25',     cat:'Chapters', icon:'🎓', name:'Scholar',       sub:'Complete 25 chapters',              req: s => (s.chapDone||0) >= 25   },
+{ id:'bm_1',      cat:'Focus',    icon:'🔖', name:'Bookmarker',    sub:'Bookmark 1 question',               req: s => (s.totalBM||0) >= 1     },
+{ id:'bm_10',     cat:'Focus',    icon:'📌', name:'Collector',     sub:'Bookmark 10 questions',             req: s => (s.totalBM||0) >= 10    },
+{ id:'comeback',  cat:'Special',  icon:'💪', name:'Never Give Up', sub:'Retake after scoring below 60%',    req: s => !!s.retakeAfterFail     },
+{ id:'allsub',    cat:'Special',  icon:'🌍', name:'All-Rounder',   sub:'Practice all 3 subjects',           req: s => (s.subjectsDone||0) >= 3},
 ];
 let _saveTimer = null;
 function loadStats()  {
-try { return JSON.parse(localStorage.getItem(STATS_KEY))  || { totalMCQ:0, bestAccuracy:0, bestStreak:0 }; }
-catch { return { totalMCQ:0, bestAccuracy:0, bestStreak:0 }; }
+try {
+  const d = JSON.parse(localStorage.getItem(STATS_KEY)) || {};
+  return Object.assign({ totalMCQ:0, bestAccuracy:0, bestStreak:0, chapDone:0, totalBM:0, retakeAfterFail:false, subjectsDone:0, lastAccuracy:0, sessions:0, acc80Count:0, acc90Count:0, acc100Count:0 }, d);
+} catch(e) { return { totalMCQ:0, bestAccuracy:0, bestStreak:0, chapDone:0, totalBM:0, retakeAfterFail:false, subjectsDone:0, lastAccuracy:0, sessions:0, acc80Count:0, acc90Count:0, acc100Count:0 }; }
 }
 function loadEarned() {
 try { return JSON.parse(localStorage.getItem(EARNED_KEY)) || {}; }
 catch { return {}; }
 }
 function saveStats(s) {
-clearTimeout(_saveTimer);
-_saveTimer = setTimeout(() => localStorage.setItem(STATS_KEY, JSON.stringify(s)), 500);
+try { localStorage.setItem(STATS_KEY, JSON.stringify(s)); } catch(e) {}
 }
 function saveEarned(e) { localStorage.setItem(EARNED_KEY, JSON.stringify(e)); }
 function showToast(badge) {
@@ -2315,8 +2341,7 @@ setTimeout(() => showToast(b), 400);
 if (changed) {
 saveEarned(earned);
 updateChip();
-const panel = document.getElementById('hamPanel');
-if (panel && panel.classList.contains('open')) renderBadgeGrid();
+renderBadgeGrid(); // always refresh — no stale count
 }
 }
 function recordQuiz(totalQs, correctQs) {
@@ -2324,12 +2349,31 @@ if (!totalQs || totalQs < 1) return;
 const accuracy = Math.round((correctQs / totalQs) * 100);
 const stats  = loadStats();
 const earned = loadEarned();
-stats.totalMCQ += totalQs;
-if (accuracy > stats.bestAccuracy) stats.bestAccuracy = accuracy;
+const lastAcc = stats.lastAccuracy || 0;
+stats.totalMCQ     = (stats.totalMCQ    || 0) + totalQs;
+stats.sessions     = (stats.sessions    || 0) + 1;
+stats.lastAccuracy = accuracy;
+if (accuracy > (stats.bestAccuracy || 0)) stats.bestAccuracy = accuracy;
+if (accuracy >= 80)  stats.acc80Count  = (stats.acc80Count  || 0) + 1;
+if (accuracy >= 90)  stats.acc90Count  = (stats.acc90Count  || 0) + 1;
+if (accuracy >= 100) stats.acc100Count = (stats.acc100Count || 0) + 1;
+if (lastAcc > 0 && lastAcc < 60) stats.retakeAfterFail = true;
 try {
-const strData = JSON.parse(localStorage.getItem('bp_strike')) || {};
-const cur = strData.high || strData.current || 0;
-if (cur > stats.bestStreak) stats.bestStreak = cur;
+  const subs = new Set(JSON.parse(localStorage.getItem('bp_subjects_done') || '[]'));
+  if (typeof selSubject !== 'undefined' && selSubject) subs.add(selSubject);
+  localStorage.setItem('bp_subjects_done', JSON.stringify([...subs]));
+  stats.subjectsDone = subs.size;
+} catch(e) {}
+try {
+  const sd = JSON.parse(localStorage.getItem('bp_strike')) || {};
+  const cur = Math.max(sd.high || 0, sd.current || 0);
+  if (cur > (stats.bestStreak || 0)) stats.bestStreak = cur;
+} catch(e) {}
+try {
+  stats.chapDone = Object.keys(localStorage).filter(k => k.startsWith('bp_done_') && localStorage.getItem(k) === '1').length;
+} catch(e) {}
+try {
+  stats.totalBM = (JSON.parse(localStorage.getItem('bp_bookmarks') || '[]')).length;
 } catch(e) {}
 saveStats(stats);
 checkBadges(stats, earned);
@@ -2339,7 +2383,7 @@ try {
 const strData = JSON.parse(localStorage.getItem('bp_strike')) || {};
 const cur = Math.max(strData.high || 0, strData.current || 0);
 const stats = loadStats();
-if (cur > stats.bestStreak) {
+if (cur > (stats.bestStreak || 0)) {
 stats.bestStreak = cur;
 saveStats(stats);
 checkBadges(stats, loadEarned());
@@ -2352,8 +2396,9 @@ function renderBadgeGrid() {
 const grid = document.getElementById('badgeGrid');
 const label = document.getElementById('badgeCountLabel');
 if (!grid) return;
-const earned = loadEarned();
-const earnedCount = Object.keys(earned).length;
+const earned = loadEarned(); // always fresh read
+const earnedIds = Object.keys(earned);
+const earnedCount = BADGES.filter(b => !!earned[b.id]).length; // count only valid badge IDs
 if (label) label.textContent = `(${earnedCount}/${BADGES.length})`;
 const frag = document.createDocumentFragment();
 BADGES.forEach(b => {
@@ -2369,16 +2414,15 @@ frag.appendChild(card);
 });
 grid.innerHTML = '';
 grid.appendChild(frag);
-_gridRendered = true;
 }
 function onPanelOpen() {
-if (!_gridRendered) renderBadgeGrid();
+renderBadgeGrid(); // always re-render on open — never stale
 }
 function init() {
 updateChip();
 syncStreak();
 }
-return { recordQuiz, syncStreak, onPanelOpen, init };
+return { recordQuiz, syncStreak, onPanelOpen, init, _ls:loadStats, _ss:saveStats, _cb:(s)=>checkBadges(s,loadEarned()) };
 })();
 BadgeSystem.init();
 const BookmarkSystem = (() => {
@@ -2424,6 +2468,7 @@ list.push({ id, question: q.question, options: q.options, correct: q.correct,
 userAnswer: ua, chapter, ts: Date.now() });
 save(list);  // Fix #1 — sync write
 _showToast('🔖 Bookmarked!');
+try{if(typeof BadgeSystem!=='undefined'){const _bs=BadgeSystem._ls();_bs.totalBM=load().length;BadgeSystem._ss(_bs);BadgeSystem._cb(_bs);}}catch(e){}
 }
 const optCont = document.getElementById('optCont');
 const qcard   = optCont ? optCont.closest('.qcard') : document.querySelector('.qcard');
@@ -3094,13 +3139,13 @@ return { open, close, recordClick };
     .then(function(res){ return res.json(); })
     .then(function(data){
       if(data.success){
-        showToast('✅ Report mil gaya! Shukriya 🙏', false);
+        showToast('✅ Thank you! Report received 🙏', false);
       } else {
-        showToast('⚠️ Nahi hua, dobara try karein.', true);
+        showToast('⚠️ Could not send, please try again.', true);
       }
     })
     .catch(function(){
-      showToast('⚠️ Network error — dobara try karein.', true);
+      showToast('⚠️ Network error — please try again.', true);
     })
     .finally(function(){
       setTimeout(function(){
