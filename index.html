@@ -27,9 +27,9 @@
   <link rel="dns-prefetch" href="https://forms.gle" />
   <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
   
-  <link rel="icon" type="image/png" href="/logo.webp" />
-  <link rel="shortcut icon" type="image/png" href="/logo.webp" />
-  <link rel="apple-touch-icon" href="/logo.webp" />
+  <link rel="icon" type="image/png" href="https://bachelorpulse.in/logo.webp" />
+  <link rel="shortcut icon" type="image/png" href="https://bachelorpulse.in/logo.webp" />
+  <link rel="apple-touch-icon" href="https://bachelorpulse.in/logo.webp" />
 
   <meta property="og:type"         content="website" />
   <meta property="og:site_name"    content="BachelorPulse" />
@@ -708,11 +708,7 @@ CHAPTERS[10].social = [
 "Chapter 21: Globalisation and the Indian Economy",
 "Chapter 22: Consumer Rights"
 ];
-const BASE_URL = (() => {
-const h = window.location.hostname;
-const isLocal = h === 'localhost' || h === '127.0.0.1' || h === '';
-return isLocal ? './data/' : 'https://bachelorpulse.in/';
-})();
+const BASE_URL = 'https://bachelorpulse.in/';
 const SUBJECT_CODE = { science:'sci', math:'math', social:'sst' };
 const TYPE_MAP = {
 mcq      : { suffix:'mcq', ext:'json' },
