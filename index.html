@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -272,6 +271,8 @@
     <a href="https://amzn.to/4ciDLQ1" target="_blank" rel="noopener sponsored" style="color:#8aabb8;font-size:.78rem;">https://amzn.to/4ciDLQ1</a>
     &nbsp;·&nbsp;
     <a href="https://amzn.to/4miIHsR" target="_blank" rel="noopener sponsored" style="color:#8aabb8;font-size:.78rem;">https://amzn.to/4miIHsR</a>
+    &nbsp;·&nbsp;
+    <a href="https://amzn.to/4cm9e3P" target="_blank" rel="noopener sponsored" style="color:#8aabb8;font-size:.78rem;">https://amzn.to/4cm9e3P</a>
   </div>
 
 </div>
@@ -1904,13 +1905,13 @@ let rptBtn = qcard.querySelector('.rpt-btn');
 if (!rptBtn) {
 rptBtn = document.createElement('button');
 rptBtn.className = 'rpt-btn';
-rptBtn.title = 'Koi dikkat? Report karein';
+rptBtn.title = 'See a mistake in this question? Click to report it!';
 qcard.appendChild(rptBtn);
 }
 // Reset state for each new question unless already reported
 const rptKey = 'bp_rpt_' + idx;
 const alreadyReported = sessionStorage.getItem(rptKey);
-rptBtn.textContent = alreadyReported ? '✓ Reported' : '🚩 Report';
+rptBtn.textContent = alreadyReported ? '✓ Error Reported' : '⚠️ Question has an error?';
 rptBtn.classList.toggle('reported', !!alreadyReported);
 rptBtn.onclick = (e) => {
 e.stopPropagation();
@@ -1920,7 +1921,7 @@ var fabEvt = new MouseEvent('click', {bubbles:true});
 document.getElementById('rprtFab').dispatchEvent(fabEvt);
 // Mark as reported for this session
 sessionStorage.setItem(rptKey, '1');
-rptBtn.textContent = '✓ Reported';
+rptBtn.textContent = '✓ Error Reported';
 rptBtn.classList.add('reported');
 };
 }
@@ -1989,7 +1990,7 @@ const solText = (q.sol || '').toString().trim();
 const solBtn = solText ? `<button class="sol-toggle-btn" onclick="toggleSol(this)" aria-expanded="false">💡 View Explanation</button>` : '';
 const solBox = solText ? `<div class="sol-box"><div class="sol-label">📖 Solution</div><div class="sol-text">${solText}</div></div>` : '';
 dh+=`<div class="res-item">
-<div class="res-q-row"><span class="res-q-num">Q${i+1}</span><span class="res-mark">${isC?'✅ +1':'❌ 0'}</span>${sessionStorage.getItem('bp_rpt_'+i)?'<span style="font-size:.72rem;background:rgba(16,185,129,.12);border:1px solid rgba(16,185,129,.35);color:#6ee7b7;border-radius:12px;padding:2px 9px;font-weight:700;flex-shrink:0;">✓ Reported</span>':''}</div>
+<div class="res-q-row"><span class="res-q-num">Q${i+1}</span><span class="res-mark">${isC?'✅ +1':'❌ 0'}</span>${sessionStorage.getItem('bp_rpt_'+i)?'<span style="font-size:.72rem;background:rgba(16,185,129,.12);border:1px solid rgba(16,185,129,.35);color:#6ee7b7;border-radius:12px;padding:2px 9px;font-weight:700;flex-shrink:0;">✓ Error Reported</span>':''}</div>
 <div class="res-q-text">${q.question}</div>
 <div class="ans-row">
 ${isU?`<span class="pill pill-u">Not Answered</span>`:
@@ -2180,7 +2181,8 @@ body: `You have <strong>three modes</strong> to choose from:<br><br>
 icon: '📝',
 title: 'Step 5 — Taking an MCQ Quiz',
 body: `If you chose MCQ, first select how many questions you want — <strong>10, 25, 50, or 100</strong>. Questions are picked randomly, so every quiz is different!
-<div class="tip"><span class="tip-icon">🎯</span>Use the <strong>question grid</strong> at the top to jump between questions. Green = answered, Grey = skipped.</div>`
+<div class="tip"><span class="tip-icon">🎯</span>Use the <strong>question grid</strong> at the top to jump between questions. Green = answered, Grey = skipped.</div>
+<div class="tip"><span class="tip-icon">⚠️</span>If a question looks wrong or has a mistake, tap the <strong>"Question has an error?"</strong> button on the question card. This sends us the report so we can fix it quickly!</div>`
 },
 {
 icon: '📊',
@@ -2201,6 +2203,13 @@ icon: '✅',
 title: 'Step 8 — Mark Chapters Done',
 body: `At the bottom of every Solution, Short Note, or Mind Map page, there is a <strong>"Mark Chapter as Completed"</strong> checkbox. Tick it to track which chapters you have already studied.
 <div class="tip"><span class="tip-icon">💾</span>Your progress is saved on this device automatically — no account needed!</div>`
+},
+{
+icon: '⚠️',
+title: 'Step 9 — Spotted a Wrong Question?',
+body: `If you think a question has a mistake — wrong answer, typo, or unclear text — you can report it directly!<br><br>
+Just tap the <strong>"⚠️ Question has an error?"</strong> button that appears on every question card (next to the Bookmark button). We will review it and fix it as soon as possible.
+<div class="tip"><span class="tip-icon">📬</span>For other feedback, suggestions, or missing chapters, use the <strong>Contact Us</strong> link in the footer or the ☰ Menu. We read every message!</div>`
 },
 {
 icon: '📬',
@@ -2996,7 +3005,7 @@ return { open, close, recordClick };
 </style>
 
 <!-- Report FAB button -->
-<button id="rprtFab" title="Koi dikkat? Report karein" aria-label="Report a problem">🚩</button>
+<button id="rprtFab" title="See a mistake in this question? Click to report it!" aria-label="Report a problem">⚠️</button>
 
 <!-- Toast notification -->
 <div id="rprtToast"></div>
@@ -3098,13 +3107,13 @@ return { open, close, recordClick };
     .then(function(res){ return res.json(); })
     .then(function(data){
       if(data.success){
-        showToast('✅ Report mil gaya! Shukriya 🙏', false);
+        showToast('✅ Report sent! Thank you 🙏', false);
       } else {
-        showToast('⚠️ Nahi hua, dobara try karein.', true);
+        showToast('⚠️ Could not send, please try again.', true);
       }
     })
     .catch(function(){
-      showToast('⚠️ Network error — dobara try karein.', true);
+      showToast('⚠️ Network error — please try again.', true);
     })
     .finally(function(){
       setTimeout(function(){
