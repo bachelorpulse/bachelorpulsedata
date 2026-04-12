@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -3279,7 +3278,7 @@ import { initializeApp }
   from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
 import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged }
   from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
-import { getFirestore, doc, getDoc, setDoc, serverTimestamp }
+import { getFirestore, doc, getDoc, setDoc, writeBatch, serverTimestamp }
   from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
 
 // ── Firebase init ────────────────────────────────────────────────
@@ -3298,7 +3297,8 @@ const db   = getFirestore(app);
 let _user     = null;   // Firebase user object
 let _uname    = null;   // confirmed username
 let _valid    = false;  // current typed username passed availability check
-let _debounce = null;   // debounce timer
+let _debounce    = null;   // debounce timer
+let _charWarnTimer = null;   // invalid-char warning auto-clear timer
 let _busy     = false;  // true while signInGoogle is handling Firestore itself
 
 const $ = id => document.getElementById(id);
@@ -3516,14 +3516,16 @@ async function saveUsername() {
       return;
     }
 
-    // Write 1: Reserve the username globally
-    await setDoc(doc(db, 'usernames', val), {
+    // Atomic dual-write: ya dono save honge, ya kahin bhi nahi
+    // writeBatch guarantee karta hai no half-setup accounts
+    const batch = writeBatch(db);
+
+    batch.set(doc(db, 'usernames', val), {
       uid:       _user.uid,
       createdAt: serverTimestamp()
     });
 
-    // Write 2: Save to user profile
-    await setDoc(doc(db, 'users', _user.uid), {
+    batch.set(doc(db, 'users', _user.uid), {
       username:  val,
       email:     _user.email,
       photoURL:  _user.photoURL || '',
@@ -3532,6 +3534,8 @@ async function saveUsername() {
       streak:    0,
       createdAt: serverTimestamp()
     }, { merge: true });
+
+    await batch.commit();  // dono ya koi bhi nahi — atomic
 
     _uname = val;
     showSection('dashboard');   // done — single call handles everything
@@ -3637,10 +3641,19 @@ const inp = $('bpUnameInput');
 if (inp) {
   inp.addEventListener('input', () => {
     const cursor  = inp.selectionStart;
-    const cleaned = inp.value.replace(/[^a-z0-9_]/g, '').toLowerCase();
-    if (cleaned !== inp.value) {
+    const raw     = inp.value;
+    const cleaned = raw.replace(/[^a-z0-9_]/g, '').toLowerCase();
+
+    // Bug Fix #3: User ko batao ki invalid chars type kiye hain
+    if (cleaned !== raw) {
       inp.value = cleaned;
       try { inp.setSelectionRange(cursor - 1, cursor - 1); } catch (_) {}
+      setUnameStatus('Only lowercase letters, numbers and _ allowed.', 'err');
+      // 2 second baad message clear ho jaye
+      clearTimeout(_charWarnTimer);
+      _charWarnTimer = setTimeout(() => {
+        if (inp.value.trim()) setUnameStatus('', '');
+      }, 2000);
     }
 
     const v  = inp.value.trim();
