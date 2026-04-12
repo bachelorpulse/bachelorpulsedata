@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -3173,16 +3174,29 @@ return { open, close, recordClick };
 .bp-google-btn:disabled{opacity:.5;cursor:default;transform:none}
 .bp-google-icon{width:20px;height:20px;flex-shrink:0}
 .bp-uname-wrap{text-align:left;margin-top:4px}
-.bp-uname-label{font-size:.78rem;color:#93a8c0;margin-bottom:8px;display:block}
-.bp-uname-row{display:flex;align-items:center;background:rgba(255,255,255,.06);border:1.5px solid rgba(255,255,255,.12);border-radius:12px;overflow:hidden;transition:border-color .2s}
-.bp-uname-row:focus-within{border-color:#3b82f6}
-.bp-uname-prefix{padding:0 10px;color:#93a8c0;font-size:.9rem;font-weight:700;flex-shrink:0;line-height:44px}
-.bp-uname-input{flex:1;background:transparent;border:none;outline:none;color:#e8edf5;font-size:.9rem;font-family:'Hind',sans-serif;padding:0 10px 0 0;height:44px}
-.bp-uname-status{font-size:.75rem;margin-top:7px;min-height:18px;font-weight:600}
+.bp-uname-label{font-size:.78rem;color:#93a8c0;margin-bottom:8px;display:block;letter-spacing:.04em;text-transform:uppercase;font-weight:700}
+.bp-uname-row{display:flex;align-items:center;background:rgba(255,255,255,.05);border:2px solid rgba(255,255,255,.1);border-radius:14px;overflow:hidden;transition:border-color .25s,box-shadow .25s}
+.bp-uname-row:focus-within{border-color:#3b82f6;box-shadow:0 0 0 4px rgba(59,130,246,.15),0 4px 24px rgba(59,130,246,.12)}
+.bp-uname-prefix{padding:0 12px;color:#3b82f6;font-size:1rem;font-weight:800;flex-shrink:0;line-height:50px;border-right:2px solid rgba(255,255,255,.08)}
+.bp-uname-input{flex:1;background:transparent;border:none;outline:none;color:#e8edf5;font-size:1rem;font-family:'Hind',sans-serif;padding:0 14px;height:50px;letter-spacing:.01em}
+.bp-uname-input::placeholder{color:rgba(147,168,192,.4)}
+.bp-uname-status{font-size:.8rem;margin-top:10px;min-height:22px;font-weight:700;letter-spacing:.01em;display:flex;align-items:center;gap:6px;padding:0 2px;transition:all .2s}
 .bp-uname-status.ok{color:#10b981}.bp-uname-status.err{color:#ef4444}.bp-uname-status.checking{color:#93a8c0}
-.bp-uname-submit{width:100%;margin-top:14px;padding:12px;background:linear-gradient(90deg,#3b82f6,#6366f1);border:none;border-radius:12px;color:#fff;font-family:'Baloo 2',cursive;font-size:.95rem;font-weight:800;cursor:pointer;transition:filter .2s;box-shadow:0 4px 16px rgba(59,130,246,.4)}
-.bp-uname-submit:hover:not(:disabled){filter:brightness(1.1)}
-.bp-uname-submit:disabled{opacity:.4;cursor:default;box-shadow:none;filter:none}
+.bp-uname-rules{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.bp-uname-rule{font-size:.7rem;color:#93a8c0;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:6px;padding:3px 8px;display:flex;align-items:center;gap:4px}
+.bp-uname-submit{width:100%;margin-top:18px;padding:14px;background:linear-gradient(90deg,#2563eb,#4f46e5);border:none;border-radius:14px;color:#fff;font-family:'Baloo 2',cursive;font-size:1rem;font-weight:800;cursor:pointer;transition:transform .2s,box-shadow .2s,filter .2s;box-shadow:0 6px 24px rgba(59,130,246,.35);letter-spacing:.02em}
+.bp-uname-submit:hover:not(:disabled){transform:translateY(-2px);box-shadow:0 10px 32px rgba(59,130,246,.5);filter:brightness(1.08)}
+.bp-uname-submit:active:not(:disabled){transform:translateY(0)}
+.bp-uname-submit:disabled{opacity:.35;cursor:default;box-shadow:none;filter:none;transform:none}
+/* Full-screen username takeover overlay */
+#bpUsernameOverlay{background:rgba(3,6,18,.97)!important}
+#bpUsernameOverlay .bp-auth-modal{max-width:440px;padding:40px 36px 36px;border-color:rgba(59,130,246,.4);box-shadow:0 0 80px rgba(59,130,246,.08),0 32px 80px rgba(0,0,0,.8)}
+.bp-uname-progress{width:100%;height:3px;background:rgba(255,255,255,.06);border-radius:100px;margin-bottom:28px;overflow:hidden}
+.bp-uname-progress-bar{height:100%;background:linear-gradient(90deg,#3b82f6,#6366f1);border-radius:100px;transition:width .4s ease}
+.bp-uname-avatar{width:64px;height:64px;border-radius:50%;border:3px solid rgba(59,130,246,.4);margin:0 auto 16px;display:block;object-fit:cover;box-shadow:0 0 0 6px rgba(59,130,246,.08)}
+.bp-uname-avatar-placeholder{width:64px;height:64px;border-radius:50%;border:3px solid rgba(59,130,246,.4);margin:0 auto 16px;display:flex;align-items:center;justify-content:center;font-size:2rem;background:linear-gradient(135deg,rgba(59,130,246,.2),rgba(99,102,241,.15));box-shadow:0 0 0 6px rgba(59,130,246,.08)}
+.bp-uname-greeting{font-size:.82rem;color:#93a8c0;margin-bottom:4px}
+.bp-uname-step-badge{display:inline-flex;align-items:center;gap:5px;background:rgba(59,130,246,.12);border:1px solid rgba(59,130,246,.25);border-radius:100px;padding:4px 12px;font-size:.72rem;font-weight:700;color:#60a5fa;letter-spacing:.04em;margin-bottom:20px;text-transform:uppercase}
 .bp-profile-overlay{display:none;position:fixed;inset:0;z-index:3999}
 .bp-profile-dropdown{display:none;position:fixed;top:58px;right:16px;background:#1a2538;border:1.5px solid rgba(59,130,246,.3);border-radius:16px;padding:14px 16px;min-width:200px;box-shadow:0 16px 48px rgba(0,0,0,.6);z-index:4000;animation:fadeUp .2s ease both}
 .bp-profile-name{font-family:'Baloo 2',cursive;font-size:.95rem;font-weight:800;color:#e8edf5;margin-bottom:2px}
@@ -3211,18 +3225,28 @@ return { open, close, recordClick };
 
 <div class="bp-auth-overlay" id="bpUsernameOverlay">
   <div class="bp-auth-modal">
-    <span class="bp-auth-emoji">⚡</span>
-    <div class="bp-auth-title">Choose Your Username</div>
-    <div class="bp-auth-sub">Pick a unique username. Lowercase letters, numbers and _ only. Cannot be changed later.</div>
+    <div class="bp-uname-progress"><div class="bp-uname-progress-bar" id="bpUnameProgressBar" style="width:66%"></div></div>
+    <div id="bpUnameAvatarWrap" class="bp-uname-avatar-placeholder" style="display:none">🎓</div>
+    <img id="bpUnameAvatar" class="bp-uname-avatar" src="" alt="" style="display:none" onerror="this.style.display='none';document.getElementById('bpUnameAvatarWrap').style.display='flex'"/>
+    <div class="bp-uname-greeting" id="bpUnameGreeting">Almost there!</div>
+    <div class="bp-uname-step-badge">Step 2 of 2 &mdash; Set Username</div>
+    <div class="bp-auth-title" style="margin-bottom:6px">Pick your username</div>
+    <div class="bp-auth-sub" style="margin-bottom:20px">This is your public identity on BachelorPulse.<br>Choose wisely — it <strong style="color:#f59e0b">cannot be changed</strong> later.</div>
     <div class="bp-uname-wrap">
       <label class="bp-uname-label" for="bpUnameInput">Your username</label>
-      <div class="bp-uname-row">
+      <div class="bp-uname-row" id="bpUnameRow">
         <span class="bp-uname-prefix">@</span>
-        <input class="bp-uname-input" id="bpUnameInput" type="text" maxlength="20" placeholder="e.g. rohit_class10" autocomplete="off" spellcheck="false"/>
+        <input class="bp-uname-input" id="bpUnameInput" type="text" maxlength="20" placeholder="e.g. rohit_class10" autocomplete="off" spellcheck="false" autocapitalize="none"/>
+      </div>
+      <div class="bp-uname-rules">
+        <span class="bp-uname-rule">🔡 lowercase only</span>
+        <span class="bp-uname-rule">🔢 numbers ok</span>
+        <span class="bp-uname-rule">_ underscores ok</span>
+        <span class="bp-uname-rule">3–20 chars</span>
       </div>
       <div class="bp-uname-status" id="bpUnameStatus"></div>
     </div>
-    <button class="bp-uname-submit" id="bpUnameSave" disabled onclick="BPAuth.saveUsername()">Save Username →</button>
+    <button class="bp-uname-submit" id="bpUnameSave" disabled onclick="BPAuth.saveUsername()">Confirm Username ✓</button>
     <div class="bp-auth-error" id="bpUnameError"></div>
   </div>
 </div>
@@ -3252,6 +3276,14 @@ function setBtn(state){
   else if(state==='in'){txt.textContent=_uname?'@'+_uname:(_user?.displayName?.split(' ')[0]||'You');btn.disabled=false;btn.classList.add('logged-in');}
 }
 function showErr(id,msg){const el=$(id);if(!el)return;el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),4000);}
+function setUnameStatus(msg,type){
+  const st=$('bpUnameStatus');if(!st)return;
+  st.className='bp-uname-status'+(type?' '+type:'');
+  if(type==='checking')st.innerHTML='<span style="display:inline-block;animation:spin .7s linear infinite">⏳</span> Checking...';
+  else if(type==='ok')st.innerHTML='✅ <strong>@'+msg+'</strong> is available!';
+  else if(type==='err')st.innerHTML='❌ '+msg;
+  else st.textContent=msg;
+}
 onAuthStateChanged(auth,async user=>{
   if(user){
     _user=user;setBtn('loading');
@@ -3262,7 +3294,11 @@ onAuthStateChanged(auth,async user=>{
         $('bpProfileName').textContent='@'+_uname;
         $('bpProfileEmail').textContent=user.email;
         setBtn('in');
-      }else{setBtn('in');openUname();}
+      }else{
+        // No username yet — force username setup screen
+        setBtn('in');
+        openUname();
+      }
     }catch(e){setBtn('in');}
   }else{_user=null;_uname=null;setBtn('out');}
 });
@@ -3273,39 +3309,76 @@ async function signInGoogle(){
 }
 function openUname(){
   closeLogin();
+  // Populate avatar and greeting with user's Google info
+  if(_user){
+    const firstName=_user.displayName?.split(' ')[0]||'there';
+    const greet=$('bpUnameGreeting');
+    if(greet)greet.textContent='Hey '+firstName+', almost there!';
+    const avatar=$('bpUnameAvatar'),wrap=$('bpUnameAvatarWrap');
+    if(_user.photoURL&&avatar){
+      avatar.src=_user.photoURL;avatar.style.display='block';
+      if(wrap)wrap.style.display='none';
+    }else{
+      if(avatar)avatar.style.display='none';
+      if(wrap)wrap.style.display='flex';
+    }
+  }
+  // Reset input state
+  const inp=$('bpUnameInput');if(inp){inp.value='';inp.disabled=false;}
+  const sv=$('bpUnameSave');if(sv){sv.disabled=true;sv.textContent='Confirm Username ✓';}
+  setUnameStatus('','');
+  _valid=false;
   $('bpUsernameOverlay').classList.add('open');
   document.body.style.overflow='hidden';
-  setTimeout(()=>$('bpUnameInput')?.focus(),300);
+  setTimeout(()=>inp?.focus(),350);
 }
 async function checkUname(val){
-  const st=$('bpUnameStatus'),sv=$('bpUnameSave');
+  const sv=$('bpUnameSave');
   _valid=false;if(sv)sv.disabled=true;
-  if(!val){if(st)st.textContent='';return;}
-  if(val.length<3){if(st){st.textContent='At least 3 characters.';st.className='bp-uname-status err';}return;}
-  if(!/^[a-z0-9_]+$/.test(val)){if(st){st.textContent='Only lowercase, numbers, _ allowed.';st.className='bp-uname-status err';}return;}
-  if(st){st.textContent='Checking...';st.className='bp-uname-status checking';}
+  if(!val){setUnameStatus('','');return;}
+  if(val.length<3){setUnameStatus('At least 3 characters required.','err');return;}
+  if(!/^[a-z0-9_]+$/.test(val)){setUnameStatus('Only lowercase letters, numbers and _ allowed.','err');return;}
+  setUnameStatus('','checking');
   try{
     const snap=await getDoc(doc(db,'usernames',val));
-    if(snap.exists()){if(st){st.textContent='✗ @'+val+' is taken.';st.className='bp-uname-status err';}}
-    else{if(st){st.textContent='✓ @'+val+' is available!';st.className='bp-uname-status ok';}_valid=true;if(sv)sv.disabled=false;}
-  }catch(e){if(st){st.textContent='Could not check. Try again.';st.className='bp-uname-status err';}}
+    if(snap.exists()){setUnameStatus('@'+val+' is already taken.','err');}
+    else{setUnameStatus(val,'ok');_valid=true;if(sv)sv.disabled=false;}
+  }catch(e){setUnameStatus('Could not check. Try again.','err');}
 }
 async function saveUsername(){
   const val=$('bpUnameInput')?.value.trim().toLowerCase();
   if(!_valid||!_user||!val)return;
-  const sv=$('bpUnameSave');if(sv){sv.disabled=true;sv.textContent='Saving...';}
+  const sv=$('bpUnameSave');
+  if(sv){sv.disabled=true;sv.textContent='Saving...';}
   try{
+    // Final race-condition check before writing
     const snap=await getDoc(doc(db,'usernames',val));
-    if(snap.exists()){showErr('bpUnameError','Just taken! Try another.');if(sv){sv.disabled=false;sv.textContent='Save Username →';}_valid=false;return;}
+    if(snap.exists()){
+      showErr('bpUnameError','Just taken! Try another.');
+      if(sv){sv.disabled=false;sv.textContent='Confirm Username ✓';}
+      _valid=false;setUnameStatus('@'+val+' is already taken.','err');return;
+    }
+    // Write to BOTH collections atomically
     await setDoc(doc(db,'usernames',val),{uid:_user.uid,createdAt:Date.now()});
-    await setDoc(doc(db,'users',_user.uid),{username:val,email:_user.email,photoURL:_user.photoURL||'',isPremium:false,streak:0,createdAt:Date.now()},{merge:true});
+    await setDoc(doc(db,'users',_user.uid),{
+      username:val,
+      email:_user.email,
+      photoURL:_user.photoURL||'',
+      points:0,
+      isPremium:false,
+      streak:0,
+      createdAt:Date.now()
+    },{merge:true});
     _uname=val;
     $('bpProfileName').textContent='@'+val;
     $('bpProfileEmail').textContent=_user.email;
     $('bpUsernameOverlay').classList.remove('open');
     document.body.style.overflow='';
     setBtn('in');
-  }catch(e){showErr('bpUnameError','Failed to save. Try again.');if(sv){sv.disabled=false;sv.textContent='Save Username →';}}
+  }catch(e){
+    showErr('bpUnameError','Failed to save. Please try again.');
+    if(sv){sv.disabled=false;sv.textContent='Confirm Username ✓';}
+  }
 }
 function loginOrProfile(){
   if(!_user){$('bpLoginOverlay').classList.add('open');document.body.style.overflow='hidden';}
@@ -3327,14 +3400,31 @@ function closeProfile(){
 }
 async function doSignOut(){closeProfile();try{await signOut(auth);}catch(e){}}
 $('bpLoginOverlay')?.addEventListener('click',e=>{if(e.target===$('bpLoginOverlay'))closeLogin();});
+// Username overlay is NOT dismissable — clicking outside does nothing intentionally
 const inp=$('bpUnameInput');
-if(inp)inp.addEventListener('input',()=>{
-  const v=inp.value.trim().toLowerCase();
-  clearTimeout(_debounce);_valid=false;
-  const sv=$('bpUnameSave');if(sv)sv.disabled=true;
-  if(!v){const st=$('bpUnameStatus');if(st)st.textContent='';return;}
-  _debounce=setTimeout(()=>checkUname(v),500);
-});
+if(inp){
+  inp.addEventListener('input',()=>{
+    // Strip invalid characters in real time
+    const cursor=inp.selectionStart;
+    const cleaned=inp.value.replace(/[^a-z0-9_]/g,'').toLowerCase();
+    if(cleaned!==inp.value){inp.value=cleaned;try{inp.setSelectionRange(cursor-1,cursor-1);}catch(_){}}
+    const v=inp.value.trim();
+    clearTimeout(_debounce);_valid=false;
+    const sv=$('bpUnameSave');if(sv)sv.disabled=true;
+    if(!v){setUnameStatus('','');return;}
+    // Animate progress bar based on length
+    const pct=Math.min(66+Math.floor((v.length/20)*34),100);
+    const pb=$('bpUnameProgressBar');if(pb)pb.style.width=pct+'%';
+    _debounce=setTimeout(()=>checkUname(v),500);
+  });
+  inp.addEventListener('keydown',e=>{if(e.key==='Enter'&&_valid)saveUsername();});
+}
+// Add spin keyframe for checking animation if not already present
+if(!document.querySelector('#bpSpinStyle')){
+  const s=document.createElement('style');s.id='bpSpinStyle';
+  s.textContent='@keyframes spin{to{transform:rotate(360deg)}}';
+  document.head.appendChild(s);
+}
 window.BPAuth={loginOrProfile,closeLogin,signInGoogle,saveUsername,closeProfile,signOut:doSignOut};
 </script>
 
