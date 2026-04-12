@@ -3427,8 +3427,13 @@ async function checkAndRoute(user) {
       showSection('setup');
     }
   } catch (err) {
-    console.error('[BP] Firestore check failed:', err);
-    showErr('bpAuthError', 'Connection error. Please try again.');
+    console.error('[BP] Firestore check failed:', err.code, err.message, err);
+    const msg = err.code === 'permission-denied'
+      ? 'Access denied — Firestore rules check karo.'
+      : err.code === 'unavailable'
+      ? 'Internet slow hai — please retry.'
+      : 'Connection error (' + (err.code || err.message) + '). Please try again.';
+    showErr('bpAuthError', msg);
     showSection('login');
   }
 }
@@ -3541,8 +3546,11 @@ async function saveUsername() {
     showSection('dashboard');   // done — single call handles everything
 
   } catch (err) {
-    console.error('[BP] saveUsername failed:', err);
-    showErr('bpUnameError', 'Save nahi hua — please try again.');
+    console.error('[BP] saveUsername failed:', err.code, err.message, err);
+    const msg = err.code === 'permission-denied'
+      ? 'Permission denied — Firestore rules check karo.'
+      : 'Save nahi hua (' + (err.code || err.message) + ') — please try again.';
+    showErr('bpUnameError', msg);
     if (sv) { sv.disabled = false; sv.textContent = 'Confirm Username ✓'; }
   }
 }
