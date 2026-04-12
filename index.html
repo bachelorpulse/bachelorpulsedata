@@ -3260,15 +3260,30 @@ return { open, close, recordClick };
 </div>
 
 <script type="module">
-// ─── Firebase Imports ─────────────────────────────────────────────────────────
-import { initializeApp }            from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
-import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged }
-                                     from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
-import { getFirestore, doc, getDoc, setDoc, serverTimestamp }
-                                     from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
+// ================================================================
+//  BACHELORPULSE — FIREBASE AUTH + USERNAME SYSTEM  (FIXED)
+//
+//  THE FLOW (linear, no gaps):
+//  Google button clicked
+//    → signInWithPopup succeeds
+//    → signInGoogle itself calls checkAndRoute()   ← THE FIX
+//    → checkAndRoute reads Firestore users/{uid}
+//    → username missing?  → showSection('setup')
+//    → username exists?   → showSection('dashboard')
+//
+//  onAuthStateChanged handles ONLY page-refresh / session-restore.
+//  _busy flag stops it from double-firing after signInGoogle.
+// ================================================================
 
-// ─── Init ─────────────────────────────────────────────────────────────────────
-const app  = initializeApp({
+import { initializeApp }
+  from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
+import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged }
+  from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
+import { getFirestore, doc, getDoc, setDoc, serverTimestamp }
+  from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
+
+// ── Firebase init ────────────────────────────────────────────────
+const app = initializeApp({
   apiKey:            "AIzaSyCIL8vGCepu1ZZSk-UIVhBxJs3ExHHD8x8",
   authDomain:        "bachelorpulse19.firebaseapp.com",
   projectId:         "bachelorpulse19",
@@ -3279,75 +3294,79 @@ const app  = initializeApp({
 const auth = getAuth(app);
 const db   = getFirestore(app);
 
-// ─── State ────────────────────────────────────────────────────────────────────
-let _user     = null;   // current Firebase user object
-let _uname    = null;   // confirmed username string
-let _valid    = false;  // is the typed username available & valid?
-let _debounce = null;   // debounce timer handle
+// ── State variables ──────────────────────────────────────────────
+let _user     = null;   // Firebase user object
+let _uname    = null;   // confirmed username
+let _valid    = false;  // current typed username passed availability check
+let _debounce = null;   // debounce timer
+let _busy     = false;  // true while signInGoogle is handling Firestore itself
 
-// ─── Tiny helpers ─────────────────────────────────────────────────────────────
-const $   = id  => document.getElementById(id);
-const GOOGLE_SVG = `<svg class="bp-google-icon" viewBox="0 0 48 48"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.35-8.16 2.35-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/></svg>Continue with Google`;
+const $ = id => document.getElementById(id);
+const GOOGLE_SVG = `<svg class="bp-google-icon" viewBox="0 0 48 48">
+  <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
+  <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
+  <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/>
+  <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.35-8.16 2.35-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
+</svg>Continue with Google`;
 
-// Inject the spin keyframe once
-(() => {
-  if (!$('bpSpinStyle')) {
-    const s = document.createElement('style');
-    s.id = 'bpSpinStyle';
-    s.textContent = '@keyframes spin{to{transform:rotate(360deg)}}';
-    document.head.appendChild(s);
-  }
-})();
+// Inject CSS spin keyframe once
+if (!$('bpSpinStyle')) {
+  const s = document.createElement('style');
+  s.id = 'bpSpinStyle';
+  s.textContent = '@keyframes spin{to{transform:rotate(360deg)}}';
+  document.head.appendChild(s);
+}
 
-// ─────────────────────────────────────────────────────────────────────────────
-// updateUI(state)  — THE SINGLE SOURCE OF TRUTH FOR SCREEN SWITCHING
+// ================================================================
+//  showSection(name)
+//  ONLY function allowed to switch screens. Never call classList
+//  directly for overlays anywhere else.
 //
-//   'Login'         → show login overlay, hide everything else
-//   'UsernameSetup' → show username overlay (non-dismissable), hide login
-//   'Dashboard'     → hide all overlays, update nav button & profile dropdown
-//   'Loading'       → keeps current screen, dims the nav button
-// ─────────────────────────────────────────────────────────────────────────────
-function updateUI(state) {
-  // All overlay panels
-  const loginOv  = $('bpLoginOverlay');
-  const unameOv  = $('bpUsernameOverlay');
-  const btn      = $('authBtn');
-  const btnTxt   = $('authBtnText');
+//  'login'     → login overlay open, everything else hidden
+//  'setup'     → username setup overlay open (NOT dismissable)
+//  'dashboard' → all overlays closed, nav button updated
+//  'loading'   → all overlays closed, nav button shows "..."
+//  'out'       → all overlays closed, nav shows "Login"
+// ================================================================
+function showSection(name) {
+  const loginOv = $('bpLoginOverlay');
+  const unameOv = $('bpUsernameOverlay');
+  const btn     = $('authBtn');
+  const btnTxt  = $('authBtnText');
 
-  // Helper: open / close an overlay cleanly
-  const show = el => { if (el) { el.classList.add('open');    document.body.style.overflow = 'hidden'; } };
-  const hide = el => { if (el) { el.classList.remove('open'); } };
-
-  // Always start by hiding both overlays, then selectively show
-  hide(loginOv);
-  hide(unameOv);
+  // Step 1: Close everything
+  if (loginOv) loginOv.classList.remove('open');
+  if (unameOv) unameOv.classList.remove('open');
   document.body.style.overflow = '';
 
-  if (state === 'Login') {
-    // Reset Google button in case it was mid-flight
+  // Step 2: Open exactly what's needed
+  if (name === 'login') {
     const gb = $('bpGoogleBtn');
     if (gb) { gb.disabled = false; gb.innerHTML = GOOGLE_SVG; }
-    show(loginOv);
+    if (loginOv) {
+      loginOv.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
 
-  } else if (state === 'UsernameSetup') {
-    // Populate avatar & personalised greeting from Google profile
+  } else if (name === 'setup') {
+    // Fill in user's Google photo + personalised greeting
     if (_user) {
       const firstName = _user.displayName?.split(' ')[0] || 'there';
       const greet = $('bpUnameGreeting');
       if (greet) greet.textContent = `Hey ${firstName}, almost there!`;
 
       const avatar = $('bpUnameAvatar');
-      const avatarWrap = $('bpUnameAvatarWrap');
+      const wrap   = $('bpUnameAvatarWrap');
       if (_user.photoURL && avatar) {
-        avatar.src = _user.photoURL;
-        avatar.style.display    = 'block';
-        if (avatarWrap) avatarWrap.style.display = 'none';
+        avatar.src           = _user.photoURL;
+        avatar.style.display = 'block';
+        if (wrap) wrap.style.display = 'none';
       } else {
-        if (avatar)     avatar.style.display     = 'none';
-        if (avatarWrap) avatarWrap.style.display = 'flex';
+        if (avatar) avatar.style.display = 'none';
+        if (wrap)   wrap.style.display   = 'flex';
       }
     }
-    // Reset the input form to a clean state
+    // Always reset the form when setup opens
     const inp = $('bpUnameInput');
     const sv  = $('bpUnameSave');
     if (inp) { inp.value = ''; inp.disabled = false; }
@@ -3357,29 +3376,32 @@ function updateUI(state) {
     const pb = $('bpUnameProgressBar');
     if (pb) pb.style.width = '66%';
 
-    // Username overlay is intentionally NOT dismissable — no click-outside close
-    show(unameOv);
+    if (unameOv) {
+      unameOv.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+    // Clicking outside username overlay does NOTHING (intentional)
     setTimeout(() => $('bpUnameInput')?.focus(), 350);
 
-  } else if (state === 'Dashboard') {
-    // Update nav button
+  } else if (name === 'dashboard') {
     if (btn && btnTxt) {
-      btnTxt.textContent = _uname ? '@' + _uname : (_user?.displayName?.split(' ')[0] || 'You');
+      btnTxt.textContent = _uname
+        ? '@' + _uname
+        : (_user?.displayName?.split(' ')[0] || 'You');
       btn.disabled = false;
       btn.classList.add('logged-in');
     }
-    // Update profile dropdown
-    if ($('bpProfileName'))  $('bpProfileName').textContent  = '@' + (_uname || '');
+    if ($('bpProfileName'))  $('bpProfileName').textContent  = _uname ? '@' + _uname : '';
     if ($('bpProfileEmail')) $('bpProfileEmail').textContent = _user?.email || '';
 
-  } else if (state === 'Loading') {
+  } else if (name === 'loading') {
     if (btn && btnTxt) {
       btnTxt.textContent = '...';
       btn.disabled = true;
       btn.classList.remove('logged-in');
     }
 
-  } else if (state === 'LoggedOut') {
+  } else if (name === 'out') {
     if (btn && btnTxt) {
       btnTxt.textContent = 'Login';
       btn.disabled = false;
@@ -3388,54 +3410,78 @@ function updateUI(state) {
   }
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// STEP 1 — Auth Listener
-// Single entry point for all auth state changes.
-// Checks Firestore immediately on login to decide which screen to show.
-// ─────────────────────────────────────────────────────────────────────────────
-onAuthStateChanged(auth, async (user) => {
-  if (!user) {
-    // Signed out — reset state
-    _user  = null;
-    _uname = null;
-    updateUI('LoggedOut');
-    return;
-  }
-
-  // User is authenticated — check Firestore for username
-  _user = user;
-  updateUI('Loading');
-
+// ================================================================
+//  checkAndRoute(user)
+//  Shared Firestore check — called by BOTH signInGoogle AND
+//  onAuthStateChanged.  Decides: 'setup' or 'dashboard'.
+// ================================================================
+async function checkAndRoute(user) {
+  showSection('loading');
   try {
     const snap = await getDoc(doc(db, 'users', user.uid));
     if (snap.exists() && snap.data().username) {
-      // ✅ Username found → go straight to Dashboard
       _uname = snap.data().username;
-      updateUI('Dashboard');
+      showSection('dashboard');
     } else {
-      // ⚠️ Username missing → force Username Setup (cannot be skipped)
-      updateUI('UsernameSetup');
+      // New user or username not set yet — force setup
+      showSection('setup');
     }
   } catch (err) {
-    // STEP 4 — Network / Firestore error: never get stuck on a blank screen
-    console.error('[BachelorPulse] Firestore check failed:', err);
+    console.error('[BP] Firestore check failed:', err);
     showErr('bpAuthError', 'Connection error. Please try again.');
-    updateUI('Login');   // Send back to login so user can retry
+    showSection('login');
   }
+}
+
+// ================================================================
+//  onAuthStateChanged — handles page refresh / session restore ONLY
+//  When signInGoogle runs, it sets _busy=true so this listener
+//  skips the Firestore check (already done by signInGoogle).
+// ================================================================
+onAuthStateChanged(auth, async (user) => {
+  if (!user) {
+    _user  = null;
+    _uname = null;
+    showSection('out');
+    return;
+  }
+
+  _user = user;
+
+  if (_busy) {
+    // signInGoogle is already handling the Firestore check
+    _busy = false;
+    return;
+  }
+
+  // Page refresh / returning user — check Firestore and route
+  await checkAndRoute(user);
 });
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Google Sign-In
-// Triggers popup. All UI transitions happen inside onAuthStateChanged above.
-// ─────────────────────────────────────────────────────────────────────────────
+// ================================================================
+//  signInGoogle — THE FIXED VERSION
+//
+//  Old (broken): signInWithPopup → closeLogin()
+//                [gap] → onAuthStateChanged fires 200-800ms later
+//
+//  New (fixed):  signInWithPopup → immediately checkAndRoute(user)
+//                → showSection('setup') or showSection('dashboard')
+//                No gap. No blank screen. No timing dependency.
+// ================================================================
 async function signInGoogle() {
   const btn = $('bpGoogleBtn');
   if (btn) { btn.disabled = true; btn.textContent = 'Signing in…'; }
+
   try {
-    await signInWithPopup(auth, new GoogleAuthProvider());
-    // ← Do NOT touch the UI here. onAuthStateChanged fires next
-    //   and calls updateUI('UsernameSetup') or updateUI('Dashboard').
+    const result = await signInWithPopup(auth, new GoogleAuthProvider());
+    _user  = result.user;
+    _busy  = true;   // tell onAuthStateChanged to skip its own check
+
+    // ← THIS is the fix: same Firestore check, done immediately
+    await checkAndRoute(_user);
+
   } catch (err) {
+    _busy = false;
     if (btn) { btn.disabled = false; btn.innerHTML = GOOGLE_SVG; }
     if (err.code !== 'auth/popup-closed-by-user') {
       showErr('bpAuthError', 'Sign-in failed. Please try again.');
@@ -3443,45 +3489,15 @@ async function signInGoogle() {
   }
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// STEP 2 — Real-time Username Availability Check (500 ms debounce)
-// Checks the `usernames` collection — Green if free, Red if taken.
-// ─────────────────────────────────────────────────────────────────────────────
-async function checkUname(val) {
-  const sv = $('bpUnameSave');
-  _valid = false;
-  if (sv) sv.disabled = true;
-
-  // Local validation first (no Firestore reads wasted)
-  if (!val)           { setUnameStatus('', '');                                              return; }
-  if (val.length < 3) { setUnameStatus('At least 3 characters required.', 'err');           return; }
-  if (!/^[a-z0-9_]+$/.test(val)) {
-    setUnameStatus('Only lowercase letters, numbers and _ allowed.', 'err');
-    return;
-  }
-
-  // Firestore availability check
-  setUnameStatus('', 'checking');
-  try {
-    const snap = await getDoc(doc(db, 'usernames', val));
-    if (snap.exists()) {
-      setUnameStatus('@' + val + ' is already taken.', 'err');   // 🔴 Taken
-    } else {
-      setUnameStatus(val, 'ok');                                  // 🟢 Available
-      _valid = true;
-      if (sv) sv.disabled = false;
-    }
-  } catch (err) {
-    // STEP 4 — Firestore error during check
-    setUnameStatus('Could not check — please try again.', 'err');
-  }
-}
-
-// ─────────────────────────────────────────────────────────────────────────────
-// STEP 3 — Atomic Write (the Flow Core)
-// On Confirm: write to usernames/{name} AND users/{uid} with serverTimestamp.
-// Final race-check before writing to prevent duplicates.
-// ─────────────────────────────────────────────────────────────────────────────
+// ================================================================
+//  saveUsername — Dual-write (the flow core)
+//
+//  Writes to TWO places:
+//   1. usernames/{chosen_name}  →  { uid, createdAt }   (reserve it)
+//   2. users/{uid}              →  { username, email, points, … }
+//
+//  Race-condition guard re-checks Firestore right before writing.
+// ================================================================
 async function saveUsername() {
   const inp = $('bpUnameInput');
   const val = inp?.value.trim().toLowerCase();
@@ -3491,23 +3507,22 @@ async function saveUsername() {
   if (sv) { sv.disabled = true; sv.textContent = 'Saving…'; }
 
   try {
-    // Final race-condition guard — re-check right before writing
+    // Final race-condition check (two users, same username, same second)
     const guard = await getDoc(doc(db, 'usernames', val));
     if (guard.exists()) {
-      setUnameStatus('@' + val + ' was just taken! Try another.', 'err');
+      setUnameStatus('@' + val + ' abhi abhi kisi ne le liya! Doosra try karo.', 'err');
       if (sv) { sv.disabled = false; sv.textContent = 'Confirm Username ✓'; }
       _valid = false;
       return;
     }
 
-    // ── Dual-write ────────────────────────────────────────────────────────
-    // 3a. usernames/{chosen_name} → { uid }  (prevents future duplicates)
+    // Write 1: Reserve the username globally
     await setDoc(doc(db, 'usernames', val), {
       uid:       _user.uid,
       createdAt: serverTimestamp()
     });
 
-    // 3b. users/{uid} → full profile  (merge:true keeps any existing fields)
+    // Write 2: Save to user profile
     await setDoc(doc(db, 'users', _user.uid), {
       username:  val,
       email:     _user.email,
@@ -3517,28 +3532,57 @@ async function saveUsername() {
       streak:    0,
       createdAt: serverTimestamp()
     }, { merge: true });
-    // ── End dual-write ────────────────────────────────────────────────────
 
     _uname = val;
-    updateUI('Dashboard');   // ← single call handles all screen transitions
+    showSection('dashboard');   // done — single call handles everything
 
   } catch (err) {
-    // STEP 4 — Write failed: show Try Again, never leave user stuck
-    console.error('[BachelorPulse] saveUsername failed:', err);
-    showErr('bpUnameError', 'Failed to save — please try again.');
+    console.error('[BP] saveUsername failed:', err);
+    showErr('bpUnameError', 'Save nahi hua — please try again.');
     if (sv) { sv.disabled = false; sv.textContent = 'Confirm Username ✓'; }
   }
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Profile dropdown & misc
-// ─────────────────────────────────────────────────────────────────────────────
+// ================================================================
+//  checkUname — real-time availability (500ms debounce)
+//  Checks usernames collection. Green = free. Red = taken.
+// ================================================================
+async function checkUname(val) {
+  const sv = $('bpUnameSave');
+  _valid = false;
+  if (sv) sv.disabled = true;
+
+  if (!val)           { setUnameStatus('', '');                                          return; }
+  if (val.length < 3) { setUnameStatus('Kam se kam 3 characters chahiye.', 'err');      return; }
+  if (!/^[a-z0-9_]+$/.test(val)) {
+    setUnameStatus('Sirf lowercase letters, numbers aur _ allowed hain.', 'err');
+    return;
+  }
+
+  setUnameStatus('', 'checking');
+  try {
+    const snap = await getDoc(doc(db, 'usernames', val));
+    if (snap.exists()) {
+      setUnameStatus('@' + val + ' pehle se liya hua hai.', 'err');   // 🔴 Taken
+    } else {
+      setUnameStatus(val, 'ok');                                        // 🟢 Available
+      _valid = true;
+      if (sv) sv.disabled = false;
+    }
+  } catch (err) {
+    setUnameStatus('Check nahi ho pa raha — dobara try karo.', 'err');
+  }
+}
+
+// ================================================================
+//  Profile dropdown & misc helpers
+// ================================================================
 function loginOrProfile() {
   if (!_user) {
-    updateUI('Login');
+    showSection('login');
   } else {
-    const dd = $('bpProfileDropdown');
-    const ov = $('bpProfileOverlay');
+    const dd   = $('bpProfileDropdown');
+    const ov   = $('bpProfileOverlay');
     const open = dd?.style.display === 'block';
     if (dd) dd.style.display = open ? 'none' : 'block';
     if (ov) ov.style.display = open ? 'none' : 'block';
@@ -3546,7 +3590,7 @@ function loginOrProfile() {
 }
 
 function closeLogin() {
-  // Kept for any inline onclick="BPAuth.closeLogin()" calls in HTML
+  // For the HTML ✕ button onclick="BPAuth.closeLogin()"
   const loginOv = $('bpLoginOverlay');
   if (loginOv) loginOv.classList.remove('open');
   document.body.style.overflow = '';
@@ -3563,13 +3607,11 @@ function closeProfile() {
 
 async function doSignOut() {
   closeProfile();
+  _uname = null;
   try { await signOut(auth); } catch (_) {}
-  // onAuthStateChanged fires → updateUI('LoggedOut') automatically
+  // onAuthStateChanged fires → showSection('out') automatically
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// UI feedback helpers
-// ─────────────────────────────────────────────────────────────────────────────
 function showErr(id, msg) {
   const el = $(id);
   if (!el) return;
@@ -3582,19 +3624,18 @@ function setUnameStatus(msg, type) {
   const st = $('bpUnameStatus');
   if (!st) return;
   st.className = 'bp-uname-status' + (type ? ' ' + type : '');
-  if      (type === 'checking') st.innerHTML = '<span style="display:inline-block;animation:spin .7s linear infinite">⏳</span> Checking…';
-  else if (type === 'ok')       st.innerHTML = '✅ <strong>@' + msg + '</strong> is available!';
-  else if (type === 'err')      st.innerHTML = '❌ ' + msg;
+  if      (type === 'checking') st.innerHTML  = '<span style="display:inline-block;animation:spin .7s linear infinite">⏳</span> Check ho raha hai…';
+  else if (type === 'ok')       st.innerHTML  = '✅ <strong>@' + msg + '</strong> available hai!';
+  else if (type === 'err')      st.innerHTML  = '❌ ' + msg;
   else                          st.textContent = msg;
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Username input — real-time strip + debounce + progress bar
-// ─────────────────────────────────────────────────────────────────────────────
+// ================================================================
+//  Username input: strip bad chars instantly + debounce Firestore
+// ================================================================
 const inp = $('bpUnameInput');
 if (inp) {
   inp.addEventListener('input', () => {
-    // Strip invalid characters the moment they're typed
     const cursor  = inp.selectionStart;
     const cleaned = inp.value.replace(/[^a-z0-9_]/g, '').toLowerCase();
     if (cleaned !== inp.value) {
@@ -3610,28 +3651,28 @@ if (inp) {
 
     if (!v) { setUnameStatus('', ''); return; }
 
-    // Animate progress bar: 66 % base + up to 34 % as length grows
+    // Progress bar animation
     const pb  = $('bpUnameProgressBar');
     const pct = Math.min(66 + Math.floor((v.length / 20) * 34), 100);
     if (pb) pb.style.width = pct + '%';
 
-    // Wait 500 ms after typing stops before hitting Firestore (Step 2)
+    // 500ms debounce — wait for typing to stop before hitting Firestore
     _debounce = setTimeout(() => checkUname(v), 500);
   });
 
-  // Allow Enter to confirm when username is valid
-  inp.addEventListener('keydown', e => { if (e.key === 'Enter' && _valid) saveUsername(); });
+  inp.addEventListener('keydown', e => {
+    if (e.key === 'Enter' && _valid) saveUsername();
+  });
 }
 
-// Login overlay: clicking the dark backdrop closes it
+// Login backdrop click closes it; username overlay does NOT close on click
 $('bpLoginOverlay')?.addEventListener('click', e => {
   if (e.target === $('bpLoginOverlay')) closeLogin();
 });
-// Username overlay: clicking outside does NOTHING — user must pick a username
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Public API — exposed to inline onclick handlers in the HTML
-// ─────────────────────────────────────────────────────────────────────────────
+// ================================================================
+//  Public API — HTML onclick="" handlers call these
+// ================================================================
 window.BPAuth = {
   loginOrProfile,
   closeLogin,
