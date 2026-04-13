@@ -3536,5 +3536,14 @@ window.BPAuth = {
   signOut: doSignOut
 };</script>
 
+<!-- Monetag Push Notification Service Worker -->
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js')
+      .then(function(reg) { console.log('Monetag SW OK:', reg.scope); })
+      .catch(function(err) { console.log('SW error:', err); });
+  }
+</script>
+
 </body>
 </html>
