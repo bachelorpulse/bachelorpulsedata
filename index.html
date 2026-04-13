@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -236,14 +237,6 @@
         </a>
       </div>
       <div class="fbk-modal-note">🔒 Anonymous feedback. <strong>Aapki privacy 100% safe hai.</strong></div>
-    </div>
-  </div>
-
-  <!-- Monetag Ad Unit — footer ke upar, kisi bhi content se overlap nahi karega -->
-  <div style="width:100%;max-width:880px;margin:0 auto 12px;padding:0 16px;box-sizing:border-box;">
-    <div style="width:100%;background:rgba(26,37,56,0.6);border:1px solid rgba(255,255,255,0.07);border-radius:14px;padding:10px 14px;display:flex;flex-direction:column;align-items:center;gap:6px;min-height:70px;justify-content:center;">
-      <div style="font-size:0.62rem;color:rgba(147,168,192,0.45);text-transform:uppercase;letter-spacing:0.08em;font-family:'Hind',sans-serif;">Advertisement</div>
-      <script>(function(s){s.dataset.zone='10871117',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
     </div>
   </div>
 
@@ -3535,15 +3528,6 @@ window.BPAuth = {
   closeProfile,
   signOut: doSignOut
 };</script>
-
-<!-- Monetag Push Notification Service Worker -->
-<script>
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js')
-      .then(function(reg) { console.log('Monetag SW OK:', reg.scope); })
-      .catch(function(err) { console.log('SW error:', err); });
-  }
-</script>
 
 </body>
 </html>
