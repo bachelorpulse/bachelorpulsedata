@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -432,7 +431,7 @@
       Browse Chapters <span class="seo-nav-toggle-arrow">▾</span>
     </div>
     <div class="seo-nav-links" id="seoNavLinks">
-      <a class="seo-nav-link" href="https://bachelorpulse.in/Class6_Science_Chapter1_the_wonderfull_world_of_science_mcq.html">Class 6 · The Wonderful World of Science</a>
+      <a class="seo-nav-link" href="https://bachelorpulse.in/Class6_Science_Chapter1_the wonderfull world of science_mcq.html">Class 6 · The Wonderful World of Science</a>
     </div>
   </div>
 </div>
@@ -3528,6 +3527,19 @@ window.BPAuth = {
   closeProfile,
   signOut: doSignOut
 };</script>
+
+<!-- Monetag Push Notification Service Worker Registration -->
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js')
+      .then(function(reg) {
+        console.log('Monetag SW registered:', reg.scope);
+      })
+      .catch(function(err) {
+        console.log('SW registration failed:', err);
+      });
+  }
+</script>
 
 </body>
 </html>
