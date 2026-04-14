@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- ═══════════════════════════════════
+       CORE / HOME
+  ════════════════════════════════════ -->
   <url><loc>https://bachelorpulse.in/</loc><priority>1.0</priority></url>
-  <url><loc>https://bachelorpulse.in/privacy_policy.html</loc><priority>0.3</priority></url>
+
+  <!-- ═══════════════════════════════════
+       LEGAL PAGES
+  ════════════════════════════════════ -->
   <url><loc>https://bachelorpulse.in/about.html</loc><priority>0.3</priority></url>
-  <url><loc>https://bachelorpulse.in/disclaimer.html</loc><priority>0.3</priority></url>
   <url><loc>https://bachelorpulse.in/contact.html</loc><priority>0.3</priority></url>
+  <url><loc>https://bachelorpulse.in/privacy_policy.html</loc><priority>0.3</priority></url>
+  <url><loc>https://bachelorpulse.in/disclaimer.html</loc><priority>0.3</priority></url>
+  <url><loc>https://bachelorpulse.in/terms-and-conditions.html</loc><priority>0.3</priority></url>
+  <url><loc>https://bachelorpulse.in/affiliate-disclosure.html</loc><priority>0.3</priority></url>
+
+  <!-- ═══════════════════════════════════
+       CLASS 6 — SCIENCE
+  ════════════════════════════════════ -->
   <url>
     <loc>https://bachelorpulse.in/Class6_Science_Chapter1_the_wonderfull_world_of_science_mcq.html</loc>
     <priority>0.8</priority>
   </url>
+
+  <!-- ═══════════════════════════════════
+       CLASS 10 — MATHS MCQ PAGES
+  ════════════════════════════════════ -->
+  <url>
+    <loc>https://bachelorpulse.in/ncert-class-10-maths-chapter-1-real-numbers-mcq.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bachelorpulse.in/ncert-class-10-maths-chapter-2-polynomials-mcq.html</loc>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
