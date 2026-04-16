@@ -388,6 +388,7 @@
 <div class="seo-nav-links">
 <a class="seo-nav-link" href="https://bachelorpulse.in/ncert-class-10-maths-chapter-1-real-numbers-mcq.html">Maths Ch 1 · Real Numbers</a>
 <a class="seo-nav-link" href="https://bachelorpulse.in/ncert-class-10-maths-chapter-2-polynomials-mcq.html">Maths Ch 2 · Polynomials</a>
+<a class="seo-nav-link" href="https://bachelorpulse.in/ncert-class-10-science-chapter-1-chemical-reactions-equations-mcq.html">Science Ch 1 .Chemical Reactions and Equations</a>      
 </div>
 </div>
 </div>
@@ -1381,75 +1382,7 @@ if(to==='count')  {selCount=null;updateBreadcrumb();showScreen('count');}
 }
 function goHome(){selClass=null;selSubject=null;selChapter=null;selCount=null;selMode=null;selLearnType=null;updateBreadcrumb();showScreen('class');
 pushURL(null);
-}
-const SLUG_MAP = {
-"class6_science_chapter1_the_wonderful_world_of_science_mcq":{cls:6,subj:"science",ch:"Chapter 1: The Wonderful World of Science"},
-"class6_science_chapter2_diversity_in_the_living_world_mcq":{cls:6,subj:"science",ch:"Chapter 2: Diversity in the Living World"},
-"class6_science_chapter3_mindful_eating_a_path_to_a_healthy_body_mcq":{cls:6,subj:"science",ch:"Chapter 3: Mindful Eating: A Path to a Healthy Body"},
-"class6_science_chapter4_exploring_magnets_mcq":{cls:6,subj:"science",ch:"Chapter 4: Exploring Magnets"},
-"class6_science_chapter5_measurement_of_length_and_motion_mcq":{cls:6,subj:"science",ch:"Chapter 5: Measurement of Length and Motion"},
-"class6_science_chapter6_materials_around_us_mcq":{cls:6,subj:"science",ch:"Chapter 6: Materials Around Us"},
-"class6_science_chapter7_temperature_and_its_measurement_mcq":{cls:6,subj:"science",ch:"Chapter 7: Temperature and its Measurement"},
-"class6_science_chapter8_a_journey_through_states_of_water_mcq":{cls:6,subj:"science",ch:"Chapter 8: A Journey through States of Water"},
-"class6_science_chapter9_methods_of_separation_in_everyday_life_mcq":{cls:6,subj:"science",ch:"Chapter 9: Methods of Separation in Everyday Life"},
-"class6_science_chapter10_living_creatures_exploring_their_characteristics_mcq":{cls:6,subj:"science",ch:"Chapter 10: Living Creatures: Exploring their Characteristics"},
-"class6_science_chapter11_nature_s_treasures_mcq":{cls:6,subj:"science",ch:"Chapter 11: Nature\'s Treasures"},
-"class6_science_chapter12_beyond_earth_mcq":{cls:6,subj:"science",ch:"Chapter 12: Beyond Earth"},
-"class7_science_chapter1_the_ever_evolving_world_of_science_mcq":{cls:7,subj:"science",ch:"Chapter 1: The Ever-Evolving World of Science"},
-"class7_science_chapter2_exploring_substances_acidic_basic_and_neutral_mcq":{cls:7,subj:"science",ch:"Chapter 2: Exploring Substances: Acidic, Basic, and Neutral"},
-"class7_science_chapter3_electricity_circuits_and_their_components_mcq":{cls:7,subj:"science",ch:"Chapter 3: Electricity: Circuits and their Components"},
-"class7_science_chapter4_the_world_of_metals_and_non_metals_mcq":{cls:7,subj:"science",ch:"Chapter 4: The World of Metals and Non-metals"},
-"class7_science_chapter5_changes_around_us_physical_and_chemical_mcq":{cls:7,subj:"science",ch:"Chapter 5: Changes Around Us: Physical and Chemical"},
-"class7_science_chapter6_adolescence_a_stage_of_growth_and_change_mcq":{cls:7,subj:"science",ch:"Chapter 6: Adolescence: A Stage of Growth and Change"},
-"class7_science_chapter7_heat_transfer_in_nature_mcq":{cls:7,subj:"science",ch:"Chapter 7: Heat Transfer in Nature"},
-"class7_science_chapter8_measurement_of_time_and_motion_mcq":{cls:7,subj:"science",ch:"Chapter 8: Measurement of Time and Motion"},
-"class7_science_chapter9_life_processes_in_animals_mcq":{cls:7,subj:"science",ch:"Chapter 9: Life Processes in Animals"},
-"class7_science_chapter10_life_processes_in_plants_mcq":{cls:7,subj:"science",ch:"Chapter 10: Life Processes in Plants"},
-"class7_science_chapter11_light_shadows_and_reflections_mcq":{cls:7,subj:"science",ch:"Chapter 11: Light: Shadows and Reflections"},
-"class7_science_chapter12_earth_moon_and_the_sun_mcq":{cls:7,subj:"science",ch:"Chapter 12: Earth, Moon, and the Sun"},
-"class8_science_chapter1_exploring_the_investigative_world_of_science_mcq":{cls:8,subj:"science",ch:"Chapter 1: Exploring the Investigative World of Science"},
-"class8_science_chapter2_the_invisible_living_world_beyond_our_naked_eye_mcq":{cls:8,subj:"science",ch:"Chapter 2: The Invisible Living World: Beyond Our Naked Eye"},
-"class8_science_chapter3_health_the_ultimate_treasure_mcq":{cls:8,subj:"science",ch:"Chapter 3: Health: The Ultimate Treasure"},
-"class8_science_chapter4_electricity_magnetic_and_heating_effects_mcq":{cls:8,subj:"science",ch:"Chapter 4: Electricity: Magnetic and Heating Effects"},
-"class8_science_chapter5_exploring_forces_mcq":{cls:8,subj:"science",ch:"Chapter 5: Exploring Forces"},
-"class8_science_chapter6_pressure_winds_storms_and_cyclones_mcq":{cls:8,subj:"science",ch:"Chapter 6: Pressure, Winds, Storms, and Cyclones"},
-"class8_science_chapter7_particulate_nature_of_matter_mcq":{cls:8,subj:"science",ch:"Chapter 7: Particulate Nature of Matter"},
-"class8_science_chapter8_nature_of_matter_elements_compounds_and_mixtures_mcq":{cls:8,subj:"science",ch:"Chapter 8: Nature of Matter: Elements, Compounds, and Mixtures"},
-"class8_science_chapter9_the_amazing_world_of_solutes_solvents_and_solutions_mcq":{cls:8,subj:"science",ch:"Chapter 9: The Amazing World of Solutes, Solvents, and Solutions"},
-"class8_science_chapter10_light_mirrors_and_lenses_mcq":{cls:8,subj:"science",ch:"Chapter 10: Light: Mirrors and Lenses"},
-"class8_science_chapter11_keeping_time_with_the_skies_mcq":{cls:8,subj:"science",ch:"Chapter 11: Keeping Time with the Skies"},
-"class8_science_chapter12_how_nature_works_in_harmony_mcq":{cls:8,subj:"science",ch:"Chapter 12: How Nature Works in Harmony"},
-"class8_science_chapter13_our_home_earth_a_unique_life_sustaining_planet_mcq":{cls:8,subj:"science",ch:"Chapter 13: Our Home: Earth, a Unique Life Sustaining Planet"},
-"class9_science_chapter1_matter_in_our_surroundings_mcq":{cls:9,subj:"science",ch:"Chapter 1: Matter in Our Surroundings"},
-"class9_science_chapter2_is_matter_around_us_pure_mcq":{cls:9,subj:"science",ch:"Chapter 2: Is Matter Around Us Pure?"},
-"class9_science_chapter3_atoms_and_molecules_mcq":{cls:9,subj:"science",ch:"Chapter 3: Atoms and Molecules"},
-"class9_science_chapter4_structure_of_the_atom_mcq":{cls:9,subj:"science",ch:"Chapter 4: Structure of the Atom"},
-"class9_science_chapter5_the_fundamental_unit_of_life_mcq":{cls:9,subj:"science",ch:"Chapter 5: The Fundamental Unit of Life"},
-"class9_science_chapter6_tissues_mcq":{cls:9,subj:"science",ch:"Chapter 6: Tissues"},
-"class9_science_chapter7_motion_mcq":{cls:9,subj:"science",ch:"Chapter 7: Motion"},
-"class9_science_chapter8_force_and_laws_of_motion_mcq":{cls:9,subj:"science",ch:"Chapter 8: Force and Laws of Motion"},
-"class9_science_chapter9_gravitation_mcq":{cls:9,subj:"science",ch:"Chapter 9: Gravitation"},
-"class9_science_chapter10_work_and_energy_mcq":{cls:9,subj:"science",ch:"Chapter 10: Work and Energy"},
-"class9_science_chapter11_sound_mcq":{cls:9,subj:"science",ch:"Chapter 11: Sound"},
-"class9_science_chapter12_improvement_in_food_resources_mcq":{cls:9,subj:"science",ch:"Chapter 12: Improvement in Food Resources"},
-"class10_science_chapter1_chemical_reactions_and_equations_mcq":{cls:10,subj:"science",ch:"Chapter 1: Chemical Reactions and Equations"},
-"class10_science_chapter2_acids_bases_and_salts_mcq":{cls:10,subj:"science",ch:"Chapter 2: Acids, Bases and Salts"},
-"class10_science_chapter3_metals_and_non_metals_mcq":{cls:10,subj:"science",ch:"Chapter 3: Metals and Non-metals"},
-"class10_science_chapter4_carbon_and_its_compounds_mcq":{cls:10,subj:"science",ch:"Chapter 4: Carbon and its Compounds"},
-"class10_science_chapter5_life_processes_mcq":{cls:10,subj:"science",ch:"Chapter 5: Life Processes"},
-"class10_science_chapter6_control_and_coordination_mcq":{cls:10,subj:"science",ch:"Chapter 6: Control and Coordination"},
-"class10_science_chapter7_how_do_organisms_reproduce_mcq":{cls:10,subj:"science",ch:"Chapter 7: How do Organisms Reproduce?"},
-"class10_science_chapter8_heredity_mcq":{cls:10,subj:"science",ch:"Chapter 8: Heredity"},
-"class10_science_chapter9_light_reflection_and_refraction_mcq":{cls:10,subj:"science",ch:"Chapter 9: Light — Reflection and Refraction"},
-"class10_science_chapter10_the_human_eye_and_the_colourful_world_mcq":{cls:10,subj:"science",ch:"Chapter 10: The Human Eye and the Colourful World"},
-"class10_science_chapter11_electricity_mcq":{cls:10,subj:"science",ch:"Chapter 11: Electricity"},
-"class10_science_chapter12_magnetic_effects_of_electric_current_mcq":{cls:10,subj:"science",ch:"Chapter 12: Magnetic Effects of Electric Current"},
-"class10_science_chapter13_our_environment_mcq":{cls:10,subj:"science",ch:"Chapter 13: Our Environment"}
-};
-function buildSlug(cls, subj, ch) {
-  for (const [slug, data] of Object.entries(SLUG_MAP)) {
-    if (data.cls === cls && data.subj === subj && data.ch === ch) return slug;
-  }
+                 }
   const num = String(ch).match(/[Cc]hapter\s*(\d+)/)?.[1];
   if (!num) return null;
   const name = ch.replace(/^Chapter\s*\d+:\s*/i, '').toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_|_$/g, '');
