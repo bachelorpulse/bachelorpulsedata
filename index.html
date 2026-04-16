@@ -1297,156 +1297,122 @@ document.removeEventListener('mousemove', onMouseMove);
 document.removeEventListener('mouseup', onMouseUp);
 };
 }
-function closeLightbox() {
-const overlay  = document.getElementById('lightboxOverlay');
-const img      = document.getElementById('lightboxImg');
-const spinner  = document.getElementById('lightboxSpinner');
-const zoomCtrl = document.getElementById('lbZoomControls');
-img.style.opacity = '0';
-overlay.classList.remove('open');
-document.body.style.overflow = '';
-if (zoomCtrl) zoomCtrl.style.display = 'none';
-lbScale = 1;
-img.style.transform = 'scale(1)';
-if (overlay._dragCleanup) { overlay._dragCleanup(); overlay._dragCleanup = null; }
-setTimeout(() => {
-if (!overlay.classList.contains('open')) {
-img.src = '';
-img.style.display = 'none';
-if (spinner) spinner.style.display = 'flex';
-}
-}, 450);
-}
-function closeLightboxOutside(e) {
-if (e.target === document.getElementById('lightboxOverlay') ||
-e.target === document.getElementById('lightboxScroll')) {
-closeLightbox();
-}
-}
-document.addEventListener('keydown', e => {
-if (e.key === 'Escape') { closeLightbox(); if(typeof BookmarkSystem!=='undefined') BookmarkSystem.close(); }
-});
-async function copyShortNoteText(url){
-const btn = document.getElementById('copyNoteBtn');
-if(!btn) return;
-btn.textContent = '⏳ Fetching...';
-btn.disabled = true;
-try {
-const r = await fetch(url);
-const text = await r.text();
-const clean = text.replace(/<[^>]+>/g, ' ').replace(/\s{2,}/g, '\n').trim();
-await navigator.clipboard.writeText(clean);
-btn.innerHTML = '✅ Copied!';
-btn.classList.add('copied');
-setTimeout(() => {
-btn.innerHTML = '📋 Copy Text';
-btn.classList.remove('copied');
-btn.disabled = false;
-}, 2500);
-} catch(err) {
-btn.innerHTML = '❌ Failed';
-btn.disabled = false;
-setTimeout(() => { btn.innerHTML = '📋 Copy Text'; }, 2000);
-}
-}
-function toggleChapterDone(key){
-const cb = document.getElementById('completeCheckbox');
-const badge = document.getElementById('completeBadge');
-const isDone = localStorage.getItem(key) === '1';
-if(isDone){
-localStorage.removeItem(key);
-cb.classList.remove('done');
-cb.innerHTML = '';
-badge.classList.remove('visible');
-} else {
-localStorage.setItem(key, '1');
-cb.classList.add('done');
-cb.innerHTML = '✅';
-badge.classList.add('visible');
-StrikeManager.recordActivity(); // 🔥 Trigger strike update
-try{if(typeof BadgeSystem!=='undefined'){const _bs=BadgeSystem._ls();_bs.chapDone=Object.keys(localStorage).filter(k=>k.startsWith('bp_done_')&&localStorage.getItem(k)==='1').length;BadgeSystem._ss(_bs);BadgeSystem._cb(_bs);}}catch(e){}
-}
-}
-function urlViewerBack(){
-if(urlViewerFrom === 'mode') goBack('mode');
-else if(urlViewerFrom === 'learn') goBack('learn');
-else goBack('mode');
-}
-function goBack(to){
-if(to==='class')  {selClass=null;selSubject=null;selChapter=null;selCount=null;selMode=null;selLearnType=null;updateBreadcrumb();showScreen('class');}
-if(to==='subject'){selSubject=null;selChapter=null;selCount=null;selMode=null;selLearnType=null;updateBreadcrumb();showScreen('subject');}
-if(to==='chapter'){selChapter=null;selCount=null;selMode=null;selLearnType=null;updateBreadcrumb();showScreen('chapter');}
-if(to==='mode')   {selCount=null;selMode=null;selLearnType=null;updateBreadcrumb();showScreen('mode');}
-if(to==='learn')  {selLearnType=null;updateBreadcrumb();showScreen('learn');}
-if(to==='count')  {selCount=null;updateBreadcrumb();showScreen('count');}
-}
-function goHome(){selClass=null;selSubject=null;selChapter=null;selCount=null;selMode=null;selLearnType=null;updateBreadcrumb();showScreen('class');
-pushURL(null);
-                 }
+/* --- 1. SLUG GENERATOR (Jo kat gaya tha) --- */
+function getSlugFromChapter(cls, subj, ch) {
   const num = String(ch).match(/[Cc]hapter\s*(\d+)/)?.[1];
   if (!num) return null;
-  const name = ch.replace(/^Chapter\s*\d+:\s*/i, '').toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_|_$/g, '');
-  return 'class' + cls + '_' + subj + '_chapter' + num + '_' + name + '_mcq';
+  const name = ch.replace(/^Chapter\s*\d+:\s*/i, '').toLowerCase()
+                 .replace(/[^a-z0-9]+/g, '_')
+                 .replace(/^_|_$/g, '');
+  return `class${cls}_${subj}_chapter${num}_${name}_mcq`;
 }
-function getPageURL(slug) {
-  return 'https://bachelorpulse.in/' + slug;
+
+/* --- 2. OPTIMIZED LIGHTBOX (No Memory Leaks) --- */
+let lbTimer;
+function closeLightbox() {
+  const overlay = document.getElementById('lightboxOverlay');
+  const img = document.getElementById('lightboxImg');
+  const zoomCtrl = document.getElementById('lbZoomControls');
+  
+  clearTimeout(lbTimer); // Purane timer ko khatam karo
+  img.style.opacity = '0';
+  overlay.classList.remove('open');
+  document.body.style.overflow = '';
+  if (zoomCtrl) zoomCtrl.style.display = 'none';
+  
+  lbScale = 1;
+  img.style.transform = 'scale(1)';
+  if (overlay._dragCleanup) { overlay._dragCleanup(); overlay._dragCleanup = null; }
+  
+  lbTimer = setTimeout(() => {
+    if (!overlay.classList.contains('open')) {
+      img.src = ''; 
+      img.style.display = 'none';
+    }
+  }, 450);
 }
-function pushURL(slug) {
+
+/* --- 3. CLEAN COPY TEXT (No HTML Junk) --- */
+async function copyShortNoteText(url) {
+  const btn = document.getElementById('copyNoteBtn');
+  if(!btn) return;
+  const originalText = btn.innerHTML;
+  btn.textContent = '⏳ Fetching...';
+  btn.disabled = true;
+
   try {
-    if (!slug) { history.replaceState(null, '', '/'); updateMetaTags(null); return; }
-    history.pushState({ slug }, '', '/' + slug);
-    updateMetaTags(slug);
-  } catch(e) {  }
+    const r = await fetch(url);
+    const text = await r.text();
+    // HTML entities (&nbsp; etc) ko handle karne ke liye temp element
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = text.replace(/<br\s*\/?>/gi, '\n'); // Line breaks preserve karo
+    let clean = tempDiv.textContent || tempDiv.innerText || "";
+    clean = clean.replace(/\n\s*\n/g, '\n').trim();
+
+    await navigator.clipboard.writeText(clean);
+    btn.innerHTML = '✅ Copied!';
+    btn.classList.add('copied');
+  } catch(err) {
+    btn.innerHTML = '❌ Failed';
+  } finally {
+    setTimeout(() => {
+      btn.innerHTML = originalText;
+      btn.classList.remove('copied');
+      btn.disabled = false;
+    }, 2500);
+  }
 }
+
+/* --- 4. SMART CHAPTER TOGGLE (Performance Boost) --- */
+function toggleChapterDone(key) {
+  const cb = document.getElementById('completeCheckbox');
+  const badge = document.getElementById('completeBadge');
+  const isDone = localStorage.getItem(key) === '1';
+
+  if(isDone) {
+    localStorage.removeItem(key);
+    cb.classList.remove('done');
+    cb.innerHTML = '';
+    badge.classList.remove('visible');
+  } else {
+    localStorage.setItem(key, '1');
+    cb.classList.add('done');
+    cb.innerHTML = '✅';
+    badge.classList.add('visible');
+    if(typeof StrikeManager !== 'undefined') StrikeManager.recordActivity();
+  }
+
+  // Update Badge System without scanning whole LocalStorage
+  try {
+    if(typeof BadgeSystem !== 'undefined') {
+      const _bs = BadgeSystem._ls();
+      // Sirf relevant keys count karo
+      _bs.chapDone = Object.keys(localStorage).filter(k => k.startsWith('bp_done_')).length;
+      BadgeSystem._ss(_bs);
+      BadgeSystem._cb(_bs);
+    }
+  } catch(e) { console.error("Badge update failed", e); }
+}
+
+/* --- 5. ROBUST URL ROUTING --- */
 function updateMetaTags(slug) {
-  const base = 'Free NCERT MCQ Practice | BachelorPulse';
-  if (!slug || !SLUG_MAP[slug]) {
+  const baseTitle = 'Free NCERT MCQ Practice | BachelorPulse';
+  const d = SLUG_MAP[slug];
+
+  if (!slug || !d) {
     document.title = 'Free NCERT MCQ Practice Class 6–10 | BachelorPulse';
     setMeta('description', 'Free NCERT MCQ practice for Class 6–10. Chapter-wise quizzes, mind maps, short notes & solutions. No login needed.');
     setCanonical('https://bachelorpulse.in/');
     return;
   }
-  const d = SLUG_MAP[slug];
-  const subjectLabel = {science:'Science',math:'Mathematics',social:'Social Science'}[d.subj];
+
+  const subjectLabel = {science:'Science', math:'Mathematics', social:'Social Science'}[d.subj] || d.subj;
   const chName = d.ch.replace(/^Chapter\s*\d+:\s*/i, '');
-  const chNum = d.ch.match(/Chapter\s*(\d+)/i)?.[1];
-  document.title = `Class ${d.cls} ${subjectLabel} Chapter ${chNum} ${chName} MCQ | NCERT Free Practice | BachelorPulse`;
-  setMeta('description', `Free NCERT MCQ for Class ${d.cls} ${subjectLabel} Chapter ${chNum}: ${chName}. Practice chapter-wise questions with solutions. No login needed.`);
-  setCanonical('https://bachelorpulse.in/' + slug);
-}
-function setMeta(name, content) {
-  let el = document.querySelector(`meta[name="${name}"]`);
-  if (!el) { el = document.createElement('meta'); el.name = name; document.head.appendChild(el); }
-  el.content = content;
-}
-function setCanonical(url) {
-  let el = document.getElementById('dynamic-canonical') || document.querySelector('link[rel="canonical"]');
-  if (!el) { el = document.createElement('link'); el.rel = 'canonical'; el.id = 'dynamic-canonical'; document.head.appendChild(el); }
-  el.href = url;
-}
-window.addEventListener('popstate', (e) => {
-  const slug = e.state?.slug || location.pathname.replace(/^\//, '');
-  if (slug && SLUG_MAP[slug]) {
-    routeToSlug(slug);
-  } else {
-    goHome();
-  }
-});
-function routeToSlug(slug) {
-  const d = SLUG_MAP[slug];
-  if (!d) { goHome(); return; }
-  selClass   = d.cls;
-  selSubject = d.subj;
-  selChapter = d.ch;
-  selCount   = null;
-  selMode    = null;
-  selLearnType = null;
-  const label = d.ch.replace(/^Chapter\s*\d+:\s*/i, '');
-  document.getElementById('subjectTitle').textContent = `📘 Class ${d.cls} — Select Subject`;
-  document.getElementById('modeTitle').textContent = `⚡ ${label} — What do you want to do?`;
-  updateBreadcrumb();
-  showScreen('mode');
-  updateMetaTags(slug);
+  const chNum = d.ch.match(/Chapter\s*(\d+)/i)?.[1] || "";
+
+  document.title = `Class ${d.cls} ${subjectLabel} Ch ${chNum} ${chName} MCQ | BachelorPulse`;
+  setMeta('description', `Practice Class ${d.cls} ${subjectLabel} Chapter ${chNum}: ${chName} MCQs. Best non-video revision tool for students.`);
+  setCanonical(`https://bachelorpulse.in/${slug}`);
 }
 function writeBPLast(cls, sub, chNum) {
   try {
