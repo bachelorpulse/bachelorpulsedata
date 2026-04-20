@@ -3,6 +3,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
+<meta name="google-adsense-account" content="ca-pub-7620622498248402">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7620622498248402"
+     crossorigin="anonymous"></script>
 <meta name="theme-color" content="#0f1724" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
 <title>Free NCERT MCQ Practice Class 6–10 | BachelorPulse</title>
@@ -669,6 +672,35 @@ CHAPTERS[10].social = [
 "Chapter 21: Globalisation and the Indian Economy",
 "Chapter 22: Consumer Rights"
 ];
+// ── BP SLUG_MAP: auto-built from CHAPTERS ──────────────────────────────────
+// Maps URL slugs like "ncert-class-10-science-chapter-1-chemical-reactions-and-equations-mcq"
+// to { cls, subj, ch } so routeToSlug() / buildSlug() / updateMetaTags() work correctly.
+const SLUG_MAP = (function() {
+  const map = {};
+  const subjSlug = { science: 'science', math: 'maths', social: 'social-science' };
+  function toSlug(str) {
+    return str
+      .toLowerCase()
+      .replace(/['''\u2018\u2019]/g, '')       // remove apostrophes
+      .replace(/[^a-z0-9]+/g, '-')             // non-alnum → hyphen
+      .replace(/^-+|-+$/g, '');                // trim hyphens
+  }
+  for (let cls = 6; cls <= 10; cls++) {
+    for (const subj of ['science', 'math', 'social']) {
+      const chapters = (CHAPTERS[cls] && CHAPTERS[cls][subj]) || [];
+      chapters.forEach(function(ch) {
+        const numMatch = ch.match(/^Chapter\s*(\d+):\s*(.+)$/i);
+        if (!numMatch) return;
+        const num  = numMatch[1];
+        const name = toSlug(numMatch[2]);
+        const slug = 'ncert-class-' + cls + '-' + subjSlug[subj] + '-chapter-' + num + '-' + name + '-mcq';
+        map[slug] = { cls: cls, subj: subj, ch: ch };
+      });
+    }
+  }
+  return map;
+})();
+// ────────────────────────────────────────────────────────────────────────────
 const BASE_URL = (() => {
 const h = window.location.hostname;
 const isLocal = h === 'localhost' || h === '127.0.0.1' || h === '';
