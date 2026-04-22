@@ -2,14 +2,46 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-adsense-account" content="ca-pub-7620622498248402" />
+  <meta name="theme-color" content="#0f1724" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
 
   <!-- ═══════════════════════════════════════════════════════
        SEO: Change these 4 lines for every new page
   ════════════════════════════════════════════════════════ -->
   <title>Class 6 Science Chapter 1 MCQ — A Wonderful World of Science | BachelorPulse</title>
   <meta name="description" content="Practice 100+ free MCQs on Class 6 Science Chapter 1: A Wonderful World of Science. NCERT chapter-wise quiz with answers. No login needed. BachelorPulse." />
-  <link rel="canonical" href="https://bachelorpulse.in/ncert-class-6-science-chapter-1-a-wonderful-world-of-science-mcq" />
+  <link rel="canonical" href="https://bachelorpulse.in/Class6_Science_Chapter1_the_wonderfull_world_of_science_mcq" />
+
+  <!-- JSON-LD: Breadcrumb -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bachelorpulse.in/"},
+      {"@type": "ListItem", "position": 2, "name": "NCERT Class 6", "item": "https://bachelorpulse.in/"},
+      {"@type": "ListItem", "position": 3, "name": "Science Chapter 1 MCQ", "item": "https://bachelorpulse.in/Class6_Science_Chapter1_the_wonderfull_world_of_science_mcq"}
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD: Sitelinks Searchbox -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://bachelorpulse.in/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://bachelorpulse.in/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
   <!-- ════════════════════════════════════════════════════ -->
 
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
@@ -143,17 +175,37 @@
       border: 1.5px solid var(--border);
       color: var(--muted); font-size: 0.95rem;
       display: flex; align-items: center; gap: 12px;
-      transition: all 0.2s;
+      transition: all 0.2s; cursor: pointer;
     }
-    .option.correct {
-      border-color: rgba(16, 185, 129, 0.5);
-      background: rgba(16, 185, 129, 0.05);
-      color: #6ee7b7; font-weight: 600;
+    .option:hover { border-color: rgba(245, 158, 11, 0.4); color: var(--text); }
+    .option.selected-correct {
+      border-color: var(--green) !important;
+      background: rgba(16, 185, 129, 0.15) !important;
+      color: #6ee7b7 !important; font-weight: 600;
+    }
+    .option.selected-wrong {
+      border-color: #ef4444 !important;
+      background: rgba(239, 68, 68, 0.15) !important;
+      color: #fca5a5 !important; font-weight: 600;
+    }
+    .option.show-correct {
+      border-color: rgba(16, 185, 129, 0.4) !important;
+      background: rgba(16, 185, 129, 0.05) !important;
+      color: #6ee7b7 !important;
     }
     .opt-indicator {
       width: 18px; height: 18px; border: 2px solid currentColor; border-radius: 50%;
-      flex-shrink: 0;
+      flex-shrink: 0; transition: all 0.2s;
     }
+    .solution-box {
+      margin-top: 14px; padding: 12px 16px;
+      background: rgba(59, 130, 246, 0.08);
+      border: 1px solid rgba(59, 130, 246, 0.25);
+      border-radius: 10px; display: none;
+      font-size: 0.9rem; color: #93c5fd; line-height: 1.5;
+    }
+    .solution-box.visible { display: flex; gap: 10px; align-items: flex-start; }
+    .solution-box .sol-icon { font-size: 1rem; flex-shrink: 0; margin-top: 1px; }
 
     /* Footer */
     footer { border-top: 1px solid var(--border); padding: 50px 0 40px; margin-top: 60px; }
@@ -221,8 +273,10 @@
       <div class="footer-copy">© 2026 BachelorPulse. All rights reserved.</div>
       <nav class="footer-links">
         <a href="https://bachelorpulse.in/about.html">About</a>
+        <a href="https://bachelorpulse.in/privacy_policy.html">Privacy Policy</a>
+        <a href="https://bachelorpulse.in/terms-and-conditions.html">Terms</a>
         <a href="https://bachelorpulse.in/disclaimer.html">Disclaimer</a>
-        <a href="https://bachelorpulse.in/privacy_policy.html">Privacy</a>
+        <a href="https://bachelorpulse.in/affiliate-disclosure.html">Affiliate</a>
         <a href="https://bachelorpulse.in/contact.html">Contact</a>
       </nav>
     </div>
@@ -231,131 +285,156 @@
 
 <script>
   const jsonQuestions = [
-    {"q": "What is the most essential quality required to understand the world of science?", "o": ["High marks", "Curiosity", "A big library", "Expensive tools"], "a": 1},
-    {"q": "Science is described as a way of thinking, observing, and:", "o": ["Memorizing formulas", "Doing things to understand the world", "Ignoring facts", "Staying silent"], "a": 1},
-    {"q": "Which of these is compared to a 'new piece' in the jigsaw puzzle of science?", "o": ["A mistake", "A new discovery", "An old book", "A broken tool"], "a": 1},
-    {"q": "A 'Wise' person in science is often called a ________ person.", "o": ["Who", "Whys", "How", "When"], "a": 1},
-    {"q": "Science helps us understand 'how it rains'. This is part of:", "o": ["Music", "Earth Science", "Physical Education", "Politics"], "a": 1},
-    {"q": "In science, if a theory is found to be wrong, we should:", "o": ["Keep using it", "Throw the whole puzzle away", "Correct it with new evidence", "Hide the error"], "a": 2},
-    {"q": "Which of these involves scientific thinking?", "o": ["Following blind beliefs", "Observing patterns in nature", "Avoiding questions", "Copying others' work"], "a": 1},
-    {"q": "The journey of science is described as a big:", "o": ["Race", "Adventure", "Bore", "Task"], "a": 1},
-    {"q": "Measuring body temperature when you have a fever is an application of:", "o": ["History", "Science", "Arts", "Sports"], "a": 1},
-    {"q": "Science is only for people who work in laboratories.", "o": ["True", "False", "Only on weekdays", "Only for adults"], "a": 1},
-    {"q": "A scientist 'observes' the world. This means they:", "o": ["Look carefully with a purpose", "Close their eyes", "Only watch TV", "Ignore small details"], "a": 0},
-    {"q": "Which of these questions is a scientific question?", "o": ["What is my name?", "Why do leaves fall?", "Where is my pen?", "Is it Monday?"], "a": 1},
-    {"q": "Science is a ________ process.", "o": ["Finished", "Continuous/Ongoing", "One-time", "Useless"], "a": 1},
-    {"q": "If you want to know how a clock works, you should:", "o": ["Break it", "Observe its parts and logic", "Guess", "Forget about it"], "a": 1},
-    {"q": "The 'Whys' person is one who is always:", "o": ["Angry", "Inquisitive/Questioning", "Sleeping", "Running"], "a": 1},
-    {"q": "When we mix salt in water and it disappears, we are observing:", "o": ["Magic", "A scientific phenomenon", "A mistake", "Nothing"], "a": 1},
-    {"q": "Science tells us about:", "o": ["Plants and Animals", "Stars and Planets", "Energy and Matter", "All of these"], "a": 3},
-    {"q": "Which tool is commonly used to see tiny things?", "o": ["Stethoscope", "Microscope", "Telescope", "Periscope"], "a": 1},
-    {"q": "An experiment is a way to ________ a scientific idea.", "o": ["Hide", "Test", "Erase", "Paint"], "a": 1},
-    {"q": "Cooking can be considered a science because it involves:", "o": ["Heating and mixing substances", "Only eating", "Watching TV", "Walking"], "a": 0},
-    {"q": "Why is it important to ask questions?", "o": ["To annoy people", "To learn and discover", "To waste time", "To look busy"], "a": 1},
-    {"q": "Science helps in making our lives:", "o": ["Difficult", "Easier and healthier", "Confusing", "Short"], "a": 1},
-    {"q": "A hypothesis is a:", "o": ["Confirmed fact", "Scientific guess to be tested", "Type of plant", "Mathematical error"], "a": 1},
-    {"q": "Which of these is NOT a branch of science?", "o": ["Biology", "Physics", "Magic", "Chemistry"], "a": 2},
-    {"q": "Predicting the weather is based on:", "o": ["Luck", "Scientific data and patterns", "Coins", "Dreams"], "a": 1},
-    {"q": "Every student is a scientist because every student:", "o": ["Has a bag", "Is curious and learns", "Wears a uniform", "Sits on a chair"], "a": 1},
-    {"q": "A logical conclusion is based on:", "o": ["Rumors", "Evidence", "Feelings", "Lies"], "a": 1},
-    {"q": "Science started:", "o": ["Yesterday", "Thousands of years ago", "In 2020", "In the future"], "a": 1},
-    {"q": "Which of these can be a scientist's workplace?", "o": ["A forest", "A space station", "An ocean floor", "All of these"], "a": 3},
-    {"q": "The main goal of science is to:", "o": ["Get a job", "Understand how the world works", "Buy things", "Win a game"], "a": 1},
-    {"q": "Testing if a plant grows better in sunlight is:", "o": ["A waste of time", "An experiment", "An accident", "History"], "a": 1},
-    {"q": "Accuracy in measurement is:", "o": ["Not important", "Very important in science", "Only for math", "Optional"], "a": 1},
-    {"q": "A theory is stronger than a simple guess.", "o": ["False", "True", "Only in space", "Depends on the day"], "a": 1},
-    {"q": "Which sense do we use to 'observe' a flower's smell?", "o": ["Sight", "Hearing", "Smell", "Touch"], "a": 2},
-    {"q": "Science changes when:", "o": ["We feel like it", "New evidence is found", "The book gets old", "A student asks"], "a": 1},
-    {"q": "Can you do science at home?", "o": ["No, only in school", "Yes, by observing and experimenting", "Only if you have a lab", "Only with a teacher"], "a": 1},
-    {"q": "What happens if a scientist's experiment fails?", "o": ["They stop forever", "They learn from it and try again", "They lie about results", "They get punished"], "a": 1},
-    {"q": "Which of these is a product of science?", "o": ["Smartphone", "Medicine", "Electricity", "All of these"], "a": 3},
-    {"q": "To 'decode' the world means to:", "o": ["Break it", "Understand its hidden patterns", "Hide it", "Paint it"], "a": 1},
-    {"q": "Gravity is a concept in:", "o": ["Biology", "Physics", "Chemistry", "Art"], "a": 1},
-    {"q": "The sun rising in the East is a:", "o": ["Theory", "Prediction", "Fact/Observation", "Mistake"], "a": 2},
-    {"q": "Is science limited to textbooks?", "o": ["Yes", "No, it is in the real world", "Only for exams", "Only in English"], "a": 1},
-    {"q": "Which of these is a 'Whys' question?", "o": ["What is that?", "Why does the moon change shape?", "Where is the cat?", "How much is it?"], "a": 1},
-    {"q": "Being open-minded means:", "o": ["Believing everything", "Being ready to accept new facts", "Having no brain", "Only listening to one person"], "a": 1},
-    {"q": "Why do we use diagrams in science?", "o": ["To fill pages", "To visualize complex ideas", "To waste ink", "To make it colorful"], "a": 1},
-    {"q": "Is science a solo activity?", "o": ["Always", "Never", "Often collaborative/Teamwork", "Only for kings"], "a": 2},
-    {"q": "Recording data means:", "o": ["Writing down observations", "Playing music", "Deleting notes", "Drawing pictures only"], "a": 0},
-    {"q": "What is the 'Wonder' in science?", "o": ["Boredom", "Awe and interest in nature", "Fear", "Confusion"], "a": 1},
-    {"q": "Science tells us that Earth is:", "o": ["Flat", "Spherical (Round)", "Square", "A triangle"], "a": 1},
-    {"q": "Which of these is a chemical change?", "o": ["Breaking a stick", "Rusting of iron", "Water boiling", "Moving a chair"], "a": 1},
-    {"q": "Science makes us ________ about our surroundings.", "o": ["Indifferent", "Aware", "Scared", "Blind"], "a": 1},
-    {"q": "Which tool measures time accurately?", "o": ["Ruler", "Scale", "Stopwatch", "Thermometer"], "a": 2},
-    {"q": "The 'Scientific Method' is a:", "o": ["Secret code", "Step-by-step way to solve problems", "Type of food", "Game"], "a": 1},
-    {"q": "Who can be a 'Whys' person?", "o": ["Only teachers", "Only scientists", "Anyone who is curious", "Only geniuses"], "a": 2},
-    {"q": "Nature is like a big ________ to be solved.", "o": ["Wall", "Puzzle", "Book", "Mirror"], "a": 1},
-    {"q": "If you see a bird building a nest and wonder 'how', you are:", "o": ["Wasting time", "Thinking like a scientist", "Dreaming", "Lazy"], "a": 1},
-    {"q": "Science helps us protect the environment.", "o": ["No, it destroys it", "Yes, by providing solutions", "Only in cities", "Only for profit"], "a": 1},
-    {"q": "A map of the stars is called a:", "o": ["Roadmap", "Star chart", "Plant list", "History book"], "a": 1},
-    {"q": "Science is based on ________, not opinions.", "o": ["Stories", "Facts", "Guesses", "Lies"], "a": 1},
-    {"q": "The word 'Science' comes from a word meaning:", "o": ["Magic", "Knowledge", "To play", "To run"], "a": 1},
-    {"q": "Which of these is an example of 'observing'?", "o": ["Closing your eyes", "Watching a seed sprout over days", "Sleeping", "Running away"], "a": 1},
-    {"q": "Is the moon a source of light?", "o": ["Yes", "No, it reflects sunlight", "Only on Sundays", "It is a star"], "a": 1},
-    {"q": "A person who studies the stars is an:", "o": ["Artist", "Astronomer", "Engineer", "Doctor"], "a": 1},
-    {"q": "Science can help solve the problem of:", "o": ["Hunger", "Pollution", "Diseases", "All of these"], "a": 3},
-    {"q": "A magnifying glass uses a ________ to make things look big.", "o": ["Mirror", "Lens", "Paper", "Light"], "a": 1},
-    {"q": "Do you need expensive things to start science?", "o": ["Yes", "No, just your brain and curiosity", "Only if you are rich", "Only if you are in college"], "a": 1},
-    {"q": "In science, 'Truth' is what:", "o": ["I say", "The book says forever", "The evidence shows", "The teacher says"], "a": 2},
-    {"q": "Physics is the study of:", "o": ["Plants", "Matter and Energy", "Chemicals", "History"], "a": 1},
-    {"q": "Biology is the study of:", "o": ["Rocks", "Living things", "Electricity", "Math"], "a": 1},
-    {"q": "Chemistry is the study of:", "o": ["Stars", "Substances and their reactions", "Animals", "Painting"], "a": 1},
-    {"q": "Science is a gift for:", "o": ["One country", "Rich people", "All of humanity", "Only clever kids"], "a": 2},
-    {"q": "A 'Control' in an experiment is:", "o": ["A remote", "A part that stays the same for comparison", "A button", "A mistake"], "a": 1},
-    {"q": "Why should we repeat experiments?", "o": ["Because we have time", "To make sure the results are consistent", "To waste materials", "To make a mess"], "a": 1},
-    {"q": "Is science a 'completed' book?", "o": ["Yes", "No, new chapters are added every day", "It was finished in 1900", "Textbooks are enough"], "a": 1},
-    {"q": "Scientific temper means having a:", "o": ["Bad mood", "Rational and logical mindset", "Fast car", "Lot of books"], "a": 1},
-    {"q": "Water boiling at 100 degrees Celsius is a:", "o": ["Guess", "Scientific fact", "Rule for everyone", "Mistake"], "a": 1},
-    {"q": "Which of these is an 'Inquiry'?", "o": ["Asking why birds fly", "Sleeping", "Eating", "Ignoring a sound"], "a": 0},
-    {"q": "The 'Aha!' moment in science is when:", "o": ["You fall down", "You finally understand something", "You go to sleep", "You lose a pen"], "a": 1},
-    {"q": "Is science against nature?", "o": ["Yes", "No, it is the study of nature", "Only in cities", "Sometimes"], "a": 1},
-    {"q": "Every answer in science leads to:", "o": ["The end", "More questions", "Boredom", "A prize"], "a": 1},
-    {"q": "A scientist should be:", "o": ["Honest about data", "Curious", "Patient", "All of these"], "a": 3},
-    {"q": "Which of these is a non-living thing studied in science?", "o": ["Atom", "Bacteria", "Dog", "Tree"], "a": 0},
-    {"q": "Thinking like a scientist means:", "o": ["Never being wrong", "Being logical and evidence-based", "Always agreeing", "Knowing everything"], "a": 1},
-    {"q": "What is the 'Wonder' of science?", "o": ["A movie", "The amazing complexity of life and universe", "A tall building", "A difficult exam"], "a": 1},
-    {"q": "Which of these is an example of an observation using 'touch'?", "o": ["Looking at a leaf", "Feeling the texture of a rock", "Hearing a bird", "Smelling a rose"], "a": 1},
-    {"q": "Science helps us know if a food is safe to eat.", "o": ["True", "False", "Only in restaurants", "Only if it smells bad"], "a": 0},
-    {"q": "An 'Inference' is different from an 'Observation'.", "o": ["No, they are same", "Yes, it is a logical explanation of observation", "Inference is a lie", "Observation is always wrong"], "a": 1},
-    {"q": "Why do we use standard units (like meters)?", "o": ["To be difficult", "So everyone around the world understands the same measure", "To fill books", "Only for scientists"], "a": 1},
-    {"q": "Is science a boring subject?", "o": ["Always", "No, it is an adventure", "Only on Mondays", "If you don't ask 'why'"], "a": 3},
-    {"q": "Science is for ________ people.", "o": ["Old", "Wise", "All", "Rich"], "a": 2},
-    {"q": "A 'Whys' person is always ________.", "o": ["Learning", "Sleeping", "Talking", "Crying"], "a": 0},
-    {"q": "The world is a ________ to explore.", "o": ["Box", "Playground of science", "Dark place", "Waste"], "a": 1},
-    {"q": "Which of these is a tool for measurement?", "o": ["Pen", "Ruler", "Toy", "Chair"], "a": 1},
-    {"q": "Science helps us predict when an eclipse will happen.", "o": ["True", "False", "Only by magic", "Only by luck"], "a": 0},
-    {"q": "A scientist's best friend is:", "o": ["Money", "Curiosity", "A television", "A couch"], "a": 1},
-    {"q": "The study of the environment is called:", "o": ["History", "Ecology", "Geometry", "Music"], "a": 1},
-    {"q": "Is science only about big things like rockets?", "o": ["Yes", "No, it's about tiny atoms too", "Only about money", "Only about cars"], "a": 1},
-    {"q": "Observation + Questioning = ________.", "o": ["Boredom", "Scientific Inquiry", "Sleep", "Confusion"], "a": 1},
-    {"q": "Science is a way to find ________.", "o": ["Gold", "The truth about nature", "A way home", "Problems"], "a": 1},
-    {"q": "Welcome to the world of ________!", "o": ["Silence", "Science", "Stories", "Sleep"], "a": 1}
+    {"q": "What is the most essential quality required to understand the world of science?", "o": ["High marks", "Curiosity", "A big library", "Expensive tools"], "a": 1, "sol": "Curiosity is the fuel for scientific discovery and understanding."},
+    {"q": "Science is described as a way of thinking, observing, and:", "o": ["Memorizing formulas", "Doing things to understand the world", "Ignoring facts", "Staying silent"], "a": 1, "sol": "Active engagement and experimentation are core to the scientific method."},
+    {"q": "Which of these is compared to a 'new piece' in the jigsaw puzzle of science?", "o": ["A mistake", "A new discovery", "An old book", "A broken tool"], "a": 1, "sol": "Every new discovery helps complete our understanding of the universe."},
+    {"q": "A 'Wise' person in science is often called a ________ person.", "o": ["Who", "Whys", "How", "When"], "a": 1, "sol": "Asking 'Why' leads to deeper knowledge and root causes."},
+    {"q": "Science helps us understand 'how it rains'. This is part of:", "o": ["Music", "Earth Science", "Physical Education", "Politics"], "a": 1, "sol": "Weather patterns and the water cycle are studied in science."},
+    {"q": "In science, if a theory is found to be wrong, we should:", "o": ["Keep using it", "Throw the whole puzzle away", "Correct it with new evidence", "Hide the error"], "a": 2, "sol": "Science is self-correcting; we update our knowledge as we learn more."},
+    {"q": "Which of these involves scientific thinking?", "o": ["Following blind beliefs", "Observing patterns in nature", "Avoiding questions", "Copying others' work"], "a": 1, "sol": "Observation and pattern recognition are fundamental scientific skills."},
+    {"q": "The journey of science is described as a big:", "o": ["Race", "Adventure", "Bore", "Task"], "a": 1, "sol": "Discovery is an exciting process, much like an adventure."},
+    {"q": "Measuring body temperature when you have a fever is an application of:", "o": ["History", "Science", "Arts", "Sports"], "a": 1, "sol": "Using a thermometer involves scientific principles of heat and biology."},
+    {"q": "Science is only for people who work in laboratories.", "o": ["True", "False", "Only on weekdays", "Only for adults"], "a": 1, "sol": "Science is everywhere and for everyone who is curious."},
+    {"q": "A scientist 'observes' the world. This means they:", "o": ["Look carefully with a purpose", "Close their eyes", "Only watch TV", "Ignore small details"], "a": 0, "sol": "Observation in science is active and purposeful."},
+    {"q": "Which of these questions is a scientific question?", "o": ["What is my name?", "Why do leaves fall?", "Where is my pen?", "Is it Monday?"], "a": 1, "sol": "Inquiring about natural phenomena is the basis of science."},
+    {"q": "Science is a ________ process.", "o": ["Finished", "Continuous/Ongoing", "One-time", "Useless"], "a": 1, "sol": "We are constantly discovering new things about the world."},
+    {"q": "If you want to know how a clock works, you should:", "o": ["Break it", "Observe its parts and logic", "Guess", "Forget about it"], "a": 1, "sol": "Understanding the mechanism through observation is scientific."},
+    {"q": "The 'Whys' person is one who is always:", "o": ["Angry", "Inquisitive/Questioning", "Sleeping", "Running"], "a": 1, "sol": "Being inquisitive is the key to becoming wise in science."},
+    {"q": "When we mix salt in water and it disappears, we are observing:", "o": ["Magic", "A scientific phenomenon", "A mistake", "Nothing"], "a": 1, "sol": "Solubility is a chemical property studied in science."},
+    {"q": "Science tells us about:", "o": ["Plants and Animals", "Stars and Planets", "Energy and Matter", "All of these"], "a": 3, "sol": "Science covers all aspects of the natural and physical world."},
+    {"q": "Which tool is commonly used to see tiny things?", "o": ["Stethoscope", "Microscope", "Telescope", "Periscope"], "a": 1, "sol": "Microscopes magnify objects that are too small for the naked eye."},
+    {"q": "An experiment is a way to ________ a scientific idea.", "o": ["Hide", "Test", "Erase", "Paint"], "a": 1, "sol": "Experiments provide evidence to support or refute an idea."},
+    {"q": "Cooking can be considered a science because it involves:", "o": ["Heating and mixing substances", "Only eating", "Watching TV", "Walking"], "a": 0, "sol": "Cooking involves chemical changes and precise measurements."},
+    {"q": "Why is it important to ask questions?", "o": ["To annoy people", "To learn and discover", "To waste time", "To look busy"], "a": 1, "sol": "Questions are the starting point of all scientific inquiry."},
+    {"q": "Science helps in making our lives:", "o": ["Difficult", "Easier and healthier", "Confusing", "Short"], "a": 1, "sol": "Technology and medicine are products of scientific progress."},
+    {"q": "A hypothesis is a:", "o": ["Confirmed fact", "Scientific guess to be tested", "Type of plant", "Mathematical error"], "a": 1, "sol": "It is a proposed explanation made on limited evidence."},
+    {"q": "Which of these is NOT a branch of science?", "o": ["Biology", "Physics", "Magic", "Chemistry"], "a": 2, "sol": "Magic is not based on evidence or logic, unlike science."},
+    {"q": "Predicting the weather is based on:", "o": ["Luck", "Scientific data and patterns", "Coins", "Dreams"], "a": 1, "sol": "Meteorology uses data from satellites and sensors."},
+    {"q": "Every student is a scientist because every student:", "o": ["Has a bag", "Is curious and learns", "Wears a uniform", "Sits on a chair"], "a": 1, "sol": "Learning and curiosity are the fundamental traits of a scientist."},
+    {"q": "A logical conclusion is based on:", "o": ["Rumors", "Evidence", "Feelings", "Lies"], "a": 1, "sol": "Science relies on facts and data to reach conclusions."},
+    {"q": "Science started:", "o": ["Yesterday", "Thousands of years ago", "In 2020", "In the future"], "a": 1, "sol": "Humans have been observing and understanding nature since ancient times."},
+    {"q": "Which of these can be a scientist's workplace?", "o": ["A forest", "A space station", "An ocean floor", "All of these"], "a": 3, "sol": "Science is practiced everywhere in the universe."},
+    {"q": "The main goal of science is to:", "o": ["Get a job", "Understand how the world works", "Buy things", "Win a game"], "a": 1, "sol": "Science seeks truth and understanding about reality."},
+    {"q": "Testing if a plant grows better in sunlight is:", "o": ["A waste of time", "An experiment", "An accident", "History"], "a": 1, "sol": "This is a controlled test of a biological variable."},
+    {"q": "Accuracy in measurement is:", "o": ["Not important", "Very important in science", "Only for math", "Optional"], "a": 1, "sol": "Precise data is necessary for reliable results."},
+    {"q": "A theory is stronger than a simple guess.", "o": ["False", "True", "Only in space", "Depends on the day"], "a": 1, "sol": "Scientific theories are backed by significant evidence."},
+    {"q": "Which sense do we use to 'observe' a flower's smell?", "o": ["Sight", "Hearing", "Smell", "Touch"], "a": 2, "sol": "Olfactory observation is part of sensory data collection."},
+    {"q": "Science changes when:", "o": ["We feel like it", "New evidence is found", "The book gets old", "A student asks"], "a": 1, "sol": "Scientific knowledge evolves with new technology and data."},
+    {"q": "Can you do science at home?", "o": ["No, only in school", "Yes, by observing and experimenting", "Only if you have a lab", "Only with a teacher"], "a": 1, "sol": "Science is a method of thinking that can be applied anywhere."},
+    {"q": "What happens if a scientist's experiment fails?", "o": ["They stop forever", "They learn from it and try again", "They lie about results", "They get punished"], "a": 1, "sol": "Failure is a step toward learning the correct path."},
+    {"q": "Which of these is a product of science?", "o": ["Smartphone", "Medicine", "Electricity", "All of these"], "a": 3, "sol": "Most modern comforts are results of scientific research."},
+    {"q": "To 'decode' the world means to:", "o": ["Break it", "Understand its hidden patterns", "Hide it", "Paint it"], "a": 1, "sol": "Science uncovers the rules governing nature."},
+    {"q": "Gravity is a concept in:", "o": ["Biology", "Physics", "Chemistry", "Art"], "a": 1, "sol": "Physics deals with forces like gravity."},
+    {"q": "The sun rising in the East is a:", "o": ["Theory", "Prediction", "Fact/Observation", "Mistake"], "a": 2, "sol": "It is a repeatable observation of the natural world."},
+    {"q": "Is science limited to textbooks?", "o": ["Yes", "No, it is in the real world", "Only for exams", "Only in English"], "a": 1, "sol": "Textbooks are just guides to the vast world of science."},
+    {"q": "Which of these is a 'Whys' question?", "o": ["What is that?", "Why does the moon change shape?", "Where is the cat?", "How much is it?"], "a": 1, "sol": "Asking 'why' seeks the underlying cause of a phase change."},
+    {"q": "Being open-minded means:", "o": ["Believing everything", "Being ready to accept new facts", "Having no brain", "Only listening to one person"], "a": 1, "sol": "Scientific temper requires being open to evidence."},
+    {"q": "Why do we use diagrams in science?", "o": ["To fill pages", "To visualize complex ideas", "To waste ink", "To make it colorful"], "a": 1, "sol": "Diagrams simplify and explain scientific structures."},
+    {"q": "Is science a solo activity?", "o": ["Always", "Never", "Often collaborative/Teamwork", "Only for kings"], "a": 2, "sol": "Scientists share data and work together globally."},
+    {"q": "Recording data means:", "o": ["Writing down observations", "Playing music", "Deleting notes", "Drawing pictures only"], "a": 0, "sol": "Accurate record-keeping is vital for verification."},
+    {"q": "What is the 'Wonder' in science?", "o": ["Boredom", "Awe and interest in nature", "Fear", "Confusion"], "a": 1, "sol": "The beauty of how things work creates a sense of wonder."},
+    {"q": "Science tells us that Earth is:", "o": ["Flat", "Spherical (Round)", "Square", "A triangle"], "a": 1, "sol": "Observation from space and math confirm Earth's shape."},
+    {"q": "Which of these is a chemical change?", "o": ["Breaking a stick", "Rusting of iron", "Water boiling", "Moving a chair"], "a": 1, "sol": "Rusting is a reaction between iron and oxygen."},
+    {"q": "Science makes us ________ about our surroundings.", "o": ["Indifferent", "Aware", "Scared", "Blind"], "a": 1, "sol": "Understanding leads to awareness."},
+    {"q": "Which tool measures time accurately?", "o": ["Ruler", "Scale", "Stopwatch", "Thermometer"], "a": 2, "sol": "Stopwatches are used to record intervals in experiments."},
+    {"q": "The 'Scientific Method' is a:", "o": ["Secret code", "Step-by-step way to solve problems", "Type of food", "Game"], "a": 1, "sol": "It provides a logical framework for discovery."},
+    {"q": "Who can be a 'Whys' person?", "o": ["Only teachers", "Only scientists", "Anyone who is curious", "Only geniuses"], "a": 2, "sol": "Curiosity is a human trait available to all."},
+    {"q": "Nature is like a big ________ to be solved.", "o": ["Wall", "Puzzle", "Book", "Mirror"], "a": 1, "sol": "Scientists work to put the pieces of natural laws together."},
+    {"q": "If you see a bird building a nest and wonder 'how', you are:", "o": ["Wasting time", "Thinking like a scientist", "Dreaming", "Lazy"], "a": 1, "sol": "Inquiring about animal behavior is biological science."},
+    {"q": "Science helps us protect the environment.", "o": ["No, it destroys it", "Yes, by providing solutions", "Only in cities", "Only for profit"], "a": 1, "sol": "Conservation and ecology are major scientific fields."},
+    {"q": "A map of the stars is called a:", "o": ["Roadmap", "Star chart", "Plant list", "History book"], "a": 1, "sol": "Astronomy uses charts to track celestial bodies."},
+    {"q": "Science is based on ________, not opinions.", "o": ["Stories", "Facts", "Guesses", "Lies"], "a": 1, "sol": "Objectivity is the core of scientific truth."},
+    {"q": "The word 'Science' comes from a word meaning:", "o": ["Magic", "Knowledge", "To play", "To run"], "a": 1, "sol": "It originates from the Latin 'Scientia'."},
+    {"q": "Which of these is an example of 'observing'?", "o": ["Closing your eyes", "Watching a seed sprout over days", "Sleeping", "Running away"], "a": 1, "sol": "Monitoring a process over time is an observation."},
+    {"q": "Is the moon a source of light?", "o": ["Yes", "No, it reflects sunlight", "Only on Sundays", "It is a star"], "a": 1, "sol": "The moon is non-luminous."},
+    {"q": "A person who studies the stars is an:", "o": ["Artist", "Astronomer", "Engineer", "Doctor"], "a": 1, "sol": "Astronomy is the study of space."},
+    {"q": "Science can help solve the problem of:", "o": ["Hunger", "Pollution", "Diseases", "All of these"], "a": 3, "sol": "Scientific innovation addresses global challenges."},
+    {"q": "A magnifying glass uses a ________ to make things look big.", "o": ["Mirror", "Lens", "Paper", "Light"], "a": 1, "sol": "Convex lenses bend light to magnify images."},
+    {"q": "Do you need expensive things to start science?", "o": ["Yes", "No, just your brain and curiosity", "Only if you are rich", "Only if you are in college"], "a": 1, "sol": "Simple observations cost nothing."},
+    {"q": "In science, 'Truth' is what:", "o": ["I say", "The book says forever", "The evidence shows", "The teacher says"], "a": 2, "sol": "Data and results dictate scientific truth."},
+    {"q": "Physics is the study of:", "o": ["Plants", "Matter and Energy", "Chemicals", "History"], "a": 1, "sol": "It focuses on the physical properties of the universe."},
+    {"q": "Biology is the study of:", "o": ["Rocks", "Living things", "Electricity", "Math"], "a": 1, "sol": "Bio means life; biology is the science of life."},
+    {"q": "Chemistry is the study of:", "o": ["Stars", "Substances and their reactions", "Animals", "Painting"], "a": 1, "sol": "It deals with the composition of matter."},
+    {"q": "Science is a gift for:", "o": ["One country", "Rich people", "All of humanity", "Only clever kids"], "a": 2, "sol": "Knowledge benefits everyone."},
+    {"q": "A 'Control' in an experiment is:", "o": ["A remote", "A part that stays the same for comparison", "A button", "A mistake"], "a": 1, "sol": "Controls help ensure results are due to the variable being tested."},
+    {"q": "Why should we repeat experiments?", "o": ["Because we have time", "To make sure the results are consistent", "To waste materials", "To make a mess"], "a": 1, "sol": "Repeatability is a pillar of scientific reliability."},
+    {"q": "Is science a 'completed' book?", "o": ["Yes", "No, new chapters are added every day", "It was finished in 1900", "Textbooks are enough"], "a": 1, "sol": "Science is an evolving field."},
+    {"q": "Scientific temper means having a:", "o": ["Bad mood", "Rational and logical mindset", "Fast car", "Lot of books"], "a": 1, "sol": "It is an attitude of seeking rational explanations."},
+    {"q": "Water boiling at 100 degrees Celsius is a:", "o": ["Guess", "Scientific fact", "Rule for everyone", "Mistake"], "a": 1, "sol": "It is a measurable property of water at standard pressure."},
+    {"q": "Which of these is an 'Inquiry'?", "o": ["Asking why birds fly", "Sleeping", "Eating", "Ignoring a sound"], "a": 0, "sol": "Inquiry is the process of asking and investigating."},
+    {"q": "The 'Aha!' moment in science is when:", "o": ["You fall down", "You finally understand something", "You go to sleep", "You lose a pen"], "a": 1, "sol": "Discovery often brings a moment of sudden clarity."},
+    {"q": "Is science against nature?", "o": ["Yes", "No, it is the study of nature", "Only in cities", "Sometimes"], "a": 1, "sol": "Science seeks to understand and harmonize with natural laws."},
+    {"q": "Every answer in science leads to:", "o": ["The end", "More questions", "Boredom", "A prize"], "a": 1, "sol": "Knowledge opens doors to even deeper mysteries."},
+    {"q": "A scientist should be:", "o": ["Honest about data", "Curious", "Patient", "All of these"], "a": 3, "sol": "Scientific ethics and traits are essential."},
+    {"q": "Which of these is a non-living thing studied in science?", "o": ["Atom", "Bacteria", "Dog", "Tree"], "a": 0, "sol": "Atoms are the basic units of matter."},
+    {"q": "Thinking like a scientist means:", "o": ["Never being wrong", "Being logical and evidence-based", "Always agreeing", "Knowing everything"], "a": 1, "sol": "Methodology matters more than just knowing facts."},
+    {"q": "What is the 'Wonder' of science?", "o": ["A movie", "The amazing complexity of life and universe", "A tall building", "A difficult exam"], "a": 1, "sol": "The intricate design of nature is truly wondrous."},
+    {"q": "Which of these is an example of an observation using 'touch'?", "o": ["Looking at a leaf", "Feeling the texture of a rock", "Hearing a bird", "Smelling a rose"], "a": 1, "sol": "Tactile data is part of the observation process."},
+    {"q": "Science helps us know if a food is safe to eat.", "o": ["True", "False", "Only in restaurants", "Only if it smells bad"], "a": 0, "sol": "Food science and microbiology ensure safety."},
+    {"q": "An 'Inference' is different from an 'Observation'.", "o": ["No, they are same", "Yes, it is a logical explanation of observation", "Inference is a lie", "Observation is always wrong"], "a": 1, "sol": "Observations are gathered; inferences are the logic applied to them."},
+    {"q": "Why do we use standard units (like meters)?", "o": ["To be difficult", "So everyone around the world understands the same measure", "To fill books", "Only for scientists"], "a": 1, "sol": "Universal units allow global collaboration."},
+    {"q": "Is science a boring subject?", "o": ["Always", "No, it is an adventure", "Only on Mondays", "If you don't ask 'why'"], "a": 3, "sol": "Engagement and curiosity make science exciting."},
+    {"q": "Science is for ________ people.", "o": ["Old", "Wise", "All", "Rich"], "a": 2, "sol": "Science is a universal human pursuit."},
+    {"q": "A 'Whys' person is always ________.", "o": ["Learning", "Sleeping", "Talking", "Crying"], "a": 0, "sol": "Questioning leads to constant growth."},
+    {"q": "The world is a ________ to explore.", "o": ["Box", "Playground of science", "Dark place", "Waste"], "a": 1, "sol": "Nature offers endless opportunities for exploration."},
+    {"q": "Which of these is a tool for measurement?", "o": ["Pen", "Ruler", "Toy", "Chair"], "a": 1, "sol": "Rulers quantify length."},
+    {"q": "Science helps us predict when an eclipse will happen.", "o": ["True", "False", "Only by magic", "Only by luck"], "a": 0, "sol": "Mathematical models of planetary motion are highly accurate."},
+    {"q": "A scientist's best friend is:", "o": ["Money", "Curiosity", "A television", "A couch"], "a": 1, "sol": "Curiosity drives every discovery."},
+    {"q": "The study of the environment is called:", "o": ["History", "Ecology", "Geometry", "Music"], "a": 1, "sol": "Ecology focuses on how organisms interact with their surroundings."},
+    {"q": "Is science only about big things like rockets?", "o": ["Yes", "No, it's about tiny atoms too", "Only about money", "Only about cars"], "a": 1, "sol": "Science spans from subatomic particles to the entire universe."},
+    {"q": "Observation + Questioning = ________.", "o": ["Boredom", "Scientific Inquiry", "Sleep", "Confusion"], "a": 1, "sol": "This is the simple formula for discovery."},
+    {"q": "Science is a way to find ________.", "o": ["Gold", "The truth about nature", "A way home", "Problems"], "a": 1, "sol": "Science uncovers the reality of the world."},
+    {"q": "Welcome to the world of ________!", "o": ["Silence", "Science", "Stories", "Sleep"], "a": 1, "sol": "Science is a welcoming world of exploration and truth."}
   ];
+
+  function checkAnswer(el, cardIndex, optIndex) {
+    const card = document.querySelector(`[data-card="${cardIndex}"]`);
+    if (card.dataset.answered === 'true') return;
+    card.dataset.answered = 'true';
+
+    const q = jsonQuestions[cardIndex];
+    const allOpts = card.querySelectorAll('.option');
+
+    allOpts.forEach((opt, i) => {
+      opt.style.pointerEvents = 'none';
+      if (i === q.a) opt.classList.add('show-correct');
+    });
+
+    if (optIndex === q.a) {
+      el.classList.remove('show-correct');
+      el.classList.add('selected-correct');
+    } else {
+      el.classList.add('selected-wrong');
+    }
+
+    const solBox = card.querySelector('.solution-box');
+    solBox.classList.add('visible');
+  }
 
   function renderMCQs() {
     const container = document.getElementById('mcq-container');
     container.innerHTML = jsonQuestions.map((q, i) => `
-      <div class="mcq-card">
+      <div class="mcq-card" data-card="${i}" data-answered="false">
         <div class="q-num">QUESTION ${i + 1}</div>
         <div class="q-text">${q.q}</div>
         <div class="options">
           ${q.o.map((opt, oi) => `
-            <div class="option ${oi === q.a ? 'correct' : ''}">
+            <div class="option" onclick="checkAnswer(this, ${i}, ${oi})">
               <div class="opt-indicator"></div>
               ${opt}
             </div>
           `).join('')}
+        </div>
+        <div class="solution-box">
+          <span class="sol-icon">💡</span>
+          <span>${q.sol}</span>
         </div>
       </div>
     `).join('');
   }
 
   function goToPractice() {
-    try {
-      localStorage.setItem('bp_last', JSON.stringify({ cls: 6, sub: 'science', chNum: 1 }));
-    } catch (e) {}
-    window.location.href = 'https://bachelorpulse.in/index.html?cls=6&sub=science&ch=1';
+    document.getElementById('mcq-container').scrollIntoView({ behavior: 'smooth' });
   }
 
   window.onload = renderMCQs;
