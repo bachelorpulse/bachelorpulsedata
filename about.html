@@ -1,96 +1,430 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us | Bachelor Pulse</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Poppins:wght@700&display=swap');
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f8fafc;
-        }
-        .brand-font {
-            font-family: 'Poppins', sans-serif;
-        }
-        .hero-gradient {
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-        }
-        .accent-text {
-            color: #10b981;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>About Us | BachelorPulse</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Hind:wght@400;600&display=swap" as="style" onload="this.rel='stylesheet';this.onload=null" />
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Hind:wght@400;600&display=swap" /></noscript>
+
+  <style>
+    :root {
+      --bg:      #0f1724;
+      --card:    #1a2538;
+      --accent:  #f59e0b;
+      --accent2: #3b82f6;
+      --green:   #10b981;
+      --red:     #ef4444;
+      --text:    #e8edf5;
+      --muted:   #93a8c0;
+      --border:  rgba(255,255,255,0.07);
+      --radius:  20px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Hind', sans-serif;
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* identical star bg from main site */
+    body::before {
+      content: '';
+      position: fixed; inset: 0;
+      background-image:
+        radial-gradient(1px 1px at 15% 20%, rgba(255,255,255,.5) 0%, transparent 100%),
+        radial-gradient(1px 1px at 40% 70%, rgba(255,255,255,.4) 0%, transparent 100%),
+        radial-gradient(1px 1px at 70% 30%, rgba(255,255,255,.5) 0%, transparent 100%),
+        radial-gradient(1px 1px at 85% 60%, rgba(255,255,255,.3) 0%, transparent 100%),
+        radial-gradient(1px 1px at 25% 80%, rgba(255,255,255,.4) 0%, transparent 100%),
+        radial-gradient(1px 1px at 60% 10%, rgba(255,255,255,.5) 0%, transparent 100%),
+        radial-gradient(1px 1px at 90% 85%, rgba(255,255,255,.3) 0%, transparent 100%),
+        radial-gradient(1px 1px at 5%  50%, rgba(255,255,255,.4) 0%, transparent 100%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .app {
+      position: relative; z-index: 1;
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 0 16px 60px;
+      width: 100%;
+    }
+
+    /* ── header ── */
+    .site-header {
+      position: sticky; top: 0; z-index: 900;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 10px 16px;
+      background: rgba(15,23,36,.95);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 26px;
+      min-height: 60px;
+    }
+    .nav-logo {
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.35rem; font-weight: 800;
+      background: linear-gradient(135deg, #f59e0b, #fbbf24, #3b82f6);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .back-btn {
+      display: inline-flex; align-items: center; gap: 6px;
+      background: transparent;
+      border: 1.5px solid var(--border);
+      border-radius: 999px;
+      padding: 7px 16px;
+      color: var(--muted);
+      font-size: .82rem; font-weight: 600;
+      cursor: pointer; text-decoration: none;
+      transition: border-color .2s, color .2s;
+      font-family: 'Hind', sans-serif;
+    }
+    .back-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* ── hero ── */
+    .hero {
+      text-align: center;
+      padding: 46px 20px 42px;
+      background: var(--card);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 22px;
+      position: relative; overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; top: -60px; left: 50%; transform: translateX(-50%);
+      width: 500px; height: 200px;
+      background: radial-gradient(ellipse, rgba(245,158,11,.1) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-pill {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 4px 14px;
+      border-radius: 999px;
+      border: 1px solid rgba(245,158,11,.35);
+      background: rgba(245,158,11,.08);
+      color: #fbbf24;
+      font-size: .7rem; font-weight: 700;
+      letter-spacing: .08em; text-transform: uppercase;
+      margin-bottom: 18px;
+    }
+    .hero h1 {
+      font-family: 'Baloo 2', cursive;
+      font-size: clamp(1.9rem, 6vw, 3rem);
+      font-weight: 800;
+      background: linear-gradient(135deg, #f59e0b, #fbbf24, #3b82f6);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1.1; margin-bottom: 14px;
+    }
+    .hero p {
+      font-size: .95rem; color: var(--muted);
+      max-width: 460px; margin: 0 auto;
+      line-height: 1.7;
+    }
+
+    /* ── section title (matches .section-title) ── */
+    .sec-title {
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.12rem; font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    /* ── base card ── */
+    .card {
+      background: var(--card);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      transition: transform .2s, box-shadow .2s, border-color .2s;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 16px 40px rgba(0,0,0,.4);
+    }
+    .card:hover.hov-amber { border-color: rgba(245,158,11,.4); box-shadow: 0 16px 40px rgba(0,0,0,.4), 0 0 0 1px rgba(245,158,11,.15); }
+    .card:hover.hov-blue  { border-color: rgba(59,130,246,.4);  box-shadow: 0 16px 40px rgba(0,0,0,.4), 0 0 0 1px rgba(59,130,246,.15); }
+    .card:hover.hov-green { border-color: rgba(16,185,129,.4);  box-shadow: 0 16px 40px rgba(0,0,0,.4), 0 0 0 1px rgba(16,185,129,.15); }
+
+    /* ── feature grid ── */
+    .feature-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+      margin-bottom: 22px;
+    }
+    @media(max-width: 600px) { .feature-grid { grid-template-columns: 1fr; } }
+
+    .feature-card {
+      padding: 22px 18px;
+      position: relative; overflow: hidden;
+    }
+    .feature-card::before {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; height: 3px;
+      border-radius: var(--radius) var(--radius) 0 0;
+      opacity: 0; transition: opacity .2s;
+    }
+    .feature-card:hover::before { opacity: 1; }
+    .fc-a::before { background: var(--accent); }
+    .fc-b::before { background: var(--accent2); }
+    .fc-g::before { background: var(--green); }
+
+    .icon-box {
+      width: 40px; height: 40px;
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.15rem;
+      margin-bottom: 12px;
+    }
+    .f-name {
+      font-family: 'Baloo 2', cursive;
+      font-size: .95rem; font-weight: 700;
+      color: var(--text); margin-bottom: 6px;
+    }
+    .f-desc { font-size: .82rem; color: var(--muted); line-height: 1.6; }
+
+    /* ── about block ── */
+    .about-block { padding: 26px 28px; margin-bottom: 22px; }
+    .about-block p { font-size: .9rem; color: var(--muted); line-height: 1.72; margin-bottom: 14px; }
+    .about-block p:last-child { margin-bottom: 0; }
+    .em { color: var(--text); font-weight: 600; }
+    .quote {
+      border-left: 3px solid var(--accent);
+      background: rgba(245,158,11,.06);
+      border-radius: 0 12px 12px 0;
+      padding: 14px 18px;
+      font-size: .88rem; color: var(--text); line-height: 1.7;
+    }
+
+    /* ── founder card ── */
+    .founder-card {
+      padding: 26px 28px;
+      background: linear-gradient(135deg, rgba(245,158,11,.04), rgba(59,130,246,.04));
+      border-color: rgba(245,158,11,.18);
+      margin-bottom: 22px;
+      position: relative; overflow: hidden;
+    }
+    .founder-card::after {
+      content: '';
+      position: absolute; top: -40px; right: -40px;
+      width: 180px; height: 180px;
+      background: radial-gradient(circle, rgba(245,158,11,.07) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .f-row { display: flex; align-items: flex-start; gap: 18px; }
+    @media(max-width: 480px) { .f-row { flex-direction: column; } }
+
+    .avatar {
+      width: 60px; height: 60px; min-width: 60px;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.2rem; font-weight: 800;
+      color: #fff; flex-shrink: 0;
+    }
+    .av-a { background: linear-gradient(135deg, #f59e0b, #d97706); box-shadow: 0 0 0 3px rgba(245,158,11,.22); }
+    .av-b { background: linear-gradient(135deg, #3b82f6, #6366f1); box-shadow: 0 0 0 3px rgba(99,102,241,.2); }
+
+    .f-name2 {
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.08rem; font-weight: 800; color: var(--text);
+    }
+    .f-sub { font-size: .76rem; color: var(--muted); margin-top: 2px; margin-bottom: 10px; }
+    .f-bio { font-size: .84rem; color: var(--muted); line-height: 1.68; }
+
+    .tag {
+      display: inline-block; padding: 2px 9px;
+      border-radius: 999px; font-size: .66rem; font-weight: 700;
+      margin-left: 5px;
+    }
+    .t-a { background: rgba(245,158,11,.12); border: 1px solid rgba(245,158,11,.3); color: #fbbf24; }
+    .t-b { background: rgba(59,130,246,.12);  border: 1px solid rgba(59,130,246,.3);  color: #93c5fd; }
+    .t-g { background: rgba(255,255,255,.06);  border: 1px solid rgba(255,255,255,.1);  color: var(--muted); }
+
+    .card-hr {
+      height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,.07), transparent);
+      margin: 22px 0;
+    }
+
+    /* ── goals ── */
+    .goal-grid {
+      display: grid; grid-template-columns: repeat(2,1fr);
+      gap: 12px; margin-bottom: 22px;
+    }
+    @media(max-width: 480px) { .goal-grid { grid-template-columns: 1fr; } }
+
+    .goal-card {
+      padding: 18px 16px;
+      display: flex; align-items: flex-start; gap: 13px;
+    }
+    .g-name {
+      font-family: 'Baloo 2', cursive;
+      font-size: .9rem; font-weight: 700; color: var(--text); margin-bottom: 4px;
+    }
+    .goal-card p { font-size: .8rem; color: var(--muted); line-height: 1.58; }
+
+    /* ── contact ── */
+    .contact-card {
+      text-align: center; padding: 36px 22px;
+      border-color: rgba(59,130,246,.18);
+      background: linear-gradient(135deg, rgba(59,130,246,.05), rgba(99,102,241,.04));
+    }
+    .contact-card h2 {
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.35rem; font-weight: 800;
+      color: var(--text); margin-bottom: 6px;
+    }
+    .contact-card .sub { font-size: .85rem; color: var(--muted); margin-bottom: 18px; }
+    .email-link {
+      color: #60a5fa; font-size: 1rem; font-weight: 700;
+      text-decoration: none;
+      border-bottom: 1.5px solid rgba(96,165,250,.3);
+      transition: color .2s, border-color .2s;
+    }
+    .email-link:hover { color: #93c5fd; border-color: rgba(147,197,253,.5); }
+    .footer-note {
+      margin-top: 22px; padding-top: 16px;
+      border-top: 1px solid var(--border);
+      font-size: .74rem; color: var(--muted);
+    }
+
+    /* ── fade-up animation ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(18px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .anim { animation: fadeUp .45s ease both; }
+    .d1{animation-delay:.04s} .d2{animation-delay:.1s}
+    .d3{animation-delay:.17s} .d4{animation-delay:.24s}
+    .d5{animation-delay:.31s} .d6{animation-delay:.38s}
+  </style>
 </head>
-<body class="text-slate-800 antialiased">
+<body>
 
-    <!-- Header Section -->
-    <header class="hero-gradient py-20 px-6 text-center text-white border-b-4 border-emerald-500">
-        <h1 class="text-4xl md:text-6xl font-extrabold brand-font mb-4 tracking-tight">Bachelor Pulse</h1>
-        <div class="inline-block px-4 py-1 bg-emerald-500/20 rounded-full border border-emerald-500/50 mb-6">
-            <p class="text-emerald-400 font-bold uppercase tracking-widest text-sm">
-                Speed of Practice, Power of Revision
-            </p>
+  <!-- HEADER -->
+  <header class="site-header">
+    <a href="index.html" class="back-btn">← Back</a>
+    <span class="nav-logo">BachelorPulse</span>
+    <div style="width:72px;"></div>
+  </header>
+
+  <div class="app">
+
+    <!-- HERO -->
+    <div class="hero anim d1">
+      <div class="hero-pill">✦ Est. 2026 &nbsp;·&nbsp; Free. Always.</div>
+      <h1>About BachelorPulse</h1>
+      <p>A free NCERT practice platform for Class 6–10 — chapter-wise MCQs, mind maps, and fast revision tools. No login. No fees. Just practice.</p>
+    </div>
+
+    <!-- FEATURES -->
+    <div class="sec-title anim d2">What We Offer</div>
+    <div class="feature-grid anim d2">
+
+      <div class="card hov-amber feature-card fc-a">
+        <div class="icon-box" style="background:rgba(245,158,11,.12);">⚡</div>
+        <div class="f-name">Speed of Practice</div>
+        <p class="f-desc">A fast, distraction-free MCQ engine. Move through entire chapters without friction — accuracy builds through consistent repetition.</p>
+      </div>
+
+      <div class="card hov-blue feature-card fc-b">
+        <div class="icon-box" style="background:rgba(59,130,246,.12);">📋</div>
+        <div class="f-name">Power of Revision</div>
+        <p class="f-desc">Chapter-wise question sets paired with instant solutions make every revision session focused and productive.</p>
+      </div>
+
+      <div class="card hov-green feature-card fc-g">
+        <div class="icon-box" style="background:rgba(16,185,129,.12);">🗺️</div>
+        <div class="f-name">Visual Mind Maps</div>
+        <p class="f-desc">Dense NCERT chapters condensed into clean, single-page visual flowcharts — perfect for quick recall before an exam.</p>
+      </div>
+
+    </div>
+
+    <!-- ABOUT -->
+    <div class="sec-title anim d3">About the Platform</div>
+    <div class="card about-block anim d3">
+      <p>
+        Reading a chapter once is rarely enough. The real challenge is being able to recall it accurately under exam pressure. BachelorPulse was built to close that gap.
+      </p>
+      <p>
+        The platform combines <span class="em">chapter-wise high-yield MCQs</span> and <span class="em">visual mind maps</span> — two tools that work together to build both conceptual clarity and factual retention. No fluff. No upsells.
+      </p>
+      <div class="quote">
+        Whether you are a Class 6 student building foundational habits or a Class 10 student preparing for boards — the tools here are designed to help you make real progress, not just go through the motions.
+      </div>
+    </div>
+
+    <!-- FOUNDER -->
+    <div class="sec-title anim d4">The Team</div>
+    <div class="card about-block anim d4">
+      <p>
+        BachelorPulse was founded in 2026 by <span class="em">Shashwat Singh</span> (age 13). The idea and concept of the platform were initiated by him, and he handles all development and design work. Legal and business operations are managed by his father, <span class="em">Mr. Swatantra Kumar</span>.
+      </p>
+    </div>
+
+    <!-- GOALS -->
+    <div class="sec-title anim d5">Our Commitment</div>
+    <div class="goal-grid anim d5">
+
+      <div class="card hov-green goal-card">
+        <div class="icon-box" style="background:rgba(16,185,129,.12);font-size:1rem;">✅</div>
+        <div>
+          <div class="g-name">Always Free</div>
+          <p>No paywalls, no subscriptions. Every tool on this platform will remain freely accessible to every student.</p>
         </div>
-        <p class="text-lg md:text-xl font-light max-w-2xl mx-auto text-slate-300">
-            India's premier digital destination for NCERT-based active learning and rapid revision tools.
-        </p>
-    </header>
+      </div>
 
-    <main class="max-w-5xl mx-auto px-6 py-12 -mt-12">
-        <!-- Core Pillars -->
-        <div class="grid md:grid-cols-3 gap-6 mb-12">
-            <div class="bg-white p-8 rounded-2xl shadow-lg border-b-4 border-emerald-500 transform transition hover:-translate-y-2">
-                <div class="w-12 h-12 bg-emerald-100 rounded-lg flex items-center justify-center mb-4">
-                    <svg class="w-6 h-6 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
-                </div>
-                <h3 class="font-bold text-xl mb-2">Speed of Practice</h3>
-                <p class="text-slate-600 text-sm leading-relaxed">Our optimized MCQ engine allows students to solve hundreds of questions in record time, building accuracy through repetitive exposure.</p>
-            </div>
-            <div class="bg-white p-8 rounded-2xl shadow-lg border-b-4 border-emerald-500 transform transition hover:-translate-y-2">
-                <div class="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
-                    <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-                </div>
-                <h3 class="font-bold text-xl mb-2">Power of Revision</h3>
-                <p class="text-slate-600 text-sm leading-relaxed">Revision shouldn't be boring. Our unique methodology ensures that you retain 10x more information with 50% less effort.</p>
-            </div>
-            <div class="bg-white p-8 rounded-2xl shadow-lg border-b-4 border-emerald-500 transform transition hover:-translate-y-2">
-                <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mb-4">
-                    <svg class="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z"></path></svg>
-                </div>
-                <h3 class="font-bold text-xl mb-2">Visual Mind Maps</h3>
-                <p class="text-slate-600 text-sm leading-relaxed">Complex NCERT chapters distilled into single-page visual flowcharts for lightning-fast memory recall before exams.</p>
-            </div>
+      <div class="card hov-blue goal-card">
+        <div class="icon-box" style="background:rgba(59,130,246,.12);font-size:1rem;">📖</div>
+        <div>
+          <div class="g-name">NCERT-Aligned Only</div>
+          <p>Content is built strictly around the NCERT syllabus — no off-topic material, no unnecessary additions.</p>
         </div>
+      </div>
 
-        <div class="bg-white rounded-3xl shadow-xl overflow-hidden mb-12 border border-slate-100">
-            <div class="p-8 md:p-16">
-                <h2 class="text-3xl font-bold mb-6 text-slate-900">Revolutionizing the NCERT Ecosystem</h2>
-                <div class="space-y-6 text-slate-600 leading-relaxed text-lg">
-                    <p>
-                        Bachelor Pulse is not just a study platform; it’s a high-performance training ground for students. We understand that reading a chapter once isn't enough. The real challenge is recalling it under pressure.
-                    </p>
-                    <p>
-                        Our platform specializes in <span class="text-emerald-600 font-semibold">Scientific Revision</span>. By combining <span class="font-bold text-slate-800 italic">Visual Mind Maps</span> with chapter-wise <span class="font-bold text-slate-800 italic">High-Yield MCQs</span>, we provide a dual-layered preparation strategy that covers both conceptual clarity and factual retention.
-                    </p>
-                    <p class="bg-slate-50 p-6 rounded-xl border-l-4 border-emerald-500">
-                        Whether you are a class 6 student building a foundation or a class 10 student preparing for board exams, our tools are calibrated to ensure you spend less time "studying" and more time "scoring."
-                    </p>
-                </div>
-            </div>
+      <div class="card hov-amber goal-card">
+        <div class="icon-box" style="background:rgba(245,158,11,.12);font-size:1rem;">📈</div>
+        <div>
+          <div class="g-name">Continuously Improving</div>
+          <p>New chapters, subjects and features are added regularly. Student feedback directly shapes what gets built next.</p>
         </div>
+      </div>
 
-        <div class="text-center bg-slate-900 text-white rounded-3xl p-10 shadow-2xl">
-            <h2 class="text-2xl font-bold mb-4">Connect With Us</h2>
-            <p class="text-slate-400 mb-6">For collaborations, feedback, or academic queries:</p>
-            <a href="mailto:sirshashwatsingh@gmail.com" class="text-2xl font-bold text-emerald-400 hover:text-emerald-300 transition-colors">
-                sirshashwatsingh@gmail.com
-            </a>
-            <div class="mt-8 pt-8 border-t border-slate-800 text-slate-500 text-sm">
-                &copy; 2026 Bachelor Pulse | Dedicated to Excellence.
-            </div>
+      <div class="card hov-green goal-card">
+        <div class="icon-box" style="background:rgba(16,185,129,.12);font-size:1rem;">🎯</div>
+        <div>
+          <div class="g-name">Student-First Thinking</div>
+          <p>Every design and content decision comes down to one question — does this actually help a student practice better?</p>
         </div>
-    </main>
+      </div>
 
+    </div>
+
+    <!-- CONTACT -->
+    <div class="card contact-card anim d6">
+      <h2>Connect With Us</h2>
+      <p class="sub">For collaborations, content feedback, or academic queries — reach out and we will get back to you.</p>
+      <div class="footer-note">
+        &copy; 2026 BachelorPulse &nbsp;·&nbsp; Built by students, for students.
+      </div>
+    </div>
+
+  </div>
 </body>
 </html>
