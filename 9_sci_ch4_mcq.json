@@ -3,600 +3,600 @@
     "q": "What is displacement?",
     "o": ["Total distance covered by an object", "Net change in position of an object between two given instants of time", "Speed of an object in a given direction", "Time taken to change position"],
     "a": 1,
-    "sol": "Displacement is defined as the net change in the position of an object between two given instants of time. It has both magnitude and direction."
+    "sol": "Displacement is the net change in position of an object between two given instants of time. It has both magnitude and direction, making it a vector quantity."
   },
   {
     "q": "What is the SI unit of displacement?",
-    "o": ["Kilometre", "Centimetre", "Metre", "Second"],
-    "a": 2,
-    "sol": "The SI unit of both distance and displacement is the metre (m), as stated in the NCERT text."
+    "o": ["Metre", "Centimetre", "Kilometre", "Second"],
+    "a": 0,
+    "sol": "The SI unit of both distance and displacement is the metre (m). Centimetre and kilometre are also units of length but not SI units; second is the SI unit of time."
   },
   {
     "q": "When is an object said to be in motion?",
     "o": ["When it is vibrating", "When its position with respect to a reference point changes with time", "When its speed is greater than zero at all times", "When its displacement is non-zero"],
     "a": 1,
-    "sol": "An object is said to be in motion if its position with respect to the reference point changes with time."
+    "sol": "An object is said to be in motion if its position with respect to a chosen reference point changes with time. Motion is always described relative to a reference point."
   },
   {
     "q": "What is average speed?",
-    "o": ["Displacement divided by time interval", "Total distance travelled divided by time interval", "Change in velocity divided by time interval", "Final velocity minus initial velocity"],
-    "a": 1,
-    "sol": "Average speed is defined as the total distance travelled divided by the time interval during which this distance is covered (Eq. 4.1)."
+    "o": ["Total distance travelled divided by the time interval", "Displacement divided by time interval", "Change in velocity divided by time interval", "Final velocity minus initial velocity"],
+    "a": 0,
+    "sol": "Average speed is defined as the total distance travelled divided by the time interval during which this distance is covered (Eq. 4.1). It is a scalar quantity."
   },
   {
     "q": "What is the SI unit of average speed and average velocity?",
-    "o": ["km/h", "m/s\u00b2", "m/s", "cm/s"],
+    "o": ["km/h", "m/s²", "m/s", "cm/s"],
     "a": 2,
-    "sol": "The SI unit of both average speed and average velocity is metre per second, written as m s\u207b\u00b9 or m/s."
+    "sol": "The SI unit of both average speed and average velocity is metre per second, written as m s⁻¹ or m/s."
   },
   {
     "q": "How is average velocity defined?",
     "o": ["Total distance divided by time interval", "Change in speed divided by time interval", "Displacement divided by time interval", "Total distance multiplied by time"],
     "a": 2,
-    "sol": "Average velocity is defined as the change in position (displacement) divided by the time interval in which the change occurs (Eq. 4.2a)."
+    "sol": "Average velocity is defined as the change in position (displacement) divided by the time interval in which the change occurs (Eq. 4.2a). It is a vector quantity."
   },
   {
     "q": "What is average acceleration?",
-    "o": ["Total distance divided by time interval", "Change in position divided by time interval", "Change in velocity divided by time interval", "Final velocity multiplied by time"],
-    "a": 2,
-    "sol": "Average acceleration is defined as the change in velocity divided by the time interval (Eq. 4.3a)."
+    "o": ["Total distance divided by time interval", "Change in position divided by time interval", "Final velocity multiplied by time", "Change in velocity divided by time interval"],
+    "a": 3,
+    "sol": "Average acceleration is defined as the change in velocity divided by the time interval (Eq. 4.3a): a = (v − u)/t."
   },
   {
     "q": "What is the SI unit of average acceleration?",
-    "o": ["m/s", "m s\u207b\u00b3", "m s\u207b\u00b2", "km/h\u00b2"],
+    "o": ["m/s", "m s⁻³", "m s⁻²", "km/h²"],
     "a": 2,
-    "sol": "The SI unit of average acceleration is m s\u207b\u00b2 (metre per second squared)."
+    "sol": "The SI unit of average acceleration is m s⁻² (metre per second squared), because acceleration = velocity (m/s) ÷ time (s)."
   },
   {
     "q": "For motion in a straight line, the total distance travelled equals the magnitude of displacement when:",
     "o": ["The object moves in both directions", "The object is at rest", "The object moves in one direction without turning back", "The object moves in a circular path"],
     "a": 2,
-    "sol": "For motion in a straight line, the total distance travelled and the magnitude of displacement are equal only if the object moves in one direction without turning back."
+    "sol": "Distance equals magnitude of displacement only when an object moves in a single straight-line direction without reversing. Any change in direction makes total path length greater than the net position change."
   },
   {
-    "q": "What does a straight line on a position-time graph indicate?",
-    "o": ["The object is accelerating", "The object is decelerating", "The object is moving with constant velocity", "The object is at rest"],
-    "a": 2,
-    "sol": "A straight line on a position-time graph indicates that the object is moving with a constant velocity, as equal displacements occur in equal time intervals."
+    "q": "What does a straight line (with non-zero slope) on a position-time graph indicate?",
+    "o": ["The object is moving with constant velocity", "The object is accelerating", "The object is decelerating", "The object is at rest"],
+    "a": 0,
+    "sol": "A straight sloped line on a position-time graph indicates constant velocity — equal displacements occur in equal time intervals. The slope of the line gives the constant velocity."
   },
   {
     "q": "What does a horizontal straight line on a position-time graph (parallel to the time axis) represent?",
     "o": ["Uniform motion", "Constant acceleration", "A stationary object", "Increasing speed"],
     "a": 2,
-    "sol": "A straight line parallel to the time axis on a position-time graph means the position is not changing with time, so the object is at rest (stationary)."
+    "sol": "A line parallel to the time axis means position is not changing as time passes — so the object is at rest. Zero slope means zero velocity."
   },
   {
     "q": "What physical quantity is obtained from the slope of a position-time graph?",
     "o": ["Acceleration", "Displacement", "Velocity", "Time interval"],
     "a": 2,
-    "sol": "The slope of a position-time graph gives the velocity of the object, since slope = change in position / change in time = velocity."
+    "sol": "Slope of a position-time graph = change in position ÷ change in time = velocity. A steeper slope means higher velocity."
   },
   {
     "q": "What physical quantity is obtained from the slope of a velocity-time graph?",
     "o": ["Displacement", "Average speed", "Distance travelled", "Acceleration"],
     "a": 3,
-    "sol": "The slope of a velocity-time graph gives the acceleration, as it represents the change in velocity divided by the change in time."
+    "sol": "Slope of a velocity-time graph = change in velocity ÷ change in time = acceleration. A steeper slope means higher acceleration."
   },
   {
     "q": "What does the area enclosed between the velocity-time graph and the time axis represent?",
-    "o": ["Acceleration", "Average speed", "Displacement", "Average velocity"],
-    "a": 2,
-    "sol": "The area enclosed by the velocity-time graph and the time axis for a desired time interval is equal to the displacement in that time interval."
+    "o": ["Acceleration", "Average speed", "Average velocity", "Displacement"],
+    "a": 3,
+    "sol": "Area under the velocity-time graph for a time interval = velocity × time = displacement in that interval. Geometrically, height × width of the enclosed region gives displacement."
   },
   {
     "q": "Which of the following is the first kinematic equation for motion with constant acceleration?",
-    "o": ["v\u00b2 = u\u00b2 + 2as", "s = ut + \u00bdat\u00b2", "v = u + at", "s = vt \u2212 \u00bdat\u00b2"],
+    "o": ["v² = u² + 2as", "s = ut + ½at²", "v = u + at", "s = vt − ½at²"],
     "a": 2,
-    "sol": "The first kinematic equation is v = u + at (Eq. 4.4a), which gives final velocity in terms of initial velocity, acceleration, and time."
+    "sol": "The first kinematic equation v = u + at (Eq. 4.4a) comes directly from the definition of constant acceleration and gives final velocity in terms of initial velocity, acceleration, and time."
   },
   {
     "q": "Which kinematic equation relates displacement, initial velocity, and time?",
-    "o": ["v = u + at", "v\u00b2 = u\u00b2 + 2as", "s = ut + \u00bdat\u00b2", "v = s/t"],
+    "o": ["v = u + at", "v² = u² + 2as", "s = ut + ½at²", "v = s/t"],
     "a": 2,
-    "sol": "The kinematic equation s = ut + \u00bdat\u00b2 (Eq. 4.4b) relates displacement (s), initial velocity (u), acceleration (a), and time (t)."
+    "sol": "The equation s = ut + ½at² (Eq. 4.4b) relates displacement (s), initial velocity (u), acceleration (a), and time (t)."
   },
   {
     "q": "Which kinematic equation does not involve time?",
-    "o": ["v = u + at", "s = ut + \u00bdat\u00b2", "v\u00b2 = u\u00b2 + 2as", "s = \u00bd(u+v)t"],
-    "a": 2,
-    "sol": "The equation v\u00b2 = u\u00b2 + 2as (Eq. 4.4c) relates velocity, displacement, and acceleration without involving time."
+    "o": ["v² = u² + 2as", "v = u + at", "s = ut + ½at²", "s = ½(u+v)t"],
+    "a": 0,
+    "sol": "The equation v² = u² + 2as (Eq. 4.4c) relates velocity, displacement, and acceleration without involving time. It is derived by eliminating t from the first two kinematic equations."
   },
   {
     "q": "What is the acceleration due to gravitational force by the Earth denoted by?",
     "o": ["a", "v", "F", "g"],
     "a": 3,
-    "sol": "The constant acceleration due to gravitational force by the Earth is denoted by g and its value is 9.8 m s\u207b\u00b2."
+    "sol": "The constant acceleration due to gravitational force by the Earth is denoted by g. Its value near the Earth's surface is approximately 9.8 m s⁻² directed downward."
   },
   {
     "q": "What is uniform circular motion?",
-    "o": ["Motion in a straight line at constant speed", "Motion in a circular path with constant velocity magnitude", "Motion in a circular path with constant speed", "Circular motion with constant acceleration"],
+    "o": ["Motion in a straight line at constant speed", "Motion in a circular path with changing speed but constant direction", "Motion in a circular path with constant speed", "Circular motion with constant acceleration in direction and magnitude"],
     "a": 2,
-    "sol": "When an object moves in a circular path with constant (uniform) speed, its motion is called uniform circular motion."
+    "sol": "When an object moves along a circular path with constant (uniform) speed, its motion is called uniform circular motion. Note that although speed is constant, velocity continuously changes because direction changes."
   },
   {
     "q": "If the radius of a circular path is R and the time for one revolution is T, what is the average speed?",
-    "o": ["\u03c0R/T", "R/T", "2\u03c0R/T", "\u03c0R\u00b2/T"],
+    "o": ["πR/T", "R/T", "2πR/T", "πR²/T"],
     "a": 2,
-    "sol": "Average speed for one revolution = distance/time = 2\u03c0R/T (Eq. 4.5), where 2\u03c0R is the circumference."
+    "sol": "For one complete revolution: distance = circumference = 2πR, time = T. So average speed = 2πR/T (Eq. 4.5)."
   },
   {
     "q": "In uniform circular motion, why is the object said to be accelerated?",
-    "o": ["Because its speed continuously changes", "Because its mass changes", "Because the direction of its velocity continuously changes", "Because it has zero velocity at one point"],
-    "a": 2,
-    "sol": "In uniform circular motion, the speed is constant but the direction of velocity continuously changes. Since velocity changes direction, the object has acceleration."
+    "o": ["Because its speed continuously changes", "Because the direction of its velocity continuously changes", "Because its mass changes", "Because it has zero velocity at one point"],
+    "a": 1,
+    "sol": "Although speed (magnitude of velocity) stays constant in uniform circular motion, the direction of velocity changes continuously. A change in velocity (even only direction) means acceleration is non-zero."
   },
   {
     "q": "Physical quantities that require specifying both direction and magnitude are called:",
-    "o": ["Scalars", "Vectors", "Units", "Constants"],
-    "a": 1,
-    "sol": "Physical quantities that require specifying both direction and magnitude are called vectors. Displacement and velocity are examples."
+    "o": ["Scalars", "Units", "Constants", "Vectors"],
+    "a": 3,
+    "sol": "Physical quantities that require both direction and magnitude are called vectors. Displacement, velocity, and acceleration are examples. Scalars (like distance, speed) require only magnitude."
   },
   {
     "q": "What is a 'rate of change' as described in the NCERT text?",
-    "o": ["Total change in a quantity", "Ratio of change in one quantity to the corresponding change in time", "Product of two physical quantities", "Ratio of displacement to acceleration"],
-    "a": 1,
-    "sol": "The ratio of change in one quantity to the corresponding change in time is called the rate of change. Average velocity is described as the average rate of change of position."
+    "o": ["Total change in a quantity", "Product of two physical quantities", "Ratio of displacement to acceleration", "Ratio of change in one quantity to the corresponding change in time"],
+    "a": 3,
+    "sol": "The ratio of change in one quantity to the corresponding change in time is called the rate of change. Average velocity is the average rate of change of position; acceleration is the rate of change of velocity."
   },
   {
     "q": "For an object in uniform circular motion, what is the average velocity during one complete revolution?",
-    "o": ["2\u03c0R/T", "v (constant speed)", "R/T", "Zero"],
+    "o": ["2πR/T", "v (constant speed)", "R/T", "Zero"],
     "a": 3,
-    "sol": "During one complete revolution, the displacement is zero since the object returns to its starting point. Therefore, average velocity = displacement/time = 0/T = 0."
+    "sol": "During one complete revolution, the object returns to its starting position, so displacement = 0. Therefore average velocity = displacement/time = 0/T = 0, even though average speed is non-zero."
   },
   {
     "q": "When is an object said to be in non-uniform motion in a straight line?",
-    "o": ["When it moves with constant speed", "When displacement equals distance", "When it travels unequal distances in equal intervals of time", "When velocity and acceleration are in the same direction"],
-    "a": 2,
-    "sol": "An object is in non-uniform motion in a straight line when it travels unequal distances in equal intervals of time, meaning its speed is changing."
-  }
+    "o": ["When it travels unequal distances in equal intervals of time", "When it moves with constant speed", "When displacement equals distance", "When velocity and acceleration are in the same direction"],
+    "a": 0,
+    "sol": "An object is in non-uniform motion when it covers unequal distances in equal intervals of time, meaning its speed is changing. In uniform motion, equal distances are covered in equal time intervals."
+  },
   {
     "q": "An athlete runs from O to A and then turns back to B (between O and A). Why is the total distance travelled greater than the magnitude of displacement in this case?",
-    "o": ["Because the athlete changes speed during the journey", "Because the athlete moved in two directions, so the total path length is more than the net position change", "Because displacement only measures the final position, not the starting position", "Because total distance always depends on acceleration, not direction"],
-    "a": 1,
-    "sol": "Distance counts every bit of path covered, regardless of direction. When the athlete turns back, the return path adds to the total distance but reduces the net position change from start to end. Since displacement only measures the straight-line change from start to finish, distance becomes greater than displacement whenever the object changes direction."
+    "o": ["Because the athlete moved in two directions, so the total path length is more than the net position change", "Because the athlete changes speed during the journey", "Because displacement only measures the final position, not the starting position", "Because total distance always depends on acceleration, not direction"],
+    "a": 0,
+    "sol": "Distance counts every bit of path covered, regardless of direction. When the athlete reverses at A, the return path adds to total distance but reduces the net position change. Since displacement measures only the straight-line change from start to end, distance becomes greater than displacement whenever the object reverses direction."
   },
   {
     "q": "Why does specifying only the distance from a reference point NOT completely describe the position of an object on a straight line?",
     "o": ["Because distance cannot be measured without a stopwatch", "Because the same distance value corresponds to two possible locations on opposite sides of the reference point", "Because distance changes every second and cannot be fixed at an instant", "Because the reference point itself keeps moving"],
     "a": 1,
-    "sol": "A reference point has two sides — positive and negative direction. An object 40 m from O could be either 40 m to the right or 40 m to the left. Without specifying direction, the position is ambiguous. That is why both distance AND direction are needed to fully describe position."
+    "sol": "A reference point has two sides — positive and negative. An object 40 m from O could be either to the right or to the left of O. Without direction, the position is ambiguous. Position needs both distance AND direction to be fully described."
   },
   {
-    "q": "A bus is moving at a constant high speed on a straight highway. What is the correct conclusion about its acceleration, and why?",
+    "q": "A bus is moving at a constant high speed on a straight highway. What is the correct conclusion about its acceleration?",
     "o": ["Its acceleration is high because its speed is high", "Its acceleration is zero because velocity is not changing", "Its acceleration equals its speed divided by time", "Its acceleration is small but not zero because it is moving fast"],
     "a": 1,
-    "sol": "Acceleration measures how quickly velocity changes — not how fast the object is moving. If a bus moves at constant velocity (same speed, same direction), there is no change in velocity. Therefore acceleration is zero, no matter how fast the bus is going."
+    "sol": "Acceleration measures how quickly velocity changes — not how fast an object is moving. A bus at constant velocity (same speed, same direction) has zero acceleration, no matter how fast it is going."
   },
   {
-    "q": "In uniform circular motion, the speed is constant at every point. Yet the text states that the object is accelerating. What is the correct reason for this?",
-    "o": ["The object gains speed while going upward and loses speed while coming down", "The object's mass increases with speed, causing acceleration", "The direction of velocity changes continuously, which means velocity itself keeps changing", "The object completes each revolution faster than the previous one"],
+    "q": "A physics teacher writes s = ((u + v)/2) × t on the board for uniformly accelerated motion. What does the expression (u+v)/2 physically represent?",
+    "o": ["The maximum velocity reached during the interval", "The average velocity during the interval, which multiplied by time gives displacement", "The constant acceleration during the interval", "The total change in velocity during the interval"],
+    "a": 1,
+    "sol": "For uniformly accelerated motion, the average velocity over a time interval equals the arithmetic mean of initial (u) and final (v) velocities: (u+v)/2. Multiplying this by time t gives the displacement, which is why the formula s = ((u+v)/2) × t works."
+  },
+  {
+    "q": "What is the key difference between average speed and average velocity that makes them give different values for the same journey?",
+    "o": ["Average speed is based on total distance which has no direction, while average velocity is based on displacement which has direction", "Average speed uses time squared while average velocity uses simple time", "Average velocity is always larger than average speed for any motion", "Average speed considers only the starting and ending points"],
+    "a": 0,
+    "sol": "Average speed = total distance/time. Distance accumulates along the entire path. Average velocity = displacement/time. Displacement is the net change in position and can be zero even if distance is large. On a round trip, speed is non-zero but average velocity is zero."
+  },
+  {
+    "q": "Sarang swims to one end of a pool and back in 50 s. His average velocity is zero but average speed is not. Why is average velocity zero?",
+    "o": ["Because Sarang's speed decreases on the return trip, cancelling the forward motion", "Because the displacement at the end of the trip is zero — he returns to the same position", "Because the pool is too short for meaningful velocity", "Because velocity can only be non-zero when direction does not change"],
+    "a": 1,
+    "sol": "Average velocity depends on displacement. Since Sarang starts and ends at the same point, his displacement is zero, and so is his average velocity. Meanwhile, average speed is non-zero because the total distance (pool length × 2) is non-zero."
+  },
+  {
+    "q": "The text says average velocity is the 'average rate of change of position'. What does 'rate' mean here?",
+    "o": ["The speed of the object at a single instant", "The direction in which position is changing", "The total amount of position change over the entire journey", "The ratio of how much position changes compared to how much time passes"],
+    "a": 3,
+    "sol": "Rate of change means how much one quantity changes per unit change in another. Here, average velocity tells us how much position changes per unit time over an interval — it is a ratio, not merely a total change."
+  },
+  {
+    "q": "When a vehicle decelerates (slows down), acceleration is opposite to the direction of velocity. What does the negative sign of acceleration physically mean?",
+    "o": ["The vehicle is moving backward", "The vehicle has stopped completely", "The vehicle is moving at a constant speed in the negative direction", "The acceleration acts opposite to the direction of motion, causing velocity to decrease"],
+    "a": 3,
+    "sol": "A negative sign for acceleration means it is directed opposite to the direction of motion. The vehicle is still moving forward — it is simply slowing down because the acceleration opposes the velocity."
+  },
+  {
+    "q": "The text says a position-time graph is NOT a route map. What does it actually show?",
+    "o": ["It shows how the position of the object changes with time with respect to the origin", "It shows the physical path followed by the object from place to place", "It shows the speed of the object at every point on its route", "It shows the direction the object is facing at each instant"],
+    "a": 0,
+    "sol": "A position-time graph shows how the object's position (measured from a reference point) changes as time passes — not the physical shape of the route. A horizontal line means at rest; a sloped line means changing position."
+  },
+  {
+    "q": "From a position-time graph, how is the average velocity between two instants conceptually obtained?",
+    "o": ["By measuring the total length of the line on the graph", "By calculating the area under the graph between the two instants", "By finding the slope of the line connecting the two points on the graph", "By counting the number of data points plotted on the graph"],
     "a": 2,
-    "sol": "Velocity is a quantity that has both magnitude (speed) and direction. Even if speed stays the same, a continuous change in the direction of motion means velocity is changing at every point on the circle. Since acceleration is defined as change in velocity, the object is always accelerating in uniform circular motion."
+    "sol": "Slope of the line joining two points on a position-time graph = change in position ÷ change in time = displacement ÷ time = average velocity. A steeper slope means greater average velocity."
   },
   {
-    "q": "According to the text, what is the key difference between average speed and average velocity that makes them give different values for the same journey?",
-    "o": ["Average speed uses time squared while average velocity uses simple time", "Average speed is based on total distance which has no direction, while average velocity is based on displacement which has direction", "Average velocity is always larger than average speed for any motion", "Average speed considers only the starting and ending points"],
-    "a": 1,
-    "sol": "Average speed = total distance / time. Total distance has no direction — it keeps adding up with every bit of path. Average velocity = displacement / time. Displacement is the net change in position and can be zero even if distance is large. So for a round trip, speed is non-zero but average velocity is zero."
-  },
-  {
-    "q": "Sarang swims to one end of a pool and back in 50 s. His average velocity is zero but average speed is not zero. Which concept best explains why average velocity is zero here?",
-    "o": ["Because Sarang's speed decreases on the return trip, cancelling the forward motion", "Because the displacement at the end of the trip is zero — he returns to the same position", "Because the pool is too short for meaningful velocity to be measured", "Because velocity can only be non-zero when direction does not change"],
-    "a": 1,
-    "sol": "Average velocity depends on displacement, which is the net change in position. Since Sarang starts and ends at the same point, his displacement is zero. Dividing zero displacement by the time gives zero average velocity. Meanwhile, average speed is non-zero because total distance (50 m) is non-zero."
-  },
-  {
-    "q": "The text says average velocity is the 'average rate of change of position'. What does the word 'rate' specifically mean in this context?",
-    "o": ["The total amount of position change over the entire journey", "The ratio of how much position changes compared to how much time passes", "The speed of the object at a single instant", "The direction in which position is changing"],
-    "a": 1,
-    "sol": "A rate of change means how much one quantity changes for every unit change in another quantity — here, time. Average velocity tells us how much position changes per unit time over a given interval. It is a ratio of change in position to change in time, not just the total change."
-  },
-  {
-    "q": "When a vehicle decelerates (slows down), the text states that acceleration is opposite to the direction of velocity. What does the negative sign of acceleration physically mean in this situation?",
-    "o": ["The vehicle is moving backward", "The vehicle has stopped completely", "The acceleration is acting in the direction opposite to motion, causing the velocity to decrease", "The vehicle is moving at a constant speed in the negative direction"],
+    "q": "A position-time graph is a curve rather than a straight line. What does the curved shape conceptually indicate?",
+    "o": ["The object is moving backward", "The object covers equal distances in equal time intervals", "The object has changing velocity — it is in accelerated motion", "The object is stationary throughout"],
     "a": 2,
-    "sol": "A negative sign for acceleration means it is directed opposite to the direction of motion. This opposes the velocity, causing the speed to decrease with time. The vehicle is still moving forward — it is just slowing down because the acceleration is working against the direction of motion."
+    "sol": "A straight-line position-time graph means equal displacements in equal time — constant velocity. A curve means unequal displacements in equal time — changing velocity, which means the object is accelerating."
   },
   {
-    "q": "The text says that a position-time graph is NOT a route map. What is the correct understanding of what a position-time graph actually shows?",
-    "o": ["It shows the physical path followed by the object from place to place", "It shows how the position of the object changes with time with respect to the origin", "It shows the speed of the object at every point on its route", "It shows the direction the object is facing at each instant"],
+    "q": "Object B has a steeper slope than object A on a position-time graph. What does this tell us?",
+    "o": ["B is moving with lower velocity than A", "B is covering more displacement in the same time interval, meaning it has higher velocity", "B is accelerating while A is moving at constant velocity", "B is moving in the negative direction"],
     "a": 1,
-    "sol": "A position-time graph does not show the physical route or shape of the path taken. It only shows how the object's position (measured from a reference point) changes as time passes. A horizontal line means the object is stationary; a sloped line means position is changing — it says nothing about the actual route."
-  },
-  {
-    "q": "From a position-time graph, how is the average velocity of an object conceptually obtained?",
-    "o": ["By measuring the total length of the line on the graph", "By calculating the area under the graph between two time instants", "By finding the slope of the line connecting two points on the graph", "By counting the number of data points plotted on the graph"],
-    "a": 2,
-    "sol": "On a position-time graph, the slope of the line connecting two points = change in position / change in time = displacement / time = average velocity. A steeper slope means greater velocity. This is a direct geometric interpretation of the definition of average velocity."
-  },
-  {
-    "q": "Two position-time graphs are given — one is a straight line and one is a curve. What does the curved shape conceptually tell us about the motion, compared to the straight line?",
-    "o": ["The curved graph means the object is moving backward", "The curved graph means equal distances are covered in equal time intervals", "The curved graph means velocity is changing — the object is in accelerated motion", "The straight line means the object is accelerating uniformly"],
-    "a": 2,
-    "sol": "A straight line on a position-time graph means equal displacements in equal time — constant velocity. A curve means the displacements in equal time intervals are unequal — velocity is changing. Changing velocity means the object is accelerating. So the curved shape directly indicates accelerated motion."
-  },
-  {
-    "q": "Object B has a steeper slope than object A on a position-time graph. What does this steeper slope conceptually tell us about B's motion?",
-    "o": ["B is moving with lower velocity than A", "B is covering more displacement in the same time interval, meaning it has higher velocity", "B is accelerating while A is moving at constant velocity", "B is moving in the negative direction while A moves forward"],
-    "a": 1,
-    "sol": "Slope of a position-time graph = change in position / change in time = velocity. A steeper slope means more position change per unit time — a higher velocity. So if B's graph is steeper than A's, B is moving faster than A, regardless of their directions."
+    "sol": "Slope of a position-time graph = velocity. A steeper slope means more displacement per unit time, which means higher velocity. So B is moving faster than A."
   },
   {
     "q": "Why does the slope of a velocity-time graph give acceleration, while the slope of a position-time graph gives velocity?",
     "o": ["Because both graphs use the same axis, so the slopes are always the same", "Because in both cases the slope represents the rate of change of the y-axis quantity with respect to time on the x-axis", "Because acceleration is always numerically equal to velocity", "Because slope always gives the total area of the graph regardless of axes"],
     "a": 1,
-    "sol": "Slope of any graph = change in y / change in x. For a position-time graph, y = position, so slope = change in position / time = velocity. For a velocity-time graph, y = velocity, so slope = change in velocity / time = acceleration. In both cases, slope gives the rate of change of the y-axis quantity with respect to time."
+    "sol": "Slope of any graph = Δy/Δx. On a position-time graph, y = position, so slope = Δposition/Δtime = velocity. On a velocity-time graph, y = velocity, so slope = Δvelocity/Δtime = acceleration. In both cases, slope gives the rate of change of the y-quantity with time."
   },
   {
-    "q": "On a velocity-time graph, what does a straight line parallel to the time axis (zero slope) tell us about the motion of the object?",
+    "q": "On a velocity-time graph, what does a straight line parallel to the time axis (zero slope) indicate?",
     "o": ["The object is at rest at the origin", "The object's velocity is increasing at a constant rate", "The object is moving at constant velocity with zero acceleration", "The object has completed one full revolution"],
     "a": 2,
-    "sol": "A line parallel to the time axis has zero slope, meaning there is no change in velocity over time. Zero change in velocity means zero acceleration. The object continues to move at the same velocity throughout — this is uniform motion."
+    "sol": "A line parallel to the time axis has zero slope, meaning velocity is not changing over time. Zero change in velocity = zero acceleration. The object moves at constant velocity throughout — uniform motion."
   },
   {
-    "q": "Why does the area enclosed between the velocity-time graph and the time axis represent displacement, and not distance or speed?",
-    "o": ["Because area is always equal to distance in all graphs", "Because velocity multiplied by time gives displacement, and this product is geometrically the area under the graph", "Because the graph cannot be used to find distance", "Because area under the graph represents acceleration over time"],
-    "a": 1,
-    "sol": "From the definition: displacement = average velocity × time. On the graph, velocity is the height of the line and time is the width. Their product (height × width) is the area of the enclosed shape. This area geometrically equals velocity × time = displacement. It represents displacement because velocity already carries direction information."
+    "q": "Why does the area enclosed between the velocity-time graph and the time axis represent displacement?",
+    "o": ["Because velocity multiplied by time gives displacement, and this product is geometrically the area under the graph", "Because area is always equal to distance in all graphs", "Because the graph cannot be used to find distance", "Because area under the graph represents acceleration over time"],
+    "a": 0,
+    "sol": "Displacement = average velocity × time. On the graph, velocity is the height and time is the width. Their product (height × width) equals the area of the enclosed shape. This area gives displacement because velocity carries direction information."
   },
   {
-    "q": "The kinematic equation v = u + at is described as a 'primary equation'. What makes this equation the foundation for deriving the other kinematic equations?",
+    "q": "The kinematic equation v = u + at is called a 'primary equation'. What makes it foundational?",
     "o": ["Because it is the only equation that uses velocity", "Because it directly comes from the definition of constant acceleration and links all five motion quantities through time", "Because it applies even when acceleration is not constant", "Because it was derived from the area under a position-time graph"],
     "a": 1,
-    "sol": "The equation v = u + at comes directly from the definition of acceleration: a = (v - u)/t. It connects initial velocity, final velocity, acceleration and time. When combined with the geometric area argument (displacement = area under velocity-time graph), it helps derive s = ut + ½at². These two are the primary equations from which all others follow."
+    "sol": "The equation v = u + at comes directly from a = (v − u)/t, the definition of acceleration. It connects initial velocity, final velocity, acceleration, and time. Combined with the geometric area argument, it generates the other two kinematic equations."
   },
   {
-    "q": "The text states that the kinematic equations are valid ONLY when acceleration is constant. Why would these equations fail if acceleration is not constant?",
+    "q": "The kinematic equations are valid ONLY when acceleration is constant. Why would these equations fail if acceleration varies?",
     "o": ["Because the equations were written only for circular motion", "Because the equations were derived assuming velocity changes by equal amounts in equal time intervals — which requires constant acceleration", "Because variable acceleration makes speed zero at some point", "Because displacement becomes equal to distance only when acceleration is constant"],
     "a": 1,
-    "sol": "The kinematic equations were derived by treating acceleration as uniform — meaning equal changes in velocity happen in equal time intervals. If acceleration keeps changing, the velocity no longer increases uniformly, and the equations based on constant rate of velocity change no longer hold. The equations would give wrong answers for variable acceleration."
+    "sol": "The kinematic equations were derived by treating acceleration as uniform — equal changes in velocity in equal time intervals. If acceleration changes, velocity no longer increases uniformly, and the derivation breaks down. The equations would give wrong answers."
   },
   {
-    "q": "In the equation v² = u² + 2as, time does not appear. What does this conceptually mean about the relationship between the quantities in this equation?",
-    "o": ["It means the equation is only valid when time is zero", "It means the relationship between velocity, displacement and acceleration can be established without knowing the time taken", "It means this equation only applies to objects at rest", "It means velocity and displacement are independent of each other"],
-    "a": 1,
-    "sol": "This equation was derived by eliminating time from the two primary equations. It tells us that for constant acceleration, the final velocity depends directly on the initial velocity, acceleration and displacement covered — without needing to know how long the motion took. This is useful when time information is not available."
+    "q": "In v² = u² + 2as, time does not appear. What does this mean about the relationship between the other quantities?",
+    "o": ["It means the equation is only valid when time is zero", "It means this equation only applies to objects at rest", "It means velocity and displacement are independent of each other", "It means the relationship between velocity, displacement, and acceleration can be established without knowing the time taken"],
+    "a": 3,
+    "sol": "This equation was derived by eliminating t from the first two kinematic equations. It directly relates final velocity, initial velocity, acceleration, and displacement — without requiring time. This is useful when time data is missing."
   },
   {
-    "q": "The text explains that a falling object has a constant acceleration of 9.8 m s⁻². What conceptual feature of the falling object's motion confirms that the acceleration is constant?",
+    "q": "A falling object has constant acceleration of 9.8 m s⁻². What confirms that the acceleration is constant?",
     "o": ["The object covers equal distances in all equal time intervals", "The velocity increases by equal amounts in each equal interval of time", "The displacement and distance are always equal during the fall", "The position of the object does not change with time"],
     "a": 1,
-    "sol": "Constant acceleration means velocity changes by equal amounts in equal time intervals. In the falling object example, velocity increases by 9.8 m/s every second (0 → 9.8 → 19.6 → 29.4 → 39.2 m/s). Since the increase is equal (9.8 m/s) in every 1-second interval, the acceleration is confirmed to be constant."
+    "sol": "Constant acceleration means velocity changes by equal amounts in equal time intervals. A falling object's velocity increases by 9.8 m/s each second (0 → 9.8 → 19.6 → 29.4 m/s), confirming constant acceleration."
   },
   {
-    "q": "The text says we can choose the origin and positive direction as per our convenience, but once chosen, it must not be changed. Why is this consistency important while solving a problem?",
-    "o": ["Because the origin affects the mass of the object being studied", "Because changing origin mid-problem would make position values inconsistent and give wrong answers for displacement and velocity", "Because the SI unit of displacement changes when the origin changes", "Because the kinematic equations only work when the origin is at the ground"],
+    "q": "You can choose origin and positive direction freely, but once chosen, they must not change. Why is consistency important?",
+    "o": ["Because changing origin mid-problem would make position values inconsistent and give wrong answers for displacement and velocity", "Because the origin affects the mass of the object being studied", "Because the SI unit of displacement changes when the origin changes", "Because the kinematic equations only work when the origin is at the ground"],
+    "a": 0,
+    "sol": "Displacement, velocity, and acceleration are all measured relative to the chosen origin and positive direction. Changing these mid-problem makes old and new values incompatible. Consistency ensures positive and negative signs correctly represent direction throughout."
+  },
+  {
+    "q": "In uniform circular motion, velocity at any point is directed along the tangent. What does this tell us about how direction changes?",
+    "o": ["The velocity always points toward the centre of the circle", "The velocity direction is perpendicular to the radius at each point, changing continuously as the object moves around the circle", "The velocity direction is always along the radius at each point", "The velocity direction remains the same throughout the circular motion"],
     "a": 1,
-    "sol": "Displacement, velocity and acceleration are all measured with reference to the chosen origin and positive direction. If you change these mid-calculation, all previously calculated values become incompatible with new ones. Consistency ensures that positive and negative signs correctly represent direction throughout the entire problem."
+    "sol": "A tangent is perpendicular to the radius at the point of contact. As the object moves along the circle, each new tangent direction differs, so velocity (directed along the tangent) continuously changes direction — even though its magnitude stays constant."
   },
   {
-    "q": "The text says that for an object in uniform circular motion, the velocity at any point is directed along the tangent to the circle at that point. What does this tell us about how direction changes during circular motion?",
-    "o": ["The velocity always points toward the centre of the circle", "The velocity direction is always along the radius at each point", "The velocity direction is always perpendicular to the radius, changing continuously as the object moves around the circle", "The velocity direction remains the same throughout the circular motion"],
-    "a": 2,
-    "sol": "A tangent at any point on a circle is perpendicular to the radius at that point. As the object moves around the circle, the tangent direction at each new point is different. So the velocity (along the tangent) continuously changes direction — even though its magnitude (speed) stays constant. This is why the motion is accelerated."
-  },
-  {
-    "q": "The text uses the example of a rectangular track, then hexagonal track, then circular track to explain uniform circular motion. What is the conceptual point being made through this progression?",
+    "q": "The text uses the progression rectangular → hexagonal → circular track. What is the conceptual point?",
     "o": ["That rectangular tracks are faster than circular tracks for the same speed", "That as the number of sides of a polygon track increases, direction changes become more frequent until the path becomes a circle with continuously changing direction", "That speed increases as the track changes from rectangular to circular", "That displacement decreases as the number of sides of the track increases"],
     "a": 1,
-    "sol": "On a rectangular track, direction changes 4 times per round. On a hexagonal track, 6 times. As sides increase indefinitely, the polygon approaches a circle and direction changes happen more and more frequently — until, on a circle, direction changes continuously at every point. This shows why circular motion always involves acceleration."
+    "sol": "On a rectangular track, direction changes 4 times per round; on a hexagonal track, 6 times. As sides increase, direction changes happen more frequently. In the limit of infinite sides, the polygon becomes a circle, and direction changes continuously at every point."
   },
   {
-    "q": "When the ring is lifted from the marble in Activity 4.5, the marble moves in a straight line instead of continuing in a circle. What does this tell us about the role of the ring in maintaining circular motion?",
-    "o": ["The ring was slowing the marble down, so removing it allows the marble to speed up in a straight line", "The ring was constantly changing the marble's direction; without it, the marble continues in the direction it was moving at the instant of release", "The marble moves in a straight line because friction disappears when the ring is removed", "Circular motion requires the marble to be inside a ring at all times"],
+    "q": "In Activity 4.5, when the ring is lifted from the rotating marble, the marble moves in a straight line. What does this reveal about the ring's role?",
+    "o": ["The ring was slowing the marble down, so removing it allows the marble to speed up", "The ring was continuously changing the marble's direction; without it, the marble continues in the direction it was moving at the instant of release", "The marble moves in a straight line because friction disappears", "Circular motion requires the marble to be inside a ring at all times"],
     "a": 1,
-    "sol": "The ring kept pushing the marble inward, changing its direction continuously to maintain circular motion. The moment the ring is removed, nothing changes the marble's direction anymore. So it continues moving in the straight-line direction it had at the instant of release. This shows that circular motion requires a continuous inward influence to keep changing the direction."
+    "sol": "The ring kept pushing the marble inward, continuously changing its direction. The moment the ring is removed, nothing changes the marble's direction — it continues in the straight-line direction it had at that exact instant. This proves circular motion needs continuous inward influence."
   },
   {
-    "q": "The text says 'in everyday life, we say a vehicle is accelerating when its speed increases, but fail to recognise acceleration when only direction changes.' What deeper understanding about acceleration does this point to?",
-    "o": ["That acceleration only occurs when an object moves in a straight line", "That acceleration requires both speed and direction to change at the same time", "That acceleration can exist even when speed is constant, as long as the direction of motion is changing", "That acceleration in circular motion is always zero because speed is constant"],
+    "q": "The text notes that in everyday life, we recognise acceleration when speed changes but often miss it when only direction changes. What deeper understanding does this reveal?",
+    "o": ["That acceleration only occurs when an object moves in a straight line", "That acceleration requires both speed and direction to change at the same time", "That acceleration can exist even when speed is constant, as long as direction of motion is changing", "That acceleration in circular motion is always zero because speed is constant"],
     "a": 2,
-    "sol": "Acceleration is defined as change in velocity — not just change in speed. Velocity has both magnitude and direction. If only direction changes (as in uniform circular motion), velocity still changes, so acceleration is non-zero. Everyday thinking links acceleration only to speed change, which is an incomplete picture of what acceleration really means."
+    "sol": "Acceleration is the rate of change of velocity. Velocity has both magnitude and direction. Even if speed (magnitude) stays constant, a changing direction means velocity is changing — and acceleration is non-zero. Everyday intuition misses the direction part."
   },
   {
-    "q": "The text describes uniform circular motion as an 'idealised model' of real-world circular motion. Why is it still considered a useful model despite not being perfectly accurate in reality?",
-    "o": ["Because idealised models are always more accurate than real situations", "Because uniform circular motion is easier to draw on paper, making it useful for diagrams", "Because it serves as a foundation — real circular motions like planetary orbits can be understood by starting with this simpler, ideal case", "Because all real circular motions are perfectly uniform, so the model is always accurate"],
+    "q": "Uniform circular motion is an idealised model. Why is it still useful despite being imperfect in reality?",
+    "o": ["Because idealised models are always more accurate than real situations", "Because uniform circular motion is easier to draw on paper", "Because it provides a foundational case — real circular motions like planetary orbits can be understood by starting with this simpler, ideal case", "Because all real circular motions are perfectly uniform"],
     "a": 2,
-    "sol": "In reality, objects rarely move in perfect circles at perfectly constant speed. But the uniform circular motion model gives us the basic principles of how direction changes and acceleration works in circular motion. Complex real-world situations like planetary motion can then be understood as variations or extensions of this simpler ideal case. That is the purpose of an idealised model in science."
-  }
+    "sol": "Real objects rarely move in perfect circles at perfectly constant speed, but this ideal model captures the essential physics of direction change and acceleration. More complex real motions (like planetary orbits) are understood as variations of this simpler case."
+  },
   {
     "q": "An object covers 270 m in 90 s at constant speed. What is its average speed?",
     "o": ["3 m/s", "6 m/s", "9 m/s", "1.5 m/s"],
     "a": 0,
-    "sol": "Formula: average speed = total distance / time interval. Substitution: speed = 270 m / 90 s = 3 m/s. TRAP: Dividing 90/270 instead of 270/90 gives 0.33 m/s — always check which value is larger before dividing."
+    "sol": "Formula: average speed = total distance / time. Substitution: 270 m / 90 s = 3 m/s. TRAP: Dividing 90/270 gives 0.33 m/s — always check which value is larger before dividing."
   },
   {
     "q": "An object's velocity changes from 5 m/s to 15 m/s in 5 s. What is the average acceleration?",
     "o": ["1 m/s²", "2 m/s²", "3 m/s²", "10 m/s²"],
     "a": 1,
-    "sol": "Formula: a = (v - u) / t. Substitution: a = (15 - 5) / 5 = 10 / 5 = 2 m/s². TRAP: Option D (10 m/s²) comes from using a = (v - u) without dividing by time — a classic step-skip error."
+    "sol": "Formula: a = (v − u)/t = (15 − 5)/5 = 10/5 = 2 m/s². TRAP: Option D (10 m/s²) comes from forgetting to divide by time — a classic step-skip error."
   },
   {
     "q": "An object is dropped from rest and falls freely for 4 s. Taking g = 9.8 m/s², what is its velocity at t = 4 s?",
     "o": ["9.8 m/s", "19.6 m/s", "29.4 m/s", "39.2 m/s"],
     "a": 3,
-    "sol": "Formula: v = u + at (here a = g = 9.8 m/s²). u = 0 (dropped from rest). Substitution: v = 0 + 9.8 × 4 = 39.2 m/s. TRAP: Options A, B, C are velocities at t = 1s, 2s, 3s respectively — a student who misreads the time gets a wrong but plausible answer."
+    "sol": "Formula: v = u + at with u = 0 (dropped from rest), a = g = 9.8 m/s². v = 0 + 9.8 × 4 = 39.2 m/s. TRAP: Options A, B, C are velocities at 1 s, 2 s, 3 s respectively — misreading time gives plausible wrong answers."
   },
   {
     "q": "An object starts from rest and accelerates at 5 m/s² for 4 s. What is the displacement?",
-    "o": ["10 m", "20 m", "40 m", "80 m"],
-    "a": 2,
-    "sol": "Formula: s = ut + (1/2)at². With u = 0: s = 0 + (1/2) × 5 × 4² = (1/2) × 5 × 16 = 40 m. TRAP: Option D (80 m) results from forgetting the (1/2) factor: s = 5 × 16 = 80 m — the most common arithmetic trap in this formula."
+    "o": ["40 m", "10 m", "20 m", "80 m"],
+    "a": 0,
+    "sol": "Formula: s = ut + ½at². With u = 0: s = 0 + ½ × 5 × 16 = 40 m. TRAP: Option D (80 m) results from forgetting the ½ factor — the most common arithmetic trap here."
   },
   {
     "q": "An object starts from rest and covers 24 m with constant acceleration of 3 m/s². Find the final velocity.",
     "o": ["12 m/s", "6 m/s", "144 m/s", "36 m/s"],
     "a": 0,
-    "sol": "Formula: v² = u² + 2as. With u = 0: v² = 0 + 2 × 3 × 24 = 144. v = sqrt(144) = 12 m/s. TRAP: Option C (144 m/s) is what students write when they skip the square root step — the most dangerous trap in v² equations."
+    "sol": "Formula: v² = u² + 2as = 0 + 2 × 3 × 24 = 144. v = √144 = 12 m/s. TRAP: Option C (144 m/s) is what students get by skipping the square-root step — a dangerous mistake in v² equations."
   },
   {
     "q": "A swimmer crosses a 25 m pool and returns to the starting point in 50 s. What is the average velocity for the entire trip?",
     "o": ["1 m/s", "0.5 m/s", "2 m/s", "0 m/s"],
     "a": 3,
-    "sol": "Average velocity = displacement / time. The swimmer starts and ends at the same point, so displacement = 0 m. Average velocity = 0 / 50 = 0 m/s. TRAP: Option A (1 m/s) is the average speed (total distance 50 m / 50 s) — students confuse speed and velocity for round trips."
+    "sol": "Average velocity = displacement / time. The swimmer returns to the starting point, so displacement = 0. Average velocity = 0/50 = 0 m/s. TRAP: Option A (1 m/s) is the average speed (total distance 50 m / 50 s) — speed and velocity differ for round trips."
   },
   {
-    "q": "An object moves in uniform circular motion. The circumference of the circular path is 44 m and one revolution takes 11 s. Find the average speed.",
-    "o": ["2 m/s", "11 m/s", "4 m/s", "8 m/s"],
-    "a": 2,
-    "sol": "Formula: v_av = 2*pi*R / T. Since 2*pi*R = circumference = 44 m: v_av = 44 / 11 = 4 m/s. TRAP: Option B (11 m/s) comes from students who use v = T / circumference, inverting the ratio. Always: speed = distance / time."
+    "q": "An object moves in uniform circular motion. The circumference of the path is 44 m and one revolution takes 11 s. Find the average speed.",
+    "o": ["2 m/s", "11 m/s", "8 m/s", "4 m/s"],
+    "a": 3,
+    "sol": "Formula: v = 2πR/T = circumference/T = 44/11 = 4 m/s. TRAP: Option B (11 m/s) comes from inverting the ratio — always use speed = distance / time."
   },
   {
     "q": "An object has initial velocity 8 m/s and constant acceleration 3 m/s². Find its velocity after 6 s.",
     "o": ["18 m/s", "22 m/s", "24 m/s", "26 m/s"],
     "a": 3,
-    "sol": "Formula: v = u + at. Substitution: v = 8 + 3 × 6 = 8 + 18 = 26 m/s. TRAP: Option A (18 m/s) comes from calculating only 'at' and forgetting to add u. Option C (24 m/s) is an off-by-two slip. Always remember to add u after finding at."
+    "sol": "Formula: v = u + at = 8 + 3 × 6 = 8 + 18 = 26 m/s. TRAP: Option A (18 m/s) forgets to add u. Always add initial velocity after computing at."
   },
   {
     "q": "A car accelerates from 36 km/h to 72 km/h in 5 s. Find the average acceleration in m/s².",
     "o": ["2 m/s²", "0.5 m/s²", "1 m/s²", "3.6 m/s²"],
     "a": 0,
-    "sol": "Step 1 — Convert: 36 km/h = 36 × (1000/3600) = 10 m/s. 72 km/h = 20 m/s. Step 2 — Formula: a = (v - u) / t = (20 - 10) / 5 = 2 m/s². TRAP: Option D (3.6) results from dividing km/h values directly by time without converting to m/s first."
+    "sol": "Step 1 — Convert: 36 km/h = 10 m/s, 72 km/h = 20 m/s. Step 2 — a = (20 − 10)/5 = 2 m/s². TRAP: Option D (3.6) comes from dividing km/h directly by seconds without converting to m/s first."
   },
   {
-    "q": "A car starts from rest and its velocity increases uniformly. Using Table 4.5 style data, velocity reaches 15 m/s in 30 s. What is the acceleration (slope of the velocity-time graph)?",
+    "q": "A car starts from rest and its velocity increases uniformly to 15 m/s in 30 s. What is the acceleration (slope of the velocity-time graph)?",
     "o": ["1 m/s²", "0.5 m/s²", "2 m/s²", "15 m/s²"],
     "a": 1,
-    "sol": "Slope of v-t graph = acceleration = (v - u) / (t2 - t1) = (15 - 0) / (30 - 0) = 0.5 m/s². TRAP: Option D (15 m/s²) is the final velocity, not the acceleration — students often read off a value from the graph without computing slope correctly."
+    "sol": "Slope = (v − u)/(t₂ − t₁) = (15 − 0)/(30 − 0) = 0.5 m/s². TRAP: Option D (15 m/s²) is the final velocity misread as acceleration — always compute slope, don't just read a number off the graph."
   },
   {
     "q": "A car's velocity increases uniformly from 8 m/s to 18 m/s over 10 s. Using the area under the velocity-time graph, find the displacement.",
     "o": ["90 m", "130 m", "180 m", "80 m"],
     "a": 1,
-    "sol": "Area under v-t graph = area of trapezium = (1/2) × (u + v) × t = (1/2) × (8 + 18) × 10 = (1/2) × 26 × 10 = 130 m. TRAP: Option C (180 m) uses only the rectangle portion (18 × 10). Option D (80 m) uses only the triangle portion. Both miss part of the area."
+    "sol": "Area of trapezium = ½(u + v)t = ½(8 + 18) × 10 = ½ × 26 × 10 = 130 m. TRAP: Option C (180 m) uses only the rectangle portion; Option D uses only the triangle portion. Both miss part of the total area."
   },
   {
     "q": "From a position-time graph, an object is at 25 m at t = 3 s and at 55 m at t = 8 s. Find the average velocity.",
     "o": ["11 m/s", "5 m/s", "6 m/s", "8 m/s"],
     "a": 2,
-    "sol": "Slope of position-time graph = velocity = (s2 - s1) / (t2 - t1) = (55 - 25) / (8 - 3) = 30 / 5 = 6 m/s. TRAP: Option A (11 m/s) results from adding positions (25+55)/8 instead of finding the change. Always subtract, never add, when computing displacement."
+    "sol": "Average velocity = (s₂ − s₁)/(t₂ − t₁) = (55 − 25)/(8 − 3) = 30/5 = 6 m/s. TRAP: Option A (11 m/s) results from adding positions (25+55)/8 instead of subtracting. Always subtract to compute displacement."
   },
   {
-    "q": "An object has initial velocity 2 m/s and constant acceleration 4 m/s². Using s = ut + (1/2)at², find the time to cover 60 m.",
+    "q": "An object has initial velocity 2 m/s and constant acceleration 4 m/s². Using s = ut + ½at², find the time to cover 60 m.",
     "o": ["6 s", "7 s", "8 s", "5 s"],
     "a": 3,
-    "sol": "Substituting: 60 = 2t + (1/2)(4)t² = 2t + 2t². Rearranging: 2t² + 2t - 60 = 0, i.e., t² + t - 30 = 0. Factoring: (t + 6)(t - 5) = 0. Since t must be positive, t = 5 s. TRAP: Using s = (1/2)at² (ignoring u) gives t² = 30, t ≈ 5.5 s — none of the options, causing confusion."
+    "sol": "60 = 2t + ½(4)t² = 2t + 2t². So 2t² + 2t − 60 = 0 → t² + t − 30 = 0 → (t + 6)(t − 5) = 0. Since t must be positive, t = 5 s. TRAP: Ignoring u and using s = ½at² gives t ≈ 5.5 s — not a clean option."
   },
   {
     "q": "A car travelling at 54 km/h applies brakes causing deceleration of 3 m/s². Find the stopping distance.",
     "o": ["25 m", "37.5 m", "45 m", "75 m"],
     "a": 1,
-    "sol": "Step 1 — Convert: 54 km/h = 15 m/s. Step 2 — v = 0. Using v² = u² + 2as: 0 = 225 + 2(-3)s → 6s = 225 → s = 37.5 m. TRAP: Option A (25 m) comes from s = u²/(2u) = u/2 = 7.5... a unit mismatch error. Option D uses unconverted km/h value squared."
+    "sol": "Step 1 — Convert: 54 km/h = 15 m/s. Step 2 — Using v² = u² + 2as with v = 0: 0 = 225 − 6s → s = 37.5 m. TRAP: Option D (75 m) uses unconverted km/h squared — unit error."
   },
   {
     "q": "An object has u = 20 m/s and decelerates at 4 m/s². Find its displacement during the first 3 s.",
     "o": ["42 m", "60 m", "18 m", "78 m"],
     "a": 0,
-    "sol": "Formula: s = ut + (1/2)at². With a = -4 m/s² (deceleration): s = 20 × 3 + (1/2)(-4)(3²) = 60 - (1/2)(4)(9) = 60 - 18 = 42 m. TRAP: Option B (60 m) ignores the deceleration term entirely. Option C (18 m) is only the deceleration contribution. Both are common partial-formula mistakes."
+    "sol": "Formula: s = ut + ½at². With a = −4 m/s²: s = 20 × 3 + ½(−4)(9) = 60 − 18 = 42 m. TRAP: Option B (60 m) ignores deceleration entirely; Option C (18 m) is only the deceleration term."
   },
   {
     "q": "A car's velocity decreases uniformly from 12 m/s to 0 over 20 s. Find the total displacement using the area under the velocity-time graph.",
     "o": ["240 m", "60 m", "120 m", "180 m"],
     "a": 2,
-    "sol": "The v-t graph forms a triangle. Area = (1/2) × base × height = (1/2) × 20 s × 12 m/s = 120 m. TRAP: Option A (240 m) results from forgetting the (1/2) factor and using 20 × 12 = 240 m. Option D (180 m) uses an incorrect average like (12+12+12)/3 × 20."
+    "sol": "Area of triangle = ½ × base × height = ½ × 20 × 12 = 120 m. TRAP: Option A (240 m) forgets the ½ factor, using 20 × 12 = 240. Classic area-of-triangle mistake."
   },
   {
     "q": "An object has u = 6 m/s, v = 10 m/s, and covers s = 16 m. Find the acceleration using v² = u² + 2as.",
-    "o": ["1 m/s²", "2 m/s²", "3 m/s²", "4 m/s²"],
-    "a": 1,
-    "sol": "v² = u² + 2as → 10² = 6² + 2a(16) → 100 = 36 + 32a → 32a = 64 → a = 2 m/s². TRAP: Students often calculate (v - u) / s = 4/16 = 0.25 m/s² (confusing velocity-displacement relation with acceleration). Always use the correct squared form."
+    "o": ["2 m/s²", "1 m/s²", "3 m/s²", "4 m/s²"],
+    "a": 0,
+    "sol": "10² = 6² + 2a(16) → 100 = 36 + 32a → 32a = 64 → a = 2 m/s². TRAP: Students sometimes use (v − u)/s = 4/16 = 0.25 (confusing v-s relation with a). Always use the correct squared form."
   },
   {
     "q": "A ball is thrown upward from O, reaches B (140 cm above O), then falls back and stops at C (80 cm above O). What is the total distance travelled from O?",
     "o": ["80 cm", "200 cm", "140 cm", "220 cm"],
     "a": 1,
-    "sol": "Going up: O to B = 140 cm. Falling down: B to C = (140 - 80) = 60 cm. Total distance = 140 + 60 = 200 cm. Displacement from O = 80 cm (position of C). TRAP: Option C (140 cm) is only the upward journey. Option A (80 cm) is the displacement, not distance. These two are frequently confused."
+    "sol": "Going up: O to B = 140 cm. Falling down: B to C = 140 − 80 = 60 cm. Total distance = 140 + 60 = 200 cm. TRAP: Option A (80 cm) is the displacement, Option C (140 cm) is only the upward part — easy confusion between distance and displacement."
   },
   {
     "q": "A car starts from rest, accelerates to 20 m/s in 10 s, travels at 20 m/s for 20 s, then decelerates uniformly to rest in 5 s. Find the total distance covered.",
     "o": ["450 m", "500 m", "520 m", "550 m"],
     "a": 3,
-    "sol": "Phase 1 (acceleration): s1 = (1/2)(0 + 20)(10) = 100 m. Phase 2 (constant velocity): s2 = 20 × 20 = 400 m. Phase 3 (deceleration): s3 = (1/2)(20 + 0)(5) = 50 m. Total = 100 + 400 + 50 = 550 m. TRAP: Option A (450 m) ignores Phase 3. Option B (500 m) ignores Phase 1. Always compute ALL phases separately."
+    "sol": "Phase 1: ½(0+20)(10) = 100 m. Phase 2: 20 × 20 = 400 m. Phase 3: ½(20+0)(5) = 50 m. Total = 100 + 400 + 50 = 550 m. TRAP: Option A (450 m) ignores Phase 3; Option B (500 m) ignores Phase 1. Always compute ALL phases."
   },
   {
     "q": "A bus travels at 54 km/h. The driver reacts in 0.5 s, then brakes with constant deceleration of 3 m/s². Find the total distance before the bus stops.",
-    "o": ["37.5 m", "40 m", "45 m", "52.5 m"],
-    "a": 2,
-    "sol": "Step 1 — Convert: 54 km/h = 15 m/s. Step 2 — Reaction distance: d1 = 15 × 0.5 = 7.5 m. Step 3 — Braking: v² = u² + 2as → 0 = 225 - 6s → s = 37.5 m. Step 4 — Total = 7.5 + 37.5 = 45 m. TRAP: Option A (37.5 m) is only the braking distance, ignoring reaction time — the most common omission in this type of problem."
+    "o": ["37.5 m", "40 m", "52.5 m", "45 m"],
+    "a": 3,
+    "sol": "Step 1 — 54 km/h = 15 m/s. Step 2 — Reaction distance = 15 × 0.5 = 7.5 m. Step 3 — Braking distance: 0 = 225 − 6s → s = 37.5 m. Step 4 — Total = 7.5 + 37.5 = 45 m. TRAP: Option A (37.5 m) is only the braking distance — students forget to add reaction distance."
   },
   {
-    "q": "Car A brakes from 20 m/s and Car B brakes from 30 m/s with the same deceleration. What is the ratio of Car A's stopping distance to Car B's stopping distance?",
+    "q": "Car A brakes from 20 m/s and Car B brakes from 30 m/s with the same deceleration. What is the ratio of Car A's stopping distance to Car B's?",
     "o": ["4:9", "2:3", "1:2", "4:6"],
     "a": 0,
-    "sol": "Using v² = u² + 2as with v = 0: s = u²/(2a). So s_A = 400/(2a), s_B = 900/(2a). Ratio = 400:900 = 4:9. KEY INSIGHT: Stopping distance is proportional to u². Doubling speed quadruples stopping distance. TRAP: Option B (2:3) takes the ratio of speeds directly, missing the squared relationship."
+    "sol": "Using v² = u² + 2as with v = 0: s = u²/(2a). So s_A : s_B = 400 : 900 = 4 : 9. KEY INSIGHT: Stopping distance is proportional to u². Doubling speed quadruples stopping distance. TRAP: Option B (2:3) is the ratio of speeds, missing the squared relationship."
   },
   {
     "q": "An object starts from rest and covers 50 m. Its final velocity is 20 m/s. Find the time taken without calculating acceleration first.",
     "o": ["4 s", "5 s", "6.25 s", "10 s"],
     "a": 1,
-    "sol": "Using s = (1/2)(u + v)t directly: 50 = (1/2)(0 + 20)t → 50 = 10t → t = 5 s. This approach avoids finding 'a' first. TRAP: Option C (6.25 s) results from using t = s/v = 50/8 (taking wrong average velocity). Option D (10 s) uses t = s/u_final = 50/20 × 4, a dimension error."
+    "sol": "Using s = ½(u + v)t directly: 50 = ½(0 + 20)t → 50 = 10t → t = 5 s. This avoids finding 'a' first. TRAP: Option C (6.25 s) uses the wrong average velocity, Option D (10 s) uses a dimensional error."
   },
   {
-    "q": "A cyclist's velocity-time graph shows: velocity rises from 0 to 3 m/s in 40 s, stays at 3 m/s for 40 s, then drops from 3 m/s to 0 in 40 s. What is the average acceleration over the full 120 s?",
+    "q": "A cyclist's velocity-time graph: velocity rises from 0 to 3 m/s in 40 s, stays at 3 m/s for 40 s, then drops from 3 m/s to 0 in 40 s. What is the average acceleration over the full 120 s?",
     "o": ["0.075 m/s²", "0.025 m/s²", "0.05 m/s²", "0 m/s²"],
     "a": 3,
-    "sol": "Average acceleration = (final velocity - initial velocity) / total time = (0 - 0) / 120 = 0 m/s². Since the cyclist starts and ends at rest, the overall velocity change is zero. TRAP: Options A, B, C are computed by using the acceleration during only one phase and dividing by the full duration. Acceleration within a phase ≠ average over all phases."
+    "sol": "Average acceleration = (final velocity − initial velocity) / total time = (0 − 0) / 120 = 0 m/s². The cyclist starts and ends at rest. TRAP: Options A, B, C use the acceleration of one phase divided by the full duration — acceleration within a phase ≠ average over all phases."
   },
   {
     "q": "An object has acceleration 2 m/s² and covers 96 m in 8 s. Find its initial velocity.",
     "o": ["4 m/s", "8 m/s", "12 m/s", "16 m/s"],
     "a": 0,
-    "sol": "Formula: s = ut + (1/2)at². Substituting: 96 = u(8) + (1/2)(2)(64) → 96 = 8u + 64 → 8u = 32 → u = 4 m/s. TRAP: Option C (12 m/s) comes from u = s/t = 96/8 = 12 m/s, which ignores the acceleration contribution. This is the most common mistake in reverse-kinematics problems."
+    "sol": "s = ut + ½at² → 96 = 8u + ½(2)(64) → 96 = 8u + 64 → 8u = 32 → u = 4 m/s. TRAP: Option C (12 m/s) comes from u = s/t = 96/8, ignoring the acceleration contribution — the most common mistake in reverse-kinematics."
   },
   {
     "q": "A motorbike moving at 28 m/s decelerates uniformly and stops after covering 98 m. Find the magnitude of its acceleration.",
     "o": ["2 m/s²", "3 m/s²", "4 m/s²", "8 m/s²"],
     "a": 2,
-    "sol": "Formula: v² = u² + 2as. With v = 0, u = 28 m/s, s = 98 m: 0 = 784 + 2a(98) → 196a = -784 → a = -4 m/s². Magnitude = 4 m/s². TRAP: Option D (8 m/s²) results from a = u²/s = 784/98 = 8 (missing the factor of 2 in 2as). Option A (2 m/s²) uses a = u/(2s) instead of u²/(2s)."
-  }
-[
+    "sol": "v² = u² + 2as with v = 0: 0 = 784 + 196a → a = −4 m/s². Magnitude = 4 m/s². TRAP: Option D (8 m/s²) uses a = u²/s = 784/98 — missing the factor of 2 in the denominator."
+  },
   {
-    "q": "Two school buses travel from the same starting point to the same destination. Bus A takes a direct 30 km highway route. Bus B takes a longer scenic road of 50 km. Which bus uses more fuel, and what physical quantity best explains this?",
+    "q": "Two school buses travel from the same start to the same destination. Bus A takes a direct 30 km route; Bus B takes a scenic 50 km route. Which bus uses more fuel, and what physical quantity explains this?",
     "o": ["Bus B uses more fuel, because fuel consumption depends on total distance travelled", "Bus A uses more fuel because it went faster", "Both use equal fuel since their displacement is identical", "Bus B uses less fuel because it drove more slowly"],
     "a": 0,
-    "sol": "Fuel is consumed to overcome friction and resistance along the entire path. The total path covered — distance, not displacement — determines fuel used. Bus B covers more path (50 km vs 30 km), so it burns more fuel regardless of the fact that both had the same displacement."
+    "sol": "Fuel is consumed to overcome friction along the entire path. The total path (distance, not displacement) determines fuel used. Bus B covers 50 km vs 30 km, so it burns more fuel — even though both have the same displacement."
   },
   {
-    "q": "After a long road trip from home and back, your car's GPS shows displacement = 0 km. Your odometer added 600 km. A friend says the odometer must be broken because 'you ended up at the same place.' Is your friend correct?",
+    "q": "After a long road trip and back, your GPS shows displacement = 0 km but your odometer reads 600 km. A friend says the odometer must be broken. Is the friend correct?",
     "o": ["Yes, the odometer should show 0 km just like the GPS", "No, the odometer correctly records total path covered — 600 km — regardless of direction; displacement being 0 is a separate quantity", "Yes, both instruments measure the same physical thing", "No, the GPS measures distance and the odometer measures displacement"],
     "a": 1,
-    "sol": "Distance and displacement are different. Distance is the total path length regardless of direction — this is what the odometer records correctly. Displacement is the net position change from start to finish, which is zero for a round trip. The odometer is perfectly correct; the friend confused the two quantities."
+    "sol": "Distance and displacement are different. Distance is the total path length — this is what an odometer records. Displacement is the net position change from start to end, which is zero for a round trip. The odometer is correct; the friend confused the two quantities."
   },
   {
-    "q": "A jogger completes 3 full rounds of a circular park every morning and stops exactly at her starting gate. She covered 1200 m. Her trainer says her displacement is zero. A classmate finds this confusing. What is the correct explanation?",
+    "q": "A jogger completes 3 full rounds of a circular park and stops at her starting gate. She covered 1200 m. Her trainer says her displacement is zero. Why is this correct?",
     "o": ["Displacement is zero only if she ran at constant speed", "Displacement is zero only for the first round, then it builds up", "Displacement is zero because she ended at exactly the same position she started from — the net position change is zero", "Her trainer made an error; displacement can never be zero if you have moved"],
     "a": 2,
-    "sol": "Displacement measures the net change in position from start to end. Since the jogger started and ended at exactly the same gate, her net position change is zero. She obviously moved (1200 m of distance), but displacement focuses only on start and end positions, not the path in between."
+    "sol": "Displacement measures the net change in position from start to end. Since the jogger started and ended at the same gate, her net position change is zero. She moved (1200 m distance) but displacement focuses only on start and end positions."
   },
   {
-    "q": "Aman confidently says: 'A Formula 1 car moving at 300 km/h must have very high acceleration.' His physics teacher disagrees. What is the correct reasoning?",
+    "q": "Aman says: 'A Formula 1 car moving at 300 km/h must have very high acceleration.' His teacher disagrees. What is correct?",
     "o": ["Aman is correct — high speed always means high acceleration", "Aman is correct only when the car is still speeding up from rest", "Both speed and acceleration mean the same physical thing", "Aman is wrong — a car cruising at constant 300 km/h has zero acceleration because its velocity is not changing"],
     "a": 3,
-    "sol": "Acceleration depends on how quickly velocity changes, not on how fast an object is moving. A Formula 1 car at a constant speed of 300 km/h in a straight line has zero acceleration. Acceleration is high only when the car is speeding up, slowing down, or changing direction — not during a steady cruise."
+    "sol": "Acceleration depends on how quickly velocity changes, not on how fast something moves. At a constant 300 km/h in a straight line, acceleration is zero. Acceleration exists only during speeding up, slowing down, or direction change."
   },
   {
-    "q": "While standing in a moving bus that brakes suddenly, passengers lurch forward even though no one pushed them. What is the physically correct explanation?",
-    "o": ["Passengers were moving at the bus's velocity and continued forward as the bus decelerated", "The brakes pushed the passengers toward the front as a reaction", "Gravity pulled passengers forward when the bus stopped", "The floor friction pushed passengers forward"],
+    "q": "Passengers in a moving bus lurch forward when the bus brakes suddenly, even though nothing pushed them. What is the correct explanation?",
+    "o": ["Passengers were moving at the bus's velocity and continued forward as the bus decelerated", "The brakes pushed passengers toward the front as a reaction", "Gravity pulled passengers forward when the bus stopped", "Floor friction pushed passengers forward"],
     "a": 0,
-    "sol": "Before braking, both the bus and passengers were moving forward at the same velocity. When the bus decelerates, the passengers' bodies continue moving forward at the original velocity since nothing immediately changed their velocity. This is a direct consequence of velocity being maintained until something changes it."
+    "sol": "Before braking, bus and passengers shared the same velocity. When the bus decelerates, passengers continue moving at their original velocity because nothing immediately changed their motion. This illustrates that velocity is maintained until something changes it."
   },
   {
-    "q": "A child on a merry-go-round spinning at constant speed says: 'Since my speed isn't changing, my velocity must be constant too.' Is the child's reasoning correct?",
-    "o": ["Yes, constant speed always means constant velocity", "No, velocity also includes direction, and the direction of motion keeps changing continuously in circular motion — so velocity is not constant", "Yes, because velocity only depends on the numerical value of speed", "No, because speed must also change in circular motion"],
+    "q": "A child on a merry-go-round spinning at constant speed says: 'Since my speed isn't changing, my velocity must be constant too.' Is the reasoning correct?",
+    "o": ["Yes, constant speed always means constant velocity", "No, velocity also includes direction, and direction of motion changes continuously in circular motion — so velocity is not constant", "Yes, because velocity only depends on the numerical value of speed", "No, because speed must also change in circular motion"],
     "a": 1,
-    "sol": "Velocity is not just speed — it also includes direction. As the child goes around the merry-go-round, the direction of motion changes continuously at every point, even though the speed stays the same. Since direction keeps changing, velocity keeps changing, making the child's reasoning incorrect."
+    "sol": "Velocity is not just speed — it includes direction. As the child circles, direction of motion changes continuously, even at constant speed. Changing direction means changing velocity, making the reasoning incorrect."
   },
   {
-    "q": "In Activity 4.5, when a marble rotating inside a ring is suddenly freed by lifting the ring, it moves in a straight line. What does this observation tell us about the marble's velocity at the moment the ring was removed?",
+    "q": "In Activity 4.5, when a marble rotating inside a ring is freed by lifting the ring, it moves in a straight line. What does this tell us about the marble's velocity at the instant of release?",
     "o": ["The marble had zero velocity at the instant of release, so it simply fell", "The marble was always directed toward the centre of the ring", "The marble continued in exactly the direction it was moving at the instant the ring was removed", "Circular motion always converts into backward motion when guidance is removed"],
     "a": 2,
-    "sol": "The marble's velocity at any instant in circular motion is directed along the tangent — the direction it was heading at that exact moment. When the ring is removed, nothing changes that velocity, so the marble keeps moving in that exact straight-line direction. This beautifully shows that velocity in circular motion is always tangential."
+    "sol": "The marble's velocity at any instant is tangential to the circle — the direction it was heading at that exact moment. When the ring is removed, nothing changes that velocity, so the marble continues in that straight-line direction. This shows that velocity in circular motion is always tangential."
   },
   {
-    "q": "Neha checks her car's speedometer while turning at a roundabout — it reads 60 km/h. She says, 'My velocity is exactly 60 km/h.' Her friend says this description is incomplete. Why is the friend correct?",
+    "q": "Neha checks her car's speedometer while turning at a roundabout — it reads 60 km/h. She says, 'My velocity is exactly 60 km/h.' Her friend says this is incomplete. Why?",
     "o": ["The speedometer directly measures velocity including direction, so Neha is fully correct", "The speedometer shows displacement per time, which is velocity", "Velocity and speed are always identical, so Neha is right", "The speedometer gives approximately the magnitude of velocity, but velocity also requires direction — and at a roundabout, direction is continuously changing"],
     "a": 3,
-    "sol": "The speedometer measures the magnitude of velocity (speed) — approximately 60 km/h — but it does not show direction. Velocity is incomplete without direction. At a roundabout, direction is changing every instant, so the full velocity description requires knowing the changing direction too. Neha's friend is right."
+    "sol": "The speedometer shows speed (magnitude of velocity) — 60 km/h — but not direction. Velocity is incomplete without direction. At a roundabout, direction changes every instant, so full velocity description requires knowing that changing direction. Neha's friend is right."
   },
   {
-    "q": "A position-time graph shows a perfectly horizontal straight line (parallel to the time axis) for a vehicle. A student says, 'This means the vehicle is moving at constant speed.' What is the correct interpretation?",
+    "q": "A position-time graph shows a horizontal straight line (parallel to the time axis) for a vehicle. A student says, 'This means the vehicle is moving at constant speed.' What is correct?",
     "o": ["The vehicle is at rest — its position is not changing with time at all", "The vehicle is at constant speed since the line is straight", "The vehicle has constant acceleration", "The vehicle is moving in a circular path"],
     "a": 0,
-    "sol": "A horizontal line on a position-time graph means the position stays the same as time increases. Position not changing = the object is stationary. If it were moving, the position would change and the line would slope upward or downward. A straight line with slope gives constant velocity, but a horizontal line (zero slope) means rest."
+    "sol": "A horizontal line means position stays the same as time increases — the object is stationary. A straight line with non-zero slope gives constant velocity, but zero slope means rest."
   },
   {
-    "q": "Sanjay thinks that a car braking from 60 km/h will stop in exactly half the distance of a car braking from 120 km/h with the same brakes. Is he correct?",
+    "q": "Sanjay thinks a car braking from 60 km/h will stop in exactly half the distance of a car braking from 120 km/h with the same brakes. Is he correct?",
     "o": ["Yes, doubling speed doubles stopping distance", "No, doubling speed actually quadruples the stopping distance — it depends on speed squared, not speed directly", "Yes, because the same braking force is applied in both cases", "No, doubling speed halves stopping distance because the car stops faster"],
     "a": 1,
-    "sol": "Stopping distance follows v² = u² + 2as. With the same deceleration, s = u²/(2a) — stopping distance depends on the square of initial speed. If speed doubles (from 60 to 120 km/h), stopping distance becomes (120)²/(60)² = 4 times larger, not 2 times. This is why high-speed driving is so much more dangerous than it feels."
+    "sol": "From v² = u² + 2as, stopping distance s = u²/(2a). Doubling u quadruples s. So going from 60 to 120 km/h makes stopping distance 4 times larger, not 2 times. This is why high-speed driving is far more dangerous than it feels."
   },
   {
-    "q": "You are driving behind a truck on a highway at 90 km/h. Thinking about how stopping distance changes with speed, should you maintain a larger or smaller following gap compared to driving at 60 km/h?",
+    "q": "You are driving behind a truck on a highway at 90 km/h. Thinking about how stopping distance scales with speed, should you maintain a larger or smaller following gap compared to driving at 60 km/h?",
     "o": ["Same gap — the road surface is the same so stopping distance doesn't change", "Smaller gap — at higher speed you react faster", "Larger gap — stopping distance increases with speed, so you need more space to safely avoid a collision", "Larger gap only on wet roads, not dry roads"],
     "a": 2,
-    "sol": "From the text, stopping distance depends on the vehicle's velocity when brakes are applied. At 90 km/h, both the reaction distance (speed × reaction time) and the braking distance are larger than at 60 km/h. To avoid collision if the truck brakes suddenly, you must increase the following gap with increased speed."
+    "sol": "Stopping distance depends on speed when brakes are applied. At 90 km/h, reaction distance (speed × reaction time) and braking distance (u²/2a) are both larger than at 60 km/h. A larger following gap is required to avoid collision if the truck suddenly brakes."
   },
   {
-    "q": "After playing cricket, Arjun ran all over the field and returned to the starting crease. His displacement is 0 m. He says, 'Displacement is zero, so I basically didn't move.' What is the correct response?",
-    "o": ["Arjun is right — returning to the origin proves no real movement occurred", "Arjun is right — zero displacement means zero velocity throughout", "Arjun is right — zero displacement means no energy was spent", "Arjun is wrong — displacement being zero just means he ended where he started; he still covered a large total distance and spent real energy running that entire path"],
+    "q": "After playing cricket, Arjun ran all over the field and returned to the starting crease. His displacement is 0 m. He says, 'Displacement is zero, so I basically didn't move.' What is correct?",
+    "o": ["Arjun is right — returning to the origin proves no real movement occurred", "Arjun is right — zero displacement means zero velocity throughout", "Arjun is right — zero displacement means no energy was spent", "Arjun is wrong — displacement being zero just means he ended where he started; he still covered a large total distance and spent real energy"],
     "a": 3,
-    "sol": "Displacement only tells us the net position change from start to finish. It says nothing about the actual path covered. Arjun ran a large total distance — his muscles worked, energy was burned, and time was spent. The total distance (not displacement) reflects all of this. Zero displacement ≠ no movement."
+    "sol": "Displacement only tells us the net position change from start to finish. It says nothing about the actual path. Arjun ran a large total distance — energy was spent, muscles worked, time passed. Total distance (not displacement) reflects all that. Zero displacement ≠ no movement."
   },
   {
-    "q": "On a spinning cardboard disc, numbers are written at 7 cm from the centre and letters at 4 cm. As the disc spins faster, the outer numbers blur and disappear while the inner letters remain visible. What does this tell us about speed in circular motion?",
-    "o": ["Letters at the inner ring move faster than numbers at the outer ring", "Numbers at the outer ring travel a larger distance per revolution than letters at the inner ring, giving them a higher speed — which is why they blur first", "Numbers are harder to see because of their complex shapes", "The inner letters spin more times per second than the outer numbers"],
+    "q": "On a spinning cardboard disc, numbers are at 7 cm from the centre and letters at 4 cm. As the disc spins faster, the outer numbers blur and disappear while the inner letters remain visible. What does this reveal about speed in circular motion?",
+    "o": ["Letters at the inner ring move faster than numbers at the outer ring", "Numbers at the outer ring travel a larger distance per revolution than letters at the inner ring, giving them higher speed — which is why they blur first", "Numbers are harder to see because of their complex shapes", "The inner letters spin more times per second than the outer numbers"],
     "a": 1,
-    "sol": "All points on a spinning disc complete one revolution in the same time T. But points farther from the centre cover a larger circumference (2πR). More distance in the same time means higher speed. The numbers at 7 cm travel farther per revolution than letters at 4 cm, giving them greater speed — and at high spin, this speed makes them blur into invisibility."
+    "sol": "All points complete one revolution in the same time T, but outer points cover a larger circumference (2πR). More distance in the same time = higher speed. Outer numbers travel faster and blur; inner letters stay visible longer."
   },
   {
     "q": "Ravi is on a fair-ride moving in a perfect circle at constant speed. He says, 'This ride has zero acceleration since my speed hasn't changed.' Is Ravi correct?",
-    "o": ["Ravi is wrong — even at constant speed, the continuously changing direction of velocity means there IS acceleration in circular motion", "Ravi is correct — constant speed always means zero acceleration", "Ravi is correct — acceleration only exists when speed changes", "Ravi is wrong only if the circle gets smaller"],
+    "o": ["Ravi is wrong — even at constant speed, the continuously changing direction of velocity means acceleration IS present in circular motion", "Ravi is correct — constant speed always means zero acceleration", "Ravi is correct — acceleration only exists when speed changes", "Ravi is wrong only if the circle gets smaller"],
     "a": 0,
-    "sol": "Acceleration is caused by a change in velocity — and velocity changes when either speed or direction changes. In circular motion, even at constant speed, direction changes continuously at every instant. This continuous direction change means velocity is always changing, so acceleration is always non-zero. Ravi has confused speed with velocity."
+    "sol": "Acceleration is caused by change in velocity, which changes when either speed or direction changes. In circular motion, direction changes continuously at every instant even at constant speed. So acceleration is always non-zero. Ravi confused speed with velocity."
   },
   {
     "q": "Person A walks 500 m north, then 500 m south and stops. Person B walks 500 m north and stops. Both took the same time. Which person has greater magnitude of displacement?",
     "o": ["Person A has greater displacement because she covered more total distance", "Both have the same displacement because both started from the same point", "Person B has greater displacement — 500 m north — while Person A's displacement is zero since she returned to her starting point", "Person A has greater average velocity because she moved more"],
     "a": 2,
-    "sol": "Person A returned to her starting point, so her net position change (displacement) is zero. Person B stopped 500 m north of the starting point, so her displacement is 500 m north. Total distance covered doesn't determine displacement — only starting and ending positions do. Person B has greater displacement despite covering less total distance."
+    "sol": "Person A returned to start → displacement = 0. Person B stopped 500 m north of start → displacement = 500 m. Total distance doesn't determine displacement — only start and end positions do. B has greater displacement despite less total distance."
   },
   {
     "q": "A cyclist squeezes her brakes and slows down. A classmate says, 'She's decelerating, so her acceleration must be zero since she's not speeding up.' Is the classmate correct?",
     "o": ["Yes, slowing down always means zero acceleration", "Yes, deceleration and acceleration are completely different things with no relation", "No, but acceleration acts in the same direction as motion while slowing down", "No, slowing down means the cyclist has acceleration directed opposite to the direction of motion — this backward acceleration is exactly what causes the speed to decrease"],
     "a": 3,
-    "sol": "Acceleration simply means a change in velocity over time. When a cyclist slows down, the velocity is decreasing — which is a change in velocity, so acceleration exists. The text states clearly: when velocity decreases, acceleration acts opposite to the direction of motion. Slowing down doesn't mean zero acceleration — it means negative (opposing) acceleration."
+    "sol": "Acceleration is any change in velocity over time. When velocity decreases, there is a change — so acceleration exists. In deceleration, acceleration acts opposite to motion. Slowing down doesn't mean zero acceleration — it means negative (opposing) acceleration."
   },
   {
-    "q": "A car moves at 20 m/s for 5 seconds (shown as a rectangle on a velocity-time graph). A student calculates the area of this rectangle (20 × 5 = 100). What physical quantity does this area represent?",
+    "q": "A car moves at 20 m/s for 5 seconds (shown as a rectangle on a velocity-time graph). A student calculates the area of this rectangle (20 × 5 = 100). What does this area represent?",
     "o": ["The car's acceleration during 5 seconds", "The car's displacement during those 5 seconds — 100 m", "The car's total travel time", "The car's average speed"],
     "a": 1,
-    "sol": "The area under a velocity-time graph equals displacement. Here, area = velocity × time = 20 m/s × 5 s = 100 m. This is displacement because velocity × time = (m/s) × s = metres. The text explains this clearly: the shaded area between the velocity-time line and the time axis gives the displacement in that interval."
+    "sol": "Area under a v-t graph = displacement. Area = velocity × time = 20 m/s × 5 s = 100 m. Units check: (m/s) × s = metres. The area represents displacement because velocity × time = displacement."
   },
   {
     "q": "A delivery van drives on a straight road at constant speed for 10 minutes. What does its velocity-time graph look like?",
     "o": ["A horizontal straight line parallel to the time axis — velocity stays the same throughout", "A straight line with a positive slope going upward", "A curved line bending upward", "A vertical line at t = 0"],
     "a": 0,
-    "sol": "Constant speed on a straight road means constant velocity (both magnitude and direction unchanged). On a velocity-time graph, constant velocity appears as a horizontal straight line — it neither rises nor falls. The height of the line shows the velocity value. If it were accelerating, the line would slope upward or downward."
+    "sol": "Constant speed on a straight road = constant velocity. On a v-t graph, this appears as a horizontal straight line — neither rising nor falling. If it were accelerating, the line would slope."
   },
   {
-    "q": "During a school race, two cyclists complete the same circular track in the same time. Cyclist A moves at constant speed. Cyclist B speeds up on one half and slows on the other. After one full lap, what can we say about their average speeds and displacements?",
+    "q": "In a school race, two cyclists complete the same circular track in the same time. Cyclist A moves at constant speed. Cyclist B speeds up on one half and slows on the other. After one full lap, what can we say about their average speeds and displacements?",
     "o": ["Cyclist A has a higher average speed because constant speed is more efficient", "Cyclist B has higher average speed because she went faster on part of the track", "Both have the same average speed (same total distance in the same time) and both have zero displacement after one full lap", "Only their displacements are equal; their average speeds are always different"],
     "a": 2,
-    "sol": "Average speed = total distance / total time. Both cyclists covered the same circular track in the same time, so their average speeds are identical — regardless of how each was distributed across the lap. And since both started and ended at the same point, both have zero displacement after one complete revolution. Same average speed, same (zero) displacement."
+    "sol": "Average speed = total distance / total time. Both covered the same distance in the same time — identical average speeds regardless of how speed was distributed. Both started and ended at the same point → both have zero displacement after one lap."
   },
   {
-    "q": "A cyclist is going downhill without pedaling and her speed keeps increasing with every second. In which direction is her acceleration acting?",
+    "q": "A cyclist is going downhill without pedaling and her speed keeps increasing every second. In which direction is her acceleration acting?",
     "o": ["Opposite to her direction of motion because she's not pedaling", "Horizontal only, because she is moving forward", "Zero, because she is applying no force by pedaling", "In the direction of motion (downhill) because her velocity is continuously increasing in that direction"],
     "a": 3,
-    "sol": "When the magnitude of velocity is increasing in a given direction, acceleration acts in that same direction. The cyclist is speeding up as she goes downhill, so her velocity increases in the downhill direction — meaning acceleration also points downhill (in the direction of motion). The text explicitly states this relationship between increasing velocity and acceleration direction."
+    "sol": "When velocity magnitude increases in a direction, acceleration acts in that same direction. The cyclist speeds up downhill, so acceleration points downhill — in the direction of motion."
   },
   {
     "q": "A cricket ball is hit by a batsman and travels in a curved arc before landing 80 m away. A student says, 'The ball's displacement must equal the arc-length of the curved path.' Is the student correct?",
-    "o": ["Yes, because the ball moved through a smooth arc which equals the displacement", "No, displacement is the straight-line distance from where the ball was hit to where it landed — not the total length of the curved path it followed", "Yes, because any path, straight or curved, gives equal displacement and distance", "No, displacement is always zero because the ball was thrown and caught at the same height"],
+    "o": ["Yes, because the ball moved through a smooth arc which equals the displacement", "No, displacement is the straight-line distance from where the ball was hit to where it landed — not the total length of the curved path", "Yes, because any path gives equal displacement and distance", "No, displacement is always zero because the ball was thrown and caught at the same height"],
     "a": 1,
-    "sol": "Displacement is defined as the net change in position — the straight-line distance from start to end, with direction. The arc the ball travels through the air is the total distance. These are equal only if the path is perfectly straight and in one direction. For a curved path, distance > displacement. The student confused path length with net position change."
+    "sol": "Displacement is the net change in position — the straight-line distance from start to end, with direction. The arc length is the distance. They are equal only for straight-line one-directional motion. For a curved path, distance > displacement."
   },
   {
-    "q": "Two cars A and B are shown on the same position-time graph, both starting from the origin. Car A's line is steeper than Car B's. What can we correctly conclude?",
+    "q": "Two cars A and B are shown on the same position-time graph, both starting from the origin. Car A's line is steeper than Car B's. What can we conclude?",
     "o": ["Car A has a higher velocity — it covers more displacement in the same time interval", "Car B has higher velocity because a steeper slope always means slower speed", "Both cars have the same velocity if they started from the same position", "Car A is decelerating because its line is getting steeper"],
     "a": 0,
-    "sol": "The slope of a position-time graph equals velocity — change in position divided by change in time. A steeper slope means more position is covered in the same time, which means higher velocity. Car A's steeper line means it has a higher velocity than Car B. This is exactly how position-time graphs are interpreted from the text."
+    "sol": "Slope of a p-t graph = velocity. A steeper slope means more position change per unit time, which means higher velocity. A's steeper line means A is moving faster than B."
   },
   {
-    "q": "A bus driver sees an obstacle 40 m ahead and brakes. The text explains that stopping distance depends on both reaction time and braking distance. At higher speeds, which factor is most critical?",
+    "q": "A bus driver sees an obstacle 40 m ahead and brakes. Stopping distance depends on both reaction time and braking distance. At higher speeds, which factor is most critical?",
     "o": ["Only reaction time matters — braking distance stays the same regardless of speed", "Only braking distance matters — reaction time is negligible", "Both reaction distance and braking distance increase with speed — but since braking distance depends on speed squared, high speeds make stopping distances far larger and especially dangerous", "Neither factor changes significantly with increasing speed"],
     "a": 2,
-    "sol": "At higher speeds, both contribute: reaction distance = speed × reaction time (increases linearly with speed), and braking distance = u²/(2a) (increases with the square of speed). Doubling speed doubles reaction distance but quadruples braking distance. This means high speed is far more dangerous than most drivers intuitively realize — the total stopping distance grows rapidly."
+    "sol": "Reaction distance = speed × reaction time (linear in speed). Braking distance = u²/2a (quadratic in speed). Doubling speed doubles reaction distance but quadruples braking distance. High speed is far more dangerous than intuition suggests — total stopping distance grows rapidly."
   },
   {
     "q": "A ball thrown vertically upward momentarily has zero velocity at the top of its path. A student says, 'At the top, acceleration must also be zero since velocity is zero.' Is the student correct?",
     "o": ["Yes, zero velocity always means zero acceleration at that instant", "Yes, because the ball momentarily stops so all motion has ceased", "No, but acceleration at the top points upward since the ball will come back down", "No, the ball still has constant gravitational acceleration directed downward even at the top — velocity being zero is just a momentary snapshot, not a permanent state"],
     "a": 3,
-    "sol": "Acceleration and velocity are independent quantities. At the top, velocity is zero for just an instant — but acceleration due to gravity (g = 9.8 m/s² downward) continues acting throughout the ball's entire flight. Acceleration depends on whether velocity is changing, not on whether velocity is currently zero. The ball's velocity is about to increase downward, which confirms acceleration is non-zero."
+    "sol": "Acceleration and velocity are independent. At the top, velocity is zero only for an instant — but gravitational acceleration (g = 9.8 m/s² downward) continues acting throughout. The fact that velocity is about to increase downward confirms acceleration is non-zero."
   },
   {
     "q": "In a race, Runner A sprints straight for 100 m. Runner B zigzags and covers 140 m but reaches the same finish line in the same time. Compare their average speeds and magnitudes of average velocity.",
     "o": ["Both have the same average speed and the same average velocity", "Runner B has higher average speed (covered more distance in the same time), but both have the same magnitude of average velocity (same displacement — 100 m — in the same time)", "Runner A has higher average speed because she ran more efficiently", "Both have exactly the same average speed, but different displacements"],
     "a": 1,
-    "sol": "Average speed = total distance / time. Runner B covered 140 m vs 100 m in the same time, so Runner B has higher average speed. But average velocity = displacement / time. Both started and ended at the same two points (start and finish line), so both have the same displacement of 100 m in the same time — giving them identical magnitudes of average velocity. Speed and velocity differ precisely when paths differ."
+    "sol": "Average speed = total distance / time. B covered 140 m vs 100 m in the same time, so B has higher average speed. Average velocity = displacement / time. Both started and ended at the same two points → same displacement (100 m) in the same time → same magnitude of average velocity. Speed and velocity differ precisely when paths differ."
   }
+]
