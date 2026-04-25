@@ -1,0 +1,602 @@
+[
+  {
+    "q": "A mixture in which the composition is uniform throughout is called a ________ mixture.",
+    "o": ["heterogeneous", "homogeneous", "suspension", "colloid"],
+    "a": 1,
+    "sol": "A homogeneous mixture has uniform composition throughout — every part has the same proportion of components, like sugar dissolved in water or salt solution."
+  },
+  {
+    "q": "The amount of solute dissolved in a given amount of solvent or solution is termed as:",
+    "o": ["solubility", "concentration", "saturation", "density"],
+    "a": 1,
+    "sol": "Concentration tells us how much solute is dissolved in a given amount of solvent or solution. Solubility, in contrast, is the maximum amount that can dissolve at a given temperature."
+  },
+  {
+    "q": "The formula for mass by mass percentage is:",
+    "o": ["(Mass of solute / Mass of solution) × 100", "(Mass of solute / Mass of solvent) × 100", "(Mass of solution / Mass of solute) × 100", "(Volume of solute / Mass of solution) × 100"],
+    "a": 0,
+    "sol": "% m/m = (Mass of solute / Mass of solution) × 100. The denominator is the total solution (solute + solvent), NOT just the solvent. This is the most common error students make."
+  },
+  {
+    "q": "Which method is used to express concentration when two miscible liquids are mixed together?",
+    "o": ["% m/m", "% m/v", "% v/v", "% w/m"],
+    "a": 2,
+    "sol": "Volume by volume percentage (% v/v) is used when two miscible liquids are mixed, like alcohol in water, vinegar, or perfumes — because measuring volume is easier than mass for liquids."
+  },
+  {
+    "q": "A solution that cannot dissolve any more solute at a given temperature is called:",
+    "o": ["unsaturated solution", "saturated solution", "supersaturated solution", "dilute solution"],
+    "a": 1,
+    "sol": "A saturated solution holds the maximum solute that can dissolve at that particular temperature. Adding more solute to it leaves undissolved solid at the bottom."
+  },
+  {
+    "q": "The maximum amount of solute that dissolves in a fixed quantity of solvent at a given temperature is called its:",
+    "o": ["solubility", "concentration", "saturation point", "dissolution limit"],
+    "a": 0,
+    "sol": "Solubility is the maximum amount of solute that dissolves in a fixed quantity of solvent (usually 100 g) at a given temperature. It is a characteristic property of the solute–solvent pair."
+  },
+  {
+    "q": "A solid made up of particles arranged in a regular geometric pattern is called a:",
+    "o": ["molecule", "compound", "element", "crystal"],
+    "a": 3,
+    "sol": "A crystal is a solid whose particles are arranged in a regular, repeating geometric pattern. Examples include sugar, salt, alum, and copper sulphate crystals."
+  },
+  {
+    "q": "The process of forming pure crystals from a saturated solution is called:",
+    "o": ["evaporation", "sublimation", "crystallization", "condensation"],
+    "a": 2,
+    "sol": "Crystallization is a laboratory technique where pure crystals are obtained from a saturated solution. It is widely used to purify solids whose solubility changes significantly with temperature."
+  },
+  {
+    "q": "Which separation method is used for two miscible liquids whose boiling points differ by at least 25°C?",
+    "o": ["Simple distillation", "Filtration", "Evaporation", "Crystallization"],
+    "a": 0,
+    "sol": "Simple distillation is used when two miscible liquids differ in boiling point by at least about 25°C. The lower-boiling liquid vaporises first and is collected by condensation."
+  },
+  {
+    "q": "The method of separating components of a mixture based on differences in their interactions with solvent and paper is called:",
+    "o": ["filtration", "paper chromatography", "distillation", "centrifugation"],
+    "a": 1,
+    "sol": "Paper chromatography separates mixtures based on how differently each component travels along filter paper carried by a solvent. It is especially useful for separating coloured substances like inks and dyes."
+  },
+  {
+    "q": "Liquids that do not mix with each other and instead form separate layers are called:",
+    "o": ["miscible liquids", "soluble liquids", "insoluble liquids", "immiscible liquids"],
+    "a": 3,
+    "sol": "Immiscible liquids do not mix and form distinct layers, like oil floating on water or mustard oil over water. The lighter (less dense) liquid rises to the top."
+  },
+  {
+    "q": "The process in which a solid changes directly into vapour without passing through the liquid state is called:",
+    "o": ["evaporation", "boiling", "sublimation", "condensation"],
+    "a": 2,
+    "sol": "Sublimation is the direct change from solid to vapour without forming a liquid. Common subliming substances include camphor, naphthalene, iodine, and ammonium chloride."
+  },
+  {
+    "q": "When vapour cools and changes back into solid without becoming a liquid first, the process is called:",
+    "o": ["condensation", "freezing", "deposition", "solidification"],
+    "a": 2,
+    "sol": "Deposition is the reverse of sublimation — vapour cools and turns directly into solid. This is how camphor crystals form on a cooled funnel surface in the sublimation activity."
+  },
+  {
+    "q": "A homogeneous mixture of two or more metals, or a metal and a non-metal, is called:",
+    "o": ["alloy", "compound", "solution", "amalgam"],
+    "a": 0,
+    "sol": "An alloy is a homogeneous mixture of two or more metals (or a metal and a non-metal) made to improve properties like strength, hardness, or rust-resistance. Examples: brass, bronze, steel."
+  },
+  {
+    "q": "Heterogeneous mixtures in which solid particles do not dissolve but remain spread throughout a liquid are called:",
+    "o": ["solutions", "colloids", "suspensions", "emulsions"],
+    "a": 2,
+    "sol": "Suspensions are heterogeneous mixtures where solid particles (larger than 1000 nm) remain visible and eventually settle on standing — for example sand in water or chalk-water."
+  },
+  {
+    "q": "The technique that uses rapid spinning to separate heavier solid particles from a mixture is called:",
+    "o": ["filtration", "sedimentation", "decantation", "centrifugation"],
+    "a": 3,
+    "sol": "Centrifugation uses rapid spinning to separate heavier components from lighter ones. It is widely used in laboratories for blood, milk, and any colloid where particles are too small to filter."
+  },
+  {
+    "q": "The process in which fine suspended particles clump together by adding a substance is called:",
+    "o": ["sedimentation", "coagulation", "flocculation", "precipitation"],
+    "a": 1,
+    "sol": "Coagulation is the clumping together of fine suspended particles when a coagulant (like alum) is added. The larger clumps then settle by gravity and can be filtered."
+  },
+  {
+    "q": "A substance added to make smaller particles clump together in coagulation is called a:",
+    "o": ["solvent", "catalyst", "coagulant", "dispersant"],
+    "a": 2,
+    "sol": "A coagulant is a substance like alum (fitkari) added to water to make fine, suspended particles clump together. This is a key step in water purification at homes and treatment plants."
+  },
+  {
+    "q": "Mixtures whose particle size lies roughly between 1 nm and 1000 nm and that do NOT settle on standing are called:",
+    "o": ["solutions", "suspensions", "emulsions", "colloids"],
+    "a": 3,
+    "sol": "Colloids have particles in the 1–1000 nm range — too small to settle but large enough to scatter light. Common examples include milk, blood, fog, and cloud droplets."
+  },
+  {
+    "q": "The scattering of a light beam by particles in a colloid or suspension, making the beam path visible, is called:",
+    "o": ["reflection", "Tyndall effect", "refraction", "dispersion"],
+    "a": 1,
+    "sol": "Tyndall effect is the scattering of light by colloidal or suspended particles. Solutions do NOT show this effect because their particles are too small (<1 nm) to scatter light."
+  },
+  {
+    "q": "In a colloid, the solute-like component that is dispersed in tiny particles is called the:",
+    "o": ["dispersion medium", "dispersed phase", "continuous phase", "solvent phase"],
+    "a": 1,
+    "sol": "The dispersed phase is the component existing as small particles spread through the colloid — for example, fat globules in milk or water droplets in fog."
+  },
+  {
+    "q": "The component in which the dispersed phase is suspended in a colloid is called the:",
+    "o": ["dispersion medium", "dispersed phase", "solute", "filtrate"],
+    "a": 0,
+    "sol": "The dispersion medium is the continuous component in which the dispersed phase is spread — like water in milk or air in fog. It plays the role of solvent in a colloid."
+  },
+  {
+    "q": "Colloids in which both the dispersed phase and dispersion medium are liquids are specifically called:",
+    "o": ["solutions", "suspensions", "gels", "emulsions"],
+    "a": 3,
+    "sol": "Emulsions are colloids of liquid-in-liquid type, where one liquid is dispersed as fine droplets in another. Milk (fat in water) and butter (water in fat) are everyday emulsions."
+  },
+  {
+    "q": "If 10 g of salt is dissolved in 90 g of water, the mass-by-mass percentage of the resulting solution is:",
+    "o": ["10%", "11.11%", "9%", "90%"],
+    "a": 0,
+    "sol": "Mass of solution = 10 + 90 = 100 g. % m/m = (Mass of solute / Mass of solution) × 100 = (10 / 100) × 100 = 10%. TRAP: dividing solute by solvent gives 11.11% — always use total solution mass."
+  },
+  {
+    "q": "The particle size in a true solution is typically:",
+    "o": ["more than 1000 nm", "exactly 1000 nm", "between 1 and 1000 nm", "less than 1 nm"],
+    "a": 3,
+    "sol": "True solutions have particles smaller than 1 nm. This is why solutions are transparent, do NOT scatter light (no Tyndall effect), and pass freely through filter paper."
+  },
+  {
+    "q": "Muddy water is left undisturbed for some time. Even after the heavier particles settle, the water still appears slightly cloudy. What does this tell us?",
+    "o": ["Muddy water contains very fine particles that do not settle easily", "All particles in muddy water are very heavy and dense", "Filtration alone can remove all particles from muddy water", "Muddy water is a homogeneous mixture"],
+    "a": 0,
+    "sol": "Muddy water contains a mix of larger suspended particles (which settle) and very fine colloidal particles (which remain suspended). This is why settling alone is not enough — coagulation with alum is needed before filtration."
+  },
+  {
+    "q": "A student passes a laser beam through three mixtures — salt solution, chalk in water, and dilute milk. In which mixture(s) will the path of the laser beam be visible?",
+    "o": ["Only chalk-water mixture", "Only salt solution", "Chalk-water and dilute milk both", "All three mixtures equally"],
+    "a": 2,
+    "sol": "Tyndall effect is shown by colloids and suspensions but NOT true solutions. Salt solution has particles <1 nm (no scattering). Chalk-water (suspension) and dilute milk (colloid) both scatter light, making the beam visible."
+  },
+  {
+    "q": "Why does the solubility of a gas in a liquid decrease when temperature increases?",
+    "o": ["Gas particles become heavier at higher temperature", "Gas particles gain more kinetic energy and escape the liquid more easily", "The liquid becomes denser and pushes the gas out", "Gas molecules react with the solvent at high temperature"],
+    "a": 1,
+    "sol": "On heating, dissolved gas molecules gain kinetic energy and break away from the liquid. This is why warm water in a saucepan releases tiny bubbles of dissolved air before it boils."
+  },
+  {
+    "q": "Two liquids A and B are mixed in a separating funnel. A forms the upper layer and B forms the lower layer. What is the most correct reason?",
+    "o": ["A is more viscous than B", "A has lower density than B", "A has a higher boiling point than B", "A is more soluble in water than B"],
+    "a": 1,
+    "sol": "In a separating funnel, the liquid with lower density floats on top. For example, mustard oil (less dense) floats above water (more dense), and the lower liquid is drained out first using the stopcock."
+  },
+  {
+    "q": "Crystallization is preferred over simple evaporation for purifying solids because:",
+    "o": ["Crystallization is faster than evaporation", "Crystallization removes only the solvent, keeping impurities behind", "Crystallization separates the pure substance based on differences in solubility at different temperatures", "Evaporation cannot remove water from any solution"],
+    "a": 2,
+    "sol": "Crystallization exploits how solubility changes with temperature. As a hot saturated solution cools, only the pure solute crystallizes out, leaving impurities behind in the liquid — making it more selective than evaporation."
+  },
+  {
+    "q": "A hot saturated solution of copper sulphate is cooled rapidly in ice-cold water. Compared to slow cooling, what kind of crystals will form?",
+    "o": ["Smaller and less well-formed crystals", "Larger and well-formed crystals", "Crystals of exactly the same size as in slow cooling", "No crystals will form at all"],
+    "a": 0,
+    "sol": "Rapid cooling does not give particles enough time to arrange in a regular geometric pattern, producing smaller, less well-formed crystals. Slow undisturbed cooling produces large, shiny crystals — like mishri (sugar candy)."
+  },
+  {
+    "q": "Camphor and sand are mixed together. On gentle heating, camphor disappears as a vapour while sand remains. What is the correct explanation?",
+    "o": ["Camphor has a higher melting point than sand", "Sand absorbs camphor into itself", "Camphor evaporates only at very high temperatures", "Camphor sublimes — it converts from solid to vapour without becoming liquid"],
+    "a": 3,
+    "sol": "Camphor undergoes sublimation, changing directly from solid to vapour below its melting point. Sand does not sublime, so it stays behind. The vapours can be deposited back into solid camphor on a cool surface."
+  },
+  {
+    "q": "Why CAN'T physical methods be used to separate the metals in an alloy?",
+    "o": ["Alloys are very hard and rigid materials", "Alloys are homogeneous mixtures with metals dissolved into one another at the atomic level", "Alloys contain non-metals that resist separation", "Alloys are formed by chemical bonds between metals"],
+    "a": 1,
+    "sol": "Alloys are homogeneous mixtures where metals are dissolved into each other at the atomic level — like a true solid solution. Physical methods rely on visible differences, but alloy components have no such physical boundary to exploit."
+  },
+  {
+    "q": "A student tries to filter four mixtures. Which of the following would pass through filter paper completely WITHOUT leaving any residue?",
+    "o": ["Salt dissolved in water", "Sand particles in water", "Chalk powder in water", "Mud particles in water"],
+    "a": 0,
+    "sol": "Filter paper traps particles bigger than its pores. Salt solution has particles smaller than 1 nm — far smaller than filter paper pores — so it passes through. Sand, chalk, and mud are suspensions and leave residue."
+  },
+  {
+    "q": "Blood can be separated into its components by centrifugation. This tells us that blood is most similar in nature to a:",
+    "o": ["true solution, because it looks uniform from outside", "suspension, because its components settle on standing", "emulsion only, because it contains only liquid phases", "colloid, whose particles do not settle on their own but separate under centrifugal force"],
+    "a": 3,
+    "sol": "Blood is a colloid. Its particles (cells, proteins) are too small to settle by gravity but heavy enough to be separated by the strong outward force of centrifugation. This is how plasma, RBCs, and platelets are isolated."
+  },
+  {
+    "q": "Alum (fitkari) is added to muddy water and the mud particles start clumping together and settling. What is alum acting as?",
+    "o": ["solvent", "catalyst", "coagulant", "dispersant"],
+    "a": 2,
+    "sol": "Alum is acting as a coagulant. It causes fine, suspended mud particles to clump into bigger flocs through coagulation. The flocs are heavy enough to settle by gravity, leaving clearer water on top."
+  },
+  {
+    "q": "Paper chromatography separates the components of a mixture based on which principle?",
+    "o": ["Differences in boiling points of components", "Differences in density of components", "Differences in how fast components move on paper as the solvent travels through", "Differences in melting points of components"],
+    "a": 2,
+    "sol": "In paper chromatography, the solvent travels up the paper, and each component moves along with it at a different speed depending on how strongly it sticks to the paper versus the solvent. This separates them into visible bands."
+  },
+  {
+    "q": "Why is an acetone–water mixture separated by distillation and NOT by a separating funnel?",
+    "o": ["Acetone and water have very different densities", "Acetone and water are miscible — they mix completely and do not form separate layers", "Acetone has a higher boiling point than water", "Separating funnels work only for solid–liquid mixtures"],
+    "a": 1,
+    "sol": "A separating funnel works only for immiscible liquids that form layers. Acetone and water mix completely (miscible), so they cannot be separated by a funnel. Distillation works because their boiling points differ enough."
+  },
+  {
+    "q": "The solubility of potassium nitrate at 40°C is 62 g per 100 g of water. A student prepares a saturated solution at 60°C and cools it down to 40°C. What will happen?",
+    "o": ["More potassium nitrate will dissolve", "No change will occur in the solution", "The solution will become unsaturated immediately", "Excess potassium nitrate will crystallize out of the solution"],
+    "a": 3,
+    "sol": "Solubility of KNO₃ falls sharply on cooling. The amount that fit at 60°C cannot remain dissolved at 40°C, so the excess crystallizes out as pure solid. This is the basic principle of crystallization."
+  },
+  {
+    "q": "Clouds in the sky show the Tyndall effect when light passes through them. This means clouds are best classified as:",
+    "o": ["colloids — tiny water droplets or ice crystals dispersed in air", "true solutions, because they look uniform from a distance", "suspensions, because water droplets in clouds are very large", "emulsions, because they contain only liquid water"],
+    "a": 0,
+    "sol": "Clouds are colloids — fine water droplets or ice crystals dispersed in air. Their particle size is in the colloidal range, so they scatter sunlight, producing the visible beams sometimes seen through cloud gaps."
+  },
+  {
+    "q": "Cheese (paneer) is made by adding lemon juice or vinegar to hot milk. The milk solids clump together and separate. The process involved is:",
+    "o": ["centrifugation, as milk is spun rapidly", "coagulation, as acid causes milk proteins to clump together", "sublimation, as water vapour escapes from milk", "crystallization, as milk solids form regular patterns"],
+    "a": 1,
+    "sol": "Adding acid (like lemon juice) destabilises the milk colloid, making the protein particles clump together — coagulation. The clumps are then collected as paneer, while the watery whey is drained out."
+  },
+  {
+    "q": "A student says: 'Colloids and solutions are both transparent, so they must both be homogeneous.' What is wrong with this reasoning?",
+    "o": ["Both colloids and solutions are always transparent — only opaqueness matters", "Solutions are heterogeneous but colloids are homogeneous", "Only suspensions are transparent, not colloids", "Colloids look homogeneous to the eye but are actually heterogeneous — their particles are too small to be seen"],
+    "a": 3,
+    "sol": "Although colloids appear transparent and uniform, they are actually heterogeneous at the microscopic level. Their particles (1–1000 nm) are invisible to the naked eye, but the Tyndall effect reveals the heterogeneity."
+  },
+  {
+    "q": "Why does the word 'chromatography' literally mean 'writing with colour'?",
+    "o": ["Because it was first used to separate coloured substances like dyes and inks", "Because chromatography was invented to write with coloured ink", "Because it only works with coloured chemicals", "Because the paper used in chromatography is always coloured"],
+    "a": 0,
+    "sol": "The name comes from Greek: 'chroma' means colour and 'graphein' means to write. The technique was first developed to separate plant pigments and coloured dyes, hence the name 'colour writing'."
+  },
+  {
+    "q": "Which of the following is the correct difference between evaporation and distillation?",
+    "o": ["Evaporation uses a condenser; distillation does not", "Evaporation separates two miscible liquids; distillation separates only immiscible liquids", "Both processes are identical in outcome", "Distillation allows recovery of the pure solvent by condensation; evaporation lets it escape into air"],
+    "a": 3,
+    "sol": "In evaporation, the solvent simply escapes into air and is lost. In distillation, the vapour is cooled in a condenser and collected back as pure liquid — so the solvent is recovered, not lost."
+  },
+  {
+    "q": "A centrifuge tube containing blood is spun at high speed. The tube swings horizontally during spinning. Why do heavier particles end up at the OUTER (bottom) end of the tube?",
+    "o": ["Gravity pulls them down towards the floor", "Heavier particles are attracted to the walls of the tube by static charge", "Centrifugal force acts outward and pushes heavier particles to the outer end of the tube", "Lighter particles are pushed to the outer end by centrifugal force"],
+    "a": 2,
+    "sol": "During rapid spinning, particles experience an outward centrifugal effect much stronger than gravity. Heavier particles are pushed faster and farther outward, accumulating at the outer (bottom) end of the tube."
+  },
+  {
+    "q": "A mixture of two liquids A and B needs to be separated. A boils at 56°C and B boils at 60°C. Which method is MOST suitable?",
+    "o": ["Simple distillation, since both are miscible", "Fractional distillation, because the boiling-point difference is less than 25°C", "Paper chromatography, since liquids can be separated on paper", "Separating funnel, since they will form two layers"],
+    "a": 1,
+    "sol": "When two miscible liquids differ in boiling points by less than 25°C, simple distillation cannot separate them well. Fractional distillation, which uses a fractionating column, separates them step by step using small temperature differences."
+  },
+  {
+    "q": "Milk does NOT settle even after standing undisturbed for hours, but chalk powder in water DOES settle. What is the key difference?",
+    "o": ["Milk particles are heavier than chalk particles", "Milk contains fat which prevents settling; chalk has no fat", "Chalk and milk behave exactly the same way", "Milk is a colloid (1–1000 nm particles that stay dispersed); chalk-water is a suspension (>1000 nm particles that settle)"],
+    "a": 3,
+    "sol": "The size of particles decides settling. Suspension particles (chalk, >1000 nm) are too large and settle out. Colloid particles (milk, 1–1000 nm) are small enough to stay dispersed permanently due to constant random motion."
+  },
+  {
+    "q": "Why is fractional distillation, not simple distillation, used to refine crude oil?",
+    "o": ["Crude oil is a solid mixture that cannot be distilled normally", "Crude oil components are immiscible with each other", "Petroleum components have boiling-point differences of less than 25°C — fractional distillation is needed", "Simple distillation requires more energy than refineries can provide"],
+    "a": 2,
+    "sol": "Petroleum fractions like petrol, kerosene, and diesel have closely spaced boiling points (less than 25°C apart). Simple distillation can't tell them apart, but a fractionating column slowly separates each fraction at the right temperature."
+  },
+  {
+    "q": "Which of the following correctly explains why the path of sunlight is visible when it passes through gaps in dense tree leaves?",
+    "o": ["Sunlight reflects off tree leaves and becomes visible", "Sunlight refracts through the gaps and creates visible beams", "Dust and smoke particles in the air scatter the light, showing the Tyndall effect", "Dense leaves block some light, making the remaining beams brighter"],
+    "a": 2,
+    "sol": "The air below the canopy contains dust, pollen, and tiny moisture droplets — a colloid/suspension. These particles scatter sunlight, making the beam path clearly visible. This is a classic real-life example of Tyndall effect."
+  },
+  {
+    "q": "Student A says: 'Sodium chloride's solubility barely changes from 10°C to 80°C, so crystallization will not work well for purifying it.' Student B says: 'Crystallization works well for potassium nitrate because its solubility changes a lot with temperature.' Who is correct?",
+    "o": ["Only Student A is correct", "Only Student B is correct", "Both students are incorrect", "Both students are correct"],
+    "a": 3,
+    "sol": "Solubility data: NaCl moves from 36 g to 37 g (just 1 g change) — too small for crystallization to work effectively. KNO₃ moves from 21 g to 167 g — a huge change that makes it perfect for crystallization. Both students are right."
+  },
+  {
+    "q": "15 g of sugar is dissolved in 135 g of water. What is the mass-by-mass percentage of the resulting solution?",
+    "o": ["10%", "11.11%", "15%", "9%"],
+    "a": 0,
+    "sol": "Mass of solution = 15 + 135 = 150 g. % m/m = (Mass of solute / Mass of solution) × 100 = (15 / 150) × 100 = 10%. TRAP: dividing 15/135 (using solvent mass) gives 11.11% — always use solution mass."
+  },
+  {
+    "q": "A saline drip used in hospitals contains 0.9 g of salt in 100 mL of solution. What is its mass-by-volume percentage?",
+    "o": ["0.9% m/v", "9% m/v", "0.09% m/v", "90% m/v"],
+    "a": 0,
+    "sol": "Formula: % m/v = (Mass of solute / Volume of solution) × 100 = (0.9 / 100) × 100 = 0.9% m/v. This concentration is also known as 'normal saline' and matches the salt level of human blood."
+  },
+  {
+    "q": "A talcum powder contains 4% m/m zinc oxide. How much zinc oxide is present in 300 g of the powder?",
+    "o": ["4 g", "30 g", "12 g", "120 g"],
+    "a": 2,
+    "sol": "4% m/m means 4 g of ZnO is present in every 100 g of powder. For 300 g: (4/100) × 300 = 12 g. TRAP: option D (120 g) results from forgetting the per-100 division."
+  },
+  {
+    "q": "If two tablespoons of orange juice concentrate (each 15 mL) are mixed with water to make 150 mL of juice, what is the % v/v of the concentrate?",
+    "o": ["20% v/v", "10% v/v", "30% v/v", "15% v/v"],
+    "a": 0,
+    "sol": "Total concentrate volume = 2 × 15 = 30 mL. Total juice = 150 mL. % v/v = (30/150) × 100 = 20%. TRAP: option C (30) uses concentrate volume directly without dividing by total."
+  },
+  {
+    "q": "Vinegar contains 5% v/v acetic acid. How much glacial acetic acid (100% pure) and water are needed to prepare 200 mL of vinegar?",
+    "o": ["5 mL acid + 195 mL water", "10 mL acid + 190 mL water", "20 mL acid + 180 mL water", "50 mL acid + 150 mL water"],
+    "a": 1,
+    "sol": "5% v/v means 5 mL acid per 100 mL solution. For 200 mL: (5/100) × 200 = 10 mL acid. Water = 200 − 10 = 190 mL."
+  },
+  {
+    "q": "A student dissolves 20 g of sugar in 80 g of water. What is the % m/m concentration of the solution?",
+    "o": ["16%", "20%", "25%", "80%"],
+    "a": 1,
+    "sol": "Mass of solution = 20 + 80 = 100 g. % m/m = (20/100) × 100 = 20%. TRAP: (20/80)×100 = 25% is what students get when they mistakenly divide by solvent mass."
+  },
+  {
+    "q": "A student dissolves 30 g of sugar in 80 g of water. What is the % m/m concentration of the solution?",
+    "o": ["30%", "37.5%", "27.27%", "26.67%"],
+    "a": 2,
+    "sol": "Mass of solution = 30 + 80 = 110 g. % m/m = (30/110) × 100 ≈ 27.27%. TRAP: (30/80)×100 = 37.5% comes from dividing by solvent — always use total solution mass."
+  },
+  {
+    "q": "Among three sugar solutions — A (20 g sugar in 80 g water), B (20 g sugar in 100 g water), and C (30 g sugar in 80 g water) — which is the MOST concentrated?",
+    "o": ["Solution A", "Solution B", "All three are equally concentrated", "Solution C"],
+    "a": 3,
+    "sol": "% m/m for each: A = 20/100 × 100 = 20%, B = 20/120 × 100 ≈ 16.67%, C = 30/110 × 100 ≈ 27.27%. C has the highest percentage and is therefore the most concentrated."
+  },
+  {
+    "q": "The solubility of potassium nitrate at 40°C is 62 g per 100 g of water. What mass of potassium nitrate is needed to prepare a saturated solution in 50 g of water at 40°C?",
+    "o": ["62 g", "124 g", "31 g", "50 g"],
+    "a": 2,
+    "sol": "Solubility at 40°C is 62 g per 100 g water. For 50 g (half the water), only half can dissolve: (62/100) × 50 = 31 g. TRAP: option A (62 g) ignores that the water amount is halved."
+  },
+  {
+    "q": "If 8 g of salt is dissolved in 42 g of water, what is the mass-by-mass percentage of the salt solution?",
+    "o": ["8%", "10%", "19.05%", "16%"],
+    "a": 3,
+    "sol": "Mass of solution = 8 + 42 = 50 g. % m/m = (8/50) × 100 = 16%. TRAP: option C (19.05%) results from using 8/42 — always remember the denominator is total solution."
+  },
+  {
+    "q": "A brass alloy contains 70% copper by mass. How much copper is present in 120 g of brass?",
+    "o": ["70 g", "84 g", "36 g", "50 g"],
+    "a": 1,
+    "sol": "70% of 120 g = (70/100) × 120 = 84 g of copper. TRAP: option C (36 g) is the zinc mass — students sometimes confuse the two metals in the alloy."
+  },
+  {
+    "q": "A brass alloy contains 70% copper by mass. How much zinc is present in 120 g of brass?",
+    "o": ["30 g", "40 g", "36 g", "84 g"],
+    "a": 2,
+    "sol": "Zinc is the remaining metal: 100% − 70% = 30%. Mass of zinc = (30/100) × 120 = 36 g. TRAP: option D (84 g) is copper mass."
+  },
+  {
+    "q": "12 g of glucose is dissolved in water to make 200 mL of solution. What is the mass-by-volume percentage?",
+    "o": ["6% m/v", "12% m/v", "60% m/v", "0.6% m/v"],
+    "a": 0,
+    "sol": "Formula: % m/v = (Mass of solute / Volume of solution) × 100 = (12/200) × 100 = 6% m/v."
+  },
+  {
+    "q": "According to NCERT data, the solubility of sodium chloride at 10°C is 36 g and at 80°C is 37 g per 100 g of water. What can be concluded about NaCl?",
+    "o": ["NaCl solubility increases dramatically with temperature", "NaCl solubility doubles from 10°C to 80°C", "NaCl becomes less soluble at higher temperature", "NaCl solubility changes very little with temperature"],
+    "a": 3,
+    "sol": "From 36 g to 37 g over a 70°C range is just a 1 g change — almost flat. So NaCl is unsuitable for purification by crystallization, since cooling won't force much salt to crystallize out."
+  },
+  {
+    "q": "From NCERT solubility data, which salt shows the GREATEST increase in solubility from 10°C to 80°C?",
+    "o": ["Sodium chloride", "Potassium chloride", "Ammonium chloride", "Potassium nitrate"],
+    "a": 3,
+    "sol": "Compare changes: NaCl (36→37 = 1 g), KCl (35→54 = 19 g), NH₄Cl (24→66 = 42 g), KNO₃ (21→167 = 146 g). KNO₃ shows by far the greatest increase, making it ideal for crystallization."
+  },
+  {
+    "q": "A cake recipe uses 75 g sugar, 420 g flour, and 5 g sodium hydrogencarbonate. What is the mass percentage of sugar in this dry mixture?",
+    "o": ["12%", "15%", "17.86%", "75%"],
+    "a": 1,
+    "sol": "Total dry mass = 75 + 420 + 5 = 500 g. % m/m of sugar = (75/500) × 100 = 15%. TRAP: (75/420)×100 ≈ 17.86% wrongly uses flour as denominator."
+  },
+  {
+    "q": "If the solubility of potassium chloride at 80°C is 54 g per 100 g water and at 25°C is approximately 35 g per 100 g water, what happens when a saturated solution at 80°C is cooled to 25°C?",
+    "o": ["More potassium chloride will dissolve", "All potassium chloride will precipitate out", "The solution will remain unchanged", "Approximately 19 g of potassium chloride will crystallize out per 100 g water"],
+    "a": 3,
+    "sol": "At 80°C, 54 g was dissolved per 100 g water. At 25°C, only 35 g can stay dissolved. Excess = 54 − 35 = 19 g must crystallize out as pure solid. This is the basis of crystallization-based purification."
+  },
+  {
+    "q": "25 mL of alcohol is mixed with 75 mL of water to prepare a dilute alcohol solution. What is the volume-by-volume percentage of alcohol?",
+    "o": ["25% v/v", "33.33% v/v", "75% v/v", "20% v/v"],
+    "a": 0,
+    "sol": "Total volume = 25 + 75 = 100 mL. % v/v = (25/100) × 100 = 25%. TRAP: option B (33.33%) comes from dividing by water volume (75 mL) instead of total solution."
+  },
+  {
+    "q": "A student wants to prepare 500 mL of a 2% m/v salt solution. How many grams of salt should be dissolved in water?",
+    "o": ["2 g", "100 g", "10 g", "20 g"],
+    "a": 2,
+    "sol": "2% m/v means 2 g per 100 mL. For 500 mL (which is 5 × 100 mL): 2 × 5 = 10 g salt. TRAP: option A (2 g) ignores that the volume is 5 times larger than the reference 100 mL."
+  },
+  {
+    "q": "If 6 mL of liquid pesticide is mixed with water to form 300 mL of pesticide spray, what is the % v/v of the pesticide?",
+    "o": ["2% v/v", "6% v/v", "20% v/v", "0.02% v/v"],
+    "a": 0,
+    "sol": "% v/v = (Volume of solute / Volume of solution) × 100 = (6/300) × 100 = 2% v/v. Sprays are deliberately kept dilute to prevent crop and soil damage."
+  },
+  {
+    "q": "A solution contains 18 g of salt dissolved in 282 g of water. What percentage of the solution is water?",
+    "o": ["6%", "18%", "282%", "94%"],
+    "a": 3,
+    "sol": "Total solution mass = 18 + 282 = 300 g. % of water = (282/300) × 100 = 94%. The remaining 6% is salt — both percentages must add to 100%."
+  },
+  {
+    "q": "Which of the following will form the MOST DILUTE salt solution?",
+    "o": ["5 g salt in 45 g water", "10 g salt in 90 g water", "2 g salt in 48 g water", "20 g salt in 80 g water"],
+    "a": 2,
+    "sol": "Calculate % m/m: A = 5/50 × 100 = 10%, B = 10/100 × 100 = 10%, C = 2/50 × 100 = 4%, D = 20/100 × 100 = 20%. Option C has the lowest percentage, so it is most dilute."
+  },
+  {
+    "q": "A student prepares two solutions: X (30 g sugar in 120 mL water) and Y (25 g sugar in 100 mL water). Which solution has higher % m/v concentration?",
+    "o": ["Solution X", "Solution Y", "Both have equal concentration", "Cannot be determined"],
+    "a": 2,
+    "sol": "X: % m/v = (30/120) × 100 = 25% m/v. Y: % m/v = (25/100) × 100 = 25% m/v. Both work out to exactly 25% m/v, so they are equally concentrated despite having different absolute amounts."
+  },
+  {
+    "q": "The solubility of ammonium chloride at 60°C is 55 g per 100 g of water. If a student adds 60 g of ammonium chloride to 100 g of water at 60°C and stirs well, what will happen?",
+    "o": ["All 60 g will dissolve completely", "Only 55 g will dissolve; 5 g will remain undissolved", "No ammonium chloride will dissolve", "60 g will dissolve to form a supersaturated solution"],
+    "a": 1,
+    "sol": "Solubility sets the maximum: 55 g of NH₄Cl can dissolve in 100 g of water at 60°C. The remaining 60 − 55 = 5 g stays at the bottom as undissolved solid, regardless of how long you stir."
+  },
+  {
+    "q": "A medicine bottle states '5% m/v glucose solution'. If a patient takes 200 mL of this medicine, how many grams of glucose will the patient consume?",
+    "o": ["1 g", "10 g", "5 g", "200 g"],
+    "a": 1,
+    "sol": "5% m/v means 5 g of glucose per 100 mL. For 200 mL: (5/100) × 200 = 10 g of glucose consumed. This is the basis of measuring drug doses precisely in IV fluids."
+  },
+  {
+    "q": "A doctor needs to prepare ORS for a patient. The recipe requires specific amounts of salt and sugar in a fixed volume of water. The doctor accidentally adds more sugar than required. What is the problem?",
+    "o": ["The solution will taste better", "It will no longer be ORS, since the right proportion of salt and sugar is essential for proper rehydration", "It will work even better than normal ORS", "There is no problem, as any amount works"],
+    "a": 1,
+    "sol": "ORS works because its salt and sugar concentrations match what the body absorbs efficiently. Excess sugar can worsen dehydration by drawing water into the gut. Concentration matters — not just ingredients."
+  },
+  {
+    "q": "A farmer thinks using more pesticide than recommended will give better protection against crop pests. What is most likely to happen?",
+    "o": ["Crops will be better protected", "Too much pesticide can harm crops, soil, water, and the environment", "Nothing different will happen", "Only pests will die faster"],
+    "a": 1,
+    "sol": "Pesticides are designed for a specific working concentration. Excess pesticide damages plants, contaminates groundwater, and harms beneficial insects and soil microbes. Right concentration is more important than larger amounts."
+  },
+  {
+    "q": "A hospital uses a 0.9% m/v saline drip for patients. Why is this specific concentration used instead of pure water?",
+    "o": ["It is cheaper than pure water", "0.9% saline matches the salt concentration of body fluids and safely replaces lost fluids", "It tastes better", "Pure water works equally well"],
+    "a": 1,
+    "sol": "Pure water injected into the body would damage blood cells (they would burst). 0.9% saline is isotonic — meaning it has the same salt concentration as human blood — so it safely restores lost fluid without harming cells."
+  },
+  {
+    "q": "A student wants to make candy sugar (mishri) at home. Which technique should be used to grow large, well-formed crystals?",
+    "o": ["Prepare a saturated sugar solution and allow it to cool slowly without disturbance", "Boil the sugar solution rapidly and cool it immediately", "Add more sugar continuously while cooling", "Use ice-cold water to cool the solution quickly"],
+    "a": 0,
+    "sol": "Slow cooling without disturbance gives sugar particles enough time to arrange themselves into large, regular crystal patterns. Rapid cooling produces small, less well-shaped crystals because particles get trapped before they can organise."
+  },
+  {
+    "q": "In Kannauj, Mitti ka Ittar (earthy fragrance) is made using the Deg-Bhapka distillation method. Why is distillation used instead of simply squeezing flowers or herbs?",
+    "o": ["Squeezing is too difficult", "Distillation separates and recovers the volatile fragrance compounds by vaporising them and then condensing them back to a pure liquid", "Flowers cannot be squeezed", "Distillation makes flowers smell stronger"],
+    "a": 0,
+    "sol": "Wait — re-read carefully: distillation lets fragrance compounds evaporate from boiling herbs, then condense in a cool collector, leaving plant matter behind. Squeezing yields oily juice mixed with pulp; distillation gives a pure, concentrated fragrance."
+  },
+  {
+    "q": "A petroleum refinery separates crude oil into petrol, diesel, kerosene, and LPG, which have boiling points differing by less than 25°C. Which method is used?",
+    "o": ["Simple distillation", "Fractional distillation", "Filtration", "Crystallization"],
+    "a": 1,
+    "sol": "Fractional distillation uses a fractionating column to separate liquids whose boiling points differ by less than 25°C. The column allows different fractions to condense at different heights based on their boiling points."
+  },
+  {
+    "q": "A student accidentally drops water on a black sketch-pen mark on filter paper. The black colour spreads into different visible colours. What does this tell us?",
+    "o": ["The pen is defective", "Water reacts with ink to create new colours", "This is a chemical change", "Black ink is a mixture of different coloured dyes that get separated by paper chromatography"],
+    "a": 3,
+    "sol": "This is paper chromatography in action. Different coloured dyes in black ink travel up the wet paper at different speeds, separating into bands of red, blue, yellow, etc. — proving that 'black' is actually a blend of dyes."
+  },
+  {
+    "q": "A cook adds lemon juice to boiling milk to make paneer (cheese). Solid milk components clump and separate from the watery whey. What process is this?",
+    "o": ["Crystallization", "Distillation", "Coagulation", "Sublimation"],
+    "a": 2,
+    "sol": "Acid in lemon juice destabilises milk proteins (a colloid), causing them to clump together — coagulation. The clumps form paneer, while the watery liquid (whey) drains away."
+  },
+  {
+    "q": "In remote areas without electricity, a 'paperfuge' (hand-powered device) is used to separate blood for malaria detection. Why does spinning help?",
+    "o": ["Spinning heats the blood", "Spinning kills malaria parasites", "Blood evaporates during spinning", "Centrifugal force pushes heavier blood components outward, separating them from lighter ones"],
+    "a": 3,
+    "sol": "When a paperfuge spins, centrifugal force throws heavier components (red blood cells, parasites if present) to the outer end of the tube, while lighter plasma stays near the centre. This concentrates parasites for easier detection."
+  },
+  {
+    "q": "A village uses alum (fitkari) to clean muddy pond water. Even after filtration, water was cloudy. After adding alum, water becomes clear. How does alum help?",
+    "o": ["Alum dissolves mud particles", "Alum kills bacteria in the water", "Alum causes fine suspended particles to clump together, making them settle and easy to filter", "Alum changes the colour of the water"],
+    "a": 2,
+    "sol": "Alum acts as a coagulant — fine, suspended particles too small to filter clump into bigger flocs when alum is added. The flocs settle by gravity or get trapped by the filter, leaving water clear."
+  },
+  {
+    "q": "Ice-cream vendors use dry ice (solid CO₂) for storage instead of regular ice. Dry ice disappears without leaving any liquid. Which property makes it useful?",
+    "o": ["Dry ice sublimes — it changes directly from solid to gas without a liquid stage, so it keeps ice cream cold without making it wet", "Dry ice melts at very low temperature", "Dry ice is cheaper than regular ice", "Dry ice floats on water"],
+    "a": 0,
+    "sol": "Solid CO₂ undergoes sublimation at room conditions, turning straight into CO₂ gas. There's no messy liquid to deal with — perfect for keeping ice-cream cold and dry during transport."
+  },
+  {
+    "q": "Stainless steel utensils are popular because they don't rust easily. Stainless steel is an alloy. Why CAN'T iron be separated from stainless steel using physical methods?",
+    "o": ["Iron is too heavy to separate", "Stainless steel contains no iron", "Iron changes into a different element inside alloys", "Alloys are homogeneous mixtures where metals are dissolved at the atomic level, so physical methods cannot separate them"],
+    "a": 3,
+    "sol": "Stainless steel is iron + chromium + nickel mixed atom-by-atom in a homogeneous structure. There is no visible boundary between metals — so techniques like filtration or magnetism alone can't separate the components."
+  },
+  {
+    "q": "Air is a homogeneous mixture mainly of nitrogen, oxygen, argon, and carbon dioxide. Which type of solution best describes air?",
+    "o": ["Solid in gas", "Liquid in gas", "Gas in gas", "Gas in liquid"],
+    "a": 2,
+    "sol": "Air is a gas-in-gas solution. Different gases mix uniformly with no visible boundaries. Examples: oxygen and other gases dissolved in nitrogen (the major component, ~78%)."
+  },
+  {
+    "q": "A sewage treatment plant cleans dirty water by making particles clump, settle, and then filtering. Which technique makes the suspended particles clump together?",
+    "o": ["Sedimentation", "Coagulation", "Filtration", "Evaporation"],
+    "a": 1,
+    "sol": "Sewage treatment uses coagulation as a key step: chemicals (often alum or polymers) make tiny particles bind into larger flocs. These flocs then settle (sedimentation) and remaining solids are filtered out."
+  },
+  {
+    "q": "Iodine is a solid that turns directly into purple vapour on gentle heating. This property of iodine is used in the laboratory to:",
+    "o": ["Filter iodine from any impurity", "Separate iodine from sand or salt by sublimation", "Crystallize iodine from a saline solution", "Distil iodine from salt water"],
+    "a": 1,
+    "sol": "Iodine sublimes (solid → vapour directly without melting). A mixture of iodine with a non-subliming solid like sand or salt can be heated gently: iodine vapours rise and re-deposit on a cool surface, leaving the other solid behind."
+  },
+  {
+    "q": "Brass, a popular alloy used in musical instruments and decorative items, is a homogeneous mixture of which two metals?",
+    "o": ["Copper and zinc", "Copper and tin", "Iron and carbon", "Aluminium and copper"],
+    "a": 0,
+    "sol": "Brass is an alloy of copper and zinc. Other common alloys: bronze (copper + tin), steel (iron + carbon), and duralumin (aluminium + copper + small amounts of magnesium/manganese)."
+  },
+  {
+    "q": "On a foggy morning, car headlight beams are clearly visible in the air. On a clear day, they are not. What is the reason?",
+    "o": ["Fog (tiny water droplets dispersed in air) is a colloid that scatters light, showing the Tyndall effect", "Car lights are brighter in fog", "Air becomes denser in fog", "Fog creates an optical illusion"],
+    "a": 0,
+    "sol": "Fog is a liquid-in-gas colloid: tiny water droplets dispersed in air. The droplets are in the colloidal size range, so they scatter the headlight beam — making the path of light visible to your eyes."
+  },
+  {
+    "q": "A coastal area produces salt from seawater by allowing sunlight to evaporate water in large shallow ponds. Why are SHALLOW ponds preferred over deep containers?",
+    "o": ["Large surface area in shallow ponds allows much faster evaporation", "Shallow ponds hold less water", "Salt dissolves better in shallow water", "Deep containers are more expensive"],
+    "a": 0,
+    "sol": "A shallow, wide pond exposes a much larger surface area of water to sunlight and air. More surface = more evaporation per unit time. Salt crystallizes out as the water evaporates, leaving pure salt behind."
+  },
+  {
+    "q": "A person mixes mustard oil and water in a bottle and shakes it vigorously. After some time, two separate layers form. Which method should be used to separate them?",
+    "o": ["Filtration", "Distillation", "Separating funnel", "Crystallization"],
+    "a": 2,
+    "sol": "Mustard oil and water are immiscible — they form distinct layers (oil on top, being less dense). A separating funnel lets the lower water layer be drained out through the stopcock first, leaving oil behind."
+  },
+  {
+    "q": "LPG (Liquefied Petroleum Gas) used for cooking is obtained from crude oil and stored in cylinders under high pressure. Why is high pressure needed?",
+    "o": ["To make it burn faster", "To remove impurities", "To increase its temperature", "High pressure liquefies the gas, making it possible to store a large amount of fuel in a small cylinder"],
+    "a": 3,
+    "sol": "Petroleum gases like butane and propane occupy much less volume as a liquid than as a gas. Compressing them under high pressure inside a cylinder converts them to a liquid (LPG), so a small cylinder can hold many days' worth of fuel."
+  },
+  {
+    "q": "A forensic scientist needs to identify whether a black ink mark on a document came from one pen or several pens mixed. Which technique should be used?",
+    "o": ["Distillation", "Filtration", "Crystallization", "Paper chromatography"],
+    "a": 3,
+    "sol": "Paper chromatography splits ink into its component dyes. If two pens have different dye recipes, their chromatograms will look different — letting forensic experts match or distinguish ink samples."
+  },
+  {
+    "q": "Our kidneys continuously remove waste from blood and form urine — a natural separation process inside the body. Which technique used in a chemistry lab is most similar to kidney function?",
+    "o": ["Crystallization", "Distillation", "Sublimation", "Filtration combined with selective absorption"],
+    "a": 3,
+    "sol": "Kidneys filter blood through tiny membranes, then selectively reabsorb water and useful substances back into the blood, sending wastes out as urine. This is similar to lab filtration paired with selective absorption."
+  },
+  {
+    "q": "A pure substance, by definition, has fixed composition and unique properties. Which of the following is a pure substance?",
+    "o": ["Sea water", "Air", "Distilled water", "Milk"],
+    "a": 2,
+    "sol": "Distilled water is pure H₂O — fixed composition, fixed boiling point (100°C), no impurities. Sea water (salts dissolved), air (gas mixture), and milk (colloid) are all mixtures with variable compositions."
+  },
+  {
+    "q": "Bronze, an alloy of copper and tin, is used for statues, bells, and medals because it is stronger and more durable than pure copper. What general property makes alloys preferred over pure metals for many uses?",
+    "o": ["Mixing metals creates a homogeneous mixture with improved strength, hardness, or corrosion resistance compared to pure metals", "Alloys are always lighter than pure metals", "Alloys melt at a much lower temperature than the metals they contain", "Alloys can only be made from non-metals"],
+    "a": 0,
+    "sol": "By dissolving one metal into another at the atomic level, alloys gain useful properties that pure metals lack — stainless steel resists rust, brass resists corrosion, bronze is harder than copper. This is why alloys are central to engineering."
+  },
+  {
+    "q": "Smoke from factories and vehicles disperses tiny solid particles into the air. This kind of mixture (solid dispersed in gas) is best classified as a:",
+    "o": ["true solution", "crystalline solid", "aerosol colloid", "filtrate"],
+    "a": 2,
+    "sol": "Smoke is a colloid where solid particles (carbon, soot, ash) are dispersed in gas (air). Such colloids are called aerosols. They show the Tyndall effect and are a major contributor to air pollution and reduced visibility."
+  }
+]
